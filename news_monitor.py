@@ -35,7 +35,7 @@ def load(path, fallback):
 
 def main():
     parser = argparse.ArgumentParser(description="Find new posts on official company newsrooms.")
-    parser.add_argument("--sources", type=Path, default=ROOT / "sources.json")
+    parser.add_argument("--sources", type=Path, default=ROOT / "sources_full.json")
     parser.add_argument("--state", type=Path, default=ROOT / "state.json")
     parser.add_argument("--bootstrap", action="store_true", help="Record current links but emit none.")
     parser.add_argument("--format", choices=("json", "markdown"), default="markdown")
