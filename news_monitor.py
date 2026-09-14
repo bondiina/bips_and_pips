@@ -10,7 +10,7 @@ import requests
 from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent
-DEFAULT_SOURCES = ROOT / "sources_full.json"
+DEFAULT_SOURCES = ROOT / "sources_verified.json"
 USER_AGENT = "OfficialNewsMonitor/1.0"
 IGNORE = ("/privacy", "/terms", "/login", "/contact", "/careers", "/products")
 
