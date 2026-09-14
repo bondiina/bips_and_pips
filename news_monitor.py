@@ -12,7 +12,46 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parent
 DEFAULT_SOURCES = ROOT / "sources_verified.json"
 USER_AGENT = "OfficialNewsMonitor/1.0"
-IGNORE = ("/privacy", "/terms", "/login", "/contact", "/careers", "/products")
+IGNORE = (
+    "/privacy",
+    "/terms",
+    "/login",
+    "/contact",
+    "/careers",
+    "/career",
+    "/jobs",
+    "/job",
+    "/products",
+    "/product/",
+    "/solutions",
+    "/solution",
+    "/integrations",
+    "/integration",
+    "/partners",
+    "/partner",
+    "/pricing",
+    "/signup",
+    "/register",
+    "/demo",
+    "/request-demo",
+    "/request-a-demo",
+    "/resources",
+    "/resource",
+    "/customer-stories",
+    "/customer-story",
+    "/case-studies",
+    "/case-study",
+    "/webinars",
+    "/webinar",
+    "/events",
+    "/event",
+    "/industries",
+    "/industry",
+    "/support",
+    "/help",
+    "/docs",
+    "/documentation",
+)
 
 def clean_url(url):
     url, _ = urldefrag(url)
@@ -25,8 +64,11 @@ def extract_links(html, source_url):
         title = " ".join(anchor.get_text(" ", strip=True).split())
         url = clean_url(urljoin(source_url, anchor["href"]))
         parsed, source = urlparse(url), urlparse(source_url)
-        if (parsed.netloc != source.netloc or url == clean_url(source_url) or url in found
-            or len(title) < 12 or any(part in parsed.path.lower() for part in IGNORE)
+        if ( parsed.netloc != source.netloc
+            or url == clean_url(source_url)
+            or url in found
+            or len(title) < 12
+            or any(part in parsed.path.lower() for part in IGNORE)
             or parsed.path.lower().endswith((".pdf", ".jpg", ".png"))):
             continue
         results.append({"title": title, "url": url})
