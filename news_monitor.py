@@ -51,7 +51,7 @@ def main():
     parser.add_argument("--bootstrap", action="store_true")
     parser.add_argument("--format", choices=("json", "markdown"), default="markdown")
     args = parser.parse_args()
-    sources = load(args.sources, [])
+    sources = [item for item in load(args.sources, []) if not item.get("verification", "").startswith("needs manual")]
     state = load(args.state, {"seen_urls": []})
     seen, new = set(state.get("seen_urls", [])), []
     with ThreadPoolExecutor(max_workers=12) as pool:
