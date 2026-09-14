@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
-"""Collect new links from the configured official fintech newsrooms."""
+"""Collect new official fintech news from the last 7 days."""
 
 from __future__ import annotations
 
-import argparse
-import json
-import logging
+import argparse, json, logging, re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -14,50 +12,22 @@ from urllib.parse import urljoin, urlparse, urldefrag
 import requests
 from bs4 import BeautifulSoup
 
-
 ROOT = Path(__file__).resolve().parent
 DEFAULT_SOURCES = ROOT / "sources_verified.json"
 USER_AGENT = "OfficialNewsMonitor/1.0"
 
 IGNORE = (
-    "/privacy",
-    "/terms",
-    "/login",
-    "/contact",
-    "/careers",
-    "/career",
-    "/jobs",
-    "/job",
-    "/products",
-    "/product/",
-    "/solutions",
-    "/solution",
-    "/integrations",
-    "/integration",
-    "/partners",
-    "/partner",
-    "/pricing",
-    "/signup",
-    "/register",
-    "/demo",
-    "/request-demo",
-    "/request-a-demo",
-    "/resources",
-    "/resource",
-    "/customer-stories",
-    "/customer-story",
-    "/case-studies",
-    "/case-study",
-    "/webinars",
-    "/webinar",
-    "/events",
-    "/event",
-    "/industries",
-    "/industry",
-    "/support",
-    "/help",
-    "/docs",
-    "/documentation",
+    "/privacy", "/terms", "/login", "/contact",
+    "/careers", "/career", "/jobs", "/job",
+    "/products", "/product/", "/solutions", "/solution",
+    "/integrations", "/integration", "/partners", "/partner",
+    "/pricing", "/signup", "/register", "/demo",
+    "/request-demo", "/request-a-demo",
+    "/resources", "/resource", "/customer-stories",
+    "/customer-story", "/case-studies", "/case-study",
+    "/webinars", "/webinar", "/events", "/event",
+    "/industries", "/industry", "/support", "/help",
+    "/docs", "/documentation",
 )
 
 
@@ -67,88 +37,89 @@ def clean_url(url):
     return parsed._replace(query="").geturl().rstrip("/")
 
 
-def get_date(url):
+def parse_date(value):
+    if not value:
+        return None
+
+    value = value.strip()
+
     try:
-        response = requests.get(
-            url,
-            headers={"User-Agent": USER_AGENT},
-            timeout=30,
-        )
-        response.raise_for_status()
-
-        soup = BeautifulSoup(
-            response.text,
-            "html.parser",
-        )
-
-        # Common publication-date locations
-        tag = (
-            soup.find(
-                "meta",
-                property="article:published_time",
-            )
-            or soup.find(
-                "meta",
-                attrs={"name": "date"},
-            )
-            or soup.find(
-                "meta",
-                attrs={"name": "datePublished"},
-            )
-            or soup.find(
-                "meta",
-                attrs={"itemprop": "datePublished"},
-            )
-            or soup.find(
-                "time",
-                datetime=True,
-            )
-        )
-
-        if not tag:
-            return None
-
-        value = (
-            tag.get("content")
-            or tag.get("datetime")
-        )
-
-        if not value:
-            return None
-
         return datetime.fromisoformat(
             value.replace("Z", "+00:00")
         )
+    except ValueError:
+        pass
 
-    except Exception:
-        return None
+    for fmt in (
+        "%B %d, %Y",
+        "%b %d, %Y",
+        "%d %B %Y",
+        "%d %b %Y",
+        "%Y-%m-%d",
+    ):
+        try:
+            return datetime.strptime(
+                value, fmt
+            ).replace(tzinfo=timezone.utc)
+        except ValueError:
+            pass
+
+    return None
+
+
+def extract_date(anchor):
+    """
+    Look for a publication date close to the article link.
+    """
+    parent = anchor
+
+    for _ in range(3):
+        if parent:
+            text = parent.get_text(" ", strip=True)
+
+            match = re.search(
+                r"\b(?:January|February|March|April|May|June|July|"
+                r"August|September|October|November|December)\s+\d{1,2},\s+\d{4}\b",
+                text,
+                re.I,
+            )
+
+            if match:
+                return parse_date(match.group())
+
+            match = re.search(
+                r"\b\d{1,2}\s+(?:January|February|March|April|May|"
+                r"June|July|August|September|October|November|December)\s+\d{4}\b",
+                text,
+                re.I,
+            )
+
+            if match:
+                return parse_date(match.group())
+
+            parent = parent.parent
+
+    return None
 
 
 def extract_links(html, source_url):
-    soup = BeautifulSoup(
-        html,
-        "html.parser",
-    )
-
+    soup = BeautifulSoup(html, "html.parser")
     results = []
     found = set()
 
-    for anchor in soup.find_all(
-        "a",
-        href=True,
-    ):
+    cutoff = (
+        datetime.now(timezone.utc)
+        - timedelta(days=7)
+    )
+
+    for anchor in soup.find_all("a", href=True):
+
         title = " ".join(
-            anchor.get_text(
-                " ",
-                strip=True,
-            ).split()
+            anchor.get_text(" ", strip=True).split()
         )
 
         url = clean_url(
-            urljoin(
-                source_url,
-                anchor["href"],
-            )
+            urljoin(source_url, anchor["href"])
         )
 
         parsed = urlparse(url)
@@ -164,24 +135,23 @@ def extract_links(html, source_url):
                 for part in IGNORE
             )
             or parsed.path.lower().endswith(
-                (
-                    ".pdf",
-                    ".jpg",
-                    ".jpeg",
-                    ".png",
-                    ".gif",
-                    ".svg",
-                )
+                (".pdf", ".jpg", ".jpeg", ".png", ".gif", ".svg")
             )
         ):
             continue
 
-        results.append(
-            {
-                "title": title,
-                "url": url,
-            }
-        )
+        published = extract_date(anchor)
+
+        # Only keep articles where we can see a recent date
+        # on the source/newsroom page.
+        if not published or published < cutoff:
+            continue
+
+        results.append({
+            "title": title,
+            "url": url,
+            "published": published.isoformat(),
+        })
 
         found.add(url)
 
@@ -190,11 +160,7 @@ def extract_links(html, source_url):
 
 def load(path, fallback):
     return (
-        json.loads(
-            path.read_text(
-                encoding="utf-8"
-            )
-        )
+        json.loads(path.read_text())
         if path.exists()
         else fallback
     )
@@ -204,40 +170,19 @@ def collect(source):
     try:
         response = requests.get(
             source["url"],
-            headers={
-                "User-Agent": USER_AGENT
-            },
+            headers={"User-Agent": USER_AGENT},
             timeout=30,
         )
-
         response.raise_for_status()
 
-        articles = []
-
-        cutoff = (
-            datetime.now(timezone.utc)
-            - timedelta(days=7)
+        return (
+            source,
+            extract_links(
+                response.text,
+                source["url"],
+            ),
+            None,
         )
-
-        for article in extract_links(
-            response.text,
-            source["url"],
-        ):
-            published = get_date(
-                article["url"]
-            )
-
-            if (
-                published
-                and published >= cutoff
-            ):
-                article["published"] = (
-                    published.isoformat()
-                )
-
-                articles.append(article)
-
-        return source, articles, None
 
     except requests.RequestException as error:
         return source, [], error
@@ -245,10 +190,7 @@ def collect(source):
 
 def main():
     parser = argparse.ArgumentParser(
-        description=(
-            "Find new official fintech news "
-            "from the last 7 days."
-        )
+        description="Find official fintech news from the last 7 days."
     )
 
     parser.add_argument(
@@ -270,10 +212,7 @@ def main():
 
     parser.add_argument(
         "--format",
-        choices=(
-            "json",
-            "markdown",
-        ),
+        choices=("json", "markdown"),
         default="markdown",
     )
 
@@ -281,28 +220,20 @@ def main():
 
     sources = [
         item
-        for item in load(
-            args.sources,
-            [],
-        )
+        for item in load(args.sources, [])
         if not item.get(
             "verification",
-            "",
+            ""
         ).startswith("needs manual")
     ]
 
     state = load(
         args.state,
-        {
-            "seen_urls": []
-        },
+        {"seen_urls": []},
     )
 
     seen = set(
-        state.get(
-            "seen_urls",
-            [],
-        )
+        state.get("seen_urls", [])
     )
 
     new = []
@@ -319,9 +250,8 @@ def main():
             for item in sources
         ]
 
-        for future in as_completed(
-            futures
-        ):
+        for future in as_completed(futures):
+
             source, articles, error = (
                 future.result()
             )
@@ -336,16 +266,14 @@ def main():
 
             for article in articles:
 
-                article.update(
-                    {
-                        key: source[key]
-                        for key in (
-                            "category",
-                            "subcategory",
-                            "company",
-                        )
-                    }
-                )
+                article.update({
+                    key: source[key]
+                    for key in (
+                        "category",
+                        "subcategory",
+                        "company",
+                    )
+                })
 
                 if article["url"] not in seen:
                     new.append(article)
@@ -361,20 +289,14 @@ def main():
             },
             indent=2,
         )
-        + "\n",
-        encoding="utf-8",
+        + "\n"
     )
 
     if args.bootstrap:
         return
 
     if args.format == "json":
-        print(
-            json.dumps(
-                new,
-                indent=2,
-            )
-        )
+        print(json.dumps(new, indent=2))
         return
 
     if not new:
@@ -385,8 +307,7 @@ def main():
         return
 
     print(
-        "# New official fintech news "
-        "— last 7 days\n"
+        "# New official fintech news — last 7 days\n"
     )
 
     groups = {}
@@ -403,9 +324,8 @@ def main():
     for (
         category,
         subcategory,
-    ), articles in sorted(
-        groups.items()
-    ):
+    ), articles in sorted(groups.items()):
+
         print(
             f"## {category}\n\n"
             f"### {subcategory}\n"
@@ -414,9 +334,11 @@ def main():
         for article in sorted(
             articles,
             key=lambda item: (
+                item["published"],
                 item["company"],
                 item["title"],
             ),
+            reverse=True,
         ):
             print(
                 f"- **{article['company']}**: "
