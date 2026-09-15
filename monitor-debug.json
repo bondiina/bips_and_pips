@@ -1,0 +1,4334 @@
+{
+  "run_at": "2026-09-15T19:07:19.724392+00:00",
+  "configured_sources": 600,
+  "successful_sources": 441,
+  "failed_sources": 159,
+  "zero_link_sources": 32,
+  "candidate_links_found": 22156,
+  "new_links_found": 7124,
+  "sources": [
+    {
+      "company": "10x Banking",
+      "configured_url": "https://www.10xbanking.com/news",
+      "final_url": "https://www.10xbanking.com/news",
+      "status": 200,
+      "html_bytes": 117296,
+      "links_found": 42
+    },
+    {
+      "company": "AccessOne",
+      "configured_url": "https://www.accessonehealth.com/news",
+      "error": "HTTPSConnectionPool(host='www.accessonehealth.com', port=443): Max retries exceeded with url: /news (Caused by NameResolutionError(\"HTTPSConnection(host='www.accessonehealth.com', port=443): Failed to resolve 'www.accessonehealth.com' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+      "company": "ACI Worldwide",
+      "configured_url": "https://www.aciworldwide.com/newsroom",
+      "final_url": "https://www.aciworldwide.com/newsroom",
+      "status": 200,
+      "html_bytes": 349276,
+      "links_found": 24
+    },
+    {
+      "company": "Acorns",
+      "configured_url": "https://www.acorns.com/press/",
+      "final_url": "https://www.acorns.com/press/",
+      "status": 200,
+      "html_bytes": 48086,
+      "links_found": 24
+    },
+    {
+      "company": "Acumatica",
+      "configured_url": "https://www.acumatica.com/corporate-newsroom/",
+      "final_url": "https://www.acumatica.com/corporate-newsroom/",
+      "status": 200,
+      "html_bytes": 288575,
+      "links_found": 211
+    },
+    {
+      "company": "Addepar",
+      "configured_url": "https://addepar.com/newsroom",
+      "final_url": "https://addepar.com/newsroom",
+      "status": 200,
+      "html_bytes": 480605,
+      "links_found": 32
+    },
+    {
+      "company": "Advisor360\u00b0",
+      "configured_url": "https://www.advisor360.com/press-releases",
+      "final_url": "https://www.advisor360.com/press-releases",
+      "status": 200,
+      "html_bytes": 246676,
+      "links_found": 85
+    },
+    {
+      "company": "Adyen",
+      "configured_url": "https://www.adyen.com/press-and-media",
+      "final_url": "https://www.adyen.com/press-and-media",
+      "status": 200,
+      "html_bytes": 567468,
+      "links_found": 16
+    },
+    {
+      "company": "Affirm",
+      "configured_url": "https://investors.affirm.com/news-events/newsroom",
+      "final_url": "https://investors.affirm.com/news-events/newsroom",
+      "status": 200,
+      "html_bytes": 95870,
+      "links_found": 35
+    },
+    {
+      "company": "Afterpay",
+      "configured_url": "https://www.afterpay.com/global/country-select",
+      "final_url": "https://www.afterpay.com/global/country-select",
+      "status": 200,
+      "html_bytes": 5638,
+      "links_found": 5
+    },
+    {
+      "company": "Agicap",
+      "configured_url": "https://www.agicap.com/news",
+      "error": "404 Client Error: Not Found for url: https://agicap.com/news"
+    },
+    {
+      "company": "Agrolend",
+      "configured_url": "https://www.agrolend.com/news",
+      "error": "HTTPSConnectionPool(host='www.agrolend.com', port=443): Max retries exceeded with url: /news (Caused by NameResolutionError(\"HTTPSConnection(host='www.agrolend.com', port=443): Failed to resolve 'www.agrolend.com' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+      "company": "Aiera",
+      "configured_url": "https://aiera.com/newsroom/",
+      "final_url": "https://aiera.com/newsroom/",
+      "status": 200,
+      "html_bytes": 661540,
+      "links_found": 21
+    },
+    {
+      "company": "Airbase",
+      "configured_url": "https://www.paylocity.com/company/about-us/newsroom/press-releases/",
+      "final_url": "https://www.paylocity.com/company/about-us/newsroom/press-releases/",
+      "status": 200,
+      "html_bytes": 1651,
+      "links_found": 0
+    },
+    {
+      "company": "Airwallex",
+      "configured_url": "https://www.airwallex.com/global/newsroom",
+      "final_url": "https://www.airwallex.com/global/newsroom",
+      "status": 200,
+      "html_bytes": 545685,
+      "links_found": 64
+    },
+    {
+      "company": "Akoya",
+      "configured_url": "https://akoya.com/news",
+      "final_url": "https://akoya.com/news",
+      "status": 200,
+      "html_bytes": 129705,
+      "links_found": 72
+    },
+    {
+      "company": "Alan",
+      "configured_url": "https://alan.com/news",
+      "final_url": "https://alan.com/news",
+      "status": 200,
+      "html_bytes": 18891,
+      "links_found": 0
+    },
+    {
+      "company": "Albert",
+      "configured_url": "https://albert.com/newsroom",
+      "final_url": "https://albert.com/newsroom",
+      "status": 200,
+      "html_bytes": 200570,
+      "links_found": 10
+    },
+    {
+      "company": "Albo",
+      "configured_url": "https://www.albo.mx/news",
+      "error": "404 Client Error: Not Found for url: https://www.albo.com/news"
+    },
+    {
+      "company": "Alchemy",
+      "configured_url": "https://www.alchemy.com/newsroom",
+      "final_url": "https://www.alchemy.com/newsroom",
+      "status": 200,
+      "html_bytes": 282579,
+      "links_found": 58
+    },
+    {
+      "company": "Alkami Technology",
+      "configured_url": "https://www.alkami.com/news/",
+      "final_url": "https://www.alkami.com/news/",
+      "status": 200,
+      "html_bytes": 337450,
+      "links_found": 88
+    },
+    {
+      "company": "Allica Bank",
+      "configured_url": "https://www.allica.bank/newsroom",
+      "final_url": "https://www.allica.bank/newsroom",
+      "status": 200,
+      "html_bytes": 135685,
+      "links_found": 41
+    },
+    {
+      "company": "Alloy",
+      "configured_url": "https://www.alloy.com/about/press",
+      "final_url": "https://www.alloy.com/about/press",
+      "status": 200,
+      "html_bytes": 221594,
+      "links_found": 29
+    },
+    {
+      "company": "Allvue",
+      "configured_url": "https://www.allvuesystems.com/news/",
+      "final_url": "https://www.allvuesystems.com/news/",
+      "status": 200,
+      "html_bytes": 113710,
+      "links_found": 29
+    },
+    {
+      "company": "Alma",
+      "configured_url": "https://almapay.com/fr-FR/presse",
+      "final_url": "https://almapay.com/fr-FR/presse",
+      "status": 200,
+      "html_bytes": 350968,
+      "links_found": 31
+    },
+    {
+      "company": "AlphaSense",
+      "configured_url": "https://www.alpha-sense.com/press/",
+      "final_url": "https://www.alpha-sense.com/press/",
+      "status": 200,
+      "html_bytes": 207273,
+      "links_found": 23
+    },
+    {
+      "company": "Altruist",
+      "configured_url": "https://altruist.com/",
+      "final_url": "https://altruist.com/",
+      "status": 200,
+      "html_bytes": 2501939,
+      "links_found": 36
+    },
+    {
+      "company": "American Express",
+      "configured_url": "https://www.americanexpress.com/en-us/newsroom/",
+      "final_url": "https://www.americanexpress.com/en-us/newsroom/",
+      "status": 200,
+      "html_bytes": 4260,
+      "links_found": 0
+    },
+    {
+      "company": "Amount",
+      "configured_url": "https://www.amount.com/news",
+      "final_url": "https://www.fisglobal.com/products/fis-origination-suite",
+      "status": 200,
+      "html_bytes": 406799,
+      "links_found": 24
+    },
+    {
+      "company": "Anchorage Digital",
+      "configured_url": "https://www.anchorage.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.anchorage.com/news"
+    },
+    {
+      "company": "Ant Group",
+      "configured_url": "https://www.antgroup.com/news",
+      "final_url": "https://www.antgroup.com/news",
+      "status": 200,
+      "html_bytes": 35900,
+      "links_found": 0
+    },
+    {
+      "company": "Apex Fintech Solutions",
+      "configured_url": "https://apexfintechsolutions.com/blog/",
+      "final_url": "https://apexfintechsolutions.com/blog/",
+      "status": 200,
+      "html_bytes": 544639,
+      "links_found": 51
+    },
+    {
+      "company": "AppZen",
+      "configured_url": "https://www.appzen.com/about-us",
+      "final_url": "https://www.appzen.com/about-us",
+      "status": 200,
+      "html_bytes": 113553,
+      "links_found": 39
+    },
+    {
+      "company": "Arc",
+      "configured_url": "https://www.joinarc.com/newsroom",
+      "final_url": "https://www.joinarc.com/newsroom",
+      "status": 200,
+      "html_bytes": 110887,
+      "links_found": 4
+    },
+    {
+      "company": "Arcesium",
+      "configured_url": "https://www.arcesium.com/news",
+      "error": "429 Client Error: Too Many Requests for url: https://www.arcesium.com/news"
+    },
+    {
+      "company": "Arch",
+      "configured_url": "https://www.arch.co/news",
+      "error": "404 Client Error: Not Found for url: https://www.arch.co/news"
+    },
+    {
+      "company": "AssetMark",
+      "configured_url": "https://www.assetmark.com/about/news/",
+      "final_url": "https://www.assetmark.com/about/news/",
+      "status": 200,
+      "html_bytes": 595104,
+      "links_found": 52
+    },
+    {
+      "company": "Atome",
+      "configured_url": "https://www.atomethis.com/news",
+      "error": "HTTPSConnectionPool(host='www.atomethis.com', port=443): Max retries exceeded with url: /news (Caused by NameResolutionError(\"HTTPSConnection(host='www.atomethis.com', port=443): Failed to resolve 'www.atomethis.com' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+      "company": "AU10TIX",
+      "configured_url": "https://www.au10tix.com/company/news/",
+      "final_url": "https://www.au10tix.com/company/news/",
+      "status": 200,
+      "html_bytes": 195073,
+      "links_found": 41
+    },
+    {
+      "company": "Avalara",
+      "configured_url": "https://www.avalara.com/blog/en/north-america.html",
+      "final_url": "https://www.avalara.com/blog/en/north-america.html",
+      "status": 200,
+      "html_bytes": 610377,
+      "links_found": 266
+    },
+    {
+      "company": "Avant",
+      "configured_url": "https://www.avant.com/press",
+      "final_url": "https://www.avant.com/press",
+      "status": 200,
+      "html_bytes": 877785,
+      "links_found": 23
+    },
+    {
+      "company": "Backbase",
+      "configured_url": "https://www.backbase.com/press",
+      "final_url": "https://www.backbase.com/press",
+      "status": 200,
+      "html_bytes": 531474,
+      "links_found": 81
+    },
+    {
+      "company": "Balance",
+      "configured_url": "https://www.balanceplatform.io/news",
+      "error": "HTTPSConnectionPool(host='www.balanceplatform.io', port=443): Max retries exceeded with url: /news (Caused by NameResolutionError(\"HTTPSConnection(host='www.balanceplatform.io', port=443): Failed to resolve 'www.balanceplatform.io' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+      "company": "Banco Inter / Inter&Co",
+      "configured_url": "https://www.inter.co/news",
+      "final_url": "https://www.inter.co/news",
+      "status": 200,
+      "html_bytes": 554916,
+      "links_found": 1
+    },
+    {
+      "company": "Bankrate",
+      "configured_url": "https://www.bankrate.com/news/",
+      "final_url": "https://www.bankrate.com/news/",
+      "status": 200,
+      "html_bytes": 1132541,
+      "links_found": 173
+    },
+    {
+      "company": "Baraka",
+      "configured_url": "https://www.getbaraka.com/news",
+      "final_url": "https://www.getbaraka.com/news",
+      "status": 200,
+      "html_bytes": 75486,
+      "links_found": 41
+    },
+    {
+      "company": "Basiq",
+      "configured_url": "https://www.basiq.io/blog/",
+      "final_url": "https://www.basiq.io/blog/",
+      "status": 200,
+      "html_bytes": 58412,
+      "links_found": 21
+    },
+    {
+      "company": "Basware",
+      "configured_url": "https://blog.basware.com/en",
+      "final_url": "https://blog.basware.com/en",
+      "status": 200,
+      "html_bytes": 138481,
+      "links_found": 181
+    },
+    {
+      "company": "Beacon Platform",
+      "configured_url": "https://www.beaconplatform.com/news",
+      "final_url": "https://www.beaconplatform.com/news",
+      "status": 200,
+      "html_bytes": 114,
+      "links_found": 0
+    },
+    {
+      "company": "Bestow",
+      "configured_url": "https://www.bestow.com/newsroom",
+      "final_url": "https://www.bestow.com/newsroom",
+      "status": 200,
+      "html_bytes": 170137,
+      "links_found": 23
+    },
+    {
+      "company": "Betterment",
+      "configured_url": "https://www.betterment.com/?utm_campaign=LegacyAffiliate&offer_campaign_id=b8824f3a-118d-4fc5-926b-1fe108e77938",
+      "final_url": "https://www.betterment.com/?utm_campaign=LegacyAffiliate&offer_campaign_id=b8824f3a-118d-4fc5-926b-1fe108e77938",
+      "status": 200,
+      "html_bytes": 376087,
+      "links_found": 57
+    },
+    {
+      "company": "BharatPe",
+      "configured_url": "https://www.bharatpe.com/news",
+      "final_url": "https://www.bharatpe.com/news",
+      "status": 200,
+      "html_bytes": 113535,
+      "links_found": 31
+    },
+    {
+      "company": "BILL",
+      "configured_url": "https://www.bill.com/newsroom",
+      "final_url": "https://www.bill.com/newsroom",
+      "status": 200,
+      "html_bytes": 409787,
+      "links_found": 47
+    },
+    {
+      "company": "Billd",
+      "configured_url": "https://billd.com/press/",
+      "final_url": "https://billd.com/press/",
+      "status": 200,
+      "html_bytes": 383514,
+      "links_found": 73
+    },
+    {
+      "company": "Billie",
+      "configured_url": "https://www.billie.io/ressourcen",
+      "final_url": "https://www.billie.io/ressourcen",
+      "status": 200,
+      "html_bytes": 179663,
+      "links_found": 32
+    },
+    {
+      "company": "Billtrust",
+      "configured_url": "https://www.billtrust.com/news",
+      "final_url": "https://www.billtrust.com/news",
+      "status": 200,
+      "html_bytes": 471732,
+      "links_found": 31
+    },
+    {
+      "company": "Bilt",
+      "configured_url": "https://www.bilt.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.bilt.com/news"
+    },
+    {
+      "company": "Binance",
+      "configured_url": "https://www.binance.com/news",
+      "final_url": "https://www.binance.com/news",
+      "status": 202,
+      "html_bytes": 2117,
+      "links_found": 0
+    },
+    {
+      "company": "Bippit",
+      "configured_url": "https://bippit.com/press",
+      "final_url": "https://bippit.com/press",
+      "status": 200,
+      "html_bytes": 153338,
+      "links_found": 16
+    },
+    {
+      "company": "BitGo",
+      "configured_url": "https://www.bitgo.com/press",
+      "final_url": "https://www.bitgo.com/press",
+      "status": 200,
+      "html_bytes": 161191,
+      "links_found": 23
+    },
+    {
+      "company": "Bitstamp",
+      "configured_url": "https://www.bitstamp.net/news",
+      "final_url": "https://www.bitstamp.net/news",
+      "status": 200,
+      "html_bytes": 212,
+      "links_found": 0
+    },
+    {
+      "company": "BlackLine",
+      "configured_url": "https://www.blackline.com/blog/",
+      "final_url": "https://www.blackline.com/blog/",
+      "status": 200,
+      "html_bytes": 2630836,
+      "links_found": 34
+    },
+    {
+      "company": "BlackRock / Aladdin",
+      "configured_url": "https://www.blackrock.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.blackrock.com/corporate/en-us/404-not-found"
+    },
+    {
+      "company": "Block",
+      "configured_url": "https://block.xyz/news",
+      "final_url": "https://block.xyz/news",
+      "status": 200,
+      "html_bytes": 945348,
+      "links_found": 8
+    },
+    {
+      "company": "Bloomberg",
+      "configured_url": "https://www.bloomberg.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.bloomberg.com/news"
+    },
+    {
+      "company": "BlueFlame AI",
+      "configured_url": "https://blueflame.ai/news",
+      "final_url": "https://blueflame.ai/news",
+      "status": 200,
+      "html_bytes": 193159,
+      "links_found": 26
+    },
+    {
+      "company": "Bottomline",
+      "configured_url": "https://www.bottomline.com/newsroom",
+      "final_url": "https://www.bottomline.com/newsroom",
+      "status": 200,
+      "html_bytes": 22574,
+      "links_found": 6
+    },
+    {
+      "company": "BPC",
+      "configured_url": "https://www.bpcbt.com/blog",
+      "final_url": "https://www.bpcbt.com/blog",
+      "status": 200,
+      "html_bytes": 148298,
+      "links_found": 93
+    },
+    {
+      "company": "Branch",
+      "configured_url": "https://www.branch.co/news",
+      "final_url": "https://www.branch.co/news",
+      "status": 200,
+      "html_bytes": 110062,
+      "links_found": 8
+    },
+    {
+      "company": "Brex",
+      "configured_url": "https://www.brex.com/journal/press",
+      "final_url": "https://www.brex.com/journal/press",
+      "status": 200,
+      "html_bytes": 1133258,
+      "links_found": 20
+    },
+    {
+      "company": "Brigit",
+      "configured_url": "https://www.hellobrigit.com/press",
+      "final_url": "https://www.hellobrigit.com/press",
+      "status": 200,
+      "html_bytes": 277746,
+      "links_found": 14
+    },
+    {
+      "company": "Broadridge",
+      "configured_url": "https://www.broadridge.com/news",
+      "error": "404 Client Error:  for url: https://www.broadridge.com/news"
+    },
+    {
+      "company": "Bud Financial",
+      "configured_url": "https://www.bud.co/news",
+      "error": "HTTPSConnectionPool(host='www.bud.co', port=443): Max retries exceeded with url: /news (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bud.co', port=443) at 0x7f3f50dee570>, 'Connection to www.bud.co timed out. (connect timeout=30)'))"
+    },
+    {
+      "company": "Built",
+      "configured_url": "https://getbuilt.com/news/",
+      "final_url": "https://getbuilt.com/news/",
+      "status": 200,
+      "html_bytes": 942844,
+      "links_found": 41
+    },
+    {
+      "company": "Bullish",
+      "configured_url": "https://www.bullish.com/press",
+      "final_url": "https://www.bullish.com/us/press",
+      "status": 200,
+      "html_bytes": 72049,
+      "links_found": 28
+    },
+    {
+      "company": "bunq",
+      "configured_url": "https://press.bunq.com",
+      "final_url": "https://press.bunq.com/",
+      "status": 200,
+      "html_bytes": 162028,
+      "links_found": 50
+    },
+    {
+      "company": "C6 Bank",
+      "configured_url": "https://www.c6bank.com.br/news",
+      "error": "403 Client Error: Forbidden for url: https://www.c6bank.com.br/news"
+    },
+    {
+      "company": "CAIS",
+      "configured_url": "https://www.caisgroup.com/our-company/press",
+      "final_url": "https://www.caisgroup.com/our-company/press",
+      "status": 200,
+      "html_bytes": 372907,
+      "links_found": 112
+    },
+    {
+      "company": "Calcbench",
+      "configured_url": "https://www.calcbench.com/blog",
+      "final_url": "https://www.calcbench.com/blog",
+      "status": 200,
+      "html_bytes": 500186,
+      "links_found": 30
+    },
+    {
+      "company": "Canoe Intelligence",
+      "configured_url": "https://canoeintelligence.com/resources/",
+      "final_url": "https://canoeintelligence.com/resources/",
+      "status": 200,
+      "html_bytes": 841880,
+      "links_found": 59
+    },
+    {
+      "company": "Capchase",
+      "configured_url": "https://www.capchase.com/news",
+      "final_url": "https://www.capchase.com/news",
+      "status": 200,
+      "html_bytes": 88852,
+      "links_found": 18
+    },
+    {
+      "company": "Cash App",
+      "configured_url": "https://cash.app/press",
+      "final_url": "https://cash.app/press",
+      "status": 200,
+      "html_bytes": 89888,
+      "links_found": 31
+    },
+    {
+      "company": "CashAnalytics",
+      "configured_url": "https://www.cashanalytics.com/news",
+      "error": "HTTPSConnectionPool(host='www.cashanalytics.com', port=443): Max retries exceeded with url: /news (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cashanalytics.com', port=443) at 0x7f3f60ddffe0>, 'Connection to www.cashanalytics.com timed out. (connect timeout=30)'))"
+    },
+    {
+      "company": "Cashfree Payments",
+      "configured_url": "https://www.cashfree.com/blog/",
+      "final_url": "https://www.cashfree.com/blog/",
+      "status": 200,
+      "html_bytes": 378244,
+      "links_found": 90
+    },
+    {
+      "company": "CB Insights",
+      "configured_url": "https://www.cbinsights.com/research/",
+      "final_url": "https://www.cbinsights.com/research/",
+      "status": 200,
+      "html_bytes": 118815,
+      "links_found": 60
+    },
+    {
+      "company": "Cboe Global Markets",
+      "configured_url": "https://www.cboe.com/insights/",
+      "final_url": "https://www.cboe.com/insights/",
+      "status": 200,
+      "html_bytes": 438399,
+      "links_found": 87
+    },
+    {
+      "company": "Cedar",
+      "configured_url": "https://www.cedar.com/press",
+      "final_url": "https://www.cedar.com/press",
+      "status": 200,
+      "html_bytes": 231443,
+      "links_found": 46
+    },
+    {
+      "company": "Chainalysis",
+      "configured_url": "https://www.chainalysis.com/press/",
+      "final_url": "https://www.chainalysis.com/press/",
+      "status": 200,
+      "html_bytes": 325346,
+      "links_found": 45
+    },
+    {
+      "company": "ChargeAfter",
+      "configured_url": "https://chargeafter.com/news-and-press/",
+      "final_url": "https://chargeafter.com/news-and-press/",
+      "status": 200,
+      "html_bytes": 122925,
+      "links_found": 38
+    },
+    {
+      "company": "Charles River Development",
+      "configured_url": "https://www.crd.com/news/press-releases",
+      "final_url": "https://www.crd.com/news/press-releases",
+      "status": 200,
+      "html_bytes": 183212,
+      "links_found": 44
+    },
+    {
+      "company": "Charles Schwab",
+      "configured_url": "https://content.schwab.com/web/retail/public/corporatesponsorships/golf-offer.html?cmp=van-YKK",
+      "error": "403 Client Error: Forbidden for url: https://content.schwab.com/web/retail/public/corporatesponsorships/golf-offer.html?cmp=van-YKK"
+    },
+    {
+      "company": "CHECK24",
+      "configured_url": "https://www.check24.de/news",
+      "error": "404 Client Error: Not Found for url: https://www.check24.de/news/"
+    },
+    {
+      "company": "Checkout.com",
+      "configured_url": "https://www.checkout.com/newsroom",
+      "final_url": "https://www.checkout.com/newsroom",
+      "status": 200,
+      "html_bytes": 409790,
+      "links_found": 165
+    },
+    {
+      "company": "Chime",
+      "configured_url": "https://www.chime.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.chime.com/news"
+    },
+    {
+      "company": "Circle",
+      "configured_url": "https://www.circle.com/blog",
+      "final_url": "https://www.circle.com/blog",
+      "status": 200,
+      "html_bytes": 293998,
+      "links_found": 67
+    },
+    {
+      "company": "Civica",
+      "configured_url": "https://www.civica.com/en-gb/news/",
+      "final_url": "https://www.civica.com/en-gb/news/",
+      "status": 200,
+      "html_bytes": 37632,
+      "links_found": 34
+    },
+    {
+      "company": "Clair",
+      "configured_url": "https://www.getclair.com/news",
+      "error": "404 Client Error: Not Found for url: https://getclair.com/news"
+    },
+    {
+      "company": "Clara",
+      "configured_url": "https://www.clara.com/blog",
+      "final_url": "https://www.clara.com/blog",
+      "status": 200,
+      "html_bytes": 257353,
+      "links_found": 48
+    },
+    {
+      "company": "Clark",
+      "configured_url": "https://www.clark.de/newsroom/",
+      "final_url": "https://www.clark.de/newsroom/",
+      "status": 200,
+      "html_bytes": 98523,
+      "links_found": 63
+    },
+    {
+      "company": "Clausematch",
+      "configured_url": "https://www.corlytics.com/news/",
+      "final_url": "https://www.corlytics.com/news/",
+      "status": 200,
+      "html_bytes": 262491,
+      "links_found": 35
+    },
+    {
+      "company": "ClearBank",
+      "configured_url": "https://www.clear.bank/news",
+      "error": "404 Client Error: Not Found for url: https://clear.bank/index.php?p=news"
+    },
+    {
+      "company": "Clearcover",
+      "configured_url": "https://www.clearcover.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.clearcover.com/news"
+    },
+    {
+      "company": "Clearwater Analytics",
+      "configured_url": "https://cwan.com/company/newsroom/",
+      "final_url": "https://cwan.com/company/newsroom/",
+      "status": 200,
+      "html_bytes": 119055,
+      "links_found": 41
+    },
+    {
+      "company": "Cleo",
+      "configured_url": "https://www.meetcleo.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.meetcleo.com/news"
+    },
+    {
+      "company": "Clio",
+      "configured_url": "https://www.clio.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.clio.com/news"
+    },
+    {
+      "company": "Clip",
+      "configured_url": "https://blog.clip.mx/",
+      "final_url": "https://blog.clip.mx/",
+      "status": 200,
+      "html_bytes": 115788,
+      "links_found": 26
+    },
+    {
+      "company": "CME Group",
+      "configured_url": "https://www.cmegroup.com/news",
+      "error": "HTTPSConnectionPool(host='www.cmegroup.com', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+      "company": "Coalition",
+      "configured_url": "https://www.coalitioninc.com/newsroom",
+      "final_url": "https://www.coalitioninc.com/newsroom",
+      "status": 200,
+      "html_bytes": 437958,
+      "links_found": 41
+    },
+    {
+      "company": "Cobase",
+      "configured_url": "https://www.cobase.com/news",
+      "final_url": "https://www.cobase.com/news",
+      "status": 200,
+      "html_bytes": 194017,
+      "links_found": 52
+    },
+    {
+      "company": "Coinbase",
+      "configured_url": "https://www.coinbase.com/news",
+      "final_url": "https://www.coinbase.com/",
+      "status": 200,
+      "html_bytes": 419333,
+      "links_found": 73
+    },
+    {
+      "company": "Column",
+      "configured_url": "https://column.com/press",
+      "final_url": "https://column.com/press",
+      "status": 200,
+      "html_bytes": 273667,
+      "links_found": 20
+    },
+    {
+      "company": "Comarch",
+      "configured_url": "https://www.comarch.com/news",
+      "error": "404 Client Error: Not found for url: https://www.comarch.com/news/"
+    },
+    {
+      "company": "Comparethemarket",
+      "configured_url": "https://www.comparethemarket.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.comparethemarket.com/news"
+    },
+    {
+      "company": "Compass Plus",
+      "configured_url": "https://www.compassplus.com/news",
+      "error": "404 Client Error: Not Found for url: https://compassplustechnologies.com/news"
+    },
+    {
+      "company": "ComplyAdvantage",
+      "configured_url": "https://www.complyadvantage.com/news",
+      "error": "404 Client Error: Not Found for url: https://complyadvantage.com/news"
+    },
+    {
+      "company": "ComplyCube",
+      "configured_url": "https://www.complycube.com/en/company/press/",
+      "final_url": "https://www.complycube.com/en/company/press/",
+      "status": 200,
+      "html_bytes": 537057,
+      "links_found": 44
+    },
+    {
+      "company": "Computer Services, Inc. (CSI)",
+      "configured_url": "https://www.csiweb.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.csiweb.com/news"
+    },
+    {
+      "company": "ConsenSys",
+      "configured_url": "https://consensys.io/blog/press-release",
+      "final_url": "https://consensys.io/blog/press-release",
+      "status": 200,
+      "html_bytes": 900339,
+      "links_found": 27
+    },
+    {
+      "company": "Copilot Money",
+      "configured_url": "https://www.copilot.money/news",
+      "error": "404 Client Error: Not Found for url: https://www.copilot.money/news"
+    },
+    {
+      "company": "Copper",
+      "configured_url": "https://www.copper.co/news",
+      "error": "404 Client Error: Not Found for url: https://copper.co/en-us/news"
+    },
+    {
+      "company": "Corlytics",
+      "configured_url": "https://www.corlytics.com/news/",
+      "final_url": "https://www.corlytics.com/news/",
+      "status": 200,
+      "html_bytes": 262491,
+      "links_found": 35
+    },
+    {
+      "company": "Corvus Insurance",
+      "configured_url": "https://www.corvusinsurance.com:443/pressroom",
+      "final_url": "https://www.corvusinsurance.com:443/pressroom",
+      "status": 200,
+      "html_bytes": 174057,
+      "links_found": 96
+    },
+    {
+      "company": "Coupa Treasury",
+      "configured_url": "https://www.coupa.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.coupa.com/news"
+    },
+    {
+      "company": "Crassula",
+      "configured_url": "https://crassula.io/blog/",
+      "final_url": "https://crassula.io/blog/",
+      "status": 200,
+      "html_bytes": 830853,
+      "links_found": 36
+    },
+    {
+      "company": "CRED",
+      "configured_url": "https://www.cred.club/news",
+      "error": "404 Client Error: Not Found for url: https://cred.club/news"
+    },
+    {
+      "company": "Credit Karma",
+      "configured_url": "https://www.creditkarma.com/Error_Credit_Karma.htm?referenceerror=18.13901002.1789424327.3b84433d",
+      "final_url": "https://www.creditkarma.com/Error_Credit_Karma.htm?referenceerror=18.13901002.1789424327.3b84433d",
+      "status": 200,
+      "html_bytes": 102719,
+      "links_found": 38
+    },
+    {
+      "company": "Creditas",
+      "configured_url": "https://www.creditas.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.creditas.com/news"
+    },
+    {
+      "company": "Creditinfo",
+      "configured_url": "https://www.creditinfo.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.creditinfo.com/news"
+    },
+    {
+      "company": "CredoLab",
+      "configured_url": "https://www.credolab.com/news",
+      "final_url": "https://www.credolab.com/news",
+      "status": 200,
+      "html_bytes": 223302,
+      "links_found": 23
+    },
+    {
+      "company": "CRIF",
+      "configured_url": "https://www.crif.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.crif.com/news"
+    },
+    {
+      "company": "Cross River",
+      "configured_url": "https://www.crossriver.com/newsroom",
+      "final_url": "https://www.crossriver.com/newsroom",
+      "status": 200,
+      "html_bytes": 107090,
+      "links_found": 39
+    },
+    {
+      "company": "Crunchbase",
+      "configured_url": "https://www.crunchbase.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.crunchbase.com/news"
+    },
+    {
+      "company": "Cumberland DRW",
+      "configured_url": "https://www.cumberland.io/news",
+      "final_url": "https://www.cumberland.io/news",
+      "status": 200,
+      "html_bytes": 40154,
+      "links_found": 19
+    },
+    {
+      "company": "Currencycloud",
+      "configured_url": "https://www.currencycloud.com/news",
+      "final_url": "https://www.currencycloud.com/news",
+      "status": 200,
+      "html_bytes": 12807,
+      "links_found": 0
+    },
+    {
+      "company": "Current",
+      "configured_url": "https://current.com/press/",
+      "final_url": "https://current.com/press/",
+      "status": 200,
+      "html_bytes": 56307,
+      "links_found": 13
+    },
+    {
+      "company": "DailyPay",
+      "configured_url": "https://www.dailypay.com/press-center/",
+      "final_url": "https://www.dailypay.com/press-center/",
+      "status": 200,
+      "html_bytes": 200528,
+      "links_found": 53
+    },
+    {
+      "company": "Daloopa",
+      "configured_url": "https://www.daloopa.com/blog",
+      "final_url": "https://www.daloopa.com/blog",
+      "status": 200,
+      "html_bytes": 189860,
+      "links_found": 29
+    },
+    {
+      "company": "Data Zoo",
+      "configured_url": "https://datazoo.com/blog",
+      "final_url": "https://datazoo.com/blog",
+      "status": 200,
+      "html_bytes": 101535,
+      "links_found": 28
+    },
+    {
+      "company": "Dataminr",
+      "configured_url": "https://www.dataminr.com/products/dataminr-for-news/",
+      "final_url": "https://www.dataminr.com/products/dataminr-for-news/",
+      "status": 200,
+      "html_bytes": 161768,
+      "links_found": 46
+    },
+    {
+      "company": "Datarails",
+      "configured_url": "https://www.datarails.com/blog/",
+      "final_url": "https://www.datarails.com/blog/",
+      "status": 200,
+      "html_bytes": 618455,
+      "links_found": 117
+    },
+    {
+      "company": "Dave",
+      "configured_url": "https://dave.com/press",
+      "final_url": "https://dave.com/press",
+      "status": 200,
+      "html_bytes": 259188,
+      "links_found": 17
+    },
+    {
+      "company": "Decentro",
+      "configured_url": "https://decentro.tech/blog/",
+      "final_url": "https://decentro.tech/blog/",
+      "status": 200,
+      "html_bytes": 135901,
+      "links_found": 20
+    },
+    {
+      "company": "Deel",
+      "configured_url": "https://www.deel.com/press/",
+      "final_url": "https://www.deel.com/press/",
+      "status": 200,
+      "html_bytes": 644175,
+      "links_found": 24
+    },
+    {
+      "company": "DEGIRO",
+      "configured_url": "https://www.degiro.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.degiro.com/news"
+    },
+    {
+      "company": "Dext",
+      "configured_url": "https://dext.com/uk/news",
+      "final_url": "https://dext.com/uk/news",
+      "status": 200,
+      "html_bytes": 211764,
+      "links_found": 28
+    },
+    {
+      "company": "Didit",
+      "configured_url": "https://didit.me/blog/",
+      "final_url": "https://didit.me/blog/",
+      "status": 200,
+      "html_bytes": 296263,
+      "links_found": 23
+    },
+    {
+      "company": "Diebold Nixdorf",
+      "configured_url": "https://www.dieboldnixdorf.com/news",
+      "final_url": "https://www.dieboldnixdorf.com/news/",
+      "status": 200,
+      "html_bytes": 26358,
+      "links_found": 23
+    },
+    {
+      "company": "Discover Financial Services",
+      "configured_url": "https://www.discover.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.discover.com/news"
+    },
+    {
+      "company": "dLocal",
+      "configured_url": "https://www.dlocal.com/press-releases/",
+      "final_url": "https://www.dlocal.com/press-releases/",
+      "status": 200,
+      "html_bytes": 384958,
+      "links_found": 219
+    },
+    {
+      "company": "DriveWealth",
+      "configured_url": "https://www.drivewealth.com/insights/news/",
+      "final_url": "https://www.drivewealth.com/insights/news/",
+      "status": 200,
+      "html_bytes": 320518,
+      "links_found": 37
+    },
+    {
+      "company": "Dun & Bradstreet",
+      "configured_url": "https://www.dnb.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.dnb.com/news"
+    },
+    {
+      "company": "Dynamo Software",
+      "configured_url": "https://www.dynamosoftware.com/news",
+      "final_url": "https://www.dynamosoftware.com/news",
+      "status": 202,
+      "html_bytes": 534,
+      "links_found": 0
+    },
+    {
+      "company": "EarnIn",
+      "configured_url": "https://www.earnin.com/",
+      "final_url": "https://www.earnin.com/",
+      "status": 200,
+      "html_bytes": 387006,
+      "links_found": 22
+    },
+    {
+      "company": "EBANX",
+      "configured_url": "https://www.ebanx.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.ebanx.com/en/news/"
+    },
+    {
+      "company": "Elliptic",
+      "configured_url": "https://www.elliptic.co/newsroom/",
+      "final_url": "https://www.elliptic.co/newsroom/",
+      "status": 200,
+      "html_bytes": 296989,
+      "links_found": 31
+    },
+    {
+      "company": "Embat",
+      "configured_url": "https://www.embat.io/news",
+      "final_url": "https://www.embat.io/news",
+      "status": 200,
+      "html_bytes": 204872,
+      "links_found": 32
+    },
+    {
+      "company": "eMoney Advisor",
+      "configured_url": "https://emoneyadvisor.com/resources/news/",
+      "final_url": "https://emoneyadvisor.com/resources/news/",
+      "status": 200,
+      "html_bytes": 74743,
+      "links_found": 24
+    },
+    {
+      "company": "Enfuce",
+      "configured_url": "https://enfuce.com/who-we-are/newsroom",
+      "final_url": "https://enfuce.com/who-we-are/newsroom",
+      "status": 200,
+      "html_bytes": 62668,
+      "links_found": 47
+    },
+    {
+      "company": "Enfusion",
+      "configured_url": "https://cwan.com/company/newsroom/",
+      "final_url": "https://cwan.com/company/newsroom/",
+      "status": 200,
+      "html_bytes": 119055,
+      "links_found": 41
+    },
+    {
+      "company": "Engine by Starling",
+      "configured_url": "https://enginebystarling.com/newsroom/",
+      "final_url": "https://enginebystarling.com/newsroom/",
+      "status": 200,
+      "html_bytes": 180759,
+      "links_found": 20
+    },
+    {
+      "company": "Entrust",
+      "configured_url": "https://www.entrust.com/company/newsroom",
+      "error": "403 Client Error: Forbidden for url: https://www.entrust.com/company/newsroom"
+    },
+    {
+      "company": "Entrust Payments HSM",
+      "configured_url": "https://www.entrust.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.entrust.com/news"
+    },
+    {
+      "company": "Envestnet",
+      "configured_url": "https://www.envestnet.com:443/newsroom",
+      "error": "403 Client Error: Forbidden for url: https://www.envestnet.com:443/newsroom"
+    },
+    {
+      "company": "Episode Six",
+      "configured_url": "https://episodesix.com/newsroom",
+      "final_url": "https://episodesix.com/newsroom",
+      "status": 200,
+      "html_bytes": 98832,
+      "links_found": 20
+    },
+    {
+      "company": "Equifax",
+      "configured_url": "https://www.equifax.com/newsroom",
+      "final_url": "https://www.equifax.com/newsroom",
+      "status": 200,
+      "html_bytes": 223116,
+      "links_found": 62
+    },
+    {
+      "company": "ERGO NEXT Insurance",
+      "configured_url": "https://www.nextinsurance.com/newsroom/",
+      "final_url": "https://www.nextinsurance.com/newsroom/",
+      "status": 200,
+      "html_bytes": 289094,
+      "links_found": 61
+    },
+    {
+      "company": "Ethos",
+      "configured_url": "https://www.ethos.com/?utm_source=sxm&utm_medium=radio&utm_campaign=news",
+      "final_url": "https://www.ethos.com/?utm_source=sxm&utm_medium=radio&utm_campaign=news",
+      "status": 200,
+      "html_bytes": 424168,
+      "links_found": 46
+    },
+    {
+      "company": "eToro",
+      "configured_url": "https://www.etoro.com/news-and-analysis/",
+      "final_url": "https://www.etoro.com/news-and-analysis/",
+      "status": 200,
+      "html_bytes": 273839,
+      "links_found": 107
+    },
+    {
+      "company": "Euronet",
+      "configured_url": "https://www.euronetworldwide.com/news",
+      "error": "404 Client Error: Not Found for url: http://www.euronet.com/news"
+    },
+    {
+      "company": "Even",
+      "configured_url": "https://www.onepay.com/atwork",
+      "final_url": "https://www.onepay.com/atwork",
+      "status": 200,
+      "html_bytes": 508666,
+      "links_found": 30
+    },
+    {
+      "company": "Experian",
+      "configured_url": "https://www.experian.com/business-information/",
+      "final_url": "https://www.experian.com/business-information/",
+      "status": 200,
+      "html_bytes": 158713,
+      "links_found": 65
+    },
+    {
+      "company": "FactSet",
+      "configured_url": "https://www.factset.com/news",
+      "final_url": "https://www.factset.com/news",
+      "status": 200,
+      "html_bytes": 6149,
+      "links_found": 0
+    },
+    {
+      "company": "FairMoney",
+      "configured_url": "https://fairmoney.io/news",
+      "final_url": "https://fairmoney.io/news",
+      "status": 200,
+      "html_bytes": 7023,
+      "links_found": 19
+    },
+    {
+      "company": "FalconX",
+      "configured_url": "https://www.falconx.io/newsroom",
+      "final_url": "https://www.falconx.io/newsroom",
+      "status": 200,
+      "html_bytes": 60991,
+      "links_found": 27
+    },
+    {
+      "company": "Fawry",
+      "configured_url": "https://www.fawry.com/news",
+      "final_url": "https://www.fawry.com/about/news/",
+      "status": 200,
+      "html_bytes": 217512,
+      "links_found": 114
+    },
+    {
+      "company": "Featurespace",
+      "configured_url": "https://www.featurespace.com/news",
+      "final_url": "https://www.featurespace.com/news",
+      "status": 200,
+      "html_bytes": 14597,
+      "links_found": 0
+    },
+    {
+      "company": "Feedzai",
+      "configured_url": "https://www.feedzai.com/in-the-news/",
+      "final_url": "https://www.feedzai.com/in-the-news/",
+      "status": 200,
+      "html_bytes": 127299,
+      "links_found": 49
+    },
+    {
+      "company": "Fenergo",
+      "configured_url": "https://www.fenergo.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.fenergo.com/news"
+    },
+    {
+      "company": "Fennech Financial",
+      "configured_url": "https://www.fennech.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.fennech.com/news"
+    },
+    {
+      "company": "Fi",
+      "configured_url": "https://fi.money:443/news",
+      "final_url": "https://fi.money:443/news",
+      "status": 200,
+      "html_bytes": 116107,
+      "links_found": 2
+    },
+    {
+      "company": "FICO",
+      "configured_url": "https://www.fico.com/en/newsroom",
+      "final_url": "https://www.fico.com/en/newsroom",
+      "status": 200,
+      "html_bytes": 212,
+      "links_found": 0
+    },
+    {
+      "company": "Fidel API",
+      "configured_url": "https://fidelapi.com:443/press",
+      "final_url": "https://fidelapi.com:443/press",
+      "status": 200,
+      "html_bytes": 35275,
+      "links_found": 8
+    },
+    {
+      "company": "Fidelity",
+      "configured_url": "https://www.fidelity.com/news",
+      "final_url": "https://www.fidelity.com/news/",
+      "status": 200,
+      "html_bytes": 279218,
+      "links_found": 72
+    },
+    {
+      "company": "Finastra",
+      "configured_url": "https://www.finastra.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.finastra.com/news"
+    },
+    {
+      "company": "Finicity",
+      "configured_url": "https://www.finicity.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.mastercard.com/us/en/business/open-finance.html"
+    },
+    {
+      "company": "Finix",
+      "configured_url": "https://finix.com/press",
+      "final_url": "https://finix.com/press",
+      "status": 200,
+      "html_bytes": 142219,
+      "links_found": 25
+    },
+    {
+      "company": "Finster AI",
+      "configured_url": "https://www.finster.ai/resources/news",
+      "final_url": "https://www.finster.ai/resources/news",
+      "status": 200,
+      "html_bytes": 285985,
+      "links_found": 13
+    },
+    {
+      "company": "Fireblocks",
+      "configured_url": "https://www.fireblocks.com/press",
+      "final_url": "https://www.fireblocks.com/press",
+      "status": 200,
+      "html_bytes": 444877,
+      "links_found": 37
+    },
+    {
+      "company": "FIS",
+      "configured_url": "https://www.fisglobal.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.fisglobal.com/news"
+    },
+    {
+      "company": "Fiscal.ai",
+      "configured_url": "https://www.fiscal.ai/news",
+      "error": "429 Client Error: Too Many Requests for url: https://www.fiscal.ai/news"
+    },
+    {
+      "company": "Fiserv",
+      "configured_url": "https://www.fiserv.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.fiserv.com/news"
+    },
+    {
+      "company": "FlexTrade",
+      "configured_url": "https://www.flextrade.com/news",
+      "error": "404 Client Error: Not Found for url: https://flextrade.com/news"
+    },
+    {
+      "company": "Flinks",
+      "configured_url": "https://www.flinks.com/blog",
+      "final_url": "https://www.flinks.com/blog",
+      "status": 200,
+      "html_bytes": 96530,
+      "links_found": 36
+    },
+    {
+      "company": "FloatMe",
+      "configured_url": "https://www.floatme.com/blog",
+      "final_url": "https://www.floatme.com/blog",
+      "status": 200,
+      "html_bytes": 23660,
+      "links_found": 12
+    },
+    {
+      "company": "FloQast",
+      "configured_url": "https://www.floqast.com/press",
+      "final_url": "https://www.floqast.com/press",
+      "status": 200,
+      "html_bytes": 388366,
+      "links_found": 130
+    },
+    {
+      "company": "FlowX.AI",
+      "configured_url": "https://www.flowx.ai/blog",
+      "final_url": "https://www.flowx.ai/blog",
+      "status": 200,
+      "html_bytes": 123856,
+      "links_found": 66
+    },
+    {
+      "company": "Flywire",
+      "configured_url": "https://www.flywire.com/company/news",
+      "final_url": "https://www.flywire.com/company/news",
+      "status": 200,
+      "html_bytes": 96007,
+      "links_found": 45
+    },
+    {
+      "company": "FNZ",
+      "configured_url": "https://www.fnz.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.fnz.com/news"
+    },
+    {
+      "company": "Formance",
+      "configured_url": "https://www.formance.com/blog",
+      "final_url": "https://www.formance.com/blog",
+      "status": 200,
+      "html_bytes": 241439,
+      "links_found": 48
+    },
+    {
+      "company": "Forter",
+      "configured_url": "https://www.forter.com/blog/",
+      "final_url": "https://www.forter.com/blog/",
+      "status": 200,
+      "html_bytes": 208957,
+      "links_found": 37
+    },
+    {
+      "company": "Fourthline",
+      "configured_url": "https://www.fourthline.com/news",
+      "final_url": "https://www.fourthline.com/news",
+      "status": 200,
+      "html_bytes": 251044,
+      "links_found": 30
+    },
+    {
+      "company": "Freetrade",
+      "configured_url": "https://freetrade.io/news",
+      "final_url": "https://freetrade.io/news",
+      "status": 200,
+      "html_bytes": 146767,
+      "links_found": 61
+    },
+    {
+      "company": "FreshBooks",
+      "configured_url": "https://www.freshbooks.com/press",
+      "final_url": "https://www.freshbooks.com/press",
+      "status": 200,
+      "html_bytes": 1238790,
+      "links_found": 190
+    },
+    {
+      "company": "FundApps / SteelEye",
+      "configured_url": "https://www.fundapps.com/news",
+      "error": "HTTPSConnectionPool(host='www.fundapps.com', port=443): Max retries exceeded with url: /news (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
+    },
+    {
+      "company": "FundCount",
+      "configured_url": "https://fundcount.com/blog/",
+      "final_url": "https://fundcount.com/blog/",
+      "status": 200,
+      "html_bytes": 221895,
+      "links_found": 20
+    },
+    {
+      "company": "FundGuard",
+      "configured_url": "https://www.fundguard.com/news/",
+      "final_url": "https://www.fundguard.com/news/",
+      "status": 200,
+      "html_bytes": 179995,
+      "links_found": 25
+    },
+    {
+      "company": "Funding Circle",
+      "configured_url": "https://www.fundingcircle.com/uk/resources/",
+      "final_url": "https://www.fundingcircle.com/uk/resources/",
+      "status": 200,
+      "html_bytes": 353606,
+      "links_found": 26
+    },
+    {
+      "company": "Funding Societies",
+      "configured_url": "https://blog.fundingsocieties.com",
+      "final_url": "https://blog.fundingsocieties.com/",
+      "status": 200,
+      "html_bytes": 195337,
+      "links_found": 22
+    },
+    {
+      "company": "Gabi",
+      "configured_url": "https://www.gabi.com/app",
+      "final_url": "https://www.gabi.com/app",
+      "status": 200,
+      "html_bytes": 4674,
+      "links_found": 0
+    },
+    {
+      "company": "Galaxy Digital",
+      "configured_url": "https://www.galaxy.com/newsroom",
+      "final_url": "https://www.galaxy.com/newsroom",
+      "status": 200,
+      "html_bytes": 143172,
+      "links_found": 58
+    },
+    {
+      "company": "Galileo Financial Technologies",
+      "configured_url": "https://www.galileo-ft.com/news",
+      "final_url": "https://tech.sofi.com/news/",
+      "status": 200,
+      "html_bytes": 629326,
+      "links_found": 32
+    },
+    {
+      "company": "Gemini",
+      "configured_url": "https://www.gemini.com/blog",
+      "final_url": "https://www.gemini.com/blog",
+      "status": 200,
+      "html_bytes": 632243,
+      "links_found": 62
+    },
+    {
+      "company": "Getsafe",
+      "configured_url": "https://www.getsafe.com/blog/",
+      "final_url": "https://www.getsafe.com/blog/",
+      "status": 200,
+      "html_bytes": 113418,
+      "links_found": 25
+    },
+    {
+      "company": "Global Payments",
+      "configured_url": "https://www.globalpayments.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.globalpayments.com/news"
+    },
+    {
+      "company": "Go.Compare",
+      "configured_url": "https://www.gocompare.com/news",
+      "final_url": "https://www.gocompare.com/news",
+      "status": 200,
+      "html_bytes": 6183,
+      "links_found": 0
+    },
+    {
+      "company": "GoCardless",
+      "configured_url": "https://gocardless.com/about/press",
+      "final_url": "https://gocardless.com/about/press",
+      "status": 200,
+      "html_bytes": 191176,
+      "links_found": 33
+    },
+    {
+      "company": "GoTab",
+      "configured_url": "https://www.gotab.io/news",
+      "error": "404 Client Error: Not Found for url: https://gotab.io/not_found"
+    },
+    {
+      "company": "Grasshopper Bank",
+      "configured_url": "https://www.grasshopper.bank/press/",
+      "final_url": "https://www.grasshopper.bank/press/",
+      "status": 200,
+      "html_bytes": 147426,
+      "links_found": 71
+    },
+    {
+      "company": "Griffin",
+      "configured_url": "https://www.griffin.com/newsroom",
+      "final_url": "https://www.griffin.com/newsroom",
+      "status": 200,
+      "html_bytes": 268027,
+      "links_found": 41
+    },
+    {
+      "company": "Groww",
+      "configured_url": "https://groww.in/press",
+      "final_url": "https://groww.in/press",
+      "status": 200,
+      "html_bytes": 128131,
+      "links_found": 419
+    },
+    {
+      "company": "GTreasury",
+      "configured_url": "https://www.gtreasury.com/news",
+      "error": "404 Client Error: Not Found for url: https://treasury.ripple.com/news"
+    },
+    {
+      "company": "Hastee",
+      "configured_url": "https://www.hastee.com/press/",
+      "final_url": "https://www.hastee.com/press/",
+      "status": 200,
+      "html_bytes": 190638,
+      "links_found": 22
+    },
+    {
+      "company": "Hawk",
+      "configured_url": "https://hawk.ai/news-press",
+      "final_url": "https://hawk.ai/news-press",
+      "status": 200,
+      "html_bytes": 88166,
+      "links_found": 23
+    },
+    {
+      "company": "Hebbia",
+      "configured_url": "https://www.hebbia.com/blog",
+      "final_url": "https://www.hebbia.com/blog",
+      "status": 200,
+      "html_bytes": 106526,
+      "links_found": 37
+    },
+    {
+      "company": "Hidden Road",
+      "configured_url": "https://ripple.com/products/prime-brokerage/",
+      "final_url": "https://ripple.com/products/prime-brokerage/",
+      "status": 200,
+      "html_bytes": 151742,
+      "links_found": 29
+    },
+    {
+      "company": "Highnote",
+      "configured_url": "https://highnote.com/press",
+      "final_url": "https://highnote.com/press",
+      "status": 200,
+      "html_bytes": 74537,
+      "links_found": 9
+    },
+    {
+      "company": "HighRadius",
+      "configured_url": "https://www.highradius.com/news",
+      "final_url": "https://www.highradius.com/news/",
+      "status": 200,
+      "html_bytes": 278323,
+      "links_found": 80
+    },
+    {
+      "company": "Hippo",
+      "configured_url": "https://www.hippo.com/newsroom",
+      "final_url": "https://www.hippo.com/newsroom",
+      "status": 200,
+      "html_bytes": 370681,
+      "links_found": 29
+    },
+    {
+      "company": "Holded",
+      "configured_url": "https://www.holded.com/blog",
+      "final_url": "https://www.holded.com/blog",
+      "status": 200,
+      "html_bytes": 472187,
+      "links_found": 83
+    },
+    {
+      "company": "Hometap",
+      "configured_url": "https://www.hometap.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.hometap.com/news"
+    },
+    {
+      "company": "Hubpay",
+      "configured_url": "https://www.hubpay.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.hubpay.com/news"
+    },
+    {
+      "company": "Hummingbird",
+      "configured_url": "https://www.hummingbird.co/resources",
+      "final_url": "https://www.hummingbird.co/resources",
+      "status": 200,
+      "html_bytes": 247204,
+      "links_found": 50
+    },
+    {
+      "company": "i2c",
+      "configured_url": "https://www.i2cinc.com/blog/",
+      "final_url": "https://www.i2cinc.com/blog/",
+      "status": 200,
+      "html_bytes": 153710,
+      "links_found": 68
+    },
+    {
+      "company": "iCapital",
+      "configured_url": "https://icapital.com/newsroom/",
+      "final_url": "https://icapital.com/newsroom/",
+      "status": 200,
+      "html_bytes": 344940,
+      "links_found": 68
+    },
+    {
+      "company": "ICE",
+      "configured_url": "https://www.ice.com/media",
+      "final_url": "https://www.ice.com/media",
+      "status": 200,
+      "html_bytes": 77909,
+      "links_found": 23
+    },
+    {
+      "company": "IDnow",
+      "configured_url": "https://idnow.io/press",
+      "final_url": "https://idnow.io/press",
+      "status": 200,
+      "html_bytes": 122889,
+      "links_found": 56
+    },
+    {
+      "company": "Incode",
+      "configured_url": "https://www.incode.com/press/",
+      "final_url": "https://www.incode.com/press/",
+      "status": 200,
+      "html_bytes": 208703,
+      "links_found": 131
+    },
+    {
+      "company": "Increase",
+      "configured_url": "https://www.increase.com/press",
+      "final_url": "https://www.increase.com/press",
+      "status": 200,
+      "html_bytes": 78737,
+      "links_found": 5
+    },
+    {
+      "company": "Ingenico",
+      "configured_url": "https://ingenico.com/en/newsroom",
+      "final_url": "https://ingenico.com/en/newsroom",
+      "status": 200,
+      "html_bytes": 148904,
+      "links_found": 70
+    },
+    {
+      "company": "Insurify",
+      "configured_url": "https://www.insurify.com/news",
+      "final_url": "https://insurify.com/news/",
+      "status": 200,
+      "html_bytes": 515510,
+      "links_found": 65
+    },
+    {
+      "company": "Insurtech Gateway",
+      "configured_url": "https://www.insurtechgateway.com/blog/",
+      "final_url": "https://www.insurtechgateway.com/blog/",
+      "status": 200,
+      "html_bytes": 78820,
+      "links_found": 20
+    },
+    {
+      "company": "Interactive Brokers",
+      "configured_url": "https://www.interactivebrokers.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.interactivebrokers.com/news"
+    },
+    {
+      "company": "Intuit",
+      "configured_url": "https://www.intuit.com/company/",
+      "final_url": "https://www.intuit.com/company/",
+      "status": 200,
+      "html_bytes": 442963,
+      "links_found": 39
+    },
+    {
+      "company": "InvestCloud",
+      "configured_url": "https://www.investcloud.com/news",
+      "final_url": "https://www.investcloud.com/news",
+      "status": 202,
+      "html_bytes": 173,
+      "links_found": 0
+    },
+    {
+      "company": "ION Group",
+      "configured_url": "https://iongroup.com",
+      "final_url": "https://iongroup.com/",
+      "status": 200,
+      "html_bytes": 275777,
+      "links_found": 46
+    },
+    {
+      "company": "ION Treasury",
+      "configured_url": "https://iongroup.com",
+      "final_url": "https://iongroup.com/",
+      "status": 200,
+      "html_bytes": 275777,
+      "links_found": 46
+    },
+    {
+      "company": "IRIS Software",
+      "configured_url": "https://www.iris.co.uk/news/",
+      "final_url": "https://www.iris.co.uk/news/",
+      "status": 200,
+      "html_bytes": 257091,
+      "links_found": 76
+    },
+    {
+      "company": "iwoca",
+      "configured_url": "https://www.iwoca.co.uk/news",
+      "final_url": "https://www.iwoca.co.uk/news",
+      "status": 200,
+      "html_bytes": 57593,
+      "links_found": 35
+    },
+    {
+      "company": "J.P. Morgan Personal Investing",
+      "configured_url": "https://www.personalinvesting.jpmorgan.com",
+      "final_url": "https://www.personalinvesting.jpmorgan.com/",
+      "status": 200,
+      "html_bytes": 220189,
+      "links_found": 65
+    },
+    {
+      "company": "Jack Henry",
+      "configured_url": "https://www.jackhenry.com/fintalk",
+      "final_url": "https://www.jackhenry.com/fintalk",
+      "status": 200,
+      "html_bytes": 1747294,
+      "links_found": 435
+    },
+    {
+      "company": "Jar",
+      "configured_url": "https://www.myjar.app/news",
+      "final_url": "https://www.myjar.app",
+      "status": 200,
+      "html_bytes": 271284,
+      "links_found": 19
+    },
+    {
+      "company": "JCB",
+      "configured_url": "https://www.global.jcb/en/press/",
+      "final_url": "https://www.global.jcb/en/press/",
+      "status": 200,
+      "html_bytes": 18256,
+      "links_found": 43
+    },
+    {
+      "company": "Jeeves",
+      "configured_url": "https://www.tryjeeves.com/newsroom",
+      "final_url": "https://www.tryjeeves.com/newsroom",
+      "status": 200,
+      "html_bytes": 171540,
+      "links_found": 20
+    },
+    {
+      "company": "Jerry",
+      "configured_url": "https://jerry.ai/news/",
+      "final_url": "https://jerry.ai/news/",
+      "status": 200,
+      "html_bytes": 173200,
+      "links_found": 165
+    },
+    {
+      "company": "Joiin",
+      "configured_url": "https://www.joiin.co/press-release-joiin-launches-attractive-new-affiliate-partner-programme/",
+      "final_url": "https://www.joiin.co/press-release-joiin-launches-attractive-new-affiliate-partner-programme/",
+      "status": 200,
+      "html_bytes": 97219,
+      "links_found": 54
+    },
+    {
+      "company": "Jumio",
+      "configured_url": "https://www.jumio.com/about/press-releases/",
+      "final_url": "https://www.jumio.com/about/press-releases/",
+      "status": 200,
+      "html_bytes": 138364,
+      "links_found": 55
+    },
+    {
+      "company": "Juniper Square",
+      "configured_url": "https://www.junipersquare.com/company/press",
+      "final_url": "https://www.junipersquare.com/company/press",
+      "status": 200,
+      "html_bytes": 175691,
+      "links_found": 78
+    },
+    {
+      "company": "Jupiter",
+      "configured_url": "https://jupiter.money/blog/",
+      "final_url": "https://jupiter.money/blog/",
+      "status": 200,
+      "html_bytes": 619186,
+      "links_found": 77
+    },
+    {
+      "company": "Juspay",
+      "configured_url": "https://juspay.io/newsroom",
+      "final_url": "https://juspay.io/newsroom",
+      "status": 200,
+      "html_bytes": 514163,
+      "links_found": 41
+    },
+    {
+      "company": "Kabbage",
+      "configured_url": "https://www.americanexpress.com/en-us/business/trends-and-insights/?linknav=bti-article-breadcrumb-trendsandinsights",
+      "final_url": "https://www.americanexpress.com/en-us/business/trends-and-insights/?linknav=bti-article-breadcrumb-trendsandinsights",
+      "status": 200,
+      "html_bytes": 348611,
+      "links_found": 35
+    },
+    {
+      "company": "Kaiko",
+      "configured_url": "https://www.kaiko.com/news",
+      "final_url": "https://www.kaiko.com/news",
+      "status": 200,
+      "html_bytes": 208857,
+      "links_found": 41
+    },
+    {
+      "company": "KakaoBank",
+      "configured_url": "https://www.kakaobank.com/news",
+      "error": "HTTPSConnectionPool(host='www.kakaobank.com', port=443): Max retries exceeded with url: /news (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kakaobank.com', port=443) at 0x7f3f70b4bad0>, 'Connection to www.kakaobank.com timed out. (connect timeout=30)'))"
+    },
+    {
+      "company": "Kashable",
+      "configured_url": "https://www.kashable.com/news",
+      "final_url": "https://www.kashable.com/news",
+      "status": 200,
+      "html_bytes": 44483,
+      "links_found": 16
+    },
+    {
+      "company": "Kavak Financial Services",
+      "configured_url": "https://www.kavak.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.kavak.com/news"
+    },
+    {
+      "company": "Khazna",
+      "configured_url": "https://www.khazna.app/news",
+      "error": "404 Client Error: Not Found for url: https://www.khazna.app/news"
+    },
+    {
+      "company": "Klarna",
+      "configured_url": "https://www.klarna.com/international/press/",
+      "final_url": "https://www.klarna.com/international/press/",
+      "status": 202,
+      "html_bytes": 2375,
+      "links_found": 0
+    },
+    {
+      "company": "Klover",
+      "configured_url": "https://www.joinklover.com/blog",
+      "final_url": "https://www.joinklover.com/blog",
+      "status": 200,
+      "html_bytes": 23660,
+      "links_found": 24
+    },
+    {
+      "company": "Konf\u00edo",
+      "configured_url": "https://www.konfio.mx/news",
+      "error": "404 Client Error: Not Found for url: https://konfio.mx/news"
+    },
+    {
+      "company": "Koyfin",
+      "configured_url": "https://www.koyfin.com/blog/",
+      "final_url": "https://www.koyfin.com/blog/",
+      "status": 200,
+      "html_bytes": 104470,
+      "links_found": 46
+    },
+    {
+      "company": "Kraken",
+      "configured_url": "https://www.kraken.com",
+      "final_url": "https://www.kraken.com/",
+      "status": 200,
+      "html_bytes": 1397673,
+      "links_found": 113
+    },
+    {
+      "company": "KreditBee",
+      "configured_url": "https://www.kreditbee.in/news",
+      "final_url": "https://www.kreditbee.in/news",
+      "status": 200,
+      "html_bytes": 10007,
+      "links_found": 0
+    },
+    {
+      "company": "Kredivo",
+      "configured_url": "https://www.kredivo.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.kredivo.com/news"
+    },
+    {
+      "company": "Kriya",
+      "configured_url": "https://www.kriya.co/press",
+      "final_url": "https://www.kriya.co/press",
+      "status": 200,
+      "html_bytes": 110250,
+      "links_found": 24
+    },
+    {
+      "company": "Kueski",
+      "configured_url": "https://www.kueski.com/newsroom",
+      "final_url": "https://www.kueski.com/newsroom",
+      "status": 200,
+      "html_bytes": 164504,
+      "links_found": 119
+    },
+    {
+      "company": "Kyriba",
+      "configured_url": "https://www.kyriba.com/news/",
+      "final_url": "https://www.kyriba.com/news/",
+      "status": 200,
+      "html_bytes": 220644,
+      "links_found": 53
+    },
+    {
+      "company": "LawPay",
+      "configured_url": "https://www.lawpay.com/about/news/",
+      "final_url": "https://www.lawpay.com/about/news/",
+      "status": 200,
+      "html_bytes": 347718,
+      "links_found": 107
+    },
+    {
+      "company": "Lead Bank",
+      "configured_url": "https://www.lead.bank/blog",
+      "final_url": "https://www.lead.bank/blog",
+      "status": 200,
+      "html_bytes": 221172,
+      "links_found": 55
+    },
+    {
+      "company": "Lean Technologies",
+      "configured_url": "https://www.leantech.me/uae/en/blog",
+      "final_url": "https://www.leantech.me/uae/en/blog",
+      "status": 200,
+      "html_bytes": 195566,
+      "links_found": 41
+    },
+    {
+      "company": "Ledger",
+      "configured_url": "https://www.ledger.com/press",
+      "final_url": "https://www.ledger.com/press",
+      "status": 200,
+      "html_bytes": 217225,
+      "links_found": 41
+    },
+    {
+      "company": "Lemonade",
+      "configured_url": "https://www.lemonade.com/blog/",
+      "final_url": "https://www.lemonade.com/blog/",
+      "status": 200,
+      "html_bytes": 75074,
+      "links_found": 47
+    },
+    {
+      "company": "Lendable",
+      "configured_url": "https://www.lendable.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.lendable.com/news"
+    },
+    {
+      "company": "LendingClub",
+      "configured_url": "https://www.happen.com/",
+      "final_url": "https://www.happen.com/",
+      "status": 200,
+      "html_bytes": 257815,
+      "links_found": 30
+    },
+    {
+      "company": "Lendingkart",
+      "configured_url": "https://www.lendingkart.com",
+      "final_url": "https://www.lendingkart.com/",
+      "status": 200,
+      "html_bytes": 748532,
+      "links_found": 65
+    },
+    {
+      "company": "Lendo",
+      "configured_url": "https://www.lendo.sa/press-releases",
+      "final_url": "https://www.lendo.sa/press-releases",
+      "status": 200,
+      "html_bytes": 88507,
+      "links_found": 37
+    },
+    {
+      "company": "LexisNexis Risk Solutions",
+      "configured_url": "https://risk.lexisnexis.com/about-us/press-room",
+      "error": "403 Client Error: Forbidden for url: https://risk.lexisnexis.com/about-us/press-room"
+    },
+    {
+      "company": "Liberis",
+      "configured_url": "https://consent.google.com/ml?continue=https://www.google.com/search%3Fq%3DLiberis%2520official%2520newsroom%2520press%2520releases&gl=GB&m=0&pc=srp&uxe=bip&cm=2&hl=en&src=1",
+      "final_url": "https://www.google.com/search?q=Liberis+official+newsroom+press+releases&ucbcb=1",
+      "status": 200,
+      "html_bytes": 92118,
+      "links_found": 1
+    },
+    {
+      "company": "Lightspeed Commerce",
+      "configured_url": "https://www.lightspeedhq.com/news/",
+      "final_url": "https://www.lightspeedhq.com/news/",
+      "status": 200,
+      "html_bytes": 213083,
+      "links_found": 121
+    },
+    {
+      "company": "Lithic",
+      "configured_url": "https://www.lithic.com/payments-industry/press",
+      "final_url": "https://www.lithic.com/payments-industry/press",
+      "status": 200,
+      "html_bytes": 120788,
+      "links_found": 20
+    },
+    {
+      "company": "Live Oak Bank",
+      "configured_url": "https://info.liveoak.bank/media?utm_source=vanity-url&utm_term=media",
+      "final_url": "https://info.liveoak.bank/media?utm_source=vanity-url&utm_term=media",
+      "status": 200,
+      "html_bytes": 21327,
+      "links_found": 0
+    },
+    {
+      "company": "LSEG",
+      "configured_url": "https://www.lseg.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.lseg.com/news"
+    },
+    {
+      "company": "Lumin Digital",
+      "configured_url": "https://lumindigital.com/news/",
+      "final_url": "https://lumindigital.com/news/",
+      "status": 200,
+      "html_bytes": 111848,
+      "links_found": 38
+    },
+    {
+      "company": "M Science",
+      "configured_url": "https://www.msciences.com/news",
+      "error": "HTTPSConnectionPool(host='www.msciences.com', port=443): Max retries exceeded with url: /news (Caused by NameResolutionError(\"HTTPSConnection(host='www.msciences.com', port=443): Failed to resolve 'www.msciences.com' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+      "company": "M1 Finance",
+      "configured_url": "https://m1.com/about/newsroom/",
+      "final_url": "https://m1.com/about/newsroom/",
+      "status": 200,
+      "html_bytes": 930337,
+      "links_found": 40
+    },
+    {
+      "company": "Magnati",
+      "configured_url": "https://www.magnati.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.magnati.com/news"
+    },
+    {
+      "company": "Mambu",
+      "configured_url": "https://mambu.com/en/news",
+      "final_url": "https://mambu.com/en/news",
+      "status": 200,
+      "html_bytes": 75250,
+      "links_found": 7
+    },
+    {
+      "company": "Mamo",
+      "configured_url": "https://www.mamo.com/news",
+      "error": "HTTPSConnectionPool(host='www.mamo.com', port=443): Max retries exceeded with url: /news (Caused by NameResolutionError(\"HTTPSConnection(host='www.mamo.com', port=443): Failed to resolve 'www.mamo.com' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "company": "MangoPay",
+      "configured_url": "https://www.mangopay.com/news",
+      "error": "404 Client Error: Not Found for url: https://mangopay.com/news"
+    },
+    {
+      "company": "MarketAxess",
+      "configured_url": "https://www.marketaxess.com/news",
+      "final_url": "https://www.marketaxess.com/news",
+      "status": 200,
+      "html_bytes": 4094,
+      "links_found": 0
+    },
+    {
+      "company": "Marqeta",
+      "configured_url": "https://www.marqeta.com/newsroom",
+      "final_url": "https://www.marqeta.com/newsroom",
+      "status": 200,
+      "html_bytes": 404011,
+      "links_found": 42
+    },
+    {
+      "company": "Marshmallow",
+      "configured_url": "https://www.marshmallow.com/",
+      "final_url": "https://www.marshmallow.com/",
+      "status": 200,
+      "html_bytes": 236234,
+      "links_found": 46
+    },
+    {
+      "company": "Marvin Labs",
+      "configured_url": "https://www.marvinlabs.com/news",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "company": "Mastercard",
+      "configured_url": "https://www.mastercard.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.mastercard.com/news"
+    },
+    {
+      "company": "Mastercard Decision Intelligence",
+      "configured_url": "https://www.mastercard.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.mastercard.com/news"
+    },
+    {
+      "company": "Mbanq",
+      "configured_url": "https://www.mbanq.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.mbanq.com/news/"
+    },
+    {
+      "company": "Mercado Pago",
+      "configured_url": "https://www.mercadopago.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.mercadopago.com/news"
+    },
+    {
+      "company": "Mercury",
+      "configured_url": "https://mercury.com/blog",
+      "final_url": "https://mercury.com/blog",
+      "status": 200,
+      "html_bytes": 889571,
+      "links_found": 119
+    },
+    {
+      "company": "Middesk",
+      "configured_url": "https://www.middesk.com/product-release-hub",
+      "final_url": "https://www.middesk.com/product-release-hub",
+      "status": 200,
+      "html_bytes": 315671,
+      "links_found": 17
+    },
+    {
+      "company": "Mitek",
+      "configured_url": "https://www.miteksystems.com/newsroom",
+      "final_url": "https://www.miteksystems.com/newsroom",
+      "status": 200,
+      "html_bytes": 43868,
+      "links_found": 23
+    },
+    {
+      "company": "MNT-Halan",
+      "configured_url": "https://mnt-halan.com/news/",
+      "final_url": "https://mnt-halan.com/news/",
+      "status": 200,
+      "html_bytes": 76272,
+      "links_found": 5
+    },
+    {
+      "company": "MobiKwik",
+      "configured_url": "https://www.mobikwik.com/news",
+      "final_url": "https://www.mobikwik.com/news",
+      "status": 200,
+      "html_bytes": 24004,
+      "links_found": 0
+    },
+    {
+      "company": "Modern Treasury",
+      "configured_url": "https://www.moderntreasury.com/newsroom",
+      "final_url": "https://www.moderntreasury.com/newsroom",
+      "status": 200,
+      "html_bytes": 134954,
+      "links_found": 23
+    },
+    {
+      "company": "Mollie",
+      "configured_url": "https://www.mollie.com/news",
+      "final_url": "https://www.mollie.com/news",
+      "status": 200,
+      "html_bytes": 1754339,
+      "links_found": 109
+    },
+    {
+      "company": "Monarch Money",
+      "configured_url": "https://www.monarch.com/press",
+      "final_url": "https://www.monarch.com/press",
+      "status": 200,
+      "html_bytes": 184099,
+      "links_found": 23
+    },
+    {
+      "company": "Moneybox",
+      "configured_url": "https://www.moneyboxapp.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.moneyboxapp.com/news"
+    },
+    {
+      "company": "Moneyfarm",
+      "configured_url": "https://www.moneyfarm.com/uk/not-found/",
+      "final_url": "https://www.moneyfarm.com/uk/not-found/",
+      "status": 200,
+      "html_bytes": 114979,
+      "links_found": 0
+    },
+    {
+      "company": "MoneyGram",
+      "configured_url": "https://www.moneygram.com/blog",
+      "final_url": "https://www.moneygram.com/blog",
+      "status": 200,
+      "html_bytes": 100191,
+      "links_found": 40
+    },
+    {
+      "company": "Moneyhub",
+      "configured_url": "https://www.moneyhub.com/news",
+      "error": "404 Client Error: Not Found for url: https://moneyhub.com/news"
+    },
+    {
+      "company": "MoneyLion",
+      "configured_url": "https://www.moneylion.com/news/",
+      "final_url": "https://www.moneylion.com/news/",
+      "status": 200,
+      "html_bytes": 125458,
+      "links_found": 21
+    },
+    {
+      "company": "MoneySuperMarket",
+      "configured_url": "https://www.moneysupermarket.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.moneysupermarket.com/news"
+    },
+    {
+      "company": "Monzo",
+      "configured_url": "https://monzo.com/press",
+      "final_url": "https://monzo.com/press",
+      "status": 200,
+      "html_bytes": 147420,
+      "links_found": 57
+    },
+    {
+      "company": "Moody\u2019s",
+      "configured_url": "https://www.moodys.com/error",
+      "final_url": "https://www.moodys.com/error",
+      "status": 200,
+      "html_bytes": 2773,
+      "links_found": 0
+    },
+    {
+      "company": "Moomoo",
+      "configured_url": "https://www.moomoo.com/us/newsroom",
+      "final_url": "https://www.moomoo.com/us/newsroom",
+      "status": 200,
+      "html_bytes": 489099,
+      "links_found": 55
+    },
+    {
+      "company": "MoonPay",
+      "configured_url": "https://www.moonpay.com/en-gb/news",
+      "final_url": "https://www.moonpay.com/en-gb/news",
+      "status": 200,
+      "html_bytes": 412839,
+      "links_found": 60
+    },
+    {
+      "company": "Moov",
+      "configured_url": "https://moov.io/news/",
+      "final_url": "https://moov.io/news/",
+      "status": 200,
+      "html_bytes": 139148,
+      "links_found": 30
+    },
+    {
+      "company": "Morningstar",
+      "configured_url": "https://www.morningstar.com/news",
+      "final_url": "https://www.morningstar.com/news",
+      "status": 200,
+      "html_bytes": 268675,
+      "links_found": 87
+    },
+    {
+      "company": "Moss",
+      "configured_url": "https://www.getmoss.com/press",
+      "final_url": "https://www.getmoss.com/press",
+      "status": 200,
+      "html_bytes": 157819,
+      "links_found": 32
+    },
+    {
+      "company": "MSCI",
+      "configured_url": "https://www.msci.com/research-and-insights?type=blog",
+      "final_url": "https://www.msci.com/research-and-insights?type=blog",
+      "status": 200,
+      "html_bytes": 1850,
+      "links_found": 0
+    },
+    {
+      "company": "Murex",
+      "configured_url": "https://www.murex.com/en/who-we-are/news?f%5B0%5D=date%3A2026",
+      "final_url": "https://www.murex.com/en/who-we-are/news?f%5B0%5D=date%3A2026",
+      "status": 200,
+      "html_bytes": 45793,
+      "links_found": 27
+    },
+    {
+      "company": "MX",
+      "configured_url": "https://www.mx.com/news/",
+      "final_url": "https://www.mx.com/news/",
+      "status": 200,
+      "html_bytes": 540085,
+      "links_found": 25
+    },
+    {
+      "company": "MYOB",
+      "configured_url": "https://www.myob.com/au/press-releases",
+      "final_url": "https://www.myob.com/au/press-releases",
+      "status": 200,
+      "html_bytes": 247525,
+      "links_found": 62
+    },
+    {
+      "company": "N26",
+      "configured_url": "https://n26.com/en-de/press",
+      "final_url": "https://n26.com/en-de/press",
+      "status": 200,
+      "html_bytes": 225913,
+      "links_found": 78
+    },
+    {
+      "company": "Nasdaq",
+      "configured_url": "https://www.nasdaq.com/newsroom",
+      "error": "HTTPSConnectionPool(host='www.nasdaq.com', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+      "company": "Navan",
+      "configured_url": "https://navan.com/blog/category/news",
+      "final_url": "https://navan.com/blog/category/news",
+      "status": 200,
+      "html_bytes": 282317,
+      "links_found": 58
+    },
+    {
+      "company": "Navi",
+      "configured_url": "https://www.navi.com/news",
+      "error": "403 Client Error: Forbidden for url: https://navi.com:443/news"
+    },
+    {
+      "company": "nCino",
+      "configured_url": "https://www.ncino.com/news",
+      "error": "429 Client Error: Too Many Requests for url: https://www.ncino.com/news"
+    },
+    {
+      "company": "NCR Voyix",
+      "configured_url": "https://www.ncrvoyix.com/newsroom",
+      "final_url": "https://www.ncrvoyix.com/newsroom",
+      "status": 200,
+      "html_bytes": 177911,
+      "links_found": 64
+    },
+    {
+      "company": "Neon",
+      "configured_url": "https://neon.com.br/news",
+      "final_url": "https://neon.com.br/news",
+      "status": 200,
+      "html_bytes": 17957,
+      "links_found": 1
+    },
+    {
+      "company": "Nequi",
+      "configured_url": "https://www.nequi.com.co/blog",
+      "final_url": "https://www.nequi.com.co/blog",
+      "status": 200,
+      "html_bytes": 479285,
+      "links_found": 63
+    },
+    {
+      "company": "NerdWallet",
+      "configured_url": "https://www.nerdwallet.com/news",
+      "final_url": "https://www.nerdwallet.com/news",
+      "status": 200,
+      "html_bytes": 980640,
+      "links_found": 372
+    },
+    {
+      "company": "Network International",
+      "configured_url": "https://www.network.ae/en/about-us/press-and-media/news",
+      "final_url": "https://www.network.ae/en/about-us/press-and-media/news",
+      "status": 200,
+      "html_bytes": 138336,
+      "links_found": 90
+    },
+    {
+      "company": "Nexi",
+      "configured_url": "https://www.nexigroup.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.nexigroup.com/news"
+    },
+    {
+      "company": "NICE Actimize",
+      "configured_url": "https://www.niceactimize.com/press-releases",
+      "final_url": "https://www.niceactimize.com/press-releases",
+      "status": 200,
+      "html_bytes": 101553,
+      "links_found": 38
+    },
+    {
+      "company": "Nilus",
+      "configured_url": "https://www.nilus.ai/news",
+      "error": "404 Client Error: Not Found for url: https://www.nilus.ai/news"
+    },
+    {
+      "company": "Nium",
+      "configured_url": "https://www.nium.com/newsroom",
+      "final_url": "https://www.nium.com/newsroom",
+      "status": 200,
+      "html_bytes": 308508,
+      "links_found": 31
+    },
+    {
+      "company": "Nomentia",
+      "configured_url": "https://www.nomentia.com/news",
+      "final_url": "https://www.nomentia.com/news",
+      "status": 200,
+      "html_bytes": 182231,
+      "links_found": 132
+    },
+    {
+      "company": "Nova Credit",
+      "configured_url": "https://www.novacredit.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.novacredit.com/news"
+    },
+    {
+      "company": "Novo",
+      "configured_url": "https://www.novo.co/news",
+      "final_url": "https://www.novo.co/news",
+      "status": 200,
+      "html_bytes": 223717,
+      "links_found": 46
+    },
+    {
+      "company": "Nubank",
+      "configured_url": "https://www.nubank.com.br/news",
+      "error": "404 Client Error: Not Found for url: https://nubank.com.br/news"
+    },
+    {
+      "company": "Numeral",
+      "configured_url": "https://mambu.com/en/payments",
+      "final_url": "https://mambu.com/en/payments",
+      "status": 200,
+      "html_bytes": 293110,
+      "links_found": 51
+    },
+    {
+      "company": "Numerator",
+      "configured_url": "https://www.numerator.com/newsroom/",
+      "final_url": "https://www.numerator.com/newsroom/",
+      "status": 200,
+      "html_bytes": 165962,
+      "links_found": 39
+    },
+    {
+      "company": "Numeric",
+      "configured_url": "https://www.numeric.io/blog",
+      "final_url": "https://www.numeric.io/blog",
+      "status": 200,
+      "html_bytes": 434859,
+      "links_found": 158
+    },
+    {
+      "company": "Nuvei",
+      "configured_url": "https://www.nuvei.com/post-category/blog",
+      "final_url": "https://www.nuvei.com/post-category/blog",
+      "status": 200,
+      "html_bytes": 733269,
+      "links_found": 199
+    },
+    {
+      "company": "NymCard",
+      "configured_url": "https://www.nymcard.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.nymcard.com/news"
+    },
+    {
+      "company": "OakNorth",
+      "configured_url": "https://oaknorth.com/press/",
+      "final_url": "https://oaknorth.com/press/",
+      "status": 200,
+      "html_bytes": 100963,
+      "links_found": 26
+    },
+    {
+      "company": "Odoo",
+      "configured_url": "https://www.odoo.com/press",
+      "final_url": "https://www.odoo.com/press",
+      "status": 200,
+      "html_bytes": 507335,
+      "links_found": 153
+    },
+    {
+      "company": "Ondato",
+      "configured_url": "https://ondato.com/news/",
+      "final_url": "https://ondato.com/news/",
+      "status": 200,
+      "html_bytes": 154124,
+      "links_found": 44
+    },
+    {
+      "company": "Onsi",
+      "configured_url": "https://onsi.com/blog",
+      "final_url": "https://onsi.com/blog",
+      "status": 200,
+      "html_bytes": 1265783,
+      "links_found": 60
+    },
+    {
+      "company": "OpenFin",
+      "configured_url": "https://www.here.io/blog/news",
+      "final_url": "https://www.here.io/blog/news",
+      "status": 200,
+      "html_bytes": 144029,
+      "links_found": 27
+    },
+    {
+      "company": "OpenWay",
+      "configured_url": "https://www.openwaygroup.com/news",
+      "error": "404 Client Error: Not Found for url: https://openwaygroup.com/news"
+    },
+    {
+      "company": "Oracle",
+      "configured_url": "https://consent.google.com/ml?continue=https://www.google.com/search%3Fq%3DOracle%2520Treasury%2520official%2520newsroom%2520press%2520releases&gl=GB&m=0&pc=srp&uxe=bip&cm=2&hl=en&src=1",
+      "final_url": "https://www.google.com/search?q=Oracle+Treasury+official+newsroom+press+releases&ucbcb=1",
+      "status": 200,
+      "html_bytes": 92128,
+      "links_found": 1
+    },
+    {
+      "company": "Oranj",
+      "configured_url": "https://oranj.io/news",
+      "final_url": "https://oranj.io/news",
+      "status": 200,
+      "html_bytes": 8088,
+      "links_found": 5
+    },
+    {
+      "company": "Origin",
+      "configured_url": "https://www.useorigin.com/news",
+      "error": "404 Client Error: Not Found for url: https://useorigin.com/news"
+    },
+    {
+      "company": "Orion Advisor Solutions",
+      "configured_url": "https://orion.com/news",
+      "final_url": "https://orion.com/news",
+      "status": 200,
+      "html_bytes": 151029,
+      "links_found": 83
+    },
+    {
+      "company": "Oscar Health",
+      "configured_url": "https://www.hioscar.com/news",
+      "final_url": "https://www.hioscar.com/news",
+      "status": 200,
+      "html_bytes": 193196,
+      "links_found": 47
+    },
+    {
+      "company": "Pagaya",
+      "configured_url": "https://pagaya.com/news",
+      "final_url": "https://pagaya.com/news",
+      "status": 200,
+      "html_bytes": 1468036,
+      "links_found": 49
+    },
+    {
+      "company": "Pagero",
+      "configured_url": "https://europe.thomsonreuters.com/newsroom",
+      "final_url": "https://europe.thomsonreuters.com/newsroom",
+      "status": 200,
+      "html_bytes": 338464,
+      "links_found": 46
+    },
+    {
+      "company": "PagSeguro / PagBank",
+      "configured_url": "https://blog.pagbank.com.br/",
+      "final_url": "https://blog.pagbank.com.br/",
+      "status": 200,
+      "html_bytes": 96230,
+      "links_found": 10
+    },
+    {
+      "company": "Parafin",
+      "configured_url": "https://www.parafin.com/blog",
+      "final_url": "https://www.parafin.com/blog",
+      "status": 200,
+      "html_bytes": 165893,
+      "links_found": 18
+    },
+    {
+      "company": "Pax",
+      "configured_url": "https://www.paxglobal.com.hk/news",
+      "error": "404 Client Error: Not Found for url: https://www.paxglobal.com.hk/news"
+    },
+    {
+      "company": "Paxos",
+      "configured_url": "https://www.paxos.com/newsroom",
+      "final_url": "https://www.paxos.com/newsroom",
+      "status": 200,
+      "html_bytes": 409871,
+      "links_found": 28
+    },
+    {
+      "company": "Payactiv",
+      "configured_url": "https://payactiv.com/news/",
+      "final_url": "https://payactiv.com/news/",
+      "status": 200,
+      "html_bytes": 204271,
+      "links_found": 30
+    },
+    {
+      "company": "Payd",
+      "configured_url": "https://www.payd.co/news",
+      "error": "HTTPSConnectionPool(host='www.payd.co', port=443): Max retries exceeded with url: /news (Caused by NameResolutionError(\"HTTPSConnection(host='www.payd.co', port=443): Failed to resolve 'www.payd.co' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+      "company": "Payhawk",
+      "configured_url": "https://payhawk.com/newsroom",
+      "final_url": "https://payhawk.com/newsroom",
+      "status": 200,
+      "html_bytes": 317587,
+      "links_found": 47
+    },
+    {
+      "company": "Payment Components",
+      "configured_url": "https://www.aciworldwide.com/solutions/financial-messaging",
+      "final_url": "https://www.aciworldwide.com/solutions/financial-messaging",
+      "status": 200,
+      "html_bytes": 337934,
+      "links_found": 23
+    },
+    {
+      "company": "Paymentology",
+      "configured_url": "https://www.paymentology.com/newsroom",
+      "final_url": "https://www.paymentology.com/newsroom",
+      "status": 200,
+      "html_bytes": 572017,
+      "links_found": 192
+    },
+    {
+      "company": "Paymob",
+      "configured_url": "https://www.paymob.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.paymob.com/news"
+    },
+    {
+      "company": "Payoneer",
+      "configured_url": "https://www.payoneer.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.payoneer.com/news"
+    },
+    {
+      "company": "PayPal",
+      "configured_url": "https://www.paypal.com/uk/home",
+      "final_url": "https://www.paypal.com/uk/home",
+      "status": 200,
+      "html_bytes": 266139,
+      "links_found": 74
+    },
+    {
+      "company": "Paytm",
+      "configured_url": "https://paytm.com/",
+      "final_url": "https://paytm.com/",
+      "status": 200,
+      "html_bytes": 346308,
+      "links_found": 591
+    },
+    {
+      "company": "PayZen",
+      "configured_url": "https://payzen.com/news/",
+      "final_url": "https://payzen.com/news/",
+      "status": 200,
+      "html_bytes": 400980,
+      "links_found": 24
+    },
+    {
+      "company": "PB Fintech / Policybazaar",
+      "configured_url": "https://www.pbfintech.in/news",
+      "error": "404 Client Error: Not Found for url: https://www.pbfintech.in/news"
+    },
+    {
+      "company": "Pennylane",
+      "configured_url": "https://www.pennylane.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.pennylane.com/news"
+    },
+    {
+      "company": "Perfios",
+      "configured_url": "https://www.perfios.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.perfios.com/news"
+    },
+    {
+      "company": "Perpay",
+      "configured_url": "https://www.perpay.com/news",
+      "error": "404 Client Error: Not Found for url: https://perpay.com/news"
+    },
+    {
+      "company": "Pershing",
+      "configured_url": "https://www.pershing.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.bny.com/pershing/news.html"
+    },
+    {
+      "company": "Persona",
+      "configured_url": "https://www.withpersona.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.withpersona.com/news"
+    },
+    {
+      "company": "PhonePe",
+      "configured_url": "https://www.phonepe.com/press/",
+      "final_url": "https://www.phonepe.com/press/",
+      "status": 200,
+      "html_bytes": 446821,
+      "links_found": 51
+    },
+    {
+      "company": "Pie Insurance",
+      "configured_url": "https://www.pieinsurance.com/media",
+      "final_url": "https://www.pieinsurance.com/media",
+      "status": 200,
+      "html_bytes": 179098,
+      "links_found": 34
+    },
+    {
+      "company": "Pine Labs",
+      "configured_url": "https://www.pinelabs.com/blog",
+      "final_url": "https://www.pinelabs.com/blog",
+      "status": 200,
+      "html_bytes": 82384,
+      "links_found": 2
+    },
+    {
+      "company": "PitchBook",
+      "configured_url": "https://www.pitchbook.com/news",
+      "error": "403 Client Error: Forbidden for url: https://pitchbook.com/news"
+    },
+    {
+      "company": "Plaid",
+      "configured_url": "https://plaid.com/press/",
+      "final_url": "https://plaid.com/press/",
+      "status": 200,
+      "html_bytes": 371009,
+      "links_found": 30
+    },
+    {
+      "company": "Pleo",
+      "configured_url": "https://www.pleo.io/en/press",
+      "final_url": "https://www.pleo.io/en/press",
+      "status": 200,
+      "html_bytes": 330182,
+      "links_found": 35
+    },
+    {
+      "company": "Point",
+      "configured_url": "https://point.com/media-room/press-coverage",
+      "final_url": "https://point.com/media-room/press-coverage",
+      "status": 200,
+      "html_bytes": 122503,
+      "links_found": 28
+    },
+    {
+      "company": "Pomelo",
+      "configured_url": "https://www.pomelo.la/blog",
+      "final_url": "https://www.pomelo.la/blog",
+      "status": 200,
+      "html_bytes": 422606,
+      "links_found": 45
+    },
+    {
+      "company": "Pontera",
+      "configured_url": "https://www.pontera.com/news",
+      "final_url": "https://www.pontera.com/news",
+      "status": 200,
+      "html_bytes": 287820,
+      "links_found": 11
+    },
+    {
+      "company": "Possible Finance",
+      "configured_url": "https://www.possiblefinance.com/blog",
+      "final_url": "https://www.possiblefinance.com/blog",
+      "status": 200,
+      "html_bytes": 1072649,
+      "links_found": 29
+    },
+    {
+      "company": "PPRO",
+      "configured_url": "https://www.ppro.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.ppro.com/news"
+    },
+    {
+      "company": "Practifi",
+      "configured_url": "https://www.practifi.com/blog/",
+      "final_url": "https://www.practifi.com/blog/",
+      "status": 200,
+      "html_bytes": 259815,
+      "links_found": 39
+    },
+    {
+      "company": "Preqin",
+      "configured_url": "https://www.preqin.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.preqin.com/news"
+    },
+    {
+      "company": "Primer",
+      "configured_url": "https://www.primer.io/blog",
+      "final_url": "https://www.primer.io/blog",
+      "status": 200,
+      "html_bytes": 215144,
+      "links_found": 31
+    },
+    {
+      "company": "Prosper",
+      "configured_url": "https://www.prosper.com/media",
+      "final_url": "https://www.prosper.com/media",
+      "status": 200,
+      "html_bytes": 257108,
+      "links_found": 48
+    },
+    {
+      "company": "Protean eGov Technologies",
+      "configured_url": "https://www.proteantech.in/news",
+      "error": "404 Client Error: Not Found for url: https://www.proteantech.in/news/"
+    },
+    {
+      "company": "Provenir",
+      "configured_url": "https://www.provenir.com/news/",
+      "final_url": "https://www.provenir.com/news/",
+      "status": 200,
+      "html_bytes": 89194,
+      "links_found": 38
+    },
+    {
+      "company": "Public",
+      "configured_url": "https://public.com/newsroom",
+      "final_url": "https://public.com/newsroom",
+      "status": 200,
+      "html_bytes": 176907,
+      "links_found": 63
+    },
+    {
+      "company": "Q2 Holdings",
+      "configured_url": "https://www.q2.com/company/newsroom",
+      "final_url": "https://www.q2.com/company/newsroom",
+      "status": 200,
+      "html_bytes": 225788,
+      "links_found": 33
+    },
+    {
+      "company": "Qonto",
+      "configured_url": "https://www.qonto.com/news",
+      "error": "404 Client Error: Not Found for url: https://qonto.com:443/news"
+    },
+    {
+      "company": "Qover",
+      "configured_url": "https://www.qover.com/press",
+      "final_url": "https://www.qover.com/press",
+      "status": 200,
+      "html_bytes": 208933,
+      "links_found": 86
+    },
+    {
+      "company": "Quartr",
+      "configured_url": "https://quartr.com/newsroom",
+      "final_url": "https://quartr.com/newsroom",
+      "status": 200,
+      "html_bytes": 344850,
+      "links_found": 37
+    },
+    {
+      "company": "Railsr",
+      "configured_url": "https://www.railsr.com/newsroom",
+      "final_url": "https://www.railsr.com/newsroom",
+      "status": 200,
+      "html_bytes": 1844112,
+      "links_found": 54
+    },
+    {
+      "company": "Rain",
+      "configured_url": "https://www.rain.app/news",
+      "error": "404 Client Error: Not Found for url: https://www.rain.app/news"
+    },
+    {
+      "company": "Ramp",
+      "configured_url": "https://ramp.com/business-cards?utm_source=oxford&utm_medium=national-radio&utm_content=news&utm_campaign=radio-sxm-250bonus",
+      "final_url": "https://ramp.com/business-cards?utm_source=oxford&utm_medium=national-radio&utm_content=news&utm_campaign=radio-sxm-250bonus",
+      "status": 200,
+      "html_bytes": 1087889,
+      "links_found": 5
+    },
+    {
+      "company": "RappiPay",
+      "configured_url": "https://www.rappibank.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.rappibank.com/news"
+    },
+    {
+      "company": "Rapyd",
+      "configured_url": "https://www.rapyd.net/resources/blog/",
+      "final_url": "https://www.rapyd.net/resources/blog/",
+      "status": 200,
+      "html_bytes": 256783,
+      "links_found": 82
+    },
+    {
+      "company": "RavenPack",
+      "configured_url": "https://www.ravenpack.com/insights",
+      "final_url": "https://www.ravenpack.com/insights",
+      "status": 200,
+      "html_bytes": 94007,
+      "links_found": 11
+    },
+    {
+      "company": "Razorpay",
+      "configured_url": "https://razorpay.com/newsroom/",
+      "final_url": "https://razorpay.com/newsroom/",
+      "status": 200,
+      "html_bytes": 96696,
+      "links_found": 29
+    },
+    {
+      "company": "Regnology",
+      "configured_url": "https://www.regnology.net/en/resources/news/",
+      "final_url": "https://www.regnology.net/en/resources/news/",
+      "status": 200,
+      "html_bytes": 90779,
+      "links_found": 236
+    },
+    {
+      "company": "Regula",
+      "configured_url": "https://regulaforensics.com:443/news/",
+      "final_url": "https://regulaforensics.com:443/news/",
+      "status": 200,
+      "html_bytes": 356680,
+      "links_found": 31
+    },
+    {
+      "company": "Relay",
+      "configured_url": "https://relayfi.com/blog/",
+      "final_url": "https://relayfi.com/blog/",
+      "status": 200,
+      "html_bytes": 220435,
+      "links_found": 60
+    },
+    {
+      "company": "Remitly",
+      "configured_url": "https://www.remitly.com/blog/",
+      "final_url": "https://www.remitly.com/blog/",
+      "status": 200,
+      "html_bytes": 331891,
+      "links_found": 122
+    },
+    {
+      "company": "Resolve",
+      "configured_url": "https://resolvepay.com/blog",
+      "final_url": "https://resolvepay.com/blog",
+      "status": 200,
+      "html_bytes": 1372964,
+      "links_found": 521
+    },
+    {
+      "company": "Revolut",
+      "configured_url": "https://www.revolut.com/news",
+      "final_url": "https://www.revolut.com/news/",
+      "status": 200,
+      "html_bytes": 400045,
+      "links_found": 91
+    },
+    {
+      "company": "Rho",
+      "configured_url": "https://www.rho.co/",
+      "final_url": "https://www.rho.co/",
+      "status": 200,
+      "html_bytes": 398228,
+      "links_found": 18
+    },
+    {
+      "company": "Rillet",
+      "configured_url": "https://www.rillet.com/blog",
+      "final_url": "https://www.rillet.com/blog",
+      "status": 200,
+      "html_bytes": 284519,
+      "links_found": 39
+    },
+    {
+      "company": "Ripple",
+      "configured_url": "https://ripple.com/press-releases/",
+      "final_url": "https://ripple.com/press-releases/",
+      "status": 200,
+      "html_bytes": 114897,
+      "links_found": 37
+    },
+    {
+      "company": "Riskalyze / Nitrogen",
+      "configured_url": "https://nitrogenwealth.com/newsroom/",
+      "final_url": "https://nitrogenwealth.com/newsroom/",
+      "status": 200,
+      "html_bytes": 87570,
+      "links_found": 21
+    },
+    {
+      "company": "Riskified",
+      "configured_url": "https://www.riskified.com/news",
+      "final_url": "https://www.riskified.com/events/",
+      "status": 200,
+      "html_bytes": 123566,
+      "links_found": 28
+    },
+    {
+      "company": "Robinhood",
+      "configured_url": "https://robinhood.com/news",
+      "final_url": "https://robinhood.com/news",
+      "status": 200,
+      "html_bytes": 8084,
+      "links_found": 0
+    },
+    {
+      "company": "Rocket Money",
+      "configured_url": "https://onboarding.rocketmoney.com/referrals?_forward_params=1&_smtype=3&utm_campaign=news&utm_medium=radio&utm_source=radio&wpcid=news&wpcn=news&wpsnetn=radio",
+      "error": "403 Client Error: Forbidden for url: https://onboarding.rocketmoney.com/referrals?_forward_params=1&_smtype=3&utm_campaign=news&utm_medium=radio&utm_source=radio&wpcid=news&wpcn=news&wpsnetn=radio"
+    },
+    {
+      "company": "Rogo",
+      "configured_url": "https://rogo.com/news",
+      "final_url": "https://rogo.com/news",
+      "status": 200,
+      "html_bytes": 372558,
+      "links_found": 28
+    },
+    {
+      "company": "Root",
+      "configured_url": "https://inc.joinroot.com/press/",
+      "final_url": "https://inc.joinroot.com/press/",
+      "status": 200,
+      "html_bytes": 119923,
+      "links_found": 4
+    },
+    {
+      "company": "Round Treasury",
+      "configured_url": "https://www.roundtreasury.com/blog",
+      "final_url": "https://www.roundtreasury.com/blog",
+      "status": 200,
+      "html_bytes": 70598,
+      "links_found": 46
+    },
+    {
+      "company": "Ruya",
+      "configured_url": "https://www.ruyabank.ae/en/press",
+      "final_url": "https://www.ruyabank.ae/en/press",
+      "status": 200,
+      "html_bytes": 69601,
+      "links_found": 16
+    },
+    {
+      "company": "S&P Global",
+      "configured_url": "https://www.spglobal.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.spglobal.com/news"
+    },
+    {
+      "company": "Sage",
+      "configured_url": "https://www.sage.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.sage.com/news/"
+    },
+    {
+      "company": "Salary Finance",
+      "configured_url": "https://www.salaryfinance.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.salaryfinance.com/news"
+    },
+    {
+      "company": "Salt Edge",
+      "configured_url": "https://www.saltedge.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.saltedge.com/news"
+    },
+    {
+      "company": "Salv",
+      "configured_url": "https://salv.com/news/",
+      "final_url": "https://salv.com/news/",
+      "status": 200,
+      "html_bytes": 50934,
+      "links_found": 49
+    },
+    {
+      "company": "SAP",
+      "configured_url": "https://www.sap.com/news",
+      "final_url": "https://news.sap.com",
+      "status": 200,
+      "html_bytes": 106927,
+      "links_found": 42
+    },
+    {
+      "company": "Sardine",
+      "configured_url": "https://www.sardine.ai/blog",
+      "final_url": "https://www.sardine.ai/blog",
+      "status": 200,
+      "html_bytes": 616106,
+      "links_found": 41
+    },
+    {
+      "company": "Sarwa",
+      "configured_url": "https://www.sarwa.co/news",
+      "final_url": "https://www.sarwa.co/news",
+      "status": 200,
+      "html_bytes": 6297,
+      "links_found": 0
+    },
+    {
+      "company": "Scalable Capital",
+      "configured_url": "https://de.scalable.capital/newsletter-bits-and-pieces?utm_source=welt&utm_medium=column",
+      "final_url": "https://de.scalable.capital/newsletter-bits-and-pieces?utm_source=welt&utm_medium=column",
+      "status": 200,
+      "html_bytes": 87694,
+      "links_found": 20
+    },
+    {
+      "company": "Scalapay",
+      "configured_url": "https://www.scalapay.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.scalapay.com/news"
+    },
+    {
+      "company": "Scienaptic AI",
+      "configured_url": "https://www.scienaptic.ai/news",
+      "final_url": "https://www.scienaptic.ai/news",
+      "status": 200,
+      "html_bytes": 1988349,
+      "links_found": 55
+    },
+    {
+      "company": "SEI",
+      "configured_url": "https://www.seic.com/about-sei/newsroom",
+      "final_url": "https://www.seic.com/about-sei/newsroom",
+      "status": 200,
+      "html_bytes": 144583,
+      "links_found": 30
+    },
+    {
+      "company": "Sendwave",
+      "configured_url": "https://www.sendwave.com/en/blog",
+      "final_url": "https://www.sendwave.com/en/blog",
+      "status": 200,
+      "html_bytes": 181015,
+      "links_found": 32
+    },
+    {
+      "company": "Sentieo",
+      "configured_url": "https://www.sentieo.com/news",
+      "error": "HTTPSConnectionPool(host='www.sentieo.com', port=443): Max retries exceeded with url: /news (Caused by NameResolutionError(\"HTTPSConnection(host='www.sentieo.com', port=443): Failed to resolve 'www.sentieo.com' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "company": "Setu",
+      "configured_url": "https://setu.co/blog",
+      "final_url": "https://setu.co/blog",
+      "status": 200,
+      "html_bytes": 106101,
+      "links_found": 62
+    },
+    {
+      "company": "Sezzle",
+      "configured_url": "https://www.sezzle.com/news",
+      "final_url": "https://www.sezzle.com/news",
+      "status": 200,
+      "html_bytes": 481817,
+      "links_found": 55
+    },
+    {
+      "company": "Shift4",
+      "configured_url": "https://www.shift4.com/news",
+      "error": "429 Client Error: Too Many Requests for url: https://www.shift4.com/news"
+    },
+    {
+      "company": "Shufti Pro",
+      "configured_url": "https://shuftipro.com/press-release/",
+      "final_url": "https://shuftipro.com/press-release/",
+      "status": 200,
+      "html_bytes": 519669,
+      "links_found": 162
+    },
+    {
+      "company": "Sidecar Health",
+      "configured_url": "https://www.sidecarhealth.com/",
+      "final_url": "https://www.sidecarhealth.com/",
+      "status": 200,
+      "html_bytes": 89785,
+      "links_found": 11
+    },
+    {
+      "company": "Sift",
+      "configured_url": "https://sift.com/company/newsroom/",
+      "final_url": "https://sift.com/company/newsroom/",
+      "status": 200,
+      "html_bytes": 391895,
+      "links_found": 27
+    },
+    {
+      "company": "SimCorp",
+      "configured_url": "https://www.simcorp.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.simcorp.com/news"
+    },
+    {
+      "company": "Similarweb",
+      "configured_url": "https://www.similarweb.com/blog/",
+      "final_url": "https://www.similarweb.com/blog/",
+      "status": 200,
+      "html_bytes": 356329,
+      "links_found": 118
+    },
+    {
+      "company": "Slice",
+      "configured_url": "https://slice.bank.in/",
+      "final_url": "https://slice.bank.in/",
+      "status": 200,
+      "html_bytes": 231474,
+      "links_found": 18
+    },
+    {
+      "company": "Smile ID",
+      "configured_url": "https://smile.id/press",
+      "final_url": "https://smile.id/press",
+      "status": 200,
+      "html_bytes": 58680,
+      "links_found": 20
+    },
+    {
+      "company": "Socure",
+      "configured_url": "https://www.socure.com/",
+      "final_url": "https://www.socure.com/",
+      "status": 200,
+      "html_bytes": 242908,
+      "links_found": 24
+    },
+    {
+      "company": "SoFi",
+      "configured_url": "https://www.sofi.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.sofi.com/news/"
+    },
+    {
+      "company": "SoFi Invest",
+      "configured_url": "https://www.sofi.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.sofi.com/news/"
+    },
+    {
+      "company": "Solana Labs",
+      "configured_url": "https://solana.com/news",
+      "final_url": "https://solana.com/news",
+      "status": 200,
+      "html_bytes": 880574,
+      "links_found": 57
+    },
+    {
+      "company": "Solaris",
+      "configured_url": "https://www.solarisgroup.com/en/press/",
+      "final_url": "https://www.solarisgroup.com/en/press/",
+      "status": 200,
+      "html_bytes": 263304,
+      "links_found": 33
+    },
+    {
+      "company": "Sopra Banking Software",
+      "configured_url": "https://sbs-software.com/news/",
+      "final_url": "https://sbs-software.com/news/",
+      "status": 200,
+      "html_bytes": 226677,
+      "links_found": 40
+    },
+    {
+      "company": "Sovos",
+      "configured_url": "https://sovos.com/press-releases/",
+      "final_url": "https://sovos.com/press-releases/",
+      "status": 200,
+      "html_bytes": 365983,
+      "links_found": 22
+    },
+    {
+      "company": "Spendesk",
+      "configured_url": "https://www.spendesk.com/press/",
+      "final_url": "https://www.spendesk.com/press/",
+      "status": 200,
+      "html_bytes": 300327,
+      "links_found": 35
+    },
+    {
+      "company": "Splitit",
+      "configured_url": "https://news.splitit.com/",
+      "final_url": "https://news.splitit.com/",
+      "status": 200,
+      "html_bytes": 102562,
+      "links_found": 7
+    },
+    {
+      "company": "SpotOn",
+      "configured_url": "https://www.spoton.com/media/",
+      "final_url": "https://www.spoton.com/media/",
+      "status": 200,
+      "html_bytes": 133845,
+      "links_found": 41
+    },
+    {
+      "company": "Spreedly",
+      "configured_url": "https://www.spreedly.com/news",
+      "final_url": "https://www.spreedly.com/news",
+      "status": 200,
+      "html_bytes": 172136,
+      "links_found": 22
+    },
+    {
+      "company": "Spruce",
+      "configured_url": "https://www.spruce.co/news",
+      "error": "HTTPSConnectionPool(host='www.spruce.co', port=443): Max retries exceeded with url: /news (Caused by NameResolutionError(\"HTTPSConnection(host='www.spruce.co', port=443): Failed to resolve 'www.spruce.co' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+      "company": "SS&C Technologies",
+      "configured_url": "https://www.ssctech.com/blog",
+      "final_url": "https://www.ssctech.com/blog",
+      "status": 200,
+      "html_bytes": 127804,
+      "links_found": 38
+    },
+    {
+      "company": "Stake",
+      "configured_url": "https://www.hellostake.com/uk",
+      "final_url": "https://www.hellostake.com/uk",
+      "status": 200,
+      "html_bytes": 41343,
+      "links_found": 8
+    },
+    {
+      "company": "Starling Bank",
+      "configured_url": "https://www.starlingbank.com/news/",
+      "final_url": "https://www.starlingbank.com/news/",
+      "status": 200,
+      "html_bytes": 211278,
+      "links_found": 40
+    },
+    {
+      "company": "Stash",
+      "configured_url": "https://www.stash.com/news",
+      "final_url": "https://www.stash.com/news",
+      "status": 200,
+      "html_bytes": 368701,
+      "links_found": 51
+    },
+    {
+      "company": "StashAway MENA",
+      "configured_url": "https://www.stashaway.sg/press",
+      "final_url": "https://www.stashaway.sg/press",
+      "status": 200,
+      "html_bytes": 193456,
+      "links_found": 59
+    },
+    {
+      "company": "StoneCo",
+      "configured_url": "https://www.stoneco.com.br/newsroom/",
+      "final_url": "https://www.stoneco.com.br/newsroom/",
+      "status": 200,
+      "html_bytes": 111090,
+      "links_found": 18
+    },
+    {
+      "company": "Stori",
+      "configured_url": "https://www.storicard.com/",
+      "final_url": "https://www.storicard.com/",
+      "status": 200,
+      "html_bytes": 162052,
+      "links_found": 29
+    },
+    {
+      "company": "Stream",
+      "configured_url": "https://www.stream.co/news",
+      "error": "404 Client Error: Not Found for url: https://stream.co/news"
+    },
+    {
+      "company": "Stripe",
+      "configured_url": "https://stripe.com/gb/newsroom",
+      "final_url": "https://stripe.com/gb/newsroom",
+      "status": 200,
+      "html_bytes": 584054,
+      "links_found": 157
+    },
+    {
+      "company": "Sumsub",
+      "configured_url": "https://sumsub.com/media/news/",
+      "final_url": "https://sumsub.com/media/news/",
+      "status": 200,
+      "html_bytes": 166446,
+      "links_found": 26
+    },
+    {
+      "company": "SumUp",
+      "configured_url": "https://www.sumup.com/en-us/press/",
+      "final_url": "https://www.sumup.com/en-us/press/",
+      "status": 200,
+      "html_bytes": 312539,
+      "links_found": 64
+    },
+    {
+      "company": "Sunbit",
+      "configured_url": "https://sunbit.com/press/",
+      "final_url": "https://sunbit.com/press/",
+      "status": 200,
+      "html_bytes": 162444,
+      "links_found": 38
+    },
+    {
+      "company": "Superscript",
+      "configured_url": "https://gosuperscript.com/news-and-resources/",
+      "final_url": "https://gosuperscript.com/news-and-resources/",
+      "status": 200,
+      "html_bytes": 92724,
+      "links_found": 86
+    },
+    {
+      "company": "Swan",
+      "configured_url": "https://www.swan.io/blog",
+      "final_url": "https://www.swan.io/blog",
+      "status": 200,
+      "html_bytes": 492530,
+      "links_found": 29
+    },
+    {
+      "company": "Synctera",
+      "configured_url": "https://www.synctera.com/newsroom",
+      "final_url": "https://www.synctera.com/newsroom",
+      "status": 200,
+      "html_bytes": 43400,
+      "links_found": 40
+    },
+    {
+      "company": "Tabby",
+      "configured_url": "https://tabby.ai/en-AE/newsroom",
+      "final_url": "https://tabby.ai/en-AE/newsroom",
+      "status": 200,
+      "html_bytes": 239796,
+      "links_found": 21
+    },
+    {
+      "company": "Tabit",
+      "configured_url": "https://www.tabit.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.tabit.com/news"
+    },
+    {
+      "company": "Taktile",
+      "configured_url": "https://www.taktile.com/press",
+      "final_url": "https://www.taktile.com/press",
+      "status": 200,
+      "html_bytes": 154625,
+      "links_found": 30
+    },
+    {
+      "company": "Tala",
+      "configured_url": "https://tala.co/press/",
+      "final_url": "https://tala.co/press/",
+      "status": 200,
+      "html_bytes": 187541,
+      "links_found": 32
+    },
+    {
+      "company": "Tamara",
+      "configured_url": "https://tamara.co/en-sa/media-center",
+      "final_url": "https://tamara.co/en-sa/media-center",
+      "status": 200,
+      "html_bytes": 108102,
+      "links_found": 34
+    },
+    {
+      "company": "Tapcheck",
+      "configured_url": "https://www.tapcheck.com/press",
+      "final_url": "https://www.tapcheck.com/press",
+      "status": 200,
+      "html_bytes": 154959,
+      "links_found": 28
+    },
+    {
+      "company": "Taptap Send",
+      "configured_url": "https://www.taptapsend.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.taptapsend.com/en/news"
+    },
+    {
+      "company": "Tarabut Gateway",
+      "configured_url": "https://tarabut.com/",
+      "final_url": "https://tarabut.com/",
+      "status": 307,
+      "html_bytes": 11842,
+      "links_found": 0
+    },
+    {
+      "company": "Taxback / VAT IT",
+      "configured_url": "https://vatit.com/news/",
+      "final_url": "https://vatit.com/news/",
+      "status": 200,
+      "html_bytes": 604251,
+      "links_found": 37
+    },
+    {
+      "company": "TeamSystem",
+      "configured_url": "https://www.teamsystem.com/nazionale-italiana/",
+      "final_url": "https://www.teamsystem.com/nazionale-italiana/",
+      "status": 200,
+      "html_bytes": 478585,
+      "links_found": 141
+    },
+    {
+      "company": "Tegus",
+      "configured_url": "https://www.alpha-sense.com/resources/",
+      "final_url": "https://www.alpha-sense.com/resources/",
+      "status": 200,
+      "html_bytes": 231773,
+      "links_found": 22
+    },
+    {
+      "company": "Telr",
+      "configured_url": "https://telr.com/blog",
+      "final_url": "https://telr.com/blog",
+      "status": 200,
+      "html_bytes": 86723,
+      "links_found": 29
+    },
+    {
+      "company": "Temenos",
+      "configured_url": "https://www.temenos.com/press-releases/",
+      "final_url": "https://www.temenos.com/press-releases/",
+      "status": 200,
+      "html_bytes": 168053,
+      "links_found": 49
+    },
+    {
+      "company": "TerraPay",
+      "configured_url": "https://www.terrapay.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.terrapay.com/news"
+    },
+    {
+      "company": "Tether",
+      "configured_url": "https://tether.io/news/",
+      "final_url": "https://tether.io/news/",
+      "status": 200,
+      "html_bytes": 43822,
+      "links_found": 14
+    },
+    {
+      "company": "Thales",
+      "configured_url": "https://www.thalesgroup.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.thalesgroup.com/news"
+    },
+    {
+      "company": "The Zebra",
+      "configured_url": "https://www.thezebra.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.thezebra.com/news"
+    },
+    {
+      "company": "Thomson Reuters",
+      "configured_url": "https://www.thomsonreuters.com/en/press-releases",
+      "final_url": "https://www.thomsonreuters.com/en/press-releases",
+      "status": 200,
+      "html_bytes": 338462,
+      "links_found": 30
+    },
+    {
+      "company": "Thought Machine",
+      "configured_url": "https://www.thoughtmachine.net/press",
+      "final_url": "https://www.thoughtmachine.net/press",
+      "status": 200,
+      "html_bytes": 106756,
+      "links_found": 38
+    },
+    {
+      "company": "Thredd",
+      "configured_url": "https://www.thredd.ai/newsroom",
+      "error": "404 Client Error: Not Found for url: https://www.thredd.ai/newsroom"
+    },
+    {
+      "company": "Thunes",
+      "configured_url": "https://www.thunes.com/news",
+      "final_url": "https://www.thunes.com/news",
+      "status": 202,
+      "html_bytes": 173,
+      "links_found": 0
+    },
+    {
+      "company": "Tide",
+      "configured_url": "https://www.tide.co/newsroom/",
+      "final_url": "https://www.tide.co/newsroom/",
+      "status": 200,
+      "html_bytes": 732850,
+      "links_found": 121
+    },
+    {
+      "company": "Tietoevry Banking",
+      "configured_url": "https://www.tieto.com",
+      "final_url": "https://www.tieto.com/",
+      "status": 200,
+      "html_bytes": 89085,
+      "links_found": 43
+    },
+    {
+      "company": "Tillful",
+      "configured_url": "https://www.nav.com:443/newsroom/",
+      "final_url": "https://www.nav.com:443/newsroom/",
+      "status": 200,
+      "html_bytes": 168506,
+      "links_found": 24
+    },
+    {
+      "company": "Tink",
+      "configured_url": "https://www.tink.com/press",
+      "final_url": "https://www.tink.com/press",
+      "status": 200,
+      "html_bytes": 330506,
+      "links_found": 129
+    },
+    {
+      "company": "Tipalti",
+      "configured_url": "https://tipalti.com/company/press/",
+      "final_url": "https://tipalti.com/company/press/",
+      "status": 200,
+      "html_bytes": 190496,
+      "links_found": 67
+    },
+    {
+      "company": "Titan",
+      "configured_url": "https://www.titan.com/about",
+      "final_url": "https://www.titan.com/about",
+      "status": 200,
+      "html_bytes": 180008,
+      "links_found": 29
+    },
+    {
+      "company": "Toast",
+      "configured_url": "https://www.toasttab.com/news",
+      "final_url": "https://pos.toasttab.com/news",
+      "status": 200,
+      "html_bytes": 624166,
+      "links_found": 54
+    },
+    {
+      "company": "Token.io",
+      "configured_url": "https://token.io:443/press",
+      "final_url": "https://token.io:443/press",
+      "status": 202,
+      "html_bytes": 2399,
+      "links_found": 0
+    },
+    {
+      "company": "Tookitaki",
+      "configured_url": "https://www.tookitaki.com/blog",
+      "final_url": "https://www.tookitaki.com/blog",
+      "status": 200,
+      "html_bytes": 535878,
+      "links_found": 289
+    },
+    {
+      "company": "Trade Republic",
+      "configured_url": "https://www.traderepublic.com/news",
+      "error": "404 Client Error: Not Found for url: https://traderepublic.com/news"
+    },
+    {
+      "company": "Tradeweb",
+      "configured_url": "https://www.tradeweb.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.tradeweb.com/news"
+    },
+    {
+      "company": "Trading 212",
+      "configured_url": "https://www.trading212.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.trading212.com/news"
+    },
+    {
+      "company": "Trading Technologies",
+      "configured_url": "https://tradingtechnologies.com/about-us/news-releases/",
+      "final_url": "https://tradingtechnologies.com/about-us/news-releases/",
+      "status": 200,
+      "html_bytes": 78084,
+      "links_found": 59
+    },
+    {
+      "company": "Traive",
+      "configured_url": "https://www.traive.com/news",
+      "error": "HTTPSConnectionPool(host='www.traive.com', port=443): Max retries exceeded with url: /news (Caused by NameResolutionError(\"HTTPSConnection(host='www.traive.com', port=443): Failed to resolve 'www.traive.com' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "company": "Tranch",
+      "configured_url": "https://www.tranch.ai/news",
+      "error": "HTTPSConnectionPool(host='www.tranch.ai', port=443): Max retries exceeded with url: /news (Caused by NameResolutionError(\"HTTPSConnection(host='www.tranch.ai', port=443): Failed to resolve 'www.tranch.ai' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+      "company": "TransferGo",
+      "configured_url": "https://www.transfergo.com/blog",
+      "final_url": "https://www.transfergo.com/blog",
+      "status": 200,
+      "html_bytes": 216439,
+      "links_found": 214
+    },
+    {
+      "company": "TransferMate",
+      "configured_url": "https://www.transfermate.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.transfermate.com/news"
+    },
+    {
+      "company": "TransUnion",
+      "configured_url": "https://www.transunion.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.transunion.com/news"
+    },
+    {
+      "company": "Treasury Prime",
+      "configured_url": "https://www.treasuryprime.com/newsroom",
+      "final_url": "https://www.treasuryprime.com/newsroom",
+      "status": 200,
+      "html_bytes": 70492,
+      "links_found": 31
+    },
+    {
+      "company": "TreasuryXpress",
+      "configured_url": "https://www.treasuryxpress.com/news",
+      "error": "530 Server Error: <none> for url: https://www.treasuryxpress.com/news"
+    },
+    {
+      "company": "TreviPay",
+      "configured_url": "https://www.trevipay.com/resources/blog/",
+      "final_url": "https://www.trevipay.com/resources/blog/",
+      "status": 200,
+      "html_bytes": 761323,
+      "links_found": 46
+    },
+    {
+      "company": "Trintech",
+      "configured_url": "https://www.trintech.com/press-releases/",
+      "final_url": "https://www.trintech.com/press-releases/",
+      "status": 200,
+      "html_bytes": 173591,
+      "links_found": 71
+    },
+    {
+      "company": "TRM Labs",
+      "configured_url": "https://www.trmlabs.com/resources/blog",
+      "final_url": "https://www.trmlabs.com/resources/blog",
+      "status": 200,
+      "html_bytes": 163579,
+      "links_found": 60
+    },
+    {
+      "company": "Trovata",
+      "configured_url": "https://trovata.io/press",
+      "final_url": "https://trovata.io/press",
+      "status": 200,
+      "html_bytes": 227773,
+      "links_found": 33
+    },
+    {
+      "company": "TrueLayer",
+      "configured_url": "https://truelayer.com/newsroom/",
+      "final_url": "https://truelayer.com/newsroom/",
+      "status": 200,
+      "html_bytes": 305923,
+      "links_found": 42
+    },
+    {
+      "company": "Trulioo",
+      "configured_url": "https://www.trulioo.com/company/newsroom",
+      "final_url": "https://www.trulioo.com/company/newsroom",
+      "status": 200,
+      "html_bytes": 231911,
+      "links_found": 41
+    },
+    {
+      "company": "Tutuka",
+      "configured_url": "https://www.tutuka.com/news",
+      "error": "HTTPSConnectionPool(host='www.tutuka.com', port=443): Max retries exceeded with url: /news (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tutuka.com'. (_ssl.c:1010)\")))"
+    },
+    {
+      "company": "Tuum",
+      "configured_url": "https://www.tuumplatform.com/news",
+      "error": "403 Client Error: Forbidden for url: https://tuum.com/news"
+    },
+    {
+      "company": "Tyfone",
+      "configured_url": "https://tyfone.com/news-resources/",
+      "final_url": "https://tyfone.com/news-resources/",
+      "status": 200,
+      "html_bytes": 566521,
+      "links_found": 103
+    },
+    {
+      "company": "Ual\u00e1",
+      "configured_url": "https://www.uala.com.ar/news",
+      "error": "404 Client Error: Not Found for url: https://www.uala.com.ar/404"
+    },
+    {
+      "company": "UnionPay International",
+      "configured_url": "https://www.unionpayintl.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.unionpayintl.com/news"
+    },
+    {
+      "company": "Unit",
+      "configured_url": "https://www.unit.co/resources",
+      "final_url": "https://www.unit.co/resources",
+      "status": 200,
+      "html_bytes": 400311,
+      "links_found": 92
+    },
+    {
+      "company": "Unit21",
+      "configured_url": "https://www.unit21.ai/resources/risk-compliance-blog",
+      "final_url": "https://www.unit21.ai/resources/risk-compliance-blog",
+      "status": 200,
+      "html_bytes": 130837,
+      "links_found": 30
+    },
+    {
+      "company": "Upgrade",
+      "configured_url": "https://www.upgrade.com/press/releases/",
+      "final_url": "https://www.upgrade.com/press/releases/",
+      "status": 200,
+      "html_bytes": 671745,
+      "links_found": 64
+    },
+    {
+      "company": "Upstart",
+      "configured_url": "https://www.upstart.com/news",
+      "final_url": "https://www.upstart.com/news",
+      "status": 200,
+      "html_bytes": 352456,
+      "links_found": 43
+    },
+    {
+      "company": "Vanilla",
+      "configured_url": "https://vanillasoft.com/company/news",
+      "final_url": "https://vanillasoft.com/company/news",
+      "status": 200,
+      "html_bytes": 334609,
+      "links_found": 36
+    },
+    {
+      "company": "VantageScore",
+      "configured_url": "https://www.vantagescore.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.vantagescore.com/news"
+    },
+    {
+      "company": "Varo",
+      "configured_url": "https://www.varomoney.com/press/",
+      "final_url": "https://www.varomoney.com/press/",
+      "status": 200,
+      "html_bytes": 360839,
+      "links_found": 34
+    },
+    {
+      "company": "Veridas",
+      "configured_url": "https://www.veridas.com/en/newsroom",
+      "final_url": "https://veridas.com/en/newsroom/",
+      "status": 200,
+      "html_bytes": 599404,
+      "links_found": 50
+    },
+    {
+      "company": "Veriff",
+      "configured_url": "https://www.veriff.com/press",
+      "final_url": "https://www.veriff.com/press",
+      "status": 200,
+      "html_bytes": 212758,
+      "links_found": 60
+    },
+    {
+      "company": "Verifone",
+      "configured_url": "https://www.verifone.com/newsroom",
+      "final_url": "https://www.verifone.com/newsroom",
+      "status": 200,
+      "html_bytes": 466661,
+      "links_found": 90
+    },
+    {
+      "company": "Vertex",
+      "configured_url": "https://www.vertexinc.com/company/news",
+      "final_url": "https://www.vertexinc.com/company/news",
+      "status": 200,
+      "html_bytes": 257002,
+      "links_found": 37
+    },
+    {
+      "company": "Vestmark",
+      "configured_url": "https://www.vestmark.com/press-events",
+      "final_url": "https://www.vestmark.com/press-events",
+      "status": 200,
+      "html_bytes": 89957,
+      "links_found": 29
+    },
+    {
+      "company": "Vestwell",
+      "configured_url": "https://www.vestwell.com/news",
+      "final_url": "https://www.vestwell.com/news",
+      "status": 200,
+      "html_bytes": 440186,
+      "links_found": 33
+    },
+    {
+      "company": "ViaBill",
+      "configured_url": "https://www.viabill.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.viabill.com/news"
+    },
+    {
+      "company": "Vic.ai",
+      "configured_url": "https://www.vic.ai/news",
+      "final_url": "https://www.vic.ai/news",
+      "status": 200,
+      "html_bytes": 100183,
+      "links_found": 32
+    },
+    {
+      "company": "Virtu Financial",
+      "configured_url": "https://www.virtu.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.virtu.com/news"
+    },
+    {
+      "company": "Visa",
+      "configured_url": "https://usa.visa.com/about-visa/newsroom.html",
+      "final_url": "https://usa.visa.com/about-visa/newsroom.html",
+      "status": 200,
+      "html_bytes": 130659,
+      "links_found": 11
+    },
+    {
+      "company": "Visa Risk & Identity Solutions",
+      "configured_url": "https://www.biocatch.com/news",
+      "final_url": "https://www.biocatch.com/news",
+      "status": 200,
+      "html_bytes": 158283,
+      "links_found": 52
+    },
+    {
+      "company": "Visible Alpha",
+      "configured_url": "https://www.visiblealpha.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.spglobal.com/market-intelligence/en/solutions/products/resources/visible-alpha"
+    },
+    {
+      "company": "Visma",
+      "configured_url": "https://www.visma.com/newsroom",
+      "final_url": "https://www.visma.com/newsroom",
+      "status": 200,
+      "html_bytes": 141324,
+      "links_found": 23
+    },
+    {
+      "company": "Vodeno",
+      "configured_url": "https://www.vodeno.com/news",
+      "error": "404 Client Error: Not Found for url: https://vodeno.com/news"
+    },
+    {
+      "company": "Volt",
+      "configured_url": "https://www.volt.io/news/",
+      "final_url": "https://www.volt.io/news/",
+      "status": 200,
+      "html_bytes": 259095,
+      "links_found": 36
+    },
+    {
+      "company": "Wagestream",
+      "configured_url": "https://www.wagestream.com/news",
+      "error": "404 Client Error: Not Found for url: https://stream.co/news"
+    },
+    {
+      "company": "Wallester",
+      "configured_url": "https://wallester.com/media",
+      "final_url": "https://wallester.com/media",
+      "status": 200,
+      "html_bytes": 120686,
+      "links_found": 65
+    },
+    {
+      "company": "Wave",
+      "configured_url": "https://www.waveapps.com/press",
+      "final_url": "https://www.waveapps.com/press",
+      "status": 200,
+      "html_bytes": 86355,
+      "links_found": 57
+    },
+    {
+      "company": "Waystar",
+      "configured_url": "https://www.waystar.com/about-us/newsroom/",
+      "final_url": "https://www.waystar.com/about-us/newsroom/",
+      "status": 200,
+      "html_bytes": 83948,
+      "links_found": 81
+    },
+    {
+      "company": "Wealthfront",
+      "configured_url": "https://www.wealthfront.com/cash",
+      "final_url": "https://www.wealthfront.com/cash",
+      "status": 200,
+      "html_bytes": 94310,
+      "links_found": 9
+    },
+    {
+      "company": "Wealthsimple",
+      "configured_url": "https://newsroom.wealthsimple.com/",
+      "final_url": "https://newsroom.wealthsimple.com/",
+      "status": 200,
+      "html_bytes": 189540,
+      "links_found": 14
+    },
+    {
+      "company": "Weavr",
+      "configured_url": "https://www.weavr.io/blog/newsroom-employee-benefits-research/",
+      "final_url": "https://www.weavr.io/blog/newsroom-employee-benefits-research/",
+      "status": 200,
+      "html_bytes": 97155,
+      "links_found": 31
+    },
+    {
+      "company": "WeBank",
+      "configured_url": "https://www.webank.com/news",
+      "final_url": "https://www.webank.com/news",
+      "status": 200,
+      "html_bytes": 15194,
+      "links_found": 0
+    },
+    {
+      "company": "Webull",
+      "configured_url": "https://www.webull.com/blog",
+      "final_url": "https://www.webull.com/blog",
+      "status": 200,
+      "html_bytes": 326590,
+      "links_found": 66
+    },
+    {
+      "company": "Wefox",
+      "configured_url": "https://www.wefox.com/newsroom",
+      "final_url": "https://www.wefox.com/newsroom",
+      "status": 200,
+      "html_bytes": 1017462,
+      "links_found": 19
+    },
+    {
+      "company": "Western Union",
+      "configured_url": "https://www.westernunion.com/blog/en/",
+      "final_url": "https://www.westernunion.com/blog/en/",
+      "status": 200,
+      "html_bytes": 143524,
+      "links_found": 63
+    },
+    {
+      "company": "Wintermute",
+      "configured_url": "https://www.wintermute.com/insights",
+      "final_url": "https://www.wintermute.com/insights",
+      "status": 200,
+      "html_bytes": 5145069,
+      "links_found": 36
+    },
+    {
+      "company": "Wio Bank",
+      "configured_url": "https://wio.io/press",
+      "final_url": "https://wio.io/press",
+      "status": 200,
+      "html_bytes": 229430,
+      "links_found": 21
+    },
+    {
+      "company": "Wise",
+      "configured_url": "https://newsroom.wise.com/",
+      "final_url": "https://newsroom.wise.com/en-NAM/",
+      "status": 200,
+      "html_bytes": 172004,
+      "links_found": 69
+    },
+    {
+      "company": "Wollit",
+      "configured_url": "https://www.wollit.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.wollit.com/news"
+    },
+    {
+      "company": "Wolters Kluwer",
+      "configured_url": "https://www.wolterskluwer.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.wolterskluwer.com/news"
+    },
+    {
+      "company": "Worldline",
+      "configured_url": "https://worldline.com/en/home/top-navigation/media-relations",
+      "error": "406 Client Error: Not Acceptable for url: https://worldline.com/en/home/top-navigation/media-relations"
+    },
+    {
+      "company": "Worldpay",
+      "configured_url": "https://www.worldpay.com/en/news",
+      "final_url": "https://www.worldpay.com/en/news",
+      "status": 200,
+      "html_bytes": 177987,
+      "links_found": 15
+    },
+    {
+      "company": "WorldRemit",
+      "configured_url": "https://www.worldremit.com/en/news",
+      "final_url": "https://www.worldremit.com/en/news",
+      "status": 200,
+      "html_bytes": 209725,
+      "links_found": 50
+    },
+    {
+      "company": "Xero",
+      "configured_url": "https://blog.xero.com/",
+      "final_url": "https://blog.xero.com/",
+      "status": 200,
+      "html_bytes": 115018,
+      "links_found": 26
+    },
+    {
+      "company": "XTB",
+      "configured_url": "https://www.xtb.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.xtb.com/news"
+    },
+    {
+      "company": "YAP",
+      "configured_url": "https://www.yap.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.yap.com/news"
+    },
+    {
+      "company": "Yape",
+      "configured_url": "https://www.yape.com.pe/news",
+      "error": "404 Client Error: Not Found for url: https://www.yape.com.pe/news"
+    },
+    {
+      "company": "Yapily",
+      "configured_url": "https://www.yapily.com/blog",
+      "final_url": "https://www.yapily.com/blog",
+      "status": 200,
+      "html_bytes": 75626,
+      "links_found": 25
+    },
+    {
+      "company": "YCharts",
+      "configured_url": "https://www.ycharts.com/news",
+      "final_url": "https://www.ycharts.com/news",
+      "status": 202,
+      "html_bytes": 2034,
+      "links_found": 0
+    },
+    {
+      "company": "Yieldstreet",
+      "configured_url": "https://www.yieldstreet.com/news",
+      "error": "403 Client Error: Forbidden for url: https://www.willowwealth.com/news?utm_source=yieldstreet"
+    },
+    {
+      "company": "YieldX",
+      "configured_url": "https://www.fnz.com/asset-management",
+      "final_url": "https://www.fnz.com/asset-management",
+      "status": 200,
+      "html_bytes": 110386,
+      "links_found": 49
+    },
+    {
+      "company": "YNAB",
+      "configured_url": "https://www.ynab.com/press",
+      "final_url": "https://www.ynab.com/press",
+      "status": 200,
+      "html_bytes": 145767,
+      "links_found": 32
+    },
+    {
+      "company": "Yodlee",
+      "configured_url": "https://www.yodlee.com/news",
+      "error": "404 Client Error: Not Found for url: https://www.yodlee.com/news"
+    },
+    {
+      "company": "YouLend",
+      "configured_url": "https://www.youlend.com/news",
+      "error": "404 Client Error: Not Found for url: https://youlend.com:443/news"
+    },
+    {
+      "company": "YuLife",
+      "configured_url": "https://yulife.com/press/",
+      "final_url": "https://yulife.com/press/",
+      "status": 200,
+      "html_bytes": 17811,
+      "links_found": 0
+    },
+    {
+      "company": "ZayZoon",
+      "configured_url": "https://www.zayzoon.com/press",
+      "final_url": "https://www.zayzoon.com/press",
+      "status": 200,
+      "html_bytes": 122502,
+      "links_found": 27
+    },
+    {
+      "company": "Zego",
+      "configured_url": "https://www.zego.com/blog/",
+      "final_url": "https://www.zego.com/blog/",
+      "status": 200,
+      "html_bytes": 272705,
+      "links_found": 48
+    },
+    {
+      "company": "Zerodha",
+      "configured_url": "https://www.zerodha.com/media",
+      "final_url": "https://www.zerodha.com/media",
+      "status": 200,
+      "html_bytes": 30269,
+      "links_found": 39
+    },
+    {
+      "company": "Zest AI",
+      "configured_url": "https://www.zest.ai/news/",
+      "final_url": "https://www.zest.ai/news/",
+      "status": 200,
+      "html_bytes": 119734,
+      "links_found": 26
+    },
+    {
+      "company": "ZhongAn",
+      "configured_url": "https://www.zhongan.com/news",
+      "final_url": "https://www.zhongan.com/news",
+      "status": 200,
+      "html_bytes": 191,
+      "links_found": 0
+    },
+    {
+      "company": "Ziina",
+      "configured_url": "https://ziina.com/blog",
+      "final_url": "https://ziina.com/blog",
+      "status": 200,
+      "html_bytes": 310572,
+      "links_found": 30
+    },
+    {
+      "company": "Zilch",
+      "configured_url": "https://www.zilch.com/corporate/news/",
+      "final_url": "https://www.zilch.com/corporate/news/",
+      "status": 200,
+      "html_bytes": 64718,
+      "links_found": 18
+    },
+    {
+      "company": "Zip",
+      "configured_url": "https://www.zip.co/news",
+      "error": "404 Client Error: Not Found for url: https://zip.co/au/news"
+    },
+    {
+      "company": "Zoe Financial",
+      "configured_url": "https://www.zoefin.com/news",
+      "error": "522 Server Error: <none> for url: https://www.zoefin.com/news"
+    },
+    {
+      "company": "Zoho",
+      "configured_url": "https://www.zoho.com/blog/",
+      "final_url": "https://www.zoho.com/blog/",
+      "status": 200,
+      "html_bytes": 25263,
+      "links_found": 61
+    },
+    {
+      "company": "Zopa",
+      "configured_url": "https://www.zopa.com/blog",
+      "error": "503 Server Error: Site Unavailable for url: https://www.zopa.com/blog"
+    },
+    {
+      "company": "Zopa Bank",
+      "configured_url": "https://www.zopa.com/blog",
+      "error": "503 Server Error: Site Unavailable for url: https://www.zopa.com/blog"
+    }
+  ]
+}
