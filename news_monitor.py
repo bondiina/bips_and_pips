@@ -28,7 +28,7 @@ Outputs:
 """
 
 from __future__ import annotations
-
+from datetime import datetime, timedelta, timezone
 import argparse
 import json
 import logging
@@ -720,7 +720,19 @@ TYPE_NAMES = {
 # ---------------------------------------------------------------------------
 # General helpers
 # ---------------------------------------------------------------------------
+def is_recent_article(published_at, days=14):
+    if not published_at:
+        return False
 
+    try:
+        published = datetime.fromisoformat(
+            published_at.replace("Z", "+00:00")
+        )
+    except Exception:
+        return False
+
+    return published >= datetime.now(timezone.utc) - timedelta(days=days)
+    
 def load_json(path: Path, fallback):
     if not path.exists():
         return fallback
@@ -1359,14 +1371,24 @@ def extract_feed(xml_text: str, feed_url: str):
             if not link:
                 continue
 
+            published_at = parse_date(published)
+
+            if published_at:
+            published_dt = datetime.fromisoformat(
+            published_at.replace("Z", "+00:00")
+    )
+
+                if published_dt < datetime.now(timezone.utc) - timedelta(days=14):
+                    continue
+
             results.append(
-                {
-                    "title": title or slug_to_title(link),
-                    "url": clean_url(urljoin(feed_url, link)),
-                    "published_at": parse_date(published),
-                    "method": "rss",
-                }
-            )
+    {
+                "title": title or slug_to_title(link),
+                "url": clean_url(urljoin(feed_url, link)),
+                "published_at": published_at,
+                "method": "rss",
+    }
+)
 
     # Atom
     elif root_name == "feed":
