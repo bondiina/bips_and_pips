@@ -1,12 +1,12 @@
 {
-  "run_at": "2026-09-15T19:20:43.550352+00:00",
+  "run_at": "2026-09-15T19:28:55.917128+00:00",
   "configured_sources": 600,
-  "successful_sources": 441,
-  "failed_sources": 159,
-  "zero_result_sources": 169,
-  "candidate_articles": 10036,
-  "new_urls": 3748,
-  "new_reported": 242,
+  "successful_sources": 438,
+  "failed_sources": 162,
+  "zero_result_sources": 165,
+  "candidate_articles": 10082,
+  "new_urls": 38,
+  "new_reported": 21,
   "sources": [
     {
       "company": "10x Banking",
@@ -60,7 +60,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.acumatica.com/corporate-newsroom/",
-      "html_bytes": 288575,
+      "html_bytes": 288576,
       "links_found": 137,
       "methods": {
         "scoped_html": 137
@@ -211,7 +211,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://albert.com/newsroom",
-      "html_bytes": 200571,
+      "html_bytes": 200569,
       "links_found": 6,
       "methods": {
         "scoped_html": 6
@@ -638,7 +638,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.billtrust.com/news",
-      "html_bytes": 471732,
+      "html_bytes": 471936,
       "links_found": 6,
       "methods": {
         "article_html": 1,
@@ -706,7 +706,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.blackline.com/blog/",
-      "html_bytes": 2630863,
+      "html_bytes": 2630148,
       "links_found": 16,
       "methods": {
         "scoped_html": 16
@@ -823,7 +823,7 @@
       "source_type": "newsroom",
       "configured_url": "https://www.bud.co/news",
       "strategy": "auto",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.bud.co', port=443): Max retries exceeded with url: /news (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bud.co', port=443) at 0x7f66fcb08530>, 'Connection to www.bud.co timed out. (connect timeout=5)'))"
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.bud.co', port=443): Max retries exceeded with url: /news (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bud.co', port=443) at 0x7f5734cdaae0>, 'Connection to www.bud.co timed out. (connect timeout=5)'))"
     },
     {
       "company": "Built",
@@ -857,7 +857,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://press.bunq.com/",
-      "html_bytes": 162028,
+      "html_bytes": 161988,
       "links_found": 39,
       "methods": {
         "article_html": 1,
@@ -908,7 +908,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://canoeintelligence.com/resources/",
-      "html_bytes": 841879,
+      "html_bytes": 841894,
       "links_found": 7,
       "methods": {
         "rss": 7
@@ -943,7 +943,7 @@
       "source_type": "newsroom",
       "configured_url": "https://www.cashanalytics.com/news",
       "strategy": "auto",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.cashanalytics.com', port=443): Max retries exceeded with url: /news (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cashanalytics.com', port=443) at 0x7f66c8f85100>, 'Connection to www.cashanalytics.com timed out. (connect timeout=5)'))"
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.cashanalytics.com', port=443): Max retries exceeded with url: /news (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cashanalytics.com', port=443) at 0x7f571869acf0>, 'Connection to www.cashanalytics.com timed out. (connect timeout=5)'))"
     },
     {
       "company": "Cashfree Payments",
@@ -952,7 +952,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.cashfree.com/blog/",
-      "html_bytes": 378528,
+      "html_bytes": 378578,
       "links_found": 22,
       "methods": {
         "article_html": 16,
@@ -980,7 +980,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.cboe.com/insights/",
-      "html_bytes": 438404,
+      "html_bytes": 438402,
       "links_found": 18,
       "methods": {
         "article_html": 9,
@@ -1238,7 +1238,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.coinbase.com/",
-      "html_bytes": 419067,
+      "html_bytes": 419064,
       "links_found": 6,
       "methods": {
         "scoped_html": 6
@@ -1351,7 +1351,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.corvusinsurance.com:443/pressroom",
-      "html_bytes": 174058,
+      "html_bytes": 174055,
       "links_found": 74,
       "methods": {
         "scoped_html": 74
@@ -1675,11 +1675,7 @@
       "source_type": "newsroom",
       "configured_url": "https://www.dynamosoftware.com/news",
       "strategy": "auto",
-      "status": 202,
-      "final_url": "https://www.dynamosoftware.com/news",
-      "html_bytes": 535,
-      "links_found": 0,
-      "methods": {}
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.dynamosoftware.com/news"
     },
     {
       "company": "EarnIn",
@@ -1723,8 +1719,10 @@
       "status": 200,
       "final_url": "https://www.embat.io/news",
       "html_bytes": 204872,
-      "links_found": 0,
-      "methods": {}
+      "links_found": 10,
+      "methods": {
+        "rss": 10
+      }
     },
     {
       "company": "eMoney Advisor",
@@ -1818,7 +1816,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.equifax.com/newsroom",
-      "html_bytes": 223116,
+      "html_bytes": 172065,
       "links_found": 6,
       "methods": {
         "scoped_html": 6
@@ -1842,7 +1840,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.ethos.com/?utm_source=sxm&utm_medium=radio&utm_campaign=news",
-      "html_bytes": 424067,
+      "html_bytes": 423249,
       "links_found": 20,
       "methods": {
         "scoped_html": 20
@@ -1876,7 +1874,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.onepay.com/atwork",
-      "html_bytes": 508666,
+      "html_bytes": 508535,
       "links_found": 0,
       "methods": {}
     },
@@ -1935,7 +1933,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.fawry.com/about/news/",
-      "html_bytes": 217518,
+      "html_bytes": 217511,
       "links_found": 11,
       "methods": {
         "rss": 10,
@@ -1960,7 +1958,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.feedzai.com/in-the-news/",
-      "html_bytes": 127299,
+      "html_bytes": 127298,
       "links_found": 0,
       "methods": {}
     },
@@ -2020,7 +2018,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.fidelity.com/news/",
-      "html_bytes": 279518,
+      "html_bytes": 279605,
       "links_found": 7,
       "methods": {
         "scoped_html": 7
@@ -2073,7 +2071,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.fireblocks.com/press",
-      "html_bytes": 444877,
+      "html_bytes": 450829,
       "links_found": 0,
       "methods": {}
     },
@@ -2235,7 +2233,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.freshbooks.com/press",
-      "html_bytes": 1238704,
+      "html_bytes": 1238833,
       "links_found": 132,
       "methods": {
         "scoped_html": 132
@@ -2255,7 +2253,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://fundcount.com/blog/",
-      "html_bytes": 221894,
+      "html_bytes": 221897,
       "links_found": 6,
       "methods": {
         "headline_html": 6
@@ -2296,7 +2294,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://blog.fundingsocieties.com/",
-      "html_bytes": 195307,
+      "html_bytes": 195287,
       "links_found": 21,
       "methods": {
         "rss": 20,
@@ -2349,7 +2347,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.gemini.com/blog",
-      "html_bytes": 632243,
+      "html_bytes": 631953,
       "links_found": 23,
       "methods": {
         "scoped_html": 23
@@ -2531,7 +2529,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.hippo.com/newsroom",
-      "html_bytes": 370686,
+      "html_bytes": 370680,
       "links_found": 0,
       "methods": {}
     },
@@ -2542,7 +2540,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.holded.com/blog",
-      "html_bytes": 472187,
+      "html_bytes": 472188,
       "links_found": 33,
       "methods": {
         "article_html": 24,
@@ -2678,7 +2676,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://insurify.com/news/",
-      "html_bytes": 515552,
+      "html_bytes": 515510,
       "links_found": 24,
       "methods": {
         "headline_html": 24
@@ -2712,7 +2710,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.intuit.com/company/",
-      "html_bytes": 442965,
+      "html_bytes": 442966,
       "links_found": 12,
       "methods": {
         "scoped_html": 12
@@ -2723,11 +2721,7 @@
       "source_type": "newsroom",
       "configured_url": "https://www.investcloud.com/news",
       "strategy": "auto",
-      "status": 202,
-      "final_url": "https://www.investcloud.com/news",
-      "html_bytes": 174,
-      "links_found": 0,
-      "methods": {}
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.investcloud.com/news"
     },
     {
       "company": "ION Group",
@@ -2902,13 +2896,13 @@
       "configured_url": "https://jupiter.money/blog/",
       "strategy": "auto",
       "status": 200,
-      "final_url": "https://jupiter.money/blog/maximise-credit-card-rewards/",
-      "html_bytes": 513054,
-      "links_found": 12,
+      "final_url": "https://jupiter.money/blog/",
+      "html_bytes": 619186,
+      "links_found": 37,
       "methods": {
         "rss": 10,
-        "jsonld": 1,
-        "headline_html": 1
+        "headline_html": 20,
+        "scoped_html": 7
       }
     },
     {
@@ -2931,7 +2925,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.americanexpress.com/en-us/business/trends-and-insights/?linknav=bti-article-breadcrumb-trendsandinsights",
-      "html_bytes": 348608,
+      "html_bytes": 348611,
       "links_found": 47,
       "methods": {
         "scoped_html": 47
@@ -3033,7 +3027,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.kraken.com/",
-      "html_bytes": 1397739,
+      "html_bytes": 1397769,
       "links_found": 7,
       "methods": {
         "article_html": 1,
@@ -3089,7 +3083,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.kyriba.com/news/",
-      "html_bytes": 220647,
+      "html_bytes": 220644,
       "links_found": 12,
       "methods": {
         "article_html": 12
@@ -3174,7 +3168,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.happen.com/",
-      "html_bytes": 257767,
+      "html_bytes": 257779,
       "links_found": 0,
       "methods": {}
     },
@@ -3185,11 +3179,11 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.lendingkart.com/",
-      "html_bytes": 748532,
-      "links_found": 25,
+      "html_bytes": 748586,
+      "links_found": 24,
       "methods": {
         "rss": 10,
-        "headline_html": 6,
+        "headline_html": 5,
         "scoped_html": 9
       }
     },
@@ -3220,7 +3214,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.google.com/search?q=Liberis+official+newsroom+press+releases&ucbcb=1",
-      "html_bytes": 92110,
+      "html_bytes": 91848,
       "links_found": 0,
       "methods": {}
     },
@@ -3426,7 +3420,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.middesk.com/product-release-hub",
-      "html_bytes": 315628,
+      "html_bytes": 315671,
       "links_found": 9,
       "methods": {
         "article_html": 9
@@ -3504,7 +3498,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.monarch.com/press",
-      "html_bytes": 184099,
+      "html_bytes": 184100,
       "links_found": 0,
       "methods": {}
     },
@@ -3628,7 +3622,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.morningstar.com/news",
-      "html_bytes": 268165,
+      "html_bytes": 267292,
       "links_found": 50,
       "methods": {
         "scoped_html": 50
@@ -3652,7 +3646,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.msci.com/research-and-insights?type=blog",
-      "html_bytes": 1850,
+      "html_bytes": 1846,
       "links_found": 0,
       "methods": {}
     },
@@ -4011,7 +4005,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.google.com/search?q=Oracle+Treasury+official+newsroom+press+releases&ucbcb=1",
-      "html_bytes": 92093,
+      "html_bytes": 91745,
       "links_found": 0,
       "methods": {}
     },
@@ -4022,7 +4016,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://oranj.io/news",
-      "html_bytes": 7563,
+      "html_bytes": 6999,
       "links_found": 0,
       "methods": {}
     },
@@ -4064,7 +4058,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://pagaya.com/news",
-      "html_bytes": 1467992,
+      "html_bytes": 1467936,
       "links_found": 41,
       "methods": {
         "article_html": 41
@@ -4121,13 +4115,7 @@
       "source_type": "newsroom",
       "configured_url": "https://www.paxos.com/newsroom",
       "strategy": "auto",
-      "status": 200,
-      "final_url": "https://www.paxos.com/newsroom",
-      "html_bytes": 409871,
-      "links_found": 6,
-      "methods": {
-        "scoped_html": 6
-      }
+      "error": "ReadTimeout: HTTPSConnectionPool(host='www.paxos.com', port=443): Read timed out. (read timeout=5)"
     },
     {
       "company": "Payactiv",
@@ -4136,7 +4124,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://payactiv.com/news/",
-      "html_bytes": 204270,
+      "html_bytes": 204271,
       "links_found": 0,
       "methods": {}
     },
@@ -4206,7 +4194,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.paypal.com/uk/home",
-      "html_bytes": 256471,
+      "html_bytes": 266138,
       "links_found": 1,
       "methods": {
         "jsonld": 1
@@ -4303,7 +4291,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.pieinsurance.com/media",
-      "html_bytes": 179014,
+      "html_bytes": 179017,
       "links_found": 0,
       "methods": {}
     },
@@ -4444,7 +4432,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.prosper.com/media",
-      "html_bytes": 257108,
+      "html_bytes": 219918,
       "links_found": 10,
       "methods": {
         "rss": 10
@@ -4532,7 +4520,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.railsr.com/newsroom",
-      "html_bytes": 1844112,
+      "html_bytes": 1843112,
       "links_found": 33,
       "methods": {
         "rss": 20,
@@ -4696,7 +4684,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.rho.co/",
-      "html_bytes": 398228,
+      "html_bytes": 398227,
       "links_found": 1,
       "methods": {
         "scoped_html": 1
@@ -4818,7 +4806,11 @@
       "source_type": "newsroom",
       "configured_url": "https://www.ruyabank.ae/en/press",
       "strategy": "auto",
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.ruyabank.ae/en/press"
+      "status": 200,
+      "final_url": "https://www.ruyabank.ae/en/press",
+      "html_bytes": 69601,
+      "links_found": 0,
+      "methods": {}
     },
     {
       "company": "S&P Global",
@@ -4925,7 +4917,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.scienaptic.ai/news",
-      "html_bytes": 1988349,
+      "html_bytes": 1988446,
       "links_found": 1,
       "methods": {
         "scoped_html": 1
@@ -4938,7 +4930,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.seic.com/about-sei/newsroom",
-      "html_bytes": 144582,
+      "html_bytes": 144585,
       "links_found": 9,
       "methods": {
         "scoped_html": 9
@@ -5137,7 +5129,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://sbs-software.com/news/",
-      "html_bytes": 226682,
+      "html_bytes": 226681,
       "links_found": 7,
       "methods": {
         "rss": 1,
@@ -5202,7 +5194,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.spreedly.com/news",
-      "html_bytes": 172136,
+      "html_bytes": 172248,
       "links_found": 0,
       "methods": {}
     },
@@ -5295,7 +5287,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.storicard.com/",
-      "html_bytes": 162052,
+      "html_bytes": 162054,
       "links_found": 5,
       "methods": {
         "article_html": 1,
@@ -5330,7 +5322,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://sumsub.com/media/news/",
-      "html_bytes": 166455,
+      "html_bytes": 166439,
       "links_found": 0,
       "methods": {}
     },
@@ -5341,7 +5333,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.sumup.com/en-us/press/",
-      "html_bytes": 312570,
+      "html_bytes": 312550,
       "links_found": 4,
       "methods": {
         "scoped_html": 4
@@ -5485,7 +5477,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://vatit.com/news/",
-      "html_bytes": 604251,
+      "html_bytes": 603193,
       "links_found": 20,
       "methods": {
         "rss": 20
@@ -5498,7 +5490,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.teamsystem.com/nazionale-italiana/",
-      "html_bytes": 478589,
+      "html_bytes": 478585,
       "links_found": 0,
       "methods": {}
     },
@@ -5607,11 +5599,14 @@
       "source_type": "newsroom",
       "configured_url": "https://www.thunes.com/news",
       "strategy": "auto",
-      "status": 202,
-      "final_url": "https://www.thunes.com/news",
-      "html_bytes": 174,
-      "links_found": 0,
-      "methods": {}
+      "status": 200,
+      "final_url": "https://www.thunes.com/news/",
+      "html_bytes": 87347,
+      "links_found": 18,
+      "methods": {
+        "rss": 10,
+        "scoped_html": 8
+      }
     },
     {
       "company": "Tide",
@@ -5996,7 +5991,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://vanillasoft.com/company/news",
-      "html_bytes": 334553,
+      "html_bytes": 334609,
       "links_found": 7,
       "methods": {
         "scoped_html": 7
@@ -6078,7 +6073,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.vestmark.com/press-events",
-      "html_bytes": 89957,
+      "html_bytes": 89959,
       "links_found": 0,
       "methods": {}
     },
@@ -6127,7 +6122,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://usa.visa.com/about-visa/newsroom.html",
-      "html_bytes": 130649,
+      "html_bytes": 130659,
       "links_found": 0,
       "methods": {}
     },
@@ -6294,7 +6289,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.wefox.com/newsroom",
-      "html_bytes": 1017462,
+      "html_bytes": 1017722,
       "links_found": 0,
       "methods": {}
     },
@@ -6305,7 +6300,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.westernunion.com/blog/en/",
-      "html_bytes": 143524,
+      "html_bytes": 143525,
       "links_found": 27,
       "methods": {
         "scoped_html": 27
@@ -6318,7 +6313,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.wintermute.com/insights",
-      "html_bytes": 5145139,
+      "html_bytes": 5145069,
       "links_found": 16,
       "methods": {
         "scoped_html": 16
@@ -6331,7 +6326,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://wio.io/press",
-      "html_bytes": 229760,
+      "html_bytes": 229430,
       "links_found": 0,
       "methods": {}
     },
@@ -6342,7 +6337,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://newsroom.wise.com/en-NAM/",
-      "html_bytes": 171992,
+      "html_bytes": 171952,
       "links_found": 52,
       "methods": {
         "article_html": 1,
@@ -6369,11 +6364,7 @@
       "source_type": "newsroom",
       "configured_url": "https://worldline.com/en/home/top-navigation/media-relations",
       "strategy": "auto",
-      "status": 200,
-      "final_url": "https://worldline.com/en/home/top-navigation/media-relations",
-      "html_bytes": 162949,
-      "links_found": 0,
-      "methods": {}
+      "error": "HTTPError: 406 Client Error: Not Acceptable for url: https://worldline.com/en/home/top-navigation/media-relations"
     },
     {
       "company": "Worldpay",
@@ -6393,7 +6384,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.worldremit.com/en/news",
-      "html_bytes": 209725,
+      "html_bytes": 211779,
       "links_found": 13,
       "methods": {
         "scoped_html": 13
