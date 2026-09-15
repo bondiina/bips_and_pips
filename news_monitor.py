@@ -51,6 +51,560 @@ from urllib.parse import (
 import requests
 from bs4 import BeautifulSoup
 
+# ---------------------------------------------------------------------------
+# External news discovery
+# ---------------------------------------------------------------------------
+
+GOOGLE_NEWS_RSS = "https://news.google.com/rss/search"
+
+EXTERNAL_NEWS_DAYS = 3
+EXTERNAL_NEWS_WORKERS = 8
+EXTERNAL_NEWS_MAX_RESULTS = 40
+
+
+# These terms are used to find meaningful COMPANY EVENTS.
+# They intentionally cover both positive and negative developments.
+
+EVENT_RULES = [
+    (
+        "acquisition",
+        (
+            "acquires",
+            "acquired",
+            "acquisition",
+            "merger",
+            "merges",
+            "merged",
+            "buyout",
+            "buys",
+            "takeover",
+            "takes over",
+            "sells to",
+            "sale of",
+        ),
+    ),
+
+    (
+        "funding",
+        (
+            "raises",
+            "raised",
+            "funding",
+            "fundraise",
+            "fundraising",
+            "investment",
+            "invests in",
+            "backed by",
+            "series a",
+            "series b",
+            "series c",
+            "series d",
+            "seed round",
+            "valuation",
+            "venture round",
+            "capital raise",
+            "debt financing",
+        ),
+    ),
+
+    (
+        "financial_results",
+        (
+            "earnings",
+            "results",
+            "revenue",
+            "profit",
+            "profits",
+            "profitable",
+            "profitability",
+            "loss",
+            "losses",
+            "arr",
+            "annual recurring revenue",
+            "guidance",
+            "forecast",
+            "quarterly results",
+            "annual results",
+            "financial results",
+            "growth",
+        ),
+    ),
+
+    (
+        "expansion",
+        (
+            "expands into",
+            "expands to",
+            "expansion",
+            "enters the",
+            "enters market",
+            "launches in",
+            "launched in",
+            "live in",
+            "now live",
+            "available in",
+            "opens in",
+            "opens office",
+            "new office",
+            "new market",
+            "new country",
+            "international expansion",
+            "global expansion",
+        ),
+    ),
+
+    (
+        "partnership",
+        (
+            "partnership",
+            "partners with",
+            "partnered with",
+            "strategic partnership",
+            "collaboration",
+            "collaborates with",
+            "teams up",
+            "team up",
+            "alliance",
+            "selected by",
+            "chosen by",
+            "powered by",
+            "works with",
+            "working with",
+            "integrates with",
+            "integration with",
+        ),
+    ),
+
+    (
+        "customer_win",
+        (
+            "customer win",
+            "new customer",
+            "new client",
+            "selected by",
+            "chosen by",
+            "signs",
+            "signed",
+            "contract",
+            "awarded contract",
+            "merchant win",
+            "enterprise customer",
+        ),
+    ),
+
+    (
+        "product_release",
+        (
+            "launches",
+            "launched",
+            "launch of",
+            "introduces",
+            "introduced",
+            "introducing",
+            "unveils",
+            "unveiled",
+            "releases",
+            "released",
+            "rolls out",
+            "rolled out",
+            "new product",
+            "new feature",
+            "new service",
+            "new platform",
+            "new solution",
+            "new offering",
+            "now available",
+            "general availability",
+            "beta launch",
+            "public beta",
+        ),
+    ),
+
+    (
+        "api_update",
+        (
+            "new api",
+            "api launch",
+            "api update",
+            "api release",
+            "sdk",
+            "developer platform",
+            "developer tools",
+            "webhook",
+            "new integration",
+            "platform update",
+            "changelog",
+            "release notes",
+        ),
+    ),
+
+    (
+        "payments_update",
+        (
+            "instant payments",
+            "real-time payments",
+            "real time payments",
+            "cross-border payments",
+            "cross border payments",
+            "payment rails",
+            "payment network",
+            "card issuing",
+            "card acquiring",
+            "acquiring",
+            "issuing",
+            "virtual account",
+            "virtual accounts",
+            "local accounts",
+            "bank accounts",
+            "open banking",
+            "embedded finance",
+            "embedded payments",
+            "banking as a service",
+            "banking-as-a-service",
+            "stablecoin payments",
+            "crypto payments",
+            "remittance",
+            "treasury product",
+            "fx product",
+        ),
+    ),
+
+    (
+        "regulatory",
+        (
+            "licence",
+            "license",
+            "licensed",
+            "authorisation",
+            "authorization",
+            "authorised",
+            "authorized",
+            "regulatory approval",
+            "regulator approval",
+            "approved by",
+            "registered with",
+            "fca",
+            "pra",
+            "sec",
+            "cfpb",
+            "finra",
+            "fintrac",
+            "mas",
+            "asic",
+            "bafin",
+            "dfsa",
+            "fsra",
+            "eba",
+            "central bank",
+            "banking licence",
+            "banking license",
+            "emi licence",
+            "emi license",
+        ),
+    ),
+
+    (
+        "legal_regulatory_issue",
+        (
+            "fine",
+            "fined",
+            "penalty",
+            "penalised",
+            "penalized",
+            "investigation",
+            "investigated",
+            "probe",
+            "regulatory probe",
+            "enforcement",
+            "enforcement action",
+            "lawsuit",
+            "lawsuits",
+            "sued",
+            "sues",
+            "legal action",
+            "class action",
+            "complaint",
+            "settlement",
+            "settles",
+            "charged",
+            "charges",
+            "accused",
+            "cease and desist",
+            "regulatory warning",
+            "sanction",
+            "sanctions",
+        ),
+    ),
+
+    (
+        "security_incident",
+        (
+            "data breach",
+            "breach",
+            "cyberattack",
+            "cyber attack",
+            "hacked",
+            "hack",
+            "security incident",
+            "data leak",
+            "leaked data",
+            "vulnerability",
+            "ransomware",
+            "compromised",
+            "fraud attack",
+        ),
+    ),
+
+    (
+        "outage",
+        (
+            "outage",
+            "service outage",
+            "system outage",
+            "downtime",
+            "service disruption",
+            "service unavailable",
+            "technical issue",
+            "technical incident",
+            "system failure",
+        ),
+    ),
+
+    (
+        "fraud",
+        (
+            "fraud",
+            "fraudulent",
+            "scam",
+            "money laundering",
+            "aml failure",
+            "financial crime",
+            "stolen funds",
+            "unauthorised transactions",
+            "unauthorized transactions",
+        ),
+    ),
+
+    (
+        "leadership",
+        (
+            "appoints",
+            "appointed",
+            "appointment",
+            "names new",
+            "named ceo",
+            "new ceo",
+            "new cfo",
+            "new coo",
+            "new cto",
+            "new cpo",
+            "chief executive",
+            "chief financial officer",
+            "chief operating officer",
+            "chief technology officer",
+            "chief product officer",
+            "joins as",
+            "steps down",
+            "stepping down",
+            "resigns",
+            "resigned",
+            "resignation",
+            "departs",
+            "departure",
+            "leaves company",
+            "founder leaves",
+            "co-founder leaves",
+            "board appointment",
+            "joins board",
+            "chairman",
+            "chairwoman",
+            "chairperson",
+        ),
+    ),
+
+    (
+        "layoffs_restructuring",
+        (
+            "layoffs",
+            "layoff",
+            "lays off",
+            "job cuts",
+            "cuts jobs",
+            "workforce reduction",
+            "restructuring",
+            "restructures",
+            "redundancies",
+            "redundancy",
+            "cuts workforce",
+            "cost cutting",
+        ),
+    ),
+
+    (
+        "closure_failure",
+        (
+            "shuts down",
+            "shutdown",
+            "shutting down",
+            "closes",
+            "closure",
+            "winds down",
+            "winding down",
+            "insolvency",
+            "insolvent",
+            "bankruptcy",
+            "bankrupt",
+            "administration",
+            "ceases operations",
+            "exits market",
+            "withdraws from",
+            "discontinues",
+        ),
+    ),
+
+    (
+        "pricing",
+        (
+            "pricing change",
+            "new pricing",
+            "price increase",
+            "price cut",
+            "cuts prices",
+            "reduces fees",
+            "raises fees",
+            "new fee",
+            "fees increase",
+            "fee increase",
+            "subscription price",
+        ),
+    ),
+
+    (
+        "ipo_capital_markets",
+        (
+            "ipo",
+            "initial public offering",
+            "files to go public",
+            "files for ipo",
+            "public listing",
+            "stock exchange listing",
+            "direct listing",
+            "secondary offering",
+            "share sale",
+        ),
+    ),
+
+    (
+        "award",
+        (
+            "award",
+            "awarded",
+            "wins award",
+            "named best",
+            "recognised",
+            "recognized",
+            "ranking",
+            "ranked",
+            "top fintech",
+        ),
+    ),
+
+    (
+        "milestone",
+        (
+            "milestone",
+            "surpasses",
+            "surpassed",
+            "reaches",
+            "reached",
+            "exceeds",
+            "million customers",
+            "million users",
+            "billion",
+            "transaction volume",
+            "payment volume",
+            "customers globally",
+            "anniversary",
+        ),
+    ),
+
+    (
+        "certification",
+        (
+            "soc 2",
+            "soc2",
+            "iso 27001",
+            "certification",
+            "certified",
+            "pci dss",
+            "patent",
+            "patented",
+        ),
+    ),
+
+    (
+        "company_update",
+        (
+            "announces",
+            "announced",
+            "announcement",
+            "reveals",
+            "revealed",
+            "plans to",
+            "strategy",
+            "strategic update",
+            "company update",
+        ),
+    ),
+]
+
+
+# Shorter set used in the Google News query itself.
+# The large EVENT_RULES above are then used to filter the results locally.
+
+SEARCH_EVENT_TERMS = (
+    "launch",
+    "launches",
+    "partnership",
+    "acquisition",
+    "funding",
+    "expansion",
+    "CEO",
+    "appoints",
+    "resigns",
+    "licence",
+    "license",
+    "approval",
+    "fine",
+    "investigation",
+    "lawsuit",
+    "breach",
+    "outage",
+    "fraud",
+    "layoffs",
+    "shutdown",
+    "revenue",
+    "profit",
+    "IPO",
+    "award",
+    "milestone",
+)
+
+
+FINTECH_CONTEXT_TERMS = (
+    "fintech",
+    "payments",
+    "banking",
+    "finance",
+    "financial",
+    "cards",
+    "treasury",
+    "expense",
+    "money",
+    "merchant",
+    "crypto",
+    "stablecoin",
+)
 
 ROOT = Path(__file__).resolve().parent
 
@@ -354,125 +908,333 @@ def parse_date(value: str | None):
 
     return None
 
+ALL_EVENT_KEYWORDS = tuple(
+    keyword.lower()
+    for _, keywords in EVENT_RULES
+    for keyword in keywords
+)
 
+
+def contains_company_event(text: str) -> bool:
+    text = text.lower()
+    return any(keyword in text for keyword in ALL_EVENT_KEYWORDS)
+    
+
+def strip_html(value: str | None) -> str:
+    if not value:
+        return ""
+
+    return BeautifulSoup(
+        value,
+        "html.parser",
+    ).get_text(" ", strip=True)
+
+
+def external_search_names(source: dict):
+    names = []
+
+    primary = source.get(
+        "external_search_name"
+    ) or source.get("company")
+
+    if primary:
+        names.append(primary)
+
+    names.extend(
+        source.get("search_aliases", [])
+    )
+
+    return list(dict.fromkeys(names))
+
+
+def build_external_query(source: dict, days: int):
+    names = external_search_names(source)
+
+    if not names:
+        return None
+
+    company_part = " OR ".join(
+        f'"{name}"'
+        for name in names
+    )
+
+    event_part = " OR ".join(
+        SEARCH_EVENT_TERMS
+    )
+
+    context_terms = list(
+        FINTECH_CONTEXT_TERMS
+    )
+
+    context_terms.extend(
+        source.get(
+            "search_context",
+            [],
+        )
+    )
+
+    context_part = " OR ".join(
+        f'"{term}"'
+        if " " in term
+        else term
+        for term in dict.fromkeys(context_terms)
+    )
+
+    return (
+        f"({company_part}) "
+        f"({event_part}) "
+        f"({context_part}) "
+        f"when:{days}d"
+    )
+
+def build_external_targets(raw_sources):
+    targets = {}
+
+    for item in raw_sources:
+        company = item.get("company")
+
+        if not company:
+            continue
+
+        if item.get(
+            "external_news",
+            True,
+        ) is False:
+            continue
+
+        target = {
+            "company": company,
+            "category": item.get(
+                "category",
+                "Other",
+            ),
+            "subcategory": item.get(
+                "subcategory",
+                "Other",
+            ),
+            "external_search_name": (
+                item.get(
+                    "external_search_name"
+                )
+            ),
+            "search_aliases": (
+                item.get(
+                    "search_aliases",
+                    []
+                )
+            ),
+            "search_context": (
+                item.get(
+                    "search_context",
+                    []
+                )
+            ),
+        }
+
+        targets[company] = target
+
+    return list(
+        targets.values()
+    )
+    
+def parse_google_news_feed(
+    xml_text: str,
+    source: dict,
+):
+    items = []
+
+    try:
+        root = ET.fromstring(xml_text)
+    except Exception:
+        return items
+
+    for node in root.iter():
+        if local_name(node.tag) != "item":
+            continue
+
+        title = child_text(
+            node,
+            {"title"},
+        )
+
+        link = child_text(
+            node,
+            {"link"},
+        )
+
+        pub_date = child_text(
+            node,
+            {
+                "pubdate",
+                "published",
+                "date",
+            },
+        )
+
+        description = child_text(
+            node,
+            {"description"},
+        )
+
+        publisher = child_text(
+            node,
+            {"source"},
+        )
+
+        if not title or not link:
+            continue
+
+        title = clean_title(title)
+
+        # Google News commonly formats titles:
+        # "Ramp launches in UK - PR Newswire"
+        if publisher:
+            suffix = f" - {publisher}"
+
+            if title.endswith(suffix):
+                title = title[
+                    :-len(suffix)
+                ].strip()
+
+        description_text = strip_html(
+            description
+        )
+
+        relevance_text = (
+            f"{title} {description_text}"
+        )
+
+        if not contains_company_event(
+            relevance_text
+        ):
+            continue
+
+        update_type = classify(
+            title,
+            description_text,
+        )
+
+        items.append(
+            {
+                "company": source.get(
+                    "company",
+                    "Unknown",
+                ),
+                "category": source.get(
+                    "category",
+                    "Other",
+                ),
+                "subcategory": source.get(
+                    "subcategory",
+                    "Other",
+                ),
+                "title": title,
+                "url": clean_url(link),
+                "published_at": parse_date(
+                    pub_date
+                ),
+                "source_type": (
+                    "external_news"
+                ),
+                "source_url": (
+                    GOOGLE_NEWS_RSS
+                ),
+                "external_publisher": (
+                    publisher
+                ),
+                "method": (
+                    "external_news"
+                ),
+                "update_type": (
+                    update_type
+                ),
+            }
+        )
+
+    return items[
+        :EXTERNAL_NEWS_MAX_RESULTS
+    ]
+
+
+def collect_external_news(
+    source: dict,
+    days: int = EXTERNAL_NEWS_DAYS,
+):
+    company = source.get(
+        "company",
+        "Unknown",
+    )
+
+    query = build_external_query(
+        source,
+        days,
+    )
+
+    diagnostic = {
+        "company": company,
+        "source_type": "external_news",
+        "query": query,
+    }
+
+    if not query:
+        diagnostic["error"] = (
+            "No company search name"
+        )
+
+        return [], diagnostic, None
+
+    try:
+        response = requests.get(
+            GOOGLE_NEWS_RSS,
+            params={
+                "q": query,
+                "hl": "en-GB",
+                "gl": "GB",
+                "ceid": "GB:en",
+            },
+            headers={
+                "User-Agent": USER_AGENT,
+            },
+            timeout=(
+                CONNECT_TIMEOUT,
+                READ_TIMEOUT,
+            ),
+        )
+
+        response.raise_for_status()
+
+        items = parse_google_news_feed(
+            response.text,
+            source,
+        )
+
+        diagnostic.update(
+            {
+                "status": response.status_code,
+                "results_found": len(items),
+                "final_url": response.url,
+            }
+        )
+
+        return items, diagnostic, None
+
+    except Exception as error:
+        diagnostic["error"] = (
+            f"{type(error).__name__}: "
+            f"{error}"
+        )
+
+        return [], diagnostic, error
+        
 # ---------------------------------------------------------------------------
 # Classification
 # ---------------------------------------------------------------------------
 
-def classify(title: str):
-    text = title.lower()
+def classify(title: str, description: str = ""):
+    text = f"{title} {description}".lower()
 
-    rules = [
-        (
-            "acquisition",
-            (
-                "acquires",
-                "acquired",
-                "acquisition",
-                "merger",
-                "merges with",
-                "buys ",
-            ),
-        ),
-        (
-            "funding",
-            (
-                "funding",
-                "fundraise",
-                "raises ",
-                "raised ",
-                "series a",
-                "series b",
-                "series c",
-                "investment round",
-            ),
-        ),
-        (
-            "partnership",
-            (
-                "partner with",
-                "partners with",
-                "partnership",
-                "collaboration",
-                "teams up",
-                "selected by",
-            ),
-        ),
-        (
-            "regulatory",
-            (
-                "licence",
-                "license",
-                "regulated",
-                "regulatory",
-                "authorisation",
-                "authorization",
-                "approved by",
-                "granted",
-            ),
-        ),
-        (
-            "expansion",
-            (
-                "expands into",
-                "launches in",
-                "enters ",
-                "new market",
-                "opens office",
-                "expansion",
-            ),
-        ),
-        (
-            "leadership",
-            (
-                "appoints",
-                "appointed",
-                "chief executive",
-                "chief financial",
-                "chief technology",
-                "ceo",
-                "cfo",
-                "cto",
-            ),
-        ),
-        (
-            "pricing",
-            (
-                "pricing",
-                "fees",
-                "new fee",
-                "price change",
-            ),
-        ),
-        (
-            "api_update",
-            (
-                "api",
-                "developer",
-                "sdk",
-                "webhook",
-                "changelog",
-                "release notes",
-            ),
-        ),
-        (
-            "product_release",
-            (
-                "launches",
-                "launch ",
-                "introduces",
-                "introducing",
-                "new feature",
-                "new product",
-                "rolls out",
-                "now available",
-                "unveils",
-            ),
-        ),
-    ]
-
-    for update_type, keywords in rules:
-        if any(keyword in text for keyword in keywords):
+    for update_type, keywords in EVENT_RULES:
+        if any(keyword.lower() in text for keyword in keywords):
             return update_type
 
     return "company_update"
@@ -1771,7 +2533,90 @@ def main():
                         discovered_by_url[url] = (
                             article
                         )
+        # -------------------------------------------------------
+    # External web/news discovery
+    # -------------------------------------------------------
 
+    external_targets = build_external_targets(
+        raw_sources
+    )
+
+    external_successful = 0
+    external_failed = 0
+    external_articles_found = 0
+
+    logging.info(
+        "Running external news discovery for %d companies.",
+        len(external_targets),
+    )
+
+    with ThreadPoolExecutor(
+        max_workers=EXTERNAL_NEWS_WORKERS
+    ) as pool:
+
+        futures = {
+            pool.submit(
+                collect_external_news,
+                target,
+                EXTERNAL_NEWS_DAYS,
+            ): target
+            for target in external_targets
+        }
+
+        for future in as_completed(
+            futures
+        ):
+            target = futures[future]
+
+            articles, diagnostic, error = (
+                future.result()
+            )
+
+            diagnostics.append(
+                diagnostic
+            )
+
+            company = target.get(
+                "company",
+                "Unknown",
+            )
+
+            if error:
+                external_failed += 1
+
+                logging.warning(
+                    "%s external discovery failed: %s",
+                    company,
+                    error,
+                )
+
+                continue
+
+            external_successful += 1
+            external_articles_found += len(
+                articles
+            )
+
+            if articles:
+                logging.info(
+                    "%s: %d external event(s)",
+                    company,
+                    len(articles),
+                )
+
+            for article in articles:
+                url = article["url"]
+
+                existing = (
+                    discovered_by_url.get(
+                        url
+                    )
+                )
+
+                if not existing:
+                    discovered_by_url[
+                        url
+                    ] = article
     discovered = list(
         discovered_by_url.values()
     )
