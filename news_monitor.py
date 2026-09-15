@@ -1527,10 +1527,7 @@ def render_markdown(articles):
 
 
 def article_report_date(article):
-    value = (
-        article.get("published_at")
-        or article.get("first_seen_at")
-    )
+    value = article.get("published_at")
 
     if not value:
         return None
@@ -1589,22 +1586,19 @@ def write_weekly(path: Path, archive):
 
 
 def recent_enough(article, max_age_days):
-    """
-    Prevent a newly discovered 2022/2023 article from appearing as
-    today's news just because the scraper found it for the first time.
-    """
-
     published = article.get("published_at")
 
+    # Unknown publication date:
+    # remember it, but don't report it as recent news.
     if not published:
-        return True
+        return False
 
     try:
         published_dt = datetime.fromisoformat(
             published.replace("Z", "+00:00")
         )
     except Exception:
-        return True
+        return False
 
     cutoff = datetime.now(timezone.utc) - timedelta(
         days=max_age_days
