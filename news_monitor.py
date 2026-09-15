@@ -2246,7 +2246,7 @@ def markdown_title(value: str):
     return value.replace("[", "\\[").replace("]", "\\]")
 
 
-def render_markdown(articles):
+def render_markdown(articles, show_date=False):
     if not articles:
         return "No new official news found.\n"
 
@@ -2292,12 +2292,22 @@ def render_markdown(articles):
                 article["title"]
             )
 
+            date_text = ""
+
+            if show_date and article.get("published_at"):
+                try:
+                    dt = datetime.fromisoformat(
+                        article["published_at"].replace("Z", "+00:00")
+                    )
+                    date_text = f" · {dt.strftime('%d %b %Y')}"
+                except Exception:
+                    pass
+            
             lines.append(
                 f"- **{article['company']}** "
-                f"· {update_type}: "
+                f"· {update_type}{date_text}: "
                 f"[{title}]({article['url']})"
             )
-
         lines.append("")
 
     return "\n".join(lines).rstrip() + "\n"
@@ -2348,7 +2358,10 @@ def write_weekly(path: Path, archive):
         )
         return
 
-    body = render_markdown(articles)
+    body = render_markdown(
+    articles,
+    show_date=True,
+)
 
     body = body.replace(
         "# New official company updates",
