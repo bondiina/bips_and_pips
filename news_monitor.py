@@ -1545,7 +1545,7 @@ def article_report_date(article):
 
 def write_weekly(path: Path, archive):
     cutoff = datetime.now(timezone.utc) - timedelta(
-        days=7
+        days=9
     )
 
     articles = []
