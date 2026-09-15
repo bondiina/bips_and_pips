@@ -83,10 +83,29 @@ def load(path, fallback):
 
 def collect(source):
     try:
-        response = requests.get(source["url"], headers={"User-Agent": USER_AGENT}, timeout=30)
+        response = requests.get(
+            source["url"],
+            headers={"User-Agent": USER_AGENT},
+            timeout=30
+        )
         response.raise_for_status()
-        return source, extract_links(response.text, source["url"]), None
+
+        articles = extract_links(response.text, response.url)
+
+        if source.get("company", "").lower() == "wise":
+            print("WISE CONFIGURED URL:", source["url"])
+            print("WISE FINAL URL:", response.url)
+            print("WISE STATUS:", response.status_code)
+            print("WISE HTML LENGTH:", len(response.text))
+            print("WISE LINKS FOUND:", len(articles))
+
+            for article in articles[:20]:
+                print("WISE ARTICLE:", article)
+
+        return source, articles, None
+
     except requests.RequestException as error:
+        print("REQUEST ERROR:", source.get("company"), error)
         return source, [], error
 
 def main():
