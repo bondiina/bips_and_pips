@@ -1111,6 +1111,10 @@ def parse_google_news_feed(
         description_text = strip_html(
             description
         )
+        published_at = parse_date(pub_date)
+
+        if not is_recent_article(published_at, days=14):
+            continue
 
         relevance_text = (
             f"{title} {description_text}"
@@ -1142,9 +1146,7 @@ def parse_google_news_feed(
                 ),
                 "title": title,
                 "url": clean_url(link),
-                "published_at": parse_date(
-                    pub_date
-                ),
+                "published_at": published_at,
                 "source_type": (
                     "external_news"
                 ),
@@ -1371,15 +1373,6 @@ def extract_feed(xml_text: str, feed_url: str):
             if not link:
                 continue
 
-            published_at = parse_date(published)
-
-            if published_at:
-            published_dt = datetime.fromisoformat(
-            published_at.replace("Z", "+00:00")
-    )
-
-                if published_dt < datetime.now(timezone.utc) - timedelta(days=14):
-                    continue
 
             results.append(
     {
