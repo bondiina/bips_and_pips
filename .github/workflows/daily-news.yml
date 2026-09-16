@@ -1,31 +1,44 @@
-name: Daily official news monitor
+name: Hourly fintech news monitor
+
 on:
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   collect:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
-        with: {python-version: "3.12"}
+        with:
+          python-version: "3.12"
+
       - run: pip install -r requirements.txt
-      - name: Check for new posts (bootstrap on first run)
+
+      - name: Check for new posts
         run: |
-          if [ -f state.json ]; then
-            python news_monitor.py --format markdown | tee latest-news.md
-          else
-            python news_monitor.py --bootstrap
-            echo "# Official company news" > latest-news.md
-            echo "Baseline created; subsequent runs report newly discovered links." >> latest-news.md
-          fi
-      - name: Persist monitoring state and report
+          python news_monitor.py --format markdown | tee latest-news.md
+
+      - name: Send email if there is new news
+        if: success()
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          NEWS_EMAIL_TO: ${{ secrets.NEWS_EMAIL_TO }}
+        run: python send_news_email.py
+
+      - name: Persist monitoring state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -f state.json latest-news.md latest-week-news.md news_archive.json monitor-debug.json
-          git diff --cached --quiet || git commit -m "chore: daily official news check"
+          git diff --cached --quiet || git commit -m "chore: hourly fintech news check"
           git push
