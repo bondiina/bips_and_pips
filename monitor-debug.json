@@ -1,12 +1,12 @@
 {
-  "run_at": "2026-09-17T02:00:37.531502+00:00",
+  "run_at": "2026-09-17T07:12:46.515423+00:00",
   "configured_sources": 600,
   "successful_sources": 438,
   "failed_sources": 162,
-  "zero_result_sources": 179,
-  "candidate_articles": 7656,
-  "new_urls": 45,
-  "new_reported": 45,
+  "zero_result_sources": 180,
+  "candidate_articles": 7575,
+  "new_urls": 110,
+  "new_reported": 99,
   "sources": [
     {
       "company": "10x Banking",
@@ -60,7 +60,7 @@
       "source_type": "external_news",
       "query": "(\"ACI Worldwide\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 1,
+      "results_found": 0,
       "final_url": "https://news.google.com/rss/search?q=%28%22ACI+Worldwide%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -79,7 +79,7 @@
       "source_type": "external_news",
       "query": "(\"Acorns\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 4,
+      "results_found": 5,
       "final_url": "https://news.google.com/rss/search?q=%28%22Acorns%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -89,7 +89,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.acumatica.com/corporate-newsroom/",
-      "html_bytes": 288575,
+      "html_bytes": 288135,
       "links_found": 137,
       "methods": {
         "scoped_html": 137
@@ -343,7 +343,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://albert.com/newsroom",
-      "html_bytes": 200570,
+      "html_bytes": 200571,
       "links_found": 6,
       "methods": {
         "scoped_html": 6
@@ -354,7 +354,7 @@
       "source_type": "external_news",
       "query": "(\"Albert\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 4,
+      "results_found": 3,
       "final_url": "https://news.google.com/rss/search?q=%28%22Albert%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -527,7 +527,7 @@
       "source_type": "external_news",
       "query": "(\"Altruist\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 6,
+      "results_found": 4,
       "final_url": "https://news.google.com/rss/search?q=%28%22Altruist%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -546,7 +546,7 @@
       "source_type": "external_news",
       "query": "(\"American Express\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 7,
+      "results_found": 8,
       "final_url": "https://news.google.com/rss/search?q=%28%22American+Express%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -565,7 +565,7 @@
       "source_type": "external_news",
       "query": "(\"Amount\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 2,
+      "results_found": 1,
       "final_url": "https://news.google.com/rss/search?q=%28%22Amount%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -661,7 +661,7 @@
       "source_type": "external_news",
       "query": "(\"Arc\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 14,
+      "results_found": 16,
       "final_url": "https://news.google.com/rss/search?q=%28%22Arc%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -691,7 +691,7 @@
       "source_type": "external_news",
       "query": "(\"Arch\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 3,
+      "results_found": 1,
       "final_url": "https://news.google.com/rss/search?q=%28%22Arch%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -849,7 +849,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.bankrate.com/news/",
-      "html_bytes": 1132948,
+      "html_bytes": 1132804,
       "links_found": 6,
       "methods": {
         "article_html": 4,
@@ -871,7 +871,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.getbaraka.com/news",
-      "html_bytes": 75681,
+      "html_bytes": 75485,
       "links_found": 0,
       "methods": {}
     },
@@ -1022,7 +1022,7 @@
       "source_type": "external_news",
       "query": "(\"BILL\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 6,
+      "results_found": 5,
       "final_url": "https://news.google.com/rss/search?q=%28%22BILL%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -1157,7 +1157,7 @@
       "source_type": "external_news",
       "query": "(\"BitGo\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 4,
+      "results_found": 1,
       "final_url": "https://news.google.com/rss/search?q=%28%22BitGo%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -1186,7 +1186,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.blackline.com/blog/",
-      "html_bytes": 2660870,
+      "html_bytes": 2660872,
       "links_found": 16,
       "methods": {
         "scoped_html": 16
@@ -1222,7 +1222,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://block.xyz/news",
-      "html_bytes": 954852,
+      "html_bytes": 954813,
       "links_found": 0,
       "methods": {}
     },
@@ -1246,7 +1246,7 @@
       "source_type": "external_news",
       "query": "(\"Bloomberg\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 22,
+      "results_found": 20,
       "final_url": "https://news.google.com/rss/search?q=%28%22Bloomberg%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -1288,7 +1288,7 @@
       "source_type": "external_news",
       "query": "(\"Bottomline\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 3,
+      "results_found": 4,
       "final_url": "https://news.google.com/rss/search?q=%28%22Bottomline%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -1329,7 +1329,7 @@
       "source_type": "external_news",
       "query": "(\"Branch\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 4,
+      "results_found": 3,
       "final_url": "https://news.google.com/rss/search?q=%28%22Branch%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -1367,7 +1367,7 @@
       "source_type": "external_news",
       "query": "(\"Brigit\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 2,
+      "results_found": 1,
       "final_url": "https://news.google.com/rss/search?q=%28%22Brigit%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -1390,7 +1390,7 @@
       "source_type": "newsroom",
       "configured_url": "https://www.bud.co/news",
       "strategy": "auto",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.bud.co', port=443): Max retries exceeded with url: /news (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bud.co', port=443) at 0x7f66bc283200>, 'Connection to www.bud.co timed out. (connect timeout=5)'))"
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.bud.co', port=443): Max retries exceeded with url: /news (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bud.co', port=443) at 0x7fbac8a6fcb0>, 'Connection to www.bud.co timed out. (connect timeout=5)'))"
     },
     {
       "company": "Bud Financial",
@@ -1438,7 +1438,7 @@
       "source_type": "external_news",
       "query": "(\"Bullish\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 2,
+      "results_found": 3,
       "final_url": "https://news.google.com/rss/search?q=%28%22Bullish%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -1448,7 +1448,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://press.bunq.com/",
-      "html_bytes": 161957,
+      "html_bytes": 161905,
       "links_found": 39,
       "methods": {
         "article_html": 1,
@@ -1530,7 +1530,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://canoeintelligence.com/resources/",
-      "html_bytes": 842117,
+      "html_bytes": 842111,
       "links_found": 0,
       "methods": {}
     },
@@ -1587,7 +1587,7 @@
       "source_type": "newsroom",
       "configured_url": "https://www.cashanalytics.com/news",
       "strategy": "auto",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.cashanalytics.com', port=443): Max retries exceeded with url: /news (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cashanalytics.com', port=443) at 0x7f66a48358b0>, 'Connection to www.cashanalytics.com timed out. (connect timeout=5)'))"
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.cashanalytics.com', port=443): Max retries exceeded with url: /news (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cashanalytics.com', port=443) at 0x7fbaa817b230>, 'Connection to www.cashanalytics.com timed out. (connect timeout=5)'))"
     },
     {
       "company": "CashAnalytics",
@@ -1604,7 +1604,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.cashfree.com/blog/",
-      "html_bytes": 378157,
+      "html_bytes": 378167,
       "links_found": 25,
       "methods": {
         "article_html": 17,
@@ -1639,7 +1639,7 @@
       "source_type": "external_news",
       "query": "(\"CB Insights\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 0,
+      "results_found": 1,
       "final_url": "https://news.google.com/rss/search?q=%28%22CB+Insights%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -1649,7 +1649,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.cboe.com/insights/",
-      "html_bytes": 438292,
+      "html_bytes": 438252,
       "links_found": 17,
       "methods": {
         "article_html": 9,
@@ -1759,7 +1759,7 @@
       "source_type": "external_news",
       "query": "(\"Charles Schwab\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 6,
+      "results_found": 5,
       "final_url": "https://news.google.com/rss/search?q=%28%22Charles+Schwab%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -1833,7 +1833,7 @@
       "source_type": "external_news",
       "query": "(\"Circle\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 26,
+      "results_found": 28,
       "final_url": "https://news.google.com/rss/search?q=%28%22Circle%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -1843,7 +1843,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.civica.com/en-gb/news/",
-      "html_bytes": 37614,
+      "html_bytes": 37627,
       "links_found": 0,
       "methods": {}
     },
@@ -1917,7 +1917,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.corlytics.com/news/",
-      "html_bytes": 262464,
+      "html_bytes": 262491,
       "links_found": 10,
       "methods": {
         "article_html": 10
@@ -2045,7 +2045,7 @@
       "source_type": "external_news",
       "query": "(\"CME Group\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 16,
+      "results_found": 15,
       "final_url": "https://news.google.com/rss/search?q=%28%22CME+Group%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -2064,7 +2064,7 @@
       "source_type": "external_news",
       "query": "(\"Coalition\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 13,
+      "results_found": 14,
       "final_url": "https://news.google.com/rss/search?q=%28%22Coalition%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -2095,7 +2095,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.coinbase.com/",
-      "html_bytes": 419018,
+      "html_bytes": 418946,
       "links_found": 6,
       "methods": {
         "scoped_html": 6
@@ -2106,7 +2106,7 @@
       "source_type": "external_news",
       "query": "(\"Coinbase\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 13,
+      "results_found": 11,
       "final_url": "https://news.google.com/rss/search?q=%28%22Coinbase%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -2116,7 +2116,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://column.com/press",
-      "html_bytes": 221070,
+      "html_bytes": 220935,
       "links_found": 0,
       "methods": {}
     },
@@ -2125,7 +2125,7 @@
       "source_type": "external_news",
       "query": "(\"Column\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 2,
+      "results_found": 3,
       "final_url": "https://news.google.com/rss/search?q=%28%22Column%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -2270,7 +2270,7 @@
       "source_type": "external_news",
       "query": "(\"Copper\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 13,
+      "results_found": 11,
       "final_url": "https://news.google.com/rss/search?q=%28%22Copper%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -2280,7 +2280,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.corlytics.com/news/",
-      "html_bytes": 262464,
+      "html_bytes": 262491,
       "links_found": 10,
       "methods": {
         "article_html": 10
@@ -2382,7 +2382,7 @@
       "source_type": "external_news",
       "query": "(\"Credit Karma\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 2,
+      "results_found": 1,
       "final_url": "https://news.google.com/rss/search?q=%28%22Credit+Karma%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -2469,7 +2469,7 @@
       "source_type": "external_news",
       "query": "(\"Cross River\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 13,
+      "results_found": 12,
       "final_url": "https://news.google.com/rss/search?q=%28%22Cross+River%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -2553,7 +2553,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.dailypay.com/press-center/",
-      "html_bytes": 200527,
+      "html_bytes": 200528,
       "links_found": 7,
       "methods": {
         "scoped_html": 7
@@ -2616,7 +2616,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.dataminr.com/products/dataminr-for-news/",
-      "html_bytes": 176341,
+      "html_bytes": 181549,
       "links_found": 0,
       "methods": {}
     },
@@ -2635,7 +2635,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.datarails.com/blog/",
-      "html_bytes": 618470,
+      "html_bytes": 616960,
       "links_found": 67,
       "methods": {
         "article_html": 64,
@@ -2734,7 +2734,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://dext.com/uk/news",
-      "html_bytes": 211766,
+      "html_bytes": 211763,
       "links_found": 0,
       "methods": {}
     },
@@ -2808,7 +2808,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.dlocal.com/press-releases/",
-      "html_bytes": 384958,
+      "html_bytes": 384987,
       "links_found": 143,
       "methods": {
         "jsonld": 143
@@ -2855,7 +2855,7 @@
       "source_type": "external_news",
       "query": "(\"Dun & Bradstreet\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 8,
+      "results_found": 7,
       "final_url": "https://news.google.com/rss/search?q=%28%22Dun+%26+Bradstreet%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -3021,7 +3021,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://enginebystarling.com/newsroom/",
-      "html_bytes": 180179,
+      "html_bytes": 180178,
       "links_found": 13,
       "methods": {
         "scoped_html": 13
@@ -3127,7 +3127,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.nextinsurance.com/newsroom/",
-      "html_bytes": 289060,
+      "html_bytes": 289059,
       "links_found": 0,
       "methods": {}
     },
@@ -3146,7 +3146,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.ethos.com/?utm_source=sxm&utm_medium=radio&utm_campaign=news",
-      "html_bytes": 424328,
+      "html_bytes": 424227,
       "links_found": 20,
       "methods": {
         "scoped_html": 20
@@ -3167,7 +3167,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.etoro.com/news-and-analysis/",
-      "html_bytes": 273840,
+      "html_bytes": 273839,
       "links_found": 20,
       "methods": {
         "article_html": 15,
@@ -3179,7 +3179,7 @@
       "source_type": "external_news",
       "query": "(\"eToro\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 0,
+      "results_found": 1,
       "final_url": "https://news.google.com/rss/search?q=%28%22eToro%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -3234,7 +3234,7 @@
       "source_type": "external_news",
       "query": "(\"Experian\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 5,
+      "results_found": 6,
       "final_url": "https://news.google.com/rss/search?q=%28%22Experian%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -3303,7 +3303,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.fawry.com/about/news/",
-      "html_bytes": 217879,
+      "html_bytes": 217888,
       "links_found": 11,
       "methods": {
         "article_html": 11
@@ -3314,7 +3314,7 @@
       "source_type": "external_news",
       "query": "(\"Fawry\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 0,
+      "results_found": 1,
       "final_url": "https://news.google.com/rss/search?q=%28%22Fawry%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -3401,7 +3401,7 @@
       "source_type": "external_news",
       "query": "(\"Fi\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 14,
+      "results_found": 13,
       "final_url": "https://news.google.com/rss/search?q=%28%22Fi%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -3451,7 +3451,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.fidelity.com/news/",
-      "html_bytes": 281011,
+      "html_bytes": 280864,
       "links_found": 7,
       "methods": {
         "scoped_html": 7
@@ -3462,7 +3462,7 @@
       "source_type": "external_news",
       "query": "(\"Fidelity\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 4,
+      "results_found": 3,
       "final_url": "https://news.google.com/rss/search?q=%28%22Fidelity%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -3553,7 +3553,7 @@
       "source_type": "external_news",
       "query": "(\"Fireblocks\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 1,
+      "results_found": 2,
       "final_url": "https://news.google.com/rss/search?q=%28%22Fireblocks%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -3568,7 +3568,7 @@
       "source_type": "external_news",
       "query": "(\"FIS\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 8,
+      "results_found": 6,
       "final_url": "https://news.google.com/rss/search?q=%28%22FIS%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -3583,7 +3583,7 @@
       "source_type": "external_news",
       "query": "(\"Fiscal.ai\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 1,
+      "results_found": 0,
       "final_url": "https://news.google.com/rss/search?q=%28%22Fiscal.ai%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -3862,7 +3862,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://fundcount.com/blog/",
-      "html_bytes": 221899,
+      "html_bytes": 221894,
       "links_found": 6,
       "methods": {
         "headline_html": 6
@@ -3926,7 +3926,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://blog.fundingsocieties.com/",
-      "html_bytes": 195230,
+      "html_bytes": 195307,
       "links_found": 11,
       "methods": {
         "article_html": 10,
@@ -3948,7 +3948,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.gabi.com/app",
-      "html_bytes": 4673,
+      "html_bytes": 4674,
       "links_found": 0,
       "methods": {}
     },
@@ -4011,7 +4011,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.gemini.com/blog",
-      "html_bytes": 632181,
+      "html_bytes": 632305,
       "links_found": 23,
       "methods": {
         "scoped_html": 23
@@ -4022,7 +4022,7 @@
       "source_type": "external_news",
       "query": "(\"Gemini\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 12,
+      "results_found": 10,
       "final_url": "https://news.google.com/rss/search?q=%28%22Gemini%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -4130,7 +4130,7 @@
       "source_type": "external_news",
       "query": "(\"Grasshopper Bank\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 4,
+      "results_found": 3,
       "final_url": "https://news.google.com/rss/search?q=%28%22Grasshopper+Bank%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -4246,7 +4246,7 @@
       "source_type": "external_news",
       "query": "(\"Hebbia\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 1,
+      "results_found": 0,
       "final_url": "https://news.google.com/rss/search?q=%28%22Hebbia%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -4256,7 +4256,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://ripple.com/products/prime-brokerage/",
-      "html_bytes": 154246,
+      "html_bytes": 154201,
       "links_found": 0,
       "methods": {}
     },
@@ -4294,7 +4294,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.highradius.com/news/",
-      "html_bytes": 278323,
+      "html_bytes": 278204,
       "links_found": 105,
       "methods": {
         "headline_html": 102,
@@ -4316,7 +4316,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.hippo.com/newsroom",
-      "html_bytes": 370682,
+      "html_bytes": 370673,
       "links_found": 0,
       "methods": {}
     },
@@ -4335,7 +4335,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.holded.com/blog",
-      "html_bytes": 472186,
+      "html_bytes": 472188,
       "links_found": 33,
       "methods": {
         "article_html": 24,
@@ -4461,7 +4461,7 @@
       "source_type": "external_news",
       "query": "(\"ICE\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 15,
+      "results_found": 19,
       "final_url": "https://news.google.com/rss/search?q=%28%22ICE%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -4524,7 +4524,7 @@
       "source_type": "external_news",
       "query": "(\"Increase\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 11,
+      "results_found": 12,
       "final_url": "https://news.google.com/rss/search?q=%28%22Increase%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -4534,7 +4534,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://ingenico.com/en/newsroom",
-      "html_bytes": 148929,
+      "html_bytes": 148927,
       "links_found": 22,
       "methods": {
         "scoped_html": 22
@@ -4545,7 +4545,7 @@
       "source_type": "external_news",
       "query": "(\"Ingenico\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 3,
+      "results_found": 1,
       "final_url": "https://news.google.com/rss/search?q=%28%22Ingenico%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -4555,7 +4555,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://insurify.com/news/",
-      "html_bytes": 515509,
+      "html_bytes": 515510,
       "links_found": 24,
       "methods": {
         "headline_html": 24
@@ -4602,7 +4602,7 @@
       "source_type": "external_news",
       "query": "(\"Interactive Brokers\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 4,
+      "results_found": 3,
       "final_url": "https://news.google.com/rss/search?q=%28%22Interactive+Brokers%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -4612,7 +4612,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.intuit.com/company/",
-      "html_bytes": 443043,
+      "html_bytes": 443045,
       "links_found": 12,
       "methods": {
         "scoped_html": 12
@@ -4623,7 +4623,7 @@
       "source_type": "external_news",
       "query": "(\"Intuit\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 3,
+      "results_found": 2,
       "final_url": "https://news.google.com/rss/search?q=%28%22Intuit%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -4950,7 +4950,7 @@
       "source_type": "external_news",
       "query": "(\"Juspay\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 3,
+      "results_found": 2,
       "final_url": "https://news.google.com/rss/search?q=%28%22Juspay%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -5142,7 +5142,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.kraken.com/",
-      "html_bytes": 1396249,
+      "html_bytes": 1395678,
       "links_found": 7,
       "methods": {
         "article_html": 1,
@@ -5301,7 +5301,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.leantech.me/uae/en/blog",
-      "html_bytes": 195544,
+      "html_bytes": 195566,
       "links_found": 32,
       "methods": {
         "scoped_html": 32
@@ -5331,7 +5331,7 @@
       "source_type": "external_news",
       "query": "(\"Ledger\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 7,
+      "results_found": 6,
       "final_url": "https://news.google.com/rss/search?q=%28%22Ledger%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -5379,7 +5379,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.happen.com/",
-      "html_bytes": 257962,
+      "html_bytes": 257968,
       "links_found": 0,
       "methods": {}
     },
@@ -5398,11 +5398,11 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.lendingkart.com/",
-      "html_bytes": 714215,
-      "links_found": 20,
+      "html_bytes": 696586,
+      "links_found": 17,
       "methods": {
-        "headline_html": 11,
-        "scoped_html": 9
+        "headline_html": 9,
+        "scoped_html": 8
       }
     },
     {
@@ -5456,7 +5456,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.google.com/search?q=Liberis+official+newsroom+press+releases&ucbcb=1",
-      "html_bytes": 92165,
+      "html_bytes": 91391,
       "links_found": 0,
       "methods": {}
     },
@@ -5924,7 +5924,7 @@
       "source_type": "external_news",
       "query": "(\"Modern Treasury\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 2,
+      "results_found": 3,
       "final_url": "https://news.google.com/rss/search?q=%28%22Modern+Treasury%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -6044,7 +6044,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.moneylion.com/news/",
-      "html_bytes": 125457,
+      "html_bytes": 125458,
       "links_found": 0,
       "methods": {}
     },
@@ -6165,7 +6165,7 @@
       "source_type": "external_news",
       "query": "(\"Moov\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 9,
+      "results_found": 10,
       "final_url": "https://news.google.com/rss/search?q=%28%22Moov%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -6175,7 +6175,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.morningstar.com/news",
-      "html_bytes": 283813,
+      "html_bytes": 281993,
       "links_found": 50,
       "methods": {
         "scoped_html": 50
@@ -6196,7 +6196,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.getmoss.com/press",
-      "html_bytes": 159013,
+      "html_bytes": 200401,
       "links_found": 0,
       "methods": {}
     },
@@ -6333,7 +6333,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://navan.com/blog/category/news",
-      "html_bytes": 282315,
+      "html_bytes": 282317,
       "links_found": 0,
       "methods": {}
     },
@@ -6444,7 +6444,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.nerdwallet.com/news",
-      "html_bytes": 983952,
+      "html_bytes": 983955,
       "links_found": 0,
       "methods": {}
     },
@@ -6497,7 +6497,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.niceactimize.com/press-releases",
-      "html_bytes": 101795,
+      "html_bytes": 101501,
       "links_found": 7,
       "methods": {
         "scoped_html": 7
@@ -6566,7 +6566,7 @@
       "source_type": "external_news",
       "query": "(\"Nomentia\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 0,
+      "results_found": 1,
       "final_url": "https://news.google.com/rss/search?q=%28%22Nomentia%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -6591,7 +6591,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.novo.co/news",
-      "html_bytes": 223687,
+      "html_bytes": 223717,
       "links_found": 0,
       "methods": {}
     },
@@ -6600,7 +6600,7 @@
       "source_type": "external_news",
       "query": "(\"Novo\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 10,
+      "results_found": 11,
       "final_url": "https://news.google.com/rss/search?q=%28%22Novo%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -6775,13 +6775,7 @@
       "source_type": "newsroom",
       "configured_url": "https://onsi.com/blog",
       "strategy": "auto",
-      "status": 200,
-      "final_url": "https://onsi.com/blog",
-      "html_bytes": 1265783,
-      "links_found": 47,
-      "methods": {
-        "scoped_html": 47
-      }
+      "error": "ReadTimeout: HTTPSConnectionPool(host='onsi.com', port=443): Read timed out. (read timeout=5)"
     },
     {
       "company": "Onsi",
@@ -6835,7 +6829,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.google.com/search?q=Oracle+Treasury+official+newsroom+press+releases&ucbcb=1",
-      "html_bytes": 92310,
+      "html_bytes": 91348,
       "links_found": 0,
       "methods": {}
     },
@@ -6844,7 +6838,7 @@
       "source_type": "external_news",
       "query": "(\"Oracle\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 5,
+      "results_found": 6,
       "final_url": "https://news.google.com/rss/search?q=%28%22Oracle%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -6854,7 +6848,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://oranj.io/news",
-      "html_bytes": 7274,
+      "html_bytes": 7850,
       "links_found": 0,
       "methods": {}
     },
@@ -6909,7 +6903,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://oscarhealth.com/news",
-      "html_bytes": 198524,
+      "html_bytes": 199741,
       "links_found": 5,
       "methods": {
         "scoped_html": 5
@@ -6930,7 +6924,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://pagaya.com/news",
-      "html_bytes": 1474331,
+      "html_bytes": 1474280,
       "links_found": 41,
       "methods": {
         "article_html": 41
@@ -7025,13 +7019,7 @@
       "source_type": "newsroom",
       "configured_url": "https://www.paxos.com/newsroom",
       "strategy": "auto",
-      "status": 200,
-      "final_url": "https://www.paxos.com/newsroom",
-      "html_bytes": 409871,
-      "links_found": 6,
-      "methods": {
-        "scoped_html": 6
-      }
+      "error": "ReadTimeout: HTTPSConnectionPool(host='www.paxos.com', port=443): Read timed out. (read timeout=5)"
     },
     {
       "company": "Paxos",
@@ -7171,7 +7159,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.paypal.com/uk/home",
-      "html_bytes": 257744,
+      "html_bytes": 267410,
       "links_found": 1,
       "methods": {
         "jsonld": 1
@@ -7203,7 +7191,7 @@
       "source_type": "external_news",
       "query": "(\"Paytm\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 8,
+      "results_found": 7,
       "final_url": "https://news.google.com/rss/search?q=%28%22Paytm%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -7325,7 +7313,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.phonepe.com/press/",
-      "html_bytes": 446821,
+      "html_bytes": 446824,
       "links_found": 9,
       "methods": {
         "headline_html": 2,
@@ -7337,7 +7325,7 @@
       "source_type": "external_news",
       "query": "(\"PhonePe\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 15,
+      "results_found": 16,
       "final_url": "https://news.google.com/rss/search?q=%28%22PhonePe%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -7347,7 +7335,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.pieinsurance.com/media",
-      "html_bytes": 179022,
+      "html_bytes": 178336,
       "links_found": 0,
       "methods": {}
     },
@@ -7375,7 +7363,7 @@
       "source_type": "external_news",
       "query": "(\"Pine Labs\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 9,
+      "results_found": 8,
       "final_url": "https://news.google.com/rss/search?q=%28%22Pine+Labs%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -7390,7 +7378,7 @@
       "source_type": "external_news",
       "query": "(\"PitchBook\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 0,
+      "results_found": 1,
       "final_url": "https://news.google.com/rss/search?q=%28%22PitchBook%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -7447,7 +7435,7 @@
       "source_type": "external_news",
       "query": "(\"Point\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 3,
+      "results_found": 2,
       "final_url": "https://news.google.com/rss/search?q=%28%22Point%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -7656,7 +7644,7 @@
       "source_type": "external_news",
       "query": "(\"Public\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 16,
+      "results_found": 13,
       "final_url": "https://news.google.com/rss/search?q=%28%22Public%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -7742,7 +7730,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.railsr.com/newsroom",
-      "html_bytes": 1844639,
+      "html_bytes": 1845009,
       "links_found": 13,
       "methods": {
         "scoped_html": 13
@@ -7768,7 +7756,7 @@
       "source_type": "external_news",
       "query": "(\"Rain\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 2,
+      "results_found": 1,
       "final_url": "https://news.google.com/rss/search?q=%28%22Rain%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -7778,7 +7766,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://ramp.com/business-cards?utm_source=oxford&utm_medium=national-radio&utm_content=news&utm_campaign=radio-sxm-250bonus",
-      "html_bytes": 1088401,
+      "html_bytes": 1095080,
       "links_found": 0,
       "methods": {}
     },
@@ -7787,7 +7775,7 @@
       "source_type": "external_news",
       "query": "(\"Ramp\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 6,
+      "results_found": 5,
       "final_url": "https://news.google.com/rss/search?q=%28%22Ramp%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -7866,7 +7854,7 @@
       "source_type": "external_news",
       "query": "(\"Razorpay\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 3,
+      "results_found": 2,
       "final_url": "https://news.google.com/rss/search?q=%28%22Razorpay%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -7963,7 +7951,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://resolvepay.com/blog",
-      "html_bytes": 1372964,
+      "html_bytes": 1371448,
       "links_found": 506,
       "methods": {
         "article_html": 500,
@@ -7975,7 +7963,7 @@
       "source_type": "external_news",
       "query": "(\"Resolve\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 9,
+      "results_found": 8,
       "final_url": "https://news.google.com/rss/search?q=%28%22Resolve%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -8059,7 +8047,7 @@
       "source_type": "external_news",
       "query": "(\"Ripple\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 16,
+      "results_found": 15,
       "final_url": "https://news.google.com/rss/search?q=%28%22Ripple%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -8107,7 +8095,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://robinhood.com/news",
-      "html_bytes": 8095,
+      "html_bytes": 8090,
       "links_found": 0,
       "methods": {}
     },
@@ -8116,7 +8104,7 @@
       "source_type": "external_news",
       "query": "(\"Robinhood\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 6,
+      "results_found": 5,
       "final_url": "https://news.google.com/rss/search?q=%28%22Robinhood%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -8124,14 +8112,18 @@
       "source_type": "newsroom",
       "configured_url": "https://onboarding.rocketmoney.com/referrals?_forward_params=1&_smtype=3&utm_campaign=news&utm_medium=radio&utm_source=radio&wpcid=news&wpcn=news&wpsnetn=radio",
       "strategy": "auto",
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://onboarding.rocketmoney.com/referrals?_forward_params=1&_smtype=3&utm_campaign=news&utm_medium=radio&utm_source=radio&wpcid=news&wpcn=news&wpsnetn=radio"
+      "status": 200,
+      "final_url": "https://onboarding.rocketmoney.com/referrals?_forward_params=1&_smtype=3&utm_campaign=news&utm_medium=radio&utm_source=radio&wpcid=news&wpcn=news&wpsnetn=radio",
+      "html_bytes": 255746,
+      "links_found": 0,
+      "methods": {}
     },
     {
       "company": "Rocket Money",
       "source_type": "external_news",
       "query": "(\"Rocket Money\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 1,
+      "results_found": 0,
       "final_url": "https://news.google.com/rss/search?q=%28%22Rocket+Money%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -8152,7 +8144,7 @@
       "source_type": "external_news",
       "query": "(\"Rogo\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 1,
+      "results_found": 0,
       "final_url": "https://news.google.com/rss/search?q=%28%22Rogo%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -8228,7 +8220,7 @@
       "source_type": "external_news",
       "query": "(\"S&P Global\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 18,
+      "results_found": 15,
       "final_url": "https://news.google.com/rss/search?q=%28%22S%26P+Global%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -8327,7 +8319,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.sardine.ai/blog",
-      "html_bytes": 616881,
+      "html_bytes": 616670,
       "links_found": 0,
       "methods": {}
     },
@@ -8399,7 +8391,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.scienaptic.ai/news",
-      "html_bytes": 1988349,
+      "html_bytes": 1988446,
       "links_found": 1,
       "methods": {
         "scoped_html": 1
@@ -8420,7 +8412,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.seic.com/about-sei/newsroom",
-      "html_bytes": 144581,
+      "html_bytes": 144585,
       "links_found": 9,
       "methods": {
         "scoped_html": 9
@@ -8510,7 +8502,7 @@
       "source_type": "external_news",
       "query": "(\"Sezzle\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 1,
+      "results_found": 0,
       "final_url": "https://news.google.com/rss/search?q=%28%22Sezzle%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -8535,7 +8527,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://shuftipro.com/press-release/",
-      "html_bytes": 520110,
+      "html_bytes": 519852,
       "links_found": 10,
       "methods": {
         "headline_html": 1,
@@ -8610,7 +8602,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.similarweb.com/blog/",
-      "html_bytes": 356512,
+      "html_bytes": 356511,
       "links_found": 59,
       "methods": {
         "jsonld": 11,
@@ -8763,7 +8755,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://sbs-software.com/news/",
-      "html_bytes": 227051,
+      "html_bytes": 227049,
       "links_found": 7,
       "methods": {
         "jsonld": 1,
@@ -8785,7 +8777,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://sovos.com/press-releases/",
-      "html_bytes": 366655,
+      "html_bytes": 366648,
       "links_found": 22,
       "methods": {
         "article_html": 18,
@@ -8902,7 +8894,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.ssctech.com/blog",
-      "html_bytes": 127898,
+      "html_bytes": 128059,
       "links_found": 1,
       "methods": {
         "scoped_html": 1
@@ -8934,7 +8926,7 @@
       "source_type": "external_news",
       "query": "(\"Stake\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 13,
+      "results_found": 15,
       "final_url": "https://news.google.com/rss/search?q=%28%22Stake%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -9051,7 +9043,7 @@
       "source_type": "external_news",
       "query": "(\"Stream\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 3,
+      "results_found": 5,
       "final_url": "https://news.google.com/rss/search?q=%28%22Stream%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -9102,7 +9094,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.sumup.com/en-us/press/",
-      "html_bytes": 312554,
+      "html_bytes": 312581,
       "links_found": 4,
       "methods": {
         "scoped_html": 4
@@ -9123,7 +9115,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://sunbit.com/press/",
-      "html_bytes": 162374,
+      "html_bytes": 162452,
       "links_found": 0,
       "methods": {}
     },
@@ -9406,7 +9398,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://telr.com/blog",
-      "html_bytes": 86723,
+      "html_bytes": 86937,
       "links_found": 4,
       "methods": {
         "scoped_html": 4
@@ -9474,7 +9466,7 @@
       "source_type": "external_news",
       "query": "(\"Tether\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 7,
+      "results_found": 6,
       "final_url": "https://news.google.com/rss/search?q=%28%22Tether%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -9489,7 +9481,7 @@
       "source_type": "external_news",
       "query": "(\"Thales\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 6,
+      "results_found": 4,
       "final_url": "https://news.google.com/rss/search?q=%28%22Thales%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -9523,7 +9515,7 @@
       "source_type": "external_news",
       "query": "(\"Thomson Reuters\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 6,
+      "results_found": 4,
       "final_url": "https://news.google.com/rss/search?q=%28%22Thomson+Reuters%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -9557,7 +9549,7 @@
       "source_type": "external_news",
       "query": "(\"Thredd\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 4,
+      "results_found": 3,
       "final_url": "https://news.google.com/rss/search?q=%28%22Thredd%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -9588,7 +9580,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.tide.co/newsroom/",
-      "html_bytes": 732393,
+      "html_bytes": 732549,
       "links_found": 0,
       "methods": {}
     },
@@ -9607,7 +9599,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.tieto.com/",
-      "html_bytes": 89186,
+      "html_bytes": 89218,
       "links_found": 16,
       "methods": {
         "scoped_html": 16
@@ -9741,7 +9733,7 @@
       "source_type": "external_news",
       "query": "(\"Token.io\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 1,
+      "results_found": 0,
       "final_url": "https://news.google.com/rss/search?q=%28%22Token.io%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -9880,7 +9872,7 @@
       "source_type": "external_news",
       "query": "(\"TransferGo\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 1,
+      "results_found": 0,
       "final_url": "https://news.google.com/rss/search?q=%28%22TransferGo%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -9954,7 +9946,13 @@
       "source_type": "newsroom",
       "configured_url": "https://www.trevipay.com/resources/blog/",
       "strategy": "auto",
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.trevipay.com/resources/blog/"
+      "status": 200,
+      "final_url": "https://www.trevipay.com/resources/blog/",
+      "html_bytes": 761404,
+      "links_found": 14,
+      "methods": {
+        "headline_html": 14
+      }
     },
     {
       "company": "TreviPay",
@@ -10201,7 +10199,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.upgrade.com/press/releases/",
-      "html_bytes": 672027,
+      "html_bytes": 672005,
       "links_found": 27,
       "methods": {
         "scoped_html": 27
@@ -10212,7 +10210,7 @@
       "source_type": "external_news",
       "query": "(\"Upgrade\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 11,
+      "results_found": 9,
       "final_url": "https://news.google.com/rss/search?q=%28%22Upgrade%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -10241,7 +10239,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://vanillasoft.com/company/news",
-      "html_bytes": 334510,
+      "html_bytes": 334609,
       "links_found": 7,
       "methods": {
         "scoped_html": 7
@@ -10355,7 +10353,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.vertexinc.com/company/news",
-      "html_bytes": 257001,
+      "html_bytes": 257002,
       "links_found": 10,
       "methods": {
         "article_html": 10
@@ -10385,7 +10383,7 @@
       "source_type": "external_news",
       "query": "(\"Vestmark\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 7,
+      "results_found": 6,
       "final_url": "https://news.google.com/rss/search?q=%28%22Vestmark%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -10465,7 +10463,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://usa.visa.com/about-visa/newsroom.html",
-      "html_bytes": 130659,
+      "html_bytes": 130469,
       "links_found": 0,
       "methods": {}
     },
@@ -10474,7 +10472,7 @@
       "source_type": "external_news",
       "query": "(\"Visa\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 9,
+      "results_found": 10,
       "final_url": "https://news.google.com/rss/search?q=%28%22Visa%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -10679,7 +10677,7 @@
       "source_type": "external_news",
       "query": "(\"Wealthsimple\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 1,
+      "results_found": 2,
       "final_url": "https://news.google.com/rss/search?q=%28%22Wealthsimple%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -10729,7 +10727,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.webull.com/blog",
-      "html_bytes": 326728,
+      "html_bytes": 327876,
       "links_found": 18,
       "methods": {
         "scoped_html": 18
@@ -10750,7 +10748,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.wefox.com/newsroom",
-      "html_bytes": 1017462,
+      "html_bytes": 1017722,
       "links_found": 0,
       "methods": {}
     },
@@ -10769,7 +10767,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.westernunion.com/blog/en/",
-      "html_bytes": 143534,
+      "html_bytes": 143535,
       "links_found": 27,
       "methods": {
         "scoped_html": 27
@@ -10780,7 +10778,7 @@
       "source_type": "external_news",
       "query": "(\"Western Union\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 3,
+      "results_found": 2,
       "final_url": "https://news.google.com/rss/search?q=%28%22Western+Union%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -10790,7 +10788,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.wintermute.com/insights",
-      "html_bytes": 5205712,
+      "html_bytes": 5205669,
       "links_found": 16,
       "methods": {
         "scoped_html": 16
@@ -10801,7 +10799,7 @@
       "source_type": "external_news",
       "query": "(\"Wintermute\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 2,
+      "results_found": 1,
       "final_url": "https://news.google.com/rss/search?q=%28%22Wintermute%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -10830,7 +10828,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://newsroom.wise.com/en-NAM/",
-      "html_bytes": 172034,
+      "html_bytes": 171982,
       "links_found": 52,
       "methods": {
         "article_html": 1,
@@ -10873,7 +10871,7 @@
       "source_type": "external_news",
       "query": "(\"Wolters Kluwer\") (launch OR launches OR partnership OR acquisition OR funding OR expansion OR CEO OR appoints OR resigns OR licence OR license OR approval OR fine OR investigation OR lawsuit OR breach OR outage OR fraud OR layoffs OR shutdown OR revenue OR profit OR IPO OR award OR milestone) (fintech OR payments OR banking OR finance OR financial OR cards OR treasury OR expense OR money OR merchant OR crypto OR stablecoin) when:3d",
       "status": 200,
-      "results_found": 3,
+      "results_found": 4,
       "final_url": "https://news.google.com/rss/search?q=%28%22Wolters+Kluwer%22%29+%28launch+OR+launches+OR+partnership+OR+acquisition+OR+funding+OR+expansion+OR+CEO+OR+appoints+OR+resigns+OR+licence+OR+license+OR+approval+OR+fine+OR+investigation+OR+lawsuit+OR+breach+OR+outage+OR+fraud+OR+layoffs+OR+shutdown+OR+revenue+OR+profit+OR+IPO+OR+award+OR+milestone%29+%28fintech+OR+payments+OR+banking+OR+finance+OR+financial+OR+cards+OR+treasury+OR+expense+OR+money+OR+merchant+OR+crypto+OR+stablecoin%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB%3Aen"
     },
     {
@@ -10917,7 +10915,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.worldremit.com/en/news",
-      "html_bytes": 211774,
+      "html_bytes": 211780,
       "links_found": 13,
       "methods": {
         "scoped_html": 13
@@ -10938,7 +10936,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://blog.xero.com/",
-      "html_bytes": 115287,
+      "html_bytes": 115288,
       "links_found": 12,
       "methods": {
         "article_html": 12
@@ -11253,7 +11251,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://ziina.com/blog",
-      "html_bytes": 310615,
+      "html_bytes": 310529,
       "links_found": 16,
       "methods": {
         "scoped_html": 16
@@ -11274,7 +11272,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.zilch.com/corporate/news/",
-      "html_bytes": 64718,
+      "html_bytes": 63471,
       "links_found": 0,
       "methods": {}
     },
@@ -11323,7 +11321,7 @@
       "strategy": "auto",
       "status": 200,
       "final_url": "https://www.zoho.com/blog/",
-      "html_bytes": 25215,
+      "html_bytes": 26153,
       "links_found": 35,
       "methods": {
         "headline_html": 17,
