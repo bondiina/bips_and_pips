@@ -1,61 +1,85 @@
 # New official company updates
 
-## Accounting / CFO / Finance Automation
+## Banking Infrastructure / BaaS
 
-### AP/AR / spend / close / finance ops
+### Core banking / BaaS / sponsor banking
 
-- **BILL** · Company update: [North Carolina’s Investigation Is Over. Bill Belichick’s On-Field Problems Aren’t.](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdm4zZnZacnY0QWNYLXJSR0JuNFZqSFFidzVWODB0QlhKS1VCR0N6YmZrRFRPVG9meTdsRkVLdkVjbUQwcmd4YUlzTS1HUUZVRTRpMjBxUkhUWnpnR1hsYU8xLXJ5N3hNaE5HbGJ0Rm5JYWVzOTRxLWViNXdha2VlTVNPNjNlYTJJR0FRUGJ5Yjk3cnNiaWtObEdvbi1IeWRVTDUtMnc5b3BKOWZkNG9vTHNsNA?oc=5)
-- **Numeric** · Regulatory: [Numeric Positions Itself Around Agentic Finance With Upcoming Inflection Event](https://news.google.com/rss/articles/CBMixAFBVV95cUxOLTE4RFY0YkFmMFJtVmItVklXbkFUM1drY2tUV2hiS3hyMi1EOG14aFBYSWllNFB4OHBaN05oU3ZoQXM2QmVFLVBEczhRWWZDWEQ3X3NsdGF3Y0dyWlZsZHlRbGVZb1dtMUJMX0ZGd3dEN1B1Ty0wbjYtV3NxczJ0d2g4X0c3Q25FOTJwa0NlWnRZeXJOMWFyalpUZlZVRE1jZWdWSTkxYl9xN2kzamMybFUxcGlHWFFLUlpkdmF0OTRBbklM?oc=5)
-
-## Accounting / Tax / ERP
-
-### Accounting / ERP / tax compliance
-
-- **Wave** · M&A: [Alpha Wave Global finances Alantra’s acquisition of majority stake in Deudafix](https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjRaaWF2c2ZvTy1tblhkTEN5RU1yOVFnZTExT1lteUNQa3EtM3ZSQmFMWUFDdDYwUDRGNHgwdFA0R0t1blBNZU14M2J5RVhzWHNrMHcxNjNNd1FzWkt0a0ZlWDg0U0gwSkdkaXVwSjB2SHROWHpETGV0eEU3NmNxYTczT1UweXZIVm9UVm1mOWh1LTJDMm4yemVMUW1hemVESkJmR2h3LUEwTnV2VDNYQWZjTTU1dW5ZUmo3ZA?oc=5)
-
-## Banking / Core Banking / BaaS Gap
-
-### Core banking / digital banking / sponsor banking
-
-- **Increase** · Funding: [Constitutional amendment would increase funding for Minnesota schools](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEdiNjhmSlpLMEZyMlgzc3hlVnA4VFp4XzhtaTdoTjJ2VkJHZ3hFRDBrQ3ZoUmdOd3BqV25VcncwZXBGWkVFREdxVmZ6UlBjQTF3RzhOb2FleWtkaG8xSzBCZ0dqSkVEWWtTbkRUbllQUGVnNnhmMDFwamdmcjhQN3JpZ2pQOTFJNWQ2STNRRDRGLXBKVU1OVUpiYU43N0xFZUx4UzFmRnJQQlpOZG1F?oc=5)
+- **Unit** · Company update: [B.C. gang unit seizes 2 guns in Victoria investigation where suspect fired shot](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGo3SUJBUWNhTDZpRURqSlRjemszRDhodkYzNHNhQ3pSelZNS0JIRE9KdXJmTF9tYlBFSkcyR0ZfbENjcE5GTjlZYk5HSXNlWGxBV0JHSk52Nld5SkpXem1ORmt5aHRqcnZzekhfQWhKYVBkM0kyVFpkUFdrMFpqTFZyOEdJeDNIYnd2U2wzYk1halA1UVhjLVlya0pubVlFcXh2NVItWlkwaDg?oc=5)
+- **Unit** · Leadership: [Heinz innovation unit appoints former Muller man Lee Rolston](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMU5SektDd050eDJDQlNFQXdXYkxFUFRqcHBpVWFDQTQ4ckkxT01ScGFzSzU2eVlNNGxubTI0eHFOOUF5dXFzOG5lZXpXZzBRXzNGcThPTnA3YmFvZnQ5aXRQYUdscXByUXRHbUxrRFFVTXh2UUw5cFdqT2U5c1VIYy1aaHh3RjBRTEJNaFJKN1JhQWlITk82RmtfZkxtTTh3cmtvR0RXQS14TjFCc3MyelQ0WmlXM3UwWGFVMDduVGpZa3RS?oc=5)
 
 ## Capital Markets Technology
 
 ### Market data / trading / execution infrastructure
 
-- **Bloomberg** · Expansion: [Qatar Energy Chief Al-Kaabi Sees LNG Expansion Startup in 2027](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmFaWlBxRklnOGROa2tQakNVcFlCYUFmMm5IZFBWNEd3c09hSXQtRTBWOE9VX01fZUxnV3Q2bmRuT3BIdHp2RDJsaGN1bUIwendUc04wMmliVHAtLUhnd2pHR0Zua2Q1YnhoNWVadEp5RWRLNzU1Z05tclYtbl9LMnBUcUtVVmJRS2JzczljUTl6Mi1GTnVUMGJ0MWJweVVkVG1DVWxCOWZramxvcTAwUDFtTQ?oc=5)
-- **LSEG** · Partnership: [Blockchain Cross-Border Settlement Network Partior Partners with LSEG to Enable 24/7 Fund Transfers](https://news.google.com/rss/articles/CBMidkFVX3lxTE82MF9uN3JOb05KWVZ1dkNJRlZEWjAzcjVSWGpLQ2FIRGhhZ2d4OWdnWFowdFk1SkFadWtZaC1ycEhUaGZCNEJ5ZUpLSzJOSDNVTVZXNFJMZW1sOVFEN0JoMGNqRktWT1g4TTZLTDB3eUhRNGpQaFE?oc=5)
+- **Bloomberg** · Regulatory: [Watch QEF 2026: Citi CEO Sees ‘Tsunami’ of Patching to Secure AI Defense](https://news.google.com/rss/articles/CBMirgFBVV95cUxQelJLY0IzUXlEZFRCaVlwWng0cnY0VGVvc2hPZnoxMl9TOG1WLXdtUlNJZ3V3T2pxT1RXUGdrd3gyMER5SFBnaTBtRmdmQVpmckhkTFBWT1FiY2hWSkRTNTdfR1dYcE5Mam9fb0NXOWdSSjJhYmhZRnhmYVRMY3hPVnBaWWVxeVk0Y2NNNzMyY0pxNjNvRW8yOEJITk9lWDJ2bGFPTzA4RnB4UDZ0c3c?oc=5)
+- **Nasdaq** · Company update: [INVESTOR ALERT: AST SpaceMobile, Inc. (NASDAQ: ASTS) Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit and Should Contact Kessler Topaz Meltzer & Check, LLP](https://news.google.com/rss/articles/CBMi1AJBVV95cUxPUC12NFM5MF83Q1JlSHNsUUNFbC1ZVzUxb2JQZzBKdkNSeHFXMmVlWGVraEVoNXQ1OEpOUjBZQVk4QTgtNk9lWWE5UHJGRkNld3h4aDdabm5IQkhheFFZRW1jd0VkeGt0UGs2d1h1djZ5ekU3amRiXzEtQ2d4dUNGNGxLdmhLSF9ab1lHN0VMTkRwVDk0MFp5ckt2UHZXdDhES0gyMS1LbjlrNGZDWkZRMWo3R2ZkV2lvaU5JWWc3aTJxQnZPUDk3T3ZwNXZwMzB4cXFkVWFwcmFYTVBkLWY2M2EzaVJrZnM5Yk5uOGhoM0I1Rmd4VFAwTXNZeGRZY0Zoc0lmaGtac3BYbGw5UG1wOGtaOGRLUHhJNjg2WmZsVVVsTVFaMGRwZXB1ekJzc2V4aTZ0dnVsbnl4VDJSUHhFSWVkVTZ1eFE5WG4tdmJMb1JDTlJN?oc=5)
 
-## Cross-Border Payments & Remittances
+## Card Issuing / Processing
 
-### Cross-border payments / remittance
+### Issuer processing / card platforms / payment infrastructure
 
-- **Thunes** · Product release: [Thunes Launches Cross-Border Payouts Across Six New Middle East Markets](https://news.google.com/rss/articles/CBMixgFBVV95cUxNLWgzMG0xcGdveHJKbElHMWpSMXphQXY5Q1B3VHozVmE0LWZ4Zzc3aEpMZ3hQazdWWkw5N0tmOGhuUGRtdnpRUUVIbzUyWTB2dEVEZFRnUWtpejQ4Rm1zTGd4dVpFTDN1anRYeFZQVzM5YTBfVExXSmk2Znh2UUc5Z0ZMNUJCWVk5S29fWGM5TzJzNlNPSHNpYlJfWVVvLTVNdk5ZczJPMDJtczIxMW43NG5seUxWVkZPcVlrWWxKdzdSdERhb1E?oc=5)
+- **Thales** · Product release: [Thales launches HexaForce AI command system after trials increase targeting throughput tenfold to 1,000 objectives a day](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLUkyRGUzVmc0dWE4VTFuaWNBbDJKY2pIOWFZOWxXT3BJeFQyd1pFX2dXUmZHc19KSkZfdHItTjJzZC0wQjJVLVNYbnpWem1nR3lxbE9TZnc5aUZvWlU2RmFhX2hMcm44YWoyUFFmLWRlVjMySXIyVHU2cXBua3AyT1ZRTGEzWmZ0eU0ycVpFUy1nOWxEazJHLWVYUG5YYW1Rb1k0NUtsc1dHanFDNndmNFJ6LV8xaWQxM2hCX2lqaHc5aHJhVGNqU2FnMm9hV1Rfel9LWHVTSU9RR29uY1FSYWZR?oc=5)
+
+## Crypto / Blockchain / Digital Assets
+
+### Exchanges / stablecoins / custody / blockchain infrastructure
+
+- **Binance** · Regulatory: [ECB President Lagarde Reportedly Pressed Greece to Halt Binance’s Near-Complete MiCA License](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSXpFQjhWZlF5aHdqT0t3OUYyMlNwVk5CNnJhaEdEQW5jM3k3SkZmNDRZM1R1OTB4RGJqNEJJajVXZkRRRElKUGpRb1Y0WkJIZWRKTmRyVWRVQ2haMjBfemEwZ091N0ExWmlxWFNNVlJ4STk0ZDVxYmNVYy02S3doOEF0SzlrNWF1NUxsYXgtNEh4MDBtbmQ1Z0xiZDNyMzh6bzEydjBLUFZ2TzZ4NlhaN1dDYzJwSWZkOEQ5MkpfRDNJVzVpVWxBS3ZTU3VUTnZZOXBucGZmVQ?oc=5)
+- **Circle** · Product release: [Kepler’s Literary Foundation launches Leadership Circle Campaign](https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2JlN0xiQUIxTHJRVXhVSVRFVmx5a0hqbF9lMU15MmxyY1F4RW95RmtnekRCNFRrMlFMWEV2OUxrX1RFeThuT0JfMWdvRUtUeUhqdnVIXzhLOWRwTWRtUVNCTUR0RVFLaVpuc0FHR0gzZk82TF9WQ2FjazNkQzZ6ZG1MRmZlb1BKSGoySFBQUk5kbUptWTFRZXdpQQ?oc=5)
+- **MoonPay** · Regulatory: [MoonPay Wins Dutch EMI License for Stablecoin Issuance](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQmkzWkhNMUJlRWxSenBBZkh3N0JjUFcyTGJnaTFWRnZhc1kzLXVXRE9PdDFkcUs2OE5Fa2haNVdxbjhYdUMxX0IwTlk2cS1vcHVmN3lUel90ODAwWHRVbEJHbTVYdmhLUEpELUNURjh1WW1Fd29SYzd6a3doUHVOdG5zQ05uUW5CV3c4?oc=5)
 
 ## Financial Data / Infrastructure
 
 ### Financial data / private markets / intelligence
 
-- **Morningstar** · Company update: ['My main goal is to help people': I'm single, 74, with $10 million burning a hole in my pocket. What should I do? Provided by Dow Jones Sep 20, 2026, 4:30:00 PM](https://www.morningstar.com/news/marketwatch/2026092022/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do)
-- **Morningstar** · Company update: [ASTS Investors with Losses in Excess of $100K Have Opportunity to Lead AST SpaceMobile, Inc. Securities Fraud Lawsuit](https://news.google.com/rss/articles/CBMihgJBVV95cUxPYjJJNy0tVWU0ZjlLclAtSDFKci1vNmw3am9yVzdPUW5WekFfci1kRnNfd1JUVGM4ZVZkcDkzSFl1NHdhdXQ0eUhKQzM1YlFSUTZtLThvWW03bVYteEJvNTgwUlJleUVjLTR0bl9zazZsa2Z4UmQyYWZ0US1tX1hwNHd0dElEdFhPVU0zckpqRmxZckI3SmZVNEg1UklNX2VvWjlBeUM5RWI1QzFnU2VfWExKUVJKaEpEMkxxTDdHdTE4THBqZXpTT2Nyc3NoZE9MQ1ZFWWJranZlTW9NSjN2ajZmMWVMeVVmUEF1ejlfT21jdWl5OC15MDVTenVlMFJQeVVRNTF3?oc=5)
-- **Morningstar** · Company update: [ASTS Investors with Losses in Excess of $100K Have Opportunity to Lead AST SpaceMobile, Inc. Securities Fraud Lawsuit Provided by PR Newswire Sep 20, 2026, 5:56:00 PM](https://www.morningstar.com/news/pr-newswire/20260920dc51756/asts-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-ast-spacemobile-inc-securities-fraud-lawsuit)
-- **Morningstar** · Company update: [FLNC Investors Have Opportunity to Join Fluence Energy, Inc. Fraud Investigation with SBS Law Provided by Business Wire Sep 20, 2026, 4:34:00 PM](https://www.morningstar.com/news/business-wire/20260920618043/flnc-investors-have-opportunity-to-join-fluence-energy-inc-fraud-investigation-with-sbs-law)
-- **Morningstar** · Company update: [GLW Investors Have Opportunity to Join Corning Incorporated Fraud Investigation with SBS Law Provided by Business Wire Sep 20, 2026, 4:35:00 PM](https://www.morningstar.com/news/business-wire/20260920169514/glw-investors-have-opportunity-to-join-corning-incorporated-fraud-investigation-with-sbs-law)
-- **Morningstar** · Company update: [I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy? Provided by Dow Jones Sep 20, 2026, 5:30:00 PM](https://www.morningstar.com/news/marketwatch/2026092023/i-have-125000-in-credit-card-debt-will-17000-a-month-in-income-including-disability-affect-my-bankruptcy)
-- **Morningstar** · Company update: [J.J. Spaun Surges Late to Capture BMW PGA Championship Title Provided by ACCESS Newswire Sep 20, 2026, 5:50:00 PM](https://www.morningstar.com/news/accesswire/1224429msn/jj-spaun-surges-late-to-capture-bmw-pga-championship-title)
-- **Morningstar** · Regulatory: [Rosen Law Firm Encourages Barclays PLC Investors to Inquire About Securities Class Action Investigation - BCS](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWF9qZTZCZ1VNSmNBT2hiWDFFOTdTbWVoWmRFSVpXdlJXYjFnZUZOMVNnMmhKcHJBRTRzNkl1T0tCWHRZeTAyWHY0QlB5ZmVFT1FQQmdrMTRlXzUzUHN1TlhhTmVSTGxzUW9rdW9VS21UMmd1SW1oelZJTE8wSFd5WTZ4QUZhUkJZTkp1NjdibHN1ZlRRM3A1bjlTUVlyM0NncGZfWkZfbW96OHd6a1AxVWFTYU0wTWpHXzM1V3dSdXE1ODJwS3hKMkk0WWU2WjRnbE95UEc3NWpfVDJnU3gxYlRaWE5xY2hqMlctWE1JRVE4cWNQVmhCTXFrQmg?oc=5)
-- **Morningstar** · Regulatory: [Rosen Law Firm Encourages Barclays PLC Investors to Inquire About Securities Class Action Investigation - BCS Provided by PR Newswire Sep 20, 2026, 6:20:00 PM](https://www.morningstar.com/news/pr-newswire/20260920dc51780/rosen-law-firm-encourages-barclays-plc-investors-to-inquire-about-securities-class-action-investigation-bcs)
-- **Morningstar** · Company update: [SMR Investors Have Opportunity to Join NuScale Power Corporation Fraud Investigation with SBS Law Provided by Business Wire Sep 20, 2026, 4:42:00 PM](https://www.morningstar.com/news/business-wire/20260920541256/smr-investors-have-opportunity-to-join-nuscale-power-corporation-fraud-investigation-with-sbs-law)
+- **Morningstar** · Company update: [AECOM Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Hackers Allege Theft of More Than 1 TB of Data](https://news.google.com/rss/articles/CBMingJBVV95cUxNbUg3ekNiVGs5eVVVNW1CSTl4d055UndObE4wbmRUUE4tVEJONjR2RjNqd2dxZElaWm5RczRnWFRPZ0MwaWlsejZiTEtiS1o4cUg2OGZGUGtIeFRfNG1fRU9vc09ZY21rU1c5a0pNQUh4WDE1SnpXRXRmdzdOSFlDNzRXSlRnNXFXanBoWlNXc0lSVGFpRTQyWTVGdXg4UTZ3N011Ymx6d0ZEdWRidFFoWVZiRVphM2FCcmg5RUdvWlpUelhVQ25ENU95ZEtwZVlhY1p3RzZhUHpGb3BhN0R2Y0R4eGI2RXhMRXlrdDNZc3JhRFM2N2QyakNOVDF4N0FYUkJXMWJ1RG5RX2FrUFdQZGJPd0N3d0tYZDkzVEZR?oc=5)
+- **Morningstar** · Company update: [AECOM Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Hackers Allege Theft of More Than 1 TB of Data Provided by PR Newswire Sep 20, 2026, 8:15:00 PM](https://www.morningstar.com/news/pr-newswire/20260920ph52224/aecom-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-hackers-allege-theft-of-more-than-1-tb-of-data)
+- **Morningstar** · Regulatory: [CCOI Deadline: CCOI Investors Have Opportunity to Lead Cogent Communications Holdings, Inc. Securities Fraud Lawsuit](https://news.google.com/rss/articles/CBMihAJBVV95cUxON2s0WGJ5X3lxRUlNZXVWY3g2cmt5VjI3S19FMTF5d3RiMEt6ajFWdWlseTU2MnZjT3dvbWVQRFNZNTBOZU12WGtBdUxpUDhsYmpfYnhiLXdRaDNtTjg5UmlxSlVkaHpncjA2eVV3ZUJuU0hPRUV4TXZ2c0dxS2Foc01qeWdiY2tLMWpkbFlXMFpudXpqTFJpcmFfSklOT1YtRmJHWDZiWFRiRF9UMXh1TVpoa2FCUXQ1ZWVwWTEtbkRtWF9oSnR3dGxKeEZrMnJjN2VjWmJLT1VxaHpOVFpTbG5NNmptckx1RnFiZUZYUDIyN0Q5ZG1BUklwdEJrQ0tUQi1tRA?oc=5)
+- **Morningstar** · Regulatory: [CCOI Deadline: CCOI Investors Have Opportunity to Lead Cogent Communications Holdings, Inc. Securities Fraud Lawsuit Provided by PR Newswire Sep 20, 2026, 8:02:00 PM](https://www.morningstar.com/news/pr-newswire/20260920dc51874/ccoi-deadline-ccoi-investors-have-opportunity-to-lead-cogent-communications-holdings-inc-securities-fraud-lawsuit)
+- **Morningstar** · Regulatory: [EQPT Deadline: EQPT Investors Have Opportunity to Lead EquipmentShare.com Inc Securities Lawsuit](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQXI4Q2dsLXBOUFhJaG0wejVzbWZIV3pLR2Q5X3VPWGl6UEExalJVUEIzRVlkSFRjYnNIdXZFeW1QQnUtc0hCeE5ReEpfekdEbmZEOUJPYXBPRXFxWTRBX2ZGVmZ1SzFScTdxZkxLOTA4eF80aUpoV3hYTnNtQjlWbDRfMGJISHRqTHhtVjFNZmkxQjlhaldqSzdHSWYwV0g5LUh3ZUZ3R0poZXR4ZHFaaVVCY1p3amFXMEdpS0UwMk9WMUxWeDYzOUNSYlpHeHktVDk2bTBsVk9TNHdoWV8yM2xjX0lsM0JZRzJJ?oc=5)
+- **Morningstar** · Regulatory: [EQPT Deadline: EQPT Investors Have Opportunity to Lead EquipmentShare.com Inc Securities Lawsuit Provided by PR Newswire Sep 20, 2026, 8:15:00 PM](https://www.morningstar.com/news/pr-newswire/20260920dc51888/eqpt-deadline-eqpt-investors-have-opportunity-to-lead-equipmentsharecom-inc-securities-lawsuit)
+- **Morningstar** · Regulatory: [HDC Deadline: HDB Investors Have Opportunity to Lead HDFC Bank Limited Securities Fraud Lawsuit Provided by PR Newswire Sep 20, 2026, 9:44:00 PM](https://www.morningstar.com/news/pr-newswire/20260920dc51930/hdc-deadline-hdb-investors-have-opportunity-to-lead-hdfc-bank-limited-securities-fraud-lawsuit)
+- **Morningstar** · Regulatory: [Rosen Law Firm Encourages PennyMac Financial Services, Inc. Investors to Inquire About Securities Class Action Investigation - PFSI](https://news.google.com/rss/articles/CBMilwJBVV95cUxNdEpoelBXUnN6ZWFDV2NXeGphc2hQRUtGX0hGSVBpM1h1bmZVTExkWGtRaFlkQnFFX0lKODBpRFFXd2UyMW5TOGZJelRmSnNRR3hrYWJ1VmhVbklsMXVpUGREWWFqbHVMYmpWejNCN2NBR3NvaUVXSVp2ek9WYTkyZHRWQU4tM29kcnpRZkVMeGUydlVpbjQwczdWNE02T1NIcF9rTnRWcmVudjJmRTN6MUp4ZHdlTDhUUmNaUzB0ekpkeEh1NmNleS13QVE3bWhtSk03R2VSM0R2Z0ZvUDRGdnNSY240Z0ZjeEFQNnFEOXBEMGN0eHdQQkhoUm51R0drNWU5Y19nbzI4dllYbzNwNXhTXzlaWVk?oc=5)
+- **Morningstar** · Regulatory: [Rosen Law Firm Encourages PennyMac Financial Services, Inc. Investors to Inquire About Securities Class Action Investigation - PFSI Provided by PR Newswire Sep 20, 2026, 8:29:00 PM](https://www.morningstar.com/news/pr-newswire/20260920dc51791/rosen-law-firm-encourages-pennymac-financial-services-inc-investors-to-inquire-about-securities-class-action-investigation-pfsi)
+- **Morningstar** · Partnership: [Specialised Therapeutics Expands Partnership with Incyte to Include Ruxolitinib Cream (Opzelura®) in Australia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNlVHNDZJU1EyTk82YWh0Ry1PbUNIN2tHSllwWC1zd25mMzZ5c2xEczJvMk50S191YWdheUhnaGNpYi01Yk5JLXhXQVc3QlprYVkwMEdLYnpMYzJVRHJUWkMwU0Nwaktkemw4QlJidVdWXzVPUFFROWR0MTl0MTFvdHdVVlY4YUYzejg4YllJQ1djLVdyc3E4bU5rTjZXZ1ZWZ2lvendKdUZYVGZISFpTUDZSampmdnRsWThueTl0YzB1Y055dzRHZ2Y0S2Q5bkdqLWtYRlltSkwtczd3cVZOQk1sLVg0dU9sZW8yRjluNXEyLWtyb0tWbFl2T2E?oc=5)
+- **Morningstar** · Partnership: [Specialised Therapeutics Expands Partnership with Incyte to Include Ruxolitinib Cream (Opzelura®) in Australia Provided by PR Newswire Sep 20, 2026, 8:00:00 PM](https://www.morningstar.com/news/pr-newswire/20260920cn51278/specialised-therapeutics-expands-partnership-with-incyte-to-include-ruxolitinib-cream-opzelura-in-australia)
+- **Morningstar** · Company update: [Week Ahead for FX, Bonds: U.S. PMI Data, Various -2- Provided by Dow Jones Sep 20, 2026, 9:14:00 PM](https://www.morningstar.com/news/dow-jones/20260920288/week-ahead-for-fx-bonds-us-pmi-data-various-2)
+- **Morningstar** · Regulatory: [Week Ahead for FX, Bonds: U.S. PMI Data, Various Central Bank Decisions in Focus Provided by Dow Jones Sep 20, 2026, 9:14:00 PM](https://www.morningstar.com/news/dow-jones/20260920287/week-ahead-for-fx-bonds-us-pmi-data-various-central-bank-decisions-in-focus)
+- **Quartr** · Company update: [TPFG: Record revenue and profit growth, platform expansion, and higher dividend despite market headwinds](https://news.google.com/rss/articles/CBMikgJBVV95cUxPRGsxT01kcTdXWFJZQVZEMjB4NDB6dFdFeU52X0R6YWZIekFpalY0UHplbndBSmVoWUhDVHp1YUhnTXJERFR3M2VGeHhsNkpLTGs3dXZRb0hMV3ZWQ0hFVkhkY0VNQmtuMG42OGlLY3A1c0xqal9seVM5N2ZfcERfd3hNLUNxVUVEbjc5bUpycnM0UGRxTVdsOGZ5WmU3UGFUV29ZTW1aSVJyM3hxUm52RFB3WkoweDNBVmVhSERrUnN3NENwWnktUVF1c1VmTm1GcnFKWFdvdnZKTHlpMGl2R01BMDJFeTllYmxFRVp2NENZcS16NjhCMkwwQnlXanZnWXotYTNabGc1YXZnZUNpczFR?oc=5)
 
-## InsurTech
+## Indian Fintech
 
-### Digital insurance / underwriting / distribution
+### India payments / banking / fintech
 
-- **Coalition** · Funding: [‘Pay Its Fair Share’: Union-Led Coalition Demands Cornell University Expand Funding for Ithaca Schools, TCAT and Workers](https://news.google.com/rss/articles/CBMikgJBVV95cUxNdGJ2czU3dktaN0xNbXpzUmpNMERSeFFNTW1Iclotd2NzSWM3U0h1SE9Ub3lHLWp1elY5czRXTjRtczJKSGt3cEpQcE9zbkdzWXpibjN1RzdzSlhiaEpWNEIxelhiME9lQXZtSmtGUTNoMVFoTW4zNWJqNkI5MmQ0ZnRWU0ljRGVvbmxyU19tMldVTmFoM2JjOW9Jdm9LaUo1aU1oSjBZVVF3Y1F0RTc5VmtCdG1tMVNISGswbE5wa2l3dDh4amhXOElVZFJyaWFmdmZ2THlDbFhILXpXZ1Zha3A5LS1DWDVVUllBNTNXMEFxaHZpSlRsYlRhdGlhVEVmQ3o1YVV1N2w3UllJYmVEZEhR0gGXAkFVX3lxTE9jQVkxWHlaQUk3MEg0S1FqTTBmQ3MwLUJZZW5HM1pfZlpsWkRkNERTcGQybzYwR29QWlpVMV9lc0s5VWpqN3VUSkstU0I0TVpBRDRMRVdfcWJPV0p4RE9hN0lkclg0Sk4wSUNhRHh6c1JDTVNGZ2M1bVhtU0pjd3JOUmtBQTkxVUFLWTBfVUswSndyaGd0WWk5U3BTWFlLMGtwSlFsNXRYZ21wakpnSmJpZ3dsSWtyOGRsaVRaWFJqMk1qX3NlZWdLZGJKVnJwcmZlMU8wQ0pCNlUxNDNBby13NFRVaEhQX1NyVGxOY2dIMXlLSUlJWDhuc1cwNmJEdXA3c2V1VXN1bFIzbXNJdGk4dW9IaGRLNA?oc=5)
-- **Lemonade** · Product release: [Jack Daniel’s Launches Tennessee Blackberry Lemonade RTD](https://news.google.com/rss/articles/CBMinAFBVV95cUxOdmNWSkh4dzBRV2dtMGI0TVJTUERDUjNZSU1wWm93WjUzVE43WlZwUGQtNnRjMlVmVkQ3c19MNUpuaE51WGZ0S2NsYkNlNWtGQzBDXzVPWmljSEctQjRXMTZpd2J3NDY3YVpXXzFFeElvRHM0VE5WX0RVOTRXUUZPN3Q5LVdUdXFtb21wT1JYbkY4TEFxTmZPYURYZHc?oc=5)
+- **Slice** · Product release: [New Dauphin County sports bar and restaurant launches soft opening](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTk5UWd3aVEyTXZOaUJObTNta25SdnZ5UTY0WWs4Sk5CUUdEaUR1cWhrRmRiVDlmaW5fdkVVTmxwcTNTV21SQ3BvRF9JWGFkNVk0WnNzQjg1enhSRUQ2aXk3NTVkTEVlMkpub21OMGctRWQ4MkRDelJMQlhBUE9seDRkb2RqSUxieWluN3dFX2xxSmV4NGhpaXpQSHl3YU4yVTZnSmxRZjdXNkVhQlByV2NJdw?oc=5)
+
+## Institutional Crypto / Digital Asset Infrastructure
+
+### Institutional trading / prime brokerage / market making / data
+
+- **Bullish** · Company update: [LIC bullish on NSE, plans to remain long-term strategic investor, says CEO Doraiswamy](https://news.google.com/rss/articles/CBMizwFBVV95cUxNcl9ncGo2UDY5NFplYzBQczZnYXVrRUFXd2ZhTDRUUldtdFB6bUxwSG9aYjFBM1NhZk9vYzh1c2NEYnRYWW15YjRBVDBSNlV5ZC1PTUFVbUxYdWNUMkh3OWlnd0hOa3YwaVJlUzQwNlZ2UTZwZWFZOFdYN3hESjY0UFUxdmFTVEpWTlhTRUFfR0FrWVNEZFZJSmFjMGd6VjFRR2lldjRyN3c4dmpxR2Y3T2lGYkFacnBDaUZPRnRmQUJyUG1RdlRCYXpBTmhsN2PSAdQBQVVfeXFMUGlMS3RSQWZ0MFhhblpITUpQeFdLNGw1TFZkOUF4aVJ0S1hWVFB1V1BaVVBITlRDeEszYXdUOWdPTFVKdXpERUpoSHBXalRoa3ZVOGRtcW04WEZWYmtGQUlTQUlLaUNlcE9CTHMxZTEwREJFejIzRm1sTkx2X1dCRmdmMkE1eG9KU1R1TzAzNTRNMnNkZnFXSzdnTzNQU1FHMDEwRm9XaVFEbmZkSFUwNVNTdVZ5WE1QRnhjYjhsODBpbDRvMFVrVkFqRF9McHR2X0kzblg?oc=5)
+- **Wintermute** · Expansion: [Wintermute Launches Institutional Gold Token Trading As Market Cap Hits $5.4B](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNl9RSHNjbnp0ZVBxeldtWVFGWkFBY0N6bGJvaWxLWnNRM09JYzRxdE0tY0tucjIzQkhoOTNRZm42TVJnZnE0cmpoYko4OThoTnd1Wk5vdjMtX0QwWFRYanhFdHQxN2lFZzdLdGFGOGtYNFg0UVZobnBmdEg0MF9ZWTB6S0FOU1F0aE5oWDdGcDE4V3dyOE1hNm9ZcFZXMzNmSGpiQ3pKY1NTX1B0VmFkQklqVkVGS1g0dGxyeWFGS2k1UmstZm4xVTBIa2VaTUdBNnc?oc=5)
 
 ## Investment / Brokerage
 
 ### Retail & institutional brokerage
 
-- **Coinbase** · Regulatory: [Coinbase (COIN), Robinhood (HOOD), Circle (CRCL) stand to gain from SEC's tokenized-stock push: analysts](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYXlLMy1fd1o3N3VGSUpHTjdVRnl2eEZacXFDRi1PS2tvcG1Ua18wbEJBN2JBUWdpbzg3MFhzYVJaSzBoWFc2WUE5NWd2UlFUZ3M3QVRnSVkzNUtFdHRCUXg2NG5CbmcyX0tlWVE2SlFITm00anRLenhtaXBuSC1vOXF2bmJYaVdtVl95UFZPQ252SzdXdG9VMGZDZUpUZ09EQlg1dmxSNzBGNmZsV3pxRU9FZVU4d1V2RWstV0thR1ZjNk9ZQnFMdWs1TDF4Ty1DZkE?oc=5)
+- **Kraken** · Regulatory: [Kraken Review: Fees, MiCA Licence and Withdrawals in Euro](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aclhOSWVaaDdjbjdidTk1dTFnc1N6TVRPWEE4bUxadzlqc3RYV1dQc0F3bzAzY1Y4NUtHYVJ4RFdINEFsSWc3eWdRLWZwYXlOTEpGZ0ZmYVR2a2hfazJpSm54ZFJ1ZEJ1?oc=5)
+
+## Latin American Fintech
+
+### LatAm banking / payments / credit
+
+- **Neon** · Product release: [Neon Abyss 2 launches October 8](https://news.google.com/rss/articles/CBMicEFVX3lxTFBsWGdGaHdadFF4MjBYSnBJMEFLdk8tejVPM3NFLUNmWElxMWxwWjRmckR0REY1c1JvVjdRMVJMbTV3LUtuSDZ0MF9HWEQ0QV9MNi12QnVtdVJlVno0TFRGLXRsckhIaXVRRUxnY094dlY?oc=5)
+
+## Lending & Credit
+
+### Digital lending / SME & consumer credit
+
+- **Prosper** · Product release: [PROSPER Launches Performance-Triggered Buyback and Burn Mechanism for p{VAULT}](https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXFKb3NuWUs4VUFtZlE5Z2VPbV9mcl9rTXN2VWo3ZnJlRTVpTlJ2NmlSbDg1MTJoMnNPcjNtcDFaUlFxejVjWTNoZVZ1OWtYUU5fV0NXZDF5c0huOUlNWlhCUzRxZE14Y201V0dvdy1RbHFfMHVVbFBOU2U3VHhZa1NMdXRZdTlJUlFVckZ3TktHSzJEZlhEOTUyazlGRjdrSW9BdUdlWHhaTTN0dUZv?oc=5)
+
+## Vertical / Industry-Specific Fintech
+
+### Vertical embedded finance
+
+- **Balance** · Company update: [Review: At Crow’s Theatre, compassion and brutality find ‘A Fine Balance’](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOG9mNkdsQ0Vfck8zR0FDWlpNOTdzNmtDby1TbWdBU3dsNHgxVWNvMkdZcldMSmFsSThEemN1SzNZN04xQm5rRjhlN3N1aERtM051emNaOGxHbHUtM3FEMnhsckVvUGwzXzljMzBOSHg3SnB5Mm5wMnZLQzRWNG1VSmRLdDJTclhSSHRMLUdzZlZVdw?oc=5)
