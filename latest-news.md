@@ -1,41 +1,49 @@
 # New official company updates
 
-## Accounting / CFO / Finance Automation
+## Banking / Core Banking / BaaS Gap
 
-### AP/AR / spend / close / finance ops
+### Core banking / digital banking / sponsor banking
 
-- **BILL** · Company update: [U.S. District Judge Bill Lewis dismisses lawsuit filed by former ADVA commissioner Kent Davis against Ivey](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWk00bC01Y003MVhvTGIzc2pBYi1meXdPTkJzSl9JUDI5aElwVk5wcWZ6TEttOWRTd0d1VzQ4LS1LVmVvZlVaUDRvVFJ0MnBOV0FWWlFQUl83Y2hCZ3BnY1BvazJVWFI1LWkyT2lxbkJmSTNaMXNlb2JlaDdKTUQtcExQWnM5bE9Xb0RCaGRlV3I1akRtUy1kb3hXUVVMbksxNDUwcVc4b2hZaFM1cEhLTU82ZVNNQUxna1VvUnQxNVFUcUdza0x6VGVnajBSVGZCcmc?oc=5)
+- **Lumin Digital** · Partnership: [Lumin Digital Deepens Digital Banking Partnership With Altra Federal Credit Union](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX3JpVWkwTjl3Y1NDUjF3SUJieFNqUWJCQVQ2TFVBNVVMT3dMRUFzTVZ1blh1NHlxeHk3a2pLZXZ6NGVlNklJMjlIdURoYmY2ZzJ5TnlvRHdZVEZnTk1HN3dkdnlGVnhuN0RPX3FIbEphTG91c0g0OXVaeHkyNmp6NmZ3endwNFo2LUVXbG1RZExTNjBxWldrY051eXVwcTRLbFZGd1NMWUlTN09mMDh6bTVMRFV1eTNidVRJSXpxR0RDNnVsOU9hQw?oc=5)
 
-## Accounting / Tax / ERP
+## Capital Markets Technology
 
-### Accounting / ERP / tax compliance
+### Market data / trading / execution infrastructure
 
-- **Wave** · Product release: [Jiu-Jitsu club launches new programme for children.](https://news.google.com/rss/articles/CBMioAFBVV95cUxNOXVtOU5CamkwT2x2cm9RTHpqOXEzWkczZVpJM3ZDUmRKeHhMbWQwdE42Vk43ZU5Xdm81Y1U2WDBXdENHVTE1MW5NNjgzQVpsT1JLZ1JUQXl3T3FXQ2d3TWc3Zmx1bHVXSW9ZeHBLd0QzMEtDM1RIVFAxTmJ5S002QVdRUEpZeU5fdWxtQ2RmdUNCQ1NRcEY5Mk9tX0RxeDli?oc=5)
-- **Zoho** · Leadership: [Sridhar Vembu Steps Down as Zoho CEO, Shailesh Kumar Davey Takes His Place](https://news.google.com/rss/articles/CBMimAFBVV95cUxOREtpd1Z6cDN4dF9qQWRkbGM4MDlvT3J0N2RtXzlucEFHM0xRa3FUR0U5ZE01eUJUbzFNNzZwWG9TSkVGdFZscnJSRnNkMThlVWFna0pGejR5ZzNGTWpPOUkwQzdxVGl6dEtHNzRzYjRPWjRLaG9oNjZ5dXd5RVJQT0JCTU9PRUtMdXl3d2RTR0ttaG5mWk1FeA?oc=5)
-
-## Credit Infrastructure / Credit Scoring
-
-### Credit bureaus / scoring / decisioning
-
-- **Dun & Bradstreet** · Regulatory: [DNB Investors Have Opportunity to Lead Dun & Bradstreet Holdings, Inc. Securities Fraud Lawsuit Filed](https://news.google.com/rss/articles/CBMisgJBVV95cUxNZ2M3NnFtcGpHTWV3WXpYb043RVZLQ2VmM2FyVjVCSlRZTi1USi1HUHBROV9oRTN0UU5UbjRjeUFlUG9lMkVBaVBOWUxkNENaVnhkY3NXVlZKQnI3RnFyOFZ0WjhyZlcwQmJQaUFFYVA4MDdHTHlWdjdlWVJRUHotZzZMZmFWZ0FDWkVpYWtGcnVNb0wzTGtKanREOGpUaldsYWVFazBnVzlNQ2FKODRkN1pRUTcxempOWEZ0b2ZESllaNFAyajUwUUt1UTdqUy1Nem1MUmVlclBuakpEQy1vdVpVTVl1b2h5UHlUQ1dIOW1KcGVvN0JVOGJ1TzZ2V0JvQVVyMllodEZfRFVvU0FmaG5EXzFodks4VWctUTdvTjJ0eFR3dnpHTC0wUl82TEFVbHc?oc=5)
+- **ICE** · Company update: [Lawsuit names 2 ICE agents who allegedly threatened observer](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemFwYnZFbDlPTlJGWjQ4ZW1fakZ0ZVIzX3Y3czhkQUJIUTRTclFrSm9rUzB0NllpUU5INS1kYVJ3bmFlS2dzWS1udlVwalZsTjdmWWY2M3QtZkpiTGE4MDVqYS1FX3BpMEtfY1lNNUw0cUIxdk5YWC1MQlBjQ0NMUkx0RkFXTzc2QUhR?oc=5)
+- **ICE** · Expansion: [New federal report criticizes ICE expansion](https://news.google.com/rss/articles/CBMiigFBVV95cUxPRHJBSko1Q21TQ2FFbkJGMVJiY1YzdVpZaHAzUENUa1pGMEQ1X3daQUlsVk40djRGZWZ0eUxqTy1oOXZEeDdqZnMxaDR4QlBFN3h0MmNFdG8xQjkxSTUxNW1rQXBrdDgxMFlTZTk1ME5id2JPVXZlYXh4dDRydkJ3c3ZYYlVtc0JKX1E?oc=5)
+- **Trading Technologies** · Company update: [Trading Technologies' Nick Garrow Assumes New Role of Chief Strategy Officer; Josh Monroe Joins as Chief Revenue Officer](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaUZDaUI3MG84SzViZjRQNnhxOWZOZENTVExGb21nQTV1SmJaVDl5cFFHRVlCbXE2Y0hUNDBGdUxyUFlabkllUlhyODhXRXRrU0VlTVN4aDhadmZLTEVOS3hZN01JZWEzaFlVVGtLSmlPVUNRYTdOaTg3YzYzUVVidmdDM1lIcDR5VjJ1Z0laMENISDh0MUhoNnhVYzJOYU1abHlPWEF0SFBaOTA3UDBLX2pRQzQzbFgwbHo4ZGxlQzBnOGtQNnRkY1I0cWNfVF9UM1czc1I3a2F5VGc?oc=5)
 
 ## Financial Data / Infrastructure
 
 ### Financial data / private markets / intelligence
 
-- **Morningstar** · Regulatory: [FTK Deadline: FTK Investors Have Opportunity to Lead Flotek Industries, Inc. Securities Fraud Lawsuit](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPakVTSmE0TDRYbjZ5c3JDZlk0QjhvNWpyYnpXSnY0QVFidm9lT21OSEVvZXV2SE1vR3VRcTF4akNJUlR0OG4zbDBmSi12TWJvSTBqX19JbTkyeFVsZnYweDBUdnRybUdPWjJ6LVdoU1pqNFhld1BHWE5QRWw0N09JWS1XcWNFdmNMei1ZU241OEFRU1JOMjJ2OW4zMHh0OW5FT2JjeDg5ZV9qOVRTc3dYeERJZHJXZnpNLXplV1pMdXRzelRkV0ZFWlJEYUNaUU1zdUp1QlgwTDJ3SGVIVjExTWxhNlZEWW91UnVOYnV6Z3M?oc=5)
-- **Morningstar** · Regulatory: [FTK Deadline: FTK Investors Have Opportunity to Lead Flotek Industries, Inc. Securities Fraud Lawsuit Provided by PR Newswire Sep 26, 2026, 10:51:00 PM](https://www.morningstar.com/news/pr-newswire/20260926dc57148/ftk-deadline-ftk-investors-have-opportunity-to-lead-flotek-industries-inc-securities-fraud-lawsuit)
-- **Morningstar** · Regulatory: [Rosen Law Firm Encourages Disc Medicine, Inc. Investors to Inquire About Securities Class Action Investigation - IRON](https://news.google.com/rss/articles/CBMihAJBVV95cUxOLXpMelRiRndKWTBWbW5WM3E0X0p4eTZJN0NlOGw1NmZESE93aEJGU3pVWXY1cUpzQWlKSk5CckZIdklGakRUVFpLV3RkNWF0dUxtR2FlMHU2WFFLaTk4RTQ1d2d5NzFNMERCalJSVDFISHRWWE15VUdvTi1NY3k2SDZGVHRycVFvLWpaTlF1dTdKLU5jZ2lkX0dzYTZ4SWpTNHI1N0VUV1hzZlB1TUVMb21LdHFuaEk2X1lyaEgwbVU3WFpEVk9SdWlIUjdQM3g0ZlQzRjJMYktiVVNvbG9EODYteVUzckJkNmZiLTJ0LWVrUmd1WFdzV2xUbFE1cmcwbm5NXw?oc=5)
-- **Morningstar** · Regulatory: [Rosen Law Firm Encourages Disc Medicine, Inc. Investors to Inquire About Securities Class Action Investigation - IRON Provided by PR Newswire Sep 26, 2026, 10:00:00 PM](https://www.morningstar.com/news/pr-newswire/20260926dc57435/rosen-law-firm-encourages-disc-medicine-inc-investors-to-inquire-about-securities-class-action-investigation-iron)
+- **Morningstar** · Regulatory: [FCEL Investors Have Opportunity to Lead FuelCell Energy, Inc. Securities Fraud Lawsuit](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbW1lZU9qYmtieVZUdHJLajBZRTJkeF9xVkwzTWlEVXhja0RHVUtnWDM1Z25ya2V5aEZUN08ya2s3SWJkeFVBOW9PLUR5REZ5NlcyVTlvcVVxUHRIRWFXR3JCdkNXQjcyS0d3QUJ2M1o4V3R1WW11d0sxYktLaHlLX0RkSUV5TFNRbGg3VUZYczJpS3pDdzdRWmRKcUhLNmhQQkdQSDdodUVnSnZXSkg0MUFxMUxXdEV3THpCUGZuM0xrOW9WNWNkeFh3SnZyMkVOcTdzRnF6cXlRTDFwLVE?oc=5)
+- **Morningstar** · Regulatory: [FCEL Investors Have Opportunity to Lead FuelCell Energy, Inc. Securities Fraud Lawsuit Provided by PR Newswire Sep 26, 2026, 11:53:00 PM](https://www.morningstar.com/news/pr-newswire/20260926dc57207/fcel-investors-have-opportunity-to-lead-fuelcell-energy-inc-securities-fraud-lawsuit)
+- **Morningstar** · Expansion: [MEDIMPACT DATA BREACH: Edelson Lechtzin LLP Launches Investigation Into Exposure of Social Security Numbers and Health Information](https://news.google.com/rss/articles/CBMimgJBVV95cUxPNTgzdE1wZU01SnNCeW9NSVV6NG4teTJQZmFlNncxVXNESDFrNmVXVEJQZ0szczVTMGJDTlpQZ015Vy1Id2trVzZSbmRYM19OUENVZ0xnTzJ1Z3J4QmE2SUQ4Z2t0NFZBY0tqenhtUWlhcXFfUWxSektBcklPN25lUTlOMWJLVnRBb2hKODY3aUc1REV4OTVHVXNUTWZwRVZ0MVFraUJQT2hONU1mZHhud3FET2F2dHhQYzRtU3BfSlFtb3RFdzJYd3ZmRE1qelhkZ2JoYkJGVlpmVkI4UHRuUFktTkJjVFFOT2ZvUGRSamxZRkxxMGswaUExSFdFRXZ1a2RfcGhMWDIwaXRqQWZ5bUhHOUxDa25FTFE?oc=5)
+- **Morningstar** · Expansion: [MEDIMPACT DATA BREACH: Edelson Lechtzin LLP Launches Investigation Into Exposure of Social Security Numbers and Health Information Provided by PR Newswire Sep 27, 2026, 1:21:00 AM](https://www.morningstar.com/news/pr-newswire/20260926ph57572/medimpact-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-social-security-numbers-and-health-information)
 
 ## InsurTech
 
 ### Digital insurance / underwriting / distribution
 
-- **Coalition** · Product release: [At UN General Assembly, Global Autism Advocacy Coalition launches new initiatives to accelerate autism action worldwide](https://news.google.com/rss/articles/CBMinAJBVV95cUxPV2RIZmpUY25RRlhYOVEyUGFGWVpuNnZDdHJBUGxTYzlWWjhGdmJBVjlLYkZiZEdwbW0yRmZkcF9Td2JfODFIeFo3LVd6ZTNTZ0taa1hnWDYtUVd1aE9QdW5lNTJ2VkY3UUVjSzlzeHlIQk1iSVl1MFZJZnptRHJ0cGlqRXdPQXVzOGJFQVJkOHl3ZHBNakNnRVpwRnh1bFkwdkY1NWFzVU9PRHNiU0ZNZUdoZWJUc3lzLWVTR3JYalFPV1JETl8tZHczUTA1NTVZQnEtbmZPVkFUNWtfakZPcEo1MUI3Q1FTQmcyd1Z3MUZFT0tuTmNfREtVd1NkWGJ0MDNfQjIwcXVoSVhYcXZJSFdZRVFSS0N6TF92Z9IBogJBVV95cUxOZ09vNEhoQl9PX0g2UnRVdGlPV0FkX1pUc2Y2NWZlaklpWk5VMXlKMkpQYWVtLVJCRTRhLW9Sbzl2YmJQQ01iV2w0TjVIVVo3d05EWC1yYmJLZjBvTlRGbktlMGdpbnAxNXNIQVFfWGlTamtELU9lZU9adVh4ZTlNVUc4VzRPLVlTclBCNTJZTnBIWEQwQmRIaVV1LW5xSkxLZHFRdlAwbVZ4MDVSUTVIR3Rwb1dDVERLdW94LV9HQmdHM2htZEtPdmRNQUZ6d0VfZU9sdTEwczNDQTZ1eFRWcEZaa19DQzJRdm1MOEdZUUkyWTRDYkpqRHZDbTBUUXBsSW9oQkkyUTBueEpkSnBxakZVR2c1cWc2Y1M2SEJiY2RvUQ?oc=5)
+- **Coalition** · Product release: [Gates Foundation launches global AI coalition to bridge language divide for 3.4 billion people](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU1pIZVRoVE5KM1dKdC1feFk2Vm5kMGpsaDEweGp3NzFfbHEzeDJ4T3A0emhhMV8yY2ZFa1VyYmk1c0h1NVZWT19ZakpHZFM4TEhoS3pFMjhxcEVPWDB2TDdXcHZrbHZuWmpVNXhnZC00R0JTYk1yNHNBWVNFSG9ralJiT2xNZHVJWkFHQ2VTeDJ2TFhBMjRnLXVwekwwbGFQWVNmWXZnVi0wbmprQUNYZ2NkWThBblIxTm9DU0FKaXNyWG5TSVlMam1jSDc4VkFyWVhVM19Wa9IB5AFBVV95cUxQcDFtQVZPZTJDVnhjZHJQdGt3VTM2bURuSS0tVkRPeFRPczhJQU1hQl9KeHpBZ3FyQ3l6YlhGSENROFZyNzlMb3BTNllET3R3NjU3bkxHT1FVN3FSSTF2OWh6TC13enBlY0ZEN25ZeFNQOG1LTjFYcnFRV21acHY4X3J6LXFPUlRuc1VWYXlDWGNDMDFGdVVMY0d0ZFJuMEhhQ2FuTnVZeGxCV1d6RmZhNmRPYlFzcFo0U0h0SF9mMUtuRDI1Q25JUzZxTHo0R1VxRTZCaVJMRHZtSHJFLVc3bGpzQTQ?oc=5)
 
-## Payments
+## Latin American Fintech
 
-### Payment gateways / PSPs
+### LatAm banking / payments / credit
 
-- **Block** · Company update: [Bitget CEO Wants Thorchain to Block Hackers, but There's a Catch](https://news.google.com/rss/articles/CBMingFBVV95cUxPbEdNd215RUhuSjdxRmZGTzlidHBBcjU4MkFidHB6SmFEV1JrUW0xaFZRZzNudlU2U0FUbGZ6aDNraUR5VVh4TVdiY2Qyb3d6eTJDeHp0aURRdkFoUXJOWlpKV3Q2TDZtZHExMkNRUHp1UzVuTHlKTkU1cEtQVzZFZlFqc2FRdzFKdzR6SjlxY0Z3MVNmM2hDaU1QR09HQQ?oc=5)
+- **Clip** · Company update: [User Clip: Hawley proves CEO of flock said Flock has never been hacked which is a lie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdkk1aTNPUm83U1FlLW94VDlZdkxoYkx2Q3laN3V5V3BXUmlqMklTWG9abEFDUTVuMDczZFU1ZkVfT003VW1reVVkVGw3U0Z4OUU3UjlSS2VhenkwVm9NM0pyV1lQT2hZbGhwMjQ5Nm9HNGxkWTBHZ2dsb0dHaWpiY0cyYy05eFBtNjQ5czMxMmV4R3VDNUU0VlBuM01MQTY4MzNtSDhvdmNWZm54NUtVY2hJSjJlQXd2OUZVWHVYTEJpU1plOVdDTW1JTXJQTlVwQVN3?oc=5)
+
+## Lending & Credit
+
+### Digital lending / SME & consumer credit
+
+- **Branch** · Leadership: [Eryn Jane Branch Named CEO of the National Council of Juvenile and Family Court Judges](https://news.google.com/rss/articles/CBMivwFBVV95cUxNR0JWZWZoS2ZLcXZuZGdzaWQ2MHVESzZ2VTNaZ1hseXg1YzZaeFJjZk56MVRRQUItM25TYnpWaHo1YUNCcXVZb3RNMjRLVGo1YXFLVk91emZDd0J6bndsYWNfUVpPYVk4Rjd3a2M4VzM4NFlSalpoYTZwSm5HWEtsU0I1Y0lreHMweE9FSHNCY21lZjRsbnVGdklqVUcxM0RQN0xsMUVuX2VrVk1RbUpnbWdaWTEtZTUxaDhFRE9Xaw?oc=5)
+- **Upgrade** · Partnership: [Singapore, India working to upgrade ties to comprehensive strategic partnership](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSTloQWNZMzhDcEFESUM2N0ZhNGxkb291UE5PV2Y1SkZjTFdOa08xaVNCaEdqWUFIUFFfVm5lNElYNFRDUEZWTkhYWGNZblVmQU9hX09xYlRTV2h0aWVXZU1CNll1YmkxVURVaEowdDdvRVJNaE4wbDR0NUFFMHNzUmN6czNJaDhsWVpkWk00bHlkYVZ0aDd1d0NBM1NsQXRhTWRMN0hKeERVS21fT3B4YzA0RGZhLVFQcGl3VnUtOA?oc=5)
+
+## RegTech / Compliance
+
+### AML / compliance / regulatory technology
+
+- **Feedzai** · Product release: [Feedzai launches ‘always-on’ AI agent for fraud prevention](https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFZ5Z3ByZXdsUG9NdkFtUmpUMmVKQ2V3dXgxZldmbi1fS2FfclR3dVZCbU1lN2pBdHBMVWJCc1RMMFNqVFRJcTFYaGVFd2ZDaXVMVFpjaGJVbXh4ZTVJRGJFMjJsR3lmQXZzaDc4YjVVRGRSZEdJZE1HWE4xNVFkbEROUU5PVk9icmMzMC1oY3EyWHhJaktidA?oc=5)
