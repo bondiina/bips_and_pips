@@ -4,91 +4,116 @@
 
 ### Accounting / ERP / tax compliance
 
-- **Intuit** · M&A: [Jones Day advises Intuit on acquisition of Sequence](https://news.google.com/rss/articles/CBMirAFBVV95cUxNak9kQjM4dm50Tl95S0xCSGJ5TnVyc2JIQmN4Ym1NZ2JSR0JXd0tqdmgwVFIxMm5jMXVsZGJxRmJLTFV4dTlyVnQ5Vm51UkJZNG8zVUV5bFFYOUJlal9zZnpPeWUwc2U3UlJxSHoxMURvQUtBUnEzQ1JPZ3VjMUhDQnBNb2IyWW02TXRfZlVJZzlzZGhkTUVqalhrSHgtbzdvZlVhbHZJWXdSc2p5?oc=5)
+- **Wave** · Funding: [D-Wave Quantum Slips 8.2% as Valuation Doubts, Lawsuit and Tech-Wide Retreat Converge](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTThzRzN4RmxHRmtpU1FIZENJVU1QZ19GSWJXTzBGVnFzSnVaUkRiTDZrNzRISmRjUV8yQWxFM3k2eEdOSTIwNFlQNWtScHg0S2w1T080Qi1wTHdJR3NCNlM1eDNCQTU4NDNobHpiM2hsUkVDeVBMd1FtMkh6N0l1eWdqenc3eTFSZTlJNmlKWGQxTElvLTZtMk5nWXFyZlFWNER5MTRaaG9lRkl3VjFoZjJJM2dNNTRYV0laZ09LRV8wVk5raVhxYWdQUEFHTmo0VlRnNjl2TWo4YVZqSjRiQ1lmUjlZWUFsT3ZQNV9NSzc5cFN0WHc?oc=5)
 
 ## Banking / Core Banking / BaaS Gap
 
 ### Core banking / digital banking / sponsor banking
 
-- **Increase** · Funding: [MN constitutional amendment, if passed, would increase school funding without increasing taxes](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLVpjQjFzSHlZX3dxVkVITkZHc21EdHl6amViVG5CZFNfekdNVVdrd0RQSExlcnk1aTNRazV4YTh1dFRMeF81eGlKZjBWU2JmSnJNdmpiTEFEZ2NZUE41VUUxVmRudTc1ZXJ6bWxOamRvX0RQVjJNb2o0bWVuQThoNDBDdll6QzlBTVFEXzR5Z0dhSlVaY1NEcGZTalhWNHg3dWpUMWVoUER3Ti1HVGtucmxmb0I4SmxvMDh5LXQ5UHhlX1dRWGFiYjg5aWxkTmRoUWfSAeYBQVVfeXFMTzZCY3NXTWhDdzV2T2hORjNZeFFMVjd1T29Jakc0NG5qYjFBeThHOW0zelZaYUFwWFV4dkJjRl9ZWWR6ak14anRORTJSQThReGhuQnctNUxFWlc5dGZqM2tNX3pYWWlIbTk3dWhWWEplVlVQUjA3ZXU5V2I5S0NPR1JnUXBCR2JZZ08ySlVEUG9wOVVobFd3VFlmMWV4ZnNpaUptcV9rVTltaXVyUWdQMncyTWxKekVxQWNTNV9jTVB5MGZVQjVUeUNDYy1wN0pwX2ZXNmhjWnE0RDRraGFidzlLTDNUb1E?oc=5)
+- **Increase** · Product release: [Blue Origin Seeks to Increase Florida Rocket Launches to 50 Annually](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdzFQa2dJRTd0MmV3OE5XNGlOV29XSDFwVlo3VWF2VGVKS3JqR1d1c0FPUXpocTRPek9Ka1RDSndsbU1IbnRUTjFpWG1TT0JxbTFadVEybE91M1dXQ1V0aEh3Y1BwVjI1V0RSOUNsVGtkUmFwZjNxWWhicGZ2ZC0wWlllMDNlZk13Y05zdDdCbC1TdkdsN2dER1NqUdIBoAFBVV95cUxQNlpNVFRtREdwMkF2WHh1ZG4tcXBMSE4tb2FSVVFMS2hoZjJfdGVqOVVCUFAxeFFGYW5mNXhpSmh2MFdOelJpQ2FTMkUzQXNqRkMxbWp6WU5ybUdwaHNtRDJQVU1OTmxmZFNseFh4NHl5eG00SmxnUS1PaUp5eXBzdTZjVzhmU05VaTFOeUtHdGd4dHpEVDdKWTllU2o5dW9i?oc=5)
+- **Increase** · Funding: [Pingree Joins Bipartisan Call to Increase Home Heating Assistance Funding](https://news.google.com/rss/articles/CBMidEFVX3lxTE5pRHdMNGdPOUZROXUyZGhaS1VCck9ndnBsN3BSVGFBVFFUbURaQzFNRnFsVC11X0x5M183V2ZzYTVPN1FwSHl2b05VUTNzRFB6a1p6eE9aNWU3dUt1aDBRUkZZNGN1WklELWFIN09RNVVUSk8z?oc=5)
 
-## Capital Markets Technology
+## Card Issuing / Processing
 
-### Market data / trading / execution infrastructure
+### Issuer processing / card platforms / payment infrastructure
 
-- **FactSet** · Partnership: [FactSet Announces Expanded Partnership with Scotia Wealth Management](https://news.google.com/rss/articles/CBMimgFBVV95cUxOMm5ZNlF4bFBBR3F5cDFPbkVhcVd1a1Jyek1MZ2d3MWxuZy1jZER2cG9SWW0wZ0pnQWNrdzd0MTBIcS1Uem9HbDFzVmQ4WHpWM0dya1RoQ2NLTHFzb1YzSDZ3akMxQkhONkx5NHRuVGZULWVKLXBTMWc1Z2dUakRXbk03T2tTRTVGbjZVTjJNY1VYdGJhWjEtT1Zn?oc=5)
+- **OpenWay** · Company update: [BORICA and OpenWay Win PAY360 Award for Bulgaria's Euro Payments Transformation](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSFZpaXgwUmZrb2FPRUVZWE42N0V6ZmJ4RUkyX2RiOTA0WGNlS3ViZGFZa2hkWEdSUkt0RDhadm9IQ0dhdS1DaUxtZ0RJY0xvTFd0eXBRVFpSQQ?oc=5)
 
-## Consumer Finance / Financial Wellness
+## Digital Banking / Neobanks
 
-### Financial wellness / EWA / budgeting
+### Consumer neobanks & digital banks
 
-- **Clair** · Partnership: [Pathward Financial Renews Partnership With Fintech Company Clair](https://news.google.com/rss/articles/CBMirwFBVV95cUxQOFd2Q2p0b2wwNV94cS1tTGpJZ2xFTDAxVF9xT3R1SE5mUkJiZU9RbExGbzlJckZRLTlJSHdOQVZMYWVybGYtMmFHM0llUC1MS0t4Zk80Z3ZheUQ1dzJFV0d6VlBzbnlJd2s3Zk1nSEpFREFwc3FFVjk1N0pHMXhqZV9fSnhHMjRUeFk0NDNvZkc0SEpjaHpRcjNkRkpQeDU5ZlFTV3pmMGZuSXM2ZzJv?oc=5)
-- **Origin** · Product release: [Blue Origin Invests More Than $3 Billion In Florida Infrastructure To Support Multiple Launches Per Week](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUk1RUtVdzlsa0g3TEZ3Y2R1Y3lPVE9UTm50R3JGQTVJMUFvX2g2N1RHRjVhRFBiUWFjZTAwR21jbUtHcXdSZlJ3WDBpZGZaUks2M2tPX1pKcDRsUzRvMU16Tk91WWpFdzE0NWtYc0ZyeWhKU25RVS12YzJYZ2F5QWZ2d1h6MWlzelV2YzVQQ01NbVN1bVZFVnRNeW1ySlJiZFk4aG03YTNhSGpGelFrNmdnVmExbHRzRC11RU1mU2s?oc=5)
-
-## Crypto / Blockchain / Digital Assets
-
-### Exchanges / stablecoins / custody / blockchain infrastructure
-
-- **Circle** · Expansion: [Circle CEO Targets 40 Developing Markets for Stablecoin Expansion](https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUVwOHRkQnViUVJqazNTWl9zV3ZsQzRrNk5RNnhtRW9BRUFrcndIZS1qSFZJaTl3S3J6dHhWR2FOb0ladzBBWWJkREtQeUJGeFVjVkpYQ0pGSlpJMkJFSG44SVZ6TUFVT1B5Vkd3TUdNdXB5U2trRGlJLTlxSlNUd1M2T3J6OUdrNEJ2UW9vUml6dk1UeGRoTjEzQjY0MVNO?oc=5)
-- **Circle** · Expansion: [Circle Targets 40 Emerging Markets for Expansion](https://news.google.com/rss/articles/CBMiigFBVV95cUxPRzgyaHNVU08yN0NkRnR2ZW9PZXdNZ2JSc0xjNTdTdzh5NktMWDhhUEg1N2s0TkJQSlBLcVE0WGU5R0RYMjVZcGZVTXVlcFU0dTBRSTFvZDdFWE1saW8tanNTbW9LYU1pSmcyOWFkLV9xODZIbTlJN01SbE5VWFVYMWlNbG9VX0JDRkE?oc=5)
-- **Copper** · Partnership: [Prysmian extends 30-year copper partnership with new supply agreement](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1JYTEhSWlBCR0RHV1FFaGRSLU0tb0pZb0FqSUFnMm8tcVBaZDdaV3N6N25YM3RhU3pKdTBBaUpadkVhNDgxR0lSOFBXM1VIeXllb0hTd2YyaDBfdlFYcmJGNnBwdUxVNUQyVzZWNVJvbjhkMkRBZTNsc3k5aEsyRGFwd0tVdTdVNnZMcEhrM3pJYXBGRUE5TXZ0QWxSZWRQWnM1eGJkQlVXWklC?oc=5)
-- **Ripple** · Partnership: [Tired of Ripple Partnerships as People Need to See Progress in XRP: John Squire Tells Ripple CEO](https://news.google.com/rss/articles/CBMizgFBVV95cUxPMGVsUFdqdzJPUEl1eWN6V1drRDR1Vl9ZRmtlYWJBdm5KVW83aGxIbnNoZ0txZnU4eUVqSV9uWVI0UFJwbVJMcXMxRVdGY1NnVl9lTWpLbXRNWFBUTzJ6QVc0dkRnNDZXQUlXbER1N3VBcHo0WEFNYUFMeG9LRkJ4UnVtYWsxbmRKSGR6UEVSeXN6bVpVSFFvLWcxN21SZm5Ta3RoMHJYanpSMkpLdE9uSmF6bERQbWRrbFI3dEpPcTZreXRzdW9md1BaSndJdw?oc=5)
-
-## Embedded Finance
-
-### Embedded banking / cards / payments / lending
-
-- **Cross River** · Partnership: [Ripple and Cross River Bank Announce Partnership to Integ](https://news.google.com/rss/articles/CBMickFVX3lxTE5uaC0zZXhVempicVpoaW1ZOGJtQ1JPQjM5aEN0YktiTFRCLXFnM2lZbDdVcFVib1Bvb05waFcwX2NyWVhWcnAxbEVmUm9YU0JLR045REVLXzlJWkl5eHFaZ2c4ZHV4eE9CNW9OV2RaOFA2QQ?oc=5)
+- **Current** · Company update: [Swift Current alleges widespread module defects in lawsuit against First Solar](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZTFQRVFkNkFnR1FZZlZ6TnBsUzlJdEJDdmRvRmFtUTNPeVZ3eTZkVHVrMG9kcFhkNmxzN3ZoXzNHUzlXQ2xRZlRZOTl4dGh4YmxxU0hkaGYtMTRPTWlwVlFOcW5nU1htNlZ5R1FCYTVvMXpzN0lnSDNEM1ZPTlRjZGdSNzlIeUsySEliVnhPc2NQa0dKN0t5aTd2S3BpWVZSMmtVakJCUEhJQS00UWtJMHJNckN4WjFYNmc?oc=5)
 
 ## Financial Data / Infrastructure
 
 ### Financial data / private markets / intelligence
 
-- **Morningstar** · Company update: ['Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure? Provided by Dow Jones 17 Oct 2026, 16:51:00](https://www.morningstar.com/news/marketwatch/20261017116/some-people-did-everything-right-i-lost-my-home-in-the-great-recession-i-rent-in-my-50s-why-is-that-judged-as-failure)
-- **Morningstar** · Regulatory: [AVEX SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds AEVEX Investors of Securities Class Action Lawsuit Deadline on October 20, 2026 Provided by PR Newswire 17 Oct 2026, 18:35:00](https://www.morningstar.com/news/pr-newswire/20261017ny74328/avex-shareholder-action-reminder-faruqi-faruqi-llp-reminds-aevex-investors-of-securities-class-action-lawsuit-deadline-on-october-20-2026)
-- **Morningstar** · Regulatory: [DOCS Investors Have Opportunity to Lead Doximity, Inc. Securities Fraud Lawsuit Provided by PR Newswire 17 Oct 2026, 16:37:00](https://www.morningstar.com/news/pr-newswire/20261017dc74508/docs-investors-have-opportunity-to-lead-doximity-inc-securities-fraud-lawsuit)
-- **Morningstar** · Company update: [Is Apple's foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones. Provided by Dow Jones 17 Oct 2026, 18:40:00](https://www.morningstar.com/news/marketwatch/20261017119/is-apples-foldable-iphone-duo-worth-2000-see-how-it-stacks-up-against-other-foldable-phones)
-- **Morningstar** · Company update: [New Scientific Evidence Presented at ANESTHESIOLOGY 2026 Strengthens the Case for Senzime's TetraGraph and Quantitative Neuromuscular Monitoring Provided by ACCESS Newswire 17 Oct 2026, 17:20:00](https://www.morningstar.com/news/accesswire/1238046msn/new-scientific-evidence-presented-at-anesthesiology-2026-strengthens-the-case-for-senzimes-tetragraph-and-quantitative-neuromuscular-monitoring)
-- **Morningstar** · Company update: [Powering the AI Economy: New to The Street Show #776 Premieres Tonight on Bloomberg Television Provided by ACCESS Newswire 17 Oct 2026, 16:35:00](https://www.morningstar.com/news/accesswire/1238045msn/powering-the-ai-economy-new-to-the-street-show-776-premieres-tonight-on-bloomberg-television)
-- **Morningstar** · Regulatory: [State Licensed Marijuana Operators Will Face Long Delays for DEA Federal Registrations Provided by ACCESS Newswire 17 Oct 2026, 17:50:00](https://www.morningstar.com/news/accesswire/1238044msn/state-licensed-marijuana-operators-will-face-long-delays-for-dea-federal-registrations)
-- **Morningstar** · Company update: [Valley Community Healthcare to Host Two Voter Events in October Provided by PR Newswire 17 Oct 2026, 17:45:00](https://www.morningstar.com/news/pr-newswire/20261017dc74809/valley-community-healthcare-to-host-two-voter-events-in-october)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:51:00](https://www.morningstar.com/news/marketwatch/20261017199/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:51:00](https://www.morningstar.com/news/marketwatch/20261017205/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:51:00](https://www.morningstar.com/news/marketwatch/20261017201/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:51:00](https://www.morningstar.com/news/marketwatch/20261017213/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:52:00](https://www.morningstar.com/news/marketwatch/20261017215/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:52:00](https://www.morningstar.com/news/marketwatch/20261017219/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:52:00](https://www.morningstar.com/news/marketwatch/20261017217/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017227/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017235/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017237/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017241/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017245/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017239/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017247/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017251/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017253/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017255/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017249/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017221/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017223/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017225/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017231/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017233/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017229/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? -2- Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017243/can-a-55000-robot-load-the-dishwasher-2)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:51:00](https://www.morningstar.com/news/marketwatch/20261017200/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:51:00](https://www.morningstar.com/news/marketwatch/20261017202/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:51:00](https://www.morningstar.com/news/marketwatch/20261017206/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:51:00](https://www.morningstar.com/news/marketwatch/20261017208/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:52:00](https://www.morningstar.com/news/marketwatch/20261017216/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:52:00](https://www.morningstar.com/news/marketwatch/20261017214/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:52:00](https://www.morningstar.com/news/marketwatch/20261017218/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017224/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017226/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017232/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017228/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017230/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017242/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017220/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017222/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017234/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017236/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017240/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017244/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017238/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017246/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017250/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017252/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017254/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Company update: [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers. Provided by Dow Jones 17 Oct 2026, 20:53:00](https://www.morningstar.com/news/marketwatch/20261017248/can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers)
+- **Morningstar** · Regulatory: [DOCS Investors Have Opportunity to Lead Doximity, Inc. Securities Fraud Lawsuit](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSHFmUDdpNXduaWZSSkx2Z1g5SmoxMGJJVlFMYkdzX3lMWVpSaXpnNHlsTkR0RkZ2Tk5ZSVd0eEpselF4V2pFbjVnRENUdEJMMVE1QUZQQzhDaGs5MHpveklNZ0VJM0h5UnU3MWxlZ0xYRUtEYVZSelNBUG96V2pCX0dqTzNjQk1uSjItZzc0OGd5dFVrYUlpU2pXZG1mMlhDcTZwdUM3ZV9nRWtueXhlTDBHZ2dkVld1WklPNFdLNDlIZENXYVNBRnBpemlEMGlyejVWVw?oc=5)
+- **Morningstar** · Company update: [TSMC Earnings: Tesla Talks and Texas Expansion Could Boost Stock](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTlZX1NPcFA3RkNfeWhnWVJRMHlua25QSUZteUV3b2lTTHk2WEloTDVLUUY4TmpheGRLdEpNOW5LVjRpSjlyMXVpTVFLVVBrdENUWDRmWFFIZm5nc1F5OE16T3p0cC1WRUNUdDZMTGFiWERfckZQWHl1bDhhdXY5bV9CR1VuZEVpR01QRk8xT2haYTdOZDh4V2hKcVhOVDVoalE?oc=5)
 
 ## InsurTech
 
 ### Digital insurance / underwriting / distribution
 
-- **Coalition** · Product release: [Montelores Coalition launches art contest on shared ranching and recreation lands](https://news.google.com/rss/articles/CBMixAFBVV95cUxON0ZlcVBJSTBSNmhtUzV3WGlUMUswMVA1ZUdZdFdUSldzWjhQZ2NMYXVxd1NnMnhGZ3BXNTZ3NDEzM3RPMmd6a29WN1J3Z2tRMUhJZU5UWF9GT2o2UjE1X1hsNGRQTnFCMW1pbDR2MzJ1bTgyNFNHR0ViS05JM2dFeVJhX0laQVlQa0NEbE5FUmRzOVVaV2FHZHRXbGF2MEw3WmFTa1hJYlA3S0xEMFRGTFdtVEhpY2NtLUllSHJzY3VTNnB0?oc=5)
+- **Coalition** · Company update: [Marsh and Bloomberg New Economy Launch Coalition to Strengthen Resilience and Drive Growth in a Turbulent World](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNjEtNHJnaVlIck9QSm1IX0NuX3owQUxDc0FrOEhmNnVOamp2ak1aUmdpV3VDNExoSTFMNDRSYXZwNGNLeTBLcmFTSnhpQ3JZUE04bzdCamVSb1hiU01vQjBzNU1Udk1NSWlxWk9faHh4YXJTdndEZll3ME5kdEJoRjM1V0pNUU4yM3pGMGpfd2R5VUNwWW1aMDVIeVl5THZsZkRoZEoxTEc?oc=5)
 
-## Lending & Credit
+## Insurance Distribution / Comparison
 
-### Digital lending / SME & consumer credit
+### Insurance marketplaces / comparison / embedded insurance
 
-- **Upgrade** · Expansion: [Swap Mobile launches in Singapore with six-month phone upgrade option and adjustable SIM plans](https://news.google.com/rss/articles/CBMiugFBVV95cUxNTUVpZDdYdFFyNkNXeEpubngxeFNacGZsUjNNaTVYN0dNUVdJWkVCYnJLNXBpX1NvQVduN09wU0NRREM0eDFrUnZqUUJXdF8zMUlRSGtQdGlzVmJHQlpvaWY1eDRvQjN4VE5KT1R1WU1Kc0Rmd2Z0dFlYZDVsUlVZMTFJWHA5bDE4Q0xYUmlQdl9UWVZ5S2hndVRYNVVGWXB2N1UwMGNEVDhxemRjcjJORGVjaDZld25qM2c?oc=5)
-- **Upstart** · M&A: [Cisco-backed chiplet interconnect upstart in line for acquisition: report](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzJHS3BXOFgya1FWWHowczNDZTdZSWVKT214a3YwOG1ESVdjcFVvYXlRdUpfaUhQT0d2cWtMcld5aWxvVGZWRUtVb3hqb0FOMUlfRWx4M2ZCRlhyRmMyN1N4ZVktT05nTjJuYkFWcHVCMnVkNWtIR2pDYWhMdU5xak53bnl6UmVNd2hGTnYtbktyeDdSblFNN1dETnQ5aXJRVUFwa0J5QkE?oc=5)
+- **The Zebra** · Product release: [Blue Zebra launches Landlord Essentials insurance product](https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWx6aVhqazE2MFVGTVJHZTN6cUpKSTJpTHhCNW1SWEdqSGIxZXFrZTZCa2YzRnZ4bFA4TUxMMlJ4MnNHSFRhbmplT0FsTzloaTR1NlVVbHdDYjBCUTJDczhGend6SkdheW9BWTR1ME1WSi1MTUtrWWZnUlp6dWkwTjU5YTdmY1NNbnJfag?oc=5)
 
-## Open Banking / Open Finance
+## Investment / Brokerage
 
-### Open banking APIs / account data
+### Retail & institutional brokerage
 
-- **TrueLayer** · Funding: [$27 million funding round for TrueLayer led by CDPVC](https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjJmWWhFbzItTERuT2NEOV9Rc1BMX2hkUjUzZkw1T0dxbjBuTVNEcFlzaUZfYUFnSXJpRlpaOUNJM29aNWl1WERMRTBiUnVOcVlnUFRjb2tvQ0pUU3lYUElPSzlFQXhKdVh5MmZPWEhuakg3X0xFcVNCdHl2M29yT250U2Z2bkV4bFBJSUduR3k4M0JuZjVMeg?oc=5)
+- **Interactive Brokers** · Product release: [Interactive Brokers launches cryptocurrency staking for clients By Investing.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1Ztc1owMUVMSjg5WUJTN3ZuS1ZOanNCaGlHWF8zZTlVQ0FHTllMNlYzMUZCblJrRDlhcFpuTDVTNXBpeUlfeHZpVEJzZU5QVnprQ1hMZWRjUEpBUEl4a0ZJR3FrVjl5N0ZDS2dGakJiYWZnM2FaRTZoVnZwZUp6eGRpV3ZsUGg3bWs4cDl1cUZ0d25LOVhSSGxwSnd5MktqUmo5TUs0bEdWMjdXcEpOcjBYRlRnR0RPUGxFbEM5dUNzUQ?oc=5)
+
+## Payments
+
+### Payment gateways / PSPs
+
+- **Global Payments** · Leadership: [Xplor Appoints Chief AI Officer and Forms Global Payments & Infrastructure Organization to Build the Next Generation of Vertical Software](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMDZJc1l0c2xXdk1Mem5HWDA3M3BHaVNwNDhuc0prejMyLTMySDdhTjVqUkVDX3lNQ0FaWkRyLU1IZDduYmh0SEM4WS1pTG4ybDIwN1VvQ1hhQlBqOWlPQndpU3Z2bWFCazhHTENNazlmWU9DVDA2UTJUSnctTjFyUGlpd2JzeUd3aUNnYjlIemt6cElxc1MzY01jbw?oc=5)
 
 ## Payments Infrastructure / Merchant Commerce
 
 ### Networks / acquiring / POS / orchestration
 
-- **American Express** · Partnership: [AMERICAN EXPRESS COMES ON BOARD AS EXPERIENCE PARTNER FOR LAKMĒ FASHION WEEK IN PARTNERSHIP WITH FASHION DESIGN COUNCIL OF INDIA (FDCI)](https://news.google.com/rss/articles/CBMiogJBVV95cUxPa0djbnIyLVdwMkJ4QnZDSDlXeGZqckZWdkUyYXNiUW5XYTFjNDh0RE16MHB5UEFxVjBQZ3VMRFJPSF9BVG03WVdMSXdXUWFyQTZXVGVZc0pHVC15NmRXTUVlejRMd01KOVJoalhITF9HUjhxZWMwREFZR2xFZ2hqTUUwUEQxTTJtLUo2a2x0UEgzc0ZtbG5sYlY0WDlIYlptZ3BWUUJqRWdpNlRkNGc3d3hhVXVmTmxESlhocFJlSVpmRkxSZXNreFRESFFzMFFWU2VmR1poS3pGNWNPOFBla18zYXFhaXd6Njk0bHF5WGpzSk1kbXJWdG1TNHpTQ1IwRkFwTjBOZzk1OWhsaE5IT2EyNzFnbF9oaTJUVVh4b2JUUdIBogJBVV95cUxPa0djbnIyLVdwMkJ4QnZDSDlXeGZqckZWdkUyYXNiUW5XYTFjNDh0RE16MHB5UEFxVjBQZ3VMRFJPSF9BVG03WVdMSXdXUWFyQTZXVGVZc0pHVC15NmRXTUVlejRMd01KOVJoalhITF9HUjhxZWMwREFZR2xFZ2hqTUUwUEQxTTJtLUo2a2x0UEgzc0ZtbG5sYlY0WDlIYlptZ3BWUUJqRWdpNlRkNGc3d3hhVXVmTmxESlhocFJlSVpmRkxSZXNreFRESFFzMFFWU2VmR1poS3pGNWNPOFBla18zYXFhaXd6Njk0bHF5WGpzSk1kbXJWdG1TNHpTQ1IwRkFwTjBOZzk1OWhsaE5IT2EyNzFnbF9oaTJUVVh4b2JUUQ?oc=5)
-- **Mastercard** · Product release: [Mastercard Launches Stablecoin Platform: How Crypto Turns into Card Swipes and Bank Payouts](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzR5WXozcE9wbzZPWmdfbFVIQlotaTVaNTQ5a3Q0ZzZWTjk0NHNvQ2RtS21hVFNmaC00dFZNbjc0U2F1SVl2LU1aLVlmREx6R0lLeDVGRXFmZUVsNE5WdnVKOUYtZ256WDFPZGJDVE1UcVh6UWcxdXRMNGJ3allhbjhvenBhUjVOX0JoTVNBTVREWmtuMVpZWlJZaEdFanozSnd5aUJIR3pIbXN5TmVjd094WQ?oc=5)
-- **Mastercard** · Regulatory: [Visa and Mastercard adopt USDC payouts across 200 countries](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZmtzamJQeGVSNV9EVi1SVGJxd01HUl9sT1lxQkFCWWhNVEVhUXI2clZBTHR1eTlWdm5iNGVhZjFMZkg4Q0JWOTBZNmVmTUVoTWhaUklSbjdLQVhqcTJLM2ozS09iMHRhaWxpMmQ2TE9BVEI5Nkg0am8zTkRuNkh1OXFxYnozQ1AtSE5jUg?oc=5)
+- **American Express** · Partnership: [AMERICAN EXPRESS COMES ON BOARD AS EXPERIENCE PARTNER FOR LAKMĒ FASHION WEEK IN PARTNERSHIP WITH FASHION DESIGN COUNCIL OF INDIA (FDCI)](https://news.google.com/rss/articles/CBMihwJBVV95cUxOY1VrT0dMXzRpZjRaRmVQZGpweFlEdVBSREg1SV9yd2FxVEFhV1hRQmsyQi1EUlNIcDNxbEQ4eVRkSEVueEFqSkpHLU1Oa05Jb1RYZ2tTOVRTLTV0Umg2S0t1N09IYVJ1U1FjTXFhWU8zSEhwb0RuNmh6RHRTWVVKQmpYNGVqd2NSclk1SDFqQ3RFOHk5LVBpc2ZLQkYzM1RRaTZRNnlfYVRyTkZ6NmRLLXA1Z2xDNWlJcUlDUEVlZEZhOHFsNG9jMHFOcFVscGtvUEFRcWxPVnMweTlPbURRSktsdWU1ejdNU1VidUdOWlM3NWMyc3NrcnU2eWc4SUVDb2FPclo1NNIBhwJBVV95cUxOY1VrT0dMXzRpZjRaRmVQZGpweFlEdVBSREg1SV9yd2FxVEFhV1hRQmsyQi1EUlNIcDNxbEQ4eVRkSEVueEFqSkpHLU1Oa05Jb1RYZ2tTOVRTLTV0Umg2S0t1N09IYVJ1U1FjTXFhWU8zSEhwb0RuNmh6RHRTWVVKQmpYNGVqd2NSclk1SDFqQ3RFOHk5LVBpc2ZLQkYzM1RRaTZRNnlfYVRyTkZ6NmRLLXA1Z2xDNWlJcUlDUEVlZEZhOHFsNG9jMHFOcFVscGtvUEFRcWxPVnMweTlPbURRSktsdWU1ejdNU1VidUdOWlM3NWMyc3NrcnU2eWc4SUVDb2FPclo1NA?oc=5)
 
 ## Treasury / Cash Management
 
 ### Treasury management / liquidity / programmable ledgers
 
-- **SAP** · Partnership: [Sinch expands SAP partnership with RCS integration for SAP Engagement Cloud](https://news.google.com/rss/articles/CBMingFBVV95cUxNQmdVS0VybHFJTklfYWtxaTZ0aTF5TVBkVllMYnVRa01CcWxNTUhnZkVNZ3RKUWFzNlA2YlJIeG1PMzlaYUNFOEg4X2hIT05YN0NkaGc0QUV1MFItYldSLVFXQjl3TVVULXdlSTlZSnRCS2pPZnpmVlpCYUZta3RRXzNQcENlY2F0NmFrdldSLTNOLUVya3pXMDJPLWtEZw?oc=5)
-
-## Wealth / Wealth Infrastructure
-
-### RIA / advisor / portfolio / alternatives infrastructure
-
-- **DriveWealth** · Partnership: [DriveWealth expands settlement partnership with Ripple using RLUSD in Europe](https://news.google.com/rss/articles/CBMipgFBVV95cUxObExSQkt5Qk52VGFFam9tRkdSOEYyQzJFV1F6TVhHUllwbkphTFZlWmdlcmR3ZTdQZmxxVzZGaWNEOWVIQ2J2X0ZncVNUQlhqLVpLVGppU0dNemNnNWFkakhvNGJkMmQtRFhUMXd0bkdxTEFURmd6QXV1RjlJY0NTTWdPZERWaUR5cEh1NTE3eUtTLXhfUWY5QVpGaWJLTWVuZUxvQkJR?oc=5)
-- **DriveWealth** · Funding: [Ripple and DriveWealth Target Faster Funding for 100+ Global Partners](https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGV1bGdFNTVScFMwSGduSC1ONnJQZ3A0WXpxUE0ySkdDTEMzZXFCSkdGRHFzQzdQZEF5bjlZUW5fclk2S1N2NVBGa2RQZjVqSi1Iem9GOElrM3YtTHo0VW5jZ0RhNnYyajlfVzMxZ3cyUWdUMTZGUVFuX0ktUEU3bk5lZUR0dmlxLThLWmdqZjl3TWx0RnJIcmlackRRWDJuQnZjTnVB?oc=5)
+- **SAP** · Product release: [SAP (XTRA:SAP) Stock May Be 38% Below Fair Value After AI Launches](https://news.google.com/rss/articles/CBMikAFBVV95cUxPOUtiWGJtQ0Y2Z29ldm84RmVYbGNWVkF2UnR1TGtaR1JmSW5OV0hzM0tIQWN5NDIyT3FmcGtjbEExZkFqOExicDRxWVFLdXZMZ3d3NGJaMjRoM3pyWWlPb3VDc1pPZHFmRDBmTk13RDZETEJINGJ1dFN1SUtuRVpkWkdybU1zdHZnS09EN1JfUDU?oc=5)
