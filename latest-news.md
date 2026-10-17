@@ -1,127 +1,105 @@
 # New official company updates
 
-## Accounting / Tax / ERP
-
-### Accounting / ERP / tax compliance
-
-- **Wave** · Funding: [D-Wave Quantum Slips 8.2% as Valuation Doubts, Lawsuit and Tech-Wide Retreat Converge](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMk4yUkozUk5mUzBRM2Y5YWdDYkNrVEE3Z0MyZDdyYXVZZVBFaTVJSzV4Y2l2bDhKNXNqd29Jd2x1RER4SXI3bzYtcFhzV0xpakdXMFQ4SjFQY1VjcHNkRWljUy1rZDQ4eVpvNmlIdUhRMlpEaC1yLXpLSWVYMURiVlh1bk5GUkI3bDRCVVVaQkVUZjNGU3RETlotYW4yMko3TFZnRHFaQ0NrSlVmSTFRRlFjZXNXN3VxYUJRcjlkbC1KT3lyRVExcWl6dmNGem14cVE?oc=5)
-
-## Banking / Core Banking / BaaS Gap
-
-### Core banking / digital banking / sponsor banking
-
-- **Backbase** · Company update: [Backbase Appoints Nikhil Gujral to Lead Commercial Growth Across APAC](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDlSeHZRekxIVm9CQW91eXUxcWpESTFSVFBDNjhDQ0Z3cnBLdVZxYjd2ZElDMlN3VGNnQU5hYktuckVtVlZqVWJ1LUNvRU51QTFEeGNIdzVpMXRySXVxakY2Z2VGLVk3LTlEVm9PbHJyT3FSUkFyWU9JclozSVVueXU0RDhTUUJBMUhSN0lmOW42WFVYRDhLclc0MWJCOFRXQkJnLS1WUWYtUE1y?oc=5)
-- **Increase** · Product release: [SpaceX proposing sharp increase in Starship launches from Texas](https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2FabGJTMi1DZWE0VWljczZNTjBDMGVUT3c2UWs3ZDlNajZIamhyQ3lrSktJN0pQeTNKdUNiMGMySEx1WG5YTmswYWN4WFVOSDVIRUJlSW1qaFJqdk0xYlVXYzRBQThhR29MZTR1NjRDYUF1dXBaOERlVHRva1dQZFYwRnRsa3FEUFZjRnUyWQ?oc=5)
-
 ## Capital Markets Technology
 
 ### Market data / trading / execution infrastructure
 
-- **Cboe Global Markets** · Company update: [SEC Approves Cboe KPI Event Contracts for Robinhood Launch, Clarifying Boundaries with CFTC](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTjJwbzZPNkE1ZERyN3VmTUljX09ITVU4aGNMZnVaUW9oaFM3enBtSGJaS255RWlXTkRMZTM2ZHp1R1ZCU2cyZUVkSXRGdDVLQ3VQRkNUcFpJYVUwU0xnTURfZUNaeWxLaFNVN1lpNlFfajZqT1hBOVUtdks1UndiMTFsSnhzYUM3dlF6RFBPVGFhYVlIZ1ZhZS00aFZUelMtZnhVVU0wbFluNTFSN3NmOHpiNFJ3SUFqS1B6NGl5YXZTTFlmNjdqQWxYQzlHWlgzNFdFSWRtVTdTWFU?oc=5)
-- **S&P Global** · Product release: [S&P Global launches AI data update: what it means for S&P Global stock](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVndzTzJLNDA2cm9sTDBZQVdsSnlMLTRxMVh6cnY1eWJzR3dMX0N1dEtBcEg5NHE0Q1dNQzAwbVF6UEc0X3FGT3Z0eFBDQVM0aXhqd2htclM2WGpCbXkyaHFoZzlLS2JmYmtVdS1KM0xaNFN6U2FGRnZDa1VFclZqUFpvdnRGcFFBeFFLaXpoalRSWFppZVR6bWtqSlFiUV92d2g5eHoxSG1ocldkVnRrMmdvRDJ3SV81SEEwd3RnSGZaeGVNZmJnS0J1SkdSajZMc0luQzQ3OA?oc=5)
+- **ICE** · Company update: [California files 100th lawsuit against Trump administration, challenges ICE arrests at courthouses](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYjI1TjVGcTZidTZFblotV1VlT1FwVU9peVNVb0pUX0dyNnFGd2pvcnA2NDB4WDZUODlwSG41Umw5UzJTc2hLZWEwUWZRc01TSURQMGNuaW1FQnZfVGhMTVkxQklaLXFOaXh6N0lkd3JNNGFkVm9ueUt2ZERIb05HdFhEY0c1M2trb0NBSUNJNkNZZHBlR0RhazJQQXl6eThPZDNUZnlFdDdmczlZYmJLTFNiQWFHUmZOLThuM1pXQjhZRW53OVo0WEc0SkhiNDdUeDJUYzRfaTRzLTZWRjNEVGdJdDQ4eHl2WmtqY0s4ME5vb1d2SlYyX1NB?oc=5)
+- **MSCI** · Company update: [Wall Street Stays Bullish on Strategy Despite MSCI Threat, CryptoQuant CEO Says](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUVNUjVxbUZiWEFIMW5aX0Z1SEFvVGZjNTJrenBoTnBrQzZMYlVTZ1R5Qkg3ak0wZTd0T2UwYnc5TlVyOWVYdzZPWnZoYkt5RlRuM0NTZUhWZ0tVTEozeXVDdnU4NGhEQWtMUEJUOGhmUER1TllFSEtRMFRWOUM1SThYV1dZb2dfeXM0RFdrNXUzRkFDcG5rOGVZUVRpcGt6bTdOb3JVbw?oc=5)
 
-## Card Issuing / Processing
+## Consumer Finance / Financial Wellness
 
-### Issuer processing / card platforms / payment infrastructure
+### Financial wellness / EWA / budgeting
 
-- **Compass Plus** · Partnership: [VietinBank Renews Partnership with Compass Plus Technologies to Support Continued Modernisation](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRFVjTGN2NmgzVGY0aFg5YmtTeGs5aG5VLXNGWXZOcjlwbFVRc0lMV1BfY1B0OFp0VEw1UGFuOUZDVFptSEFSaXRIb3lDUW4wMnVlNFlPTVJRYXlyOUFNa2Zteld5U1VzOGNPejlvNUlvYW9rSDZ4MUNHRnRwUFdLbGVPVEJCRGlUdUw0a0VUUzFqVTQtaFNfTXNyRVJvSDF0MWZIbTE5X0haQXp4bUlBbEhodWxteXZua1ZoZFoyNEtWQQ?oc=5)
+- **Origin** · Funding: [Construction robotics startup Origin raises $20 Mn led by Accel, Zacua Ventures](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQU1WYXVNTWxoVGU4SEgyTEV4TFBqTDEtVzdyRDFJQjRQVnNNNUlhNFpuSzVrU21KUGllaDR6T0ZiaXYtWTdMRHplRHlMNUZwaDl3d0hWVVp5ZUxDYzd4MUd3dnZkcE5xUHVRX0stR29zbFFKSkpOcFAxcGNyYXo2VW1zQkJLQURtbHBIUzNPdnpaS3dqaUNsVDdBTDdmSWY1djVwdEItNXpjUXctY01ITHlB0gGyAUFVX3lxTE5BTVZhdU1NbGhUZThISDJMRXhMUGpMMS1XN3JEMUlCNFBWc001SWE0Wm5LNWtTbUpQaWVoNHpPRmJpdi1ZN0xEemVEeUw1RnBoOXd3SFZVWnllTENjN3gxR3d2dmRwTnFQdVFfSy1Hb3NsUUpKSk5wUDFwY3JhejZVbXNCQktBRG1scEhTM092elpLd2ppQ2xUN0FMN2ZJZjV2NXB0Qi01emNRdy1jTUhMeUE?oc=5)
 
 ## Credit Infrastructure / Credit Scoring
 
 ### Credit bureaus / scoring / decisioning
 
-- **Pagaya** · Funding: [Is Pagaya Technologies (PGY) Undervalued On AI Lending Expansion And New Funding?](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOU54aEJnbG1ENGp0UHhTUm40dl9zQzROb2lmaFB2dGVxR3ZsQkotTHlEbmU4OEZBWjdTU3RKRUt3U2E5alpfdmJLNXozWUpvaS0wSHF6VmFlb1BDLXhKSDA4TlhTcENGbVgyTHphQjdVWnYxbEFjcFIyYnQyT3BaUDVxS2FGVmdIUTBIN0pCMURJME5yN201RUxKY0swRXRybGtfSnFwTzdtY3o3dEI5ckx1UTFaMnlDQnJWbWwwdTFoUUY1VmRhbVhrcjRPUlpQYmNB0gHYAUFVX3lxTE5BQTRwbWU0VzRqVGNjNFFXcUJlb1k3VEZyY0tpZFhidmM3LVhwX181bzNOam5sU184TVNBSnpXZWNOTmY3bnRoU0RveEFXZDF0TVIteVJnU3V0elZCRU9vcl9fWXVaT0hUY05JbmxCb2R5c2lLWDVUcEpLZmNPRlZXQ3BqY05FNUdORnlTc2dWUE1qMXRfUnlWWGRjMC05M0kxcVdmOUdSa19sb0VJSGdQZ2dmcnduR0NacnJYRWU3WDdlWm9QUVkyT0R5ZTktczRRdWN2TXgtSQ?oc=5)
+- **Equifax** · Company update: [Bank of America Fine Lifts Equifax Stock Interest In Compliance Software](https://news.google.com/rss/articles/CBMinAFBVV95cUxORjN2RXRXelRJcmpqMXZpVGlOMk93eDZXVXd2ekR5UDRQbDIyNE5EbC1iYjgwODQwWlR6WUFoWktqb2lJWW9HTnFoVUcwQWFBT19NbDc5a2tLNnZrODJNVmh2aEpFNEs4NUw3ZjFiamtoYWRrc0pJWDZxcTBhNDNNbk4wZjFsamVXOEhWZ1Z6SEdNdFdEQTNmZTlQLWg?oc=5)
 
-## Crypto / Blockchain / Digital Assets
+## Financial AI / Research Infrastructure
 
-### Exchanges / stablecoins / custody / blockchain infrastructure
+### Financial research / AI / alternative data
 
-- **Copper** · Company update: [CoTec and Battery Mineral Resources Enter Strategic Partnership to Unlock Additional Copper Production and Growth Opportunities at Punitaqui](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNXzMxeEFNanFoa0xZRWRhQmg2OVJsMVppcGFYYUsxWnhlckxRTy00TzhJTTd3VmE4NGw3Mmo4Z3huQlEyaTVQTzJaWU1lVFl6R2xUc09Ob19sVHVCczhGcXdtNy10V1ZBNnRtMHlBZnhfaXdGSFJmM29pTU9iMlpFSXVpWWl0dkpLcFFTa0pfQzBUek1IenFMaVVONE5TT0xjUUdxWTNHZmh3d19GRHFsTHlCTVdoRndLanYyaVBQQXlXUU1vdUpicUNtbGw2V0hQWHh3WTNJMElrMldwVXZRb0pkTkJSNU8ySmZ0S3BQV3pxRXZNNUlpa2VEMA?oc=5)
-
-## Digital Banking / Neobanks
-
-### Consumer neobanks & digital banks
-
-- **Cash App** · Regulatory: [Cash App users to receive payments from $15M security settlement](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUDZQYWg4dUxlU0xzYW5RYklSdGJFWFZVd1FQeUlkRXd1dW1MNzJ2WExHN1V4UVdXZVFpQ01sM1VCclB5ejhWZzN5NXZjZXBGSkpYbDlWanZPNWNoUXZsT3FEWU9JaVV1NzYyVEpweTNqd2dLZTgzSHE1T2JMWTc5bTNKSFNQVFFyc1lQcHpMNkN4UQ?oc=5)
-- **Revolut** · Company update: [DOF explores cheaper OFW remittances with Swift, Revolut](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUG9jcWdjTWd4UXBLU1BvR1UxMDFHV0wyaDJNMk1meGZYN1pNYTJmUF9HeGt5dDd0dTZrcmtxLUU4eU9FcmRjOGNmRy1oaG1RVWMwbGt2QW5vckJVYnRELUVnbUxUdEZ0NkdjM20wTVZRTDdncjhBRkp6RE9HT0EyQTFnTXRqOURMcmdycDZhNHJuUQ?oc=5)
-- **Revolut** · Funding: [Revolut Plans US$250 Million Investment in Mexico by 2027](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc25yT2ttNlJoUzVUeUhmbXNnU1M5QkxHTFpRbzhEeVc0QU1oYk1VOEpaam5nWWFERkFBRXk0YlA3Rm5LTTRrNkpKZm05aE5kRHNVTFBHR1RGSzhvN1pfUjJLTXBwcnM5TDdCT09yN0ZtSzc3TkFYaXJWWWpqMXpUcHV5STR4MDIzR0t5YXk5QWlBMzhkdVE?oc=5)
-- **Revolut** · Funding: [Revolut's expanded Singapore office and S$350 million investment](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkVHZVhhdmsxejRiVWl3OEdLZHVLTDhmWkkxWTFVcU50VnQ4dktjMEEtMmI1S1JKYWdwSFg3a3R6cDNKREo3TnAxX3JWMmpwRVQyRXhaa2s1ZDNoZXBRbG9rOW53Y0RnQ2dxS0h5anBuX2VRTzdpSlMtSG00NWc2dTZkNFBMRmxHQ3dQSTN3?oc=5)
+- **Visible Alpha** · Product release: [S&P Global launches AI data update: what it means for S&P Global stock](https://news.google.com/rss/articles/CBMizwFBVV95cUxPcGp0ZEpoLUJTVmhGaVNIcUlJTTFybjYzTW1hSWUwQ2hELXd6eWl1R3RVaWJrY0tvQmRtc2lHdGZxR0tIYTdMdnlZbUZ4T21WQnlCaG5rVk9ub1VtZVBDX1M1UlljRG5wXzN3ODFxZElxS3Q0akZ4aTJacExON1I4Y0J3REJHRXUzWV9QZ3ZJdkhOdDdLNnBVM1d4RG82bU05cTUxNmxONm1FVlZuNTlGYnpxM2gwVTZqRG13SkV5dTBjVzNrUmVNZUpZMi1SNjA?oc=5)
 
 ## Financial Data / Infrastructure
 
 ### Financial data / private markets / intelligence
 
-- **Morningstar** · Company update: ['Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure? Provided by Dow Jones 17 Oct 2026, 13:01:00](https://www.morningstar.com/news/marketwatch/20261017112/some-people-did-everything-right-i-lost-my-home-in-the-great-recession-i-rent-in-my-50s-why-is-that-judged-as-failure)
-- **Morningstar** · Company update: [BWIN Stock Alert: Halper Sadeh LLC is Investigating Whether The Baldwin Group, Inc. is Obtaining a Fair Price for its Shareholders Provided by Business Wire 17 Oct 2026, 11:56:00](https://www.morningstar.com/news/business-wire/20261017176022/bwin-stock-alert-halper-sadeh-llc-is-investigating-whether-the-baldwin-group-inc-is-obtaining-a-fair-price-for-its-shareholders)
-- **Morningstar** · Regulatory: [D-Wave Quantum Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights – QBTS Provided by Business Wire 17 Oct 2026, 12:00:00](https://www.morningstar.com/news/business-wire/20261017653720/d-wave-quantum-inc-sued-for-securities-law-violations-contact-the-djs-law-group-to-discuss-your-rights-qbts)
-- **Morningstar** · Regulatory: [DAVA SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Endava plc (NASDAQ: DAVA) Investors of Securities Class Action Lawsuit Deadline on November 30, 2026 Provided by PR Newswire 17 Oct 2026, 12:21:00](https://www.morningstar.com/news/pr-newswire/20261017ny74331/dava-shareholder-action-reminder-faruqi-faruqi-llp-reminds-endava-plc-nasdaq-dava-investors-of-securities-class-action-lawsuit-deadline-on-november-30-2026)
-- **Morningstar** · Regulatory: [FCEL Investors Have Opportunity to Lead FuelCell Energy, Inc. Securities Fraud Lawsuit Provided by PR Newswire 17 Oct 2026, 11:15:00](https://www.morningstar.com/news/pr-newswire/20261017dc74664/fcel-investors-have-opportunity-to-lead-fuelcell-energy-inc-securities-fraud-lawsuit)
-- **Morningstar** · Company update: [Fed interest-rate decision this month is a closer call than markets think Provided by Dow Jones 17 Oct 2026, 11:00:00](https://www.morningstar.com/news/marketwatch/20261017101/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think)
-- **Morningstar** · Expansion: [GAC Showcases Multiple Models at Canton Fair: Systemic Global Expansion as a Response to High‑Level Opening‑Up Provided by PR Newswire 17 Oct 2026, 09:44:00](https://www.morningstar.com/news/pr-newswire/20261017cn74783/gac-showcases-multiple-models-at-canton-fair-systemic-global-expansion-as-a-response-to-highlevel-openingup)
-- **Morningstar** · Regulatory: [Gildan Activewear Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights – GIL Provided by Business Wire 17 Oct 2026, 13:00:00](https://www.morningstar.com/news/business-wire/20261017359366/gildan-activewear-inc-sued-for-securities-law-violations-contact-the-djs-law-group-to-discuss-your-rights-gil)
-- **Morningstar** · Regulatory: [HYLN SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Hyliion Investors of Securities Class Action Lawsuit Deadline on October 27, 2026 Provided by PR Newswire 17 Oct 2026, 12:56:00](https://www.morningstar.com/news/pr-newswire/20261017ny74335/hyln-shareholder-action-reminder-faruqi-faruqi-llp-reminds-hyliion-investors-of-securities-class-action-lawsuit-deadline-on-october-27-2026)
-- **Morningstar** · Company update: [HelloNation Outlines Tax Documents Needed by US Citizens Abroad With Insights From Accountant Nils Lenz Provided by PR Newswire 17 Oct 2026, 12:00:00](https://www.morningstar.com/news/pr-newswire/20261017ny43937/hellonation-outlines-tax-documents-needed-by-us-citizens-abroad-with-insights-from-accountant-nils-lenz)
-- **Morningstar** · Regulatory: [I'm 63 and diagnosed with lymphoma. Should I take my Social Security next year? Provided by Dow Jones 17 Oct 2026, 11:00:00](https://www.morningstar.com/news/marketwatch/20261017102/im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year)
-- **Morningstar** · Company update: [I'm 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business? Provided by Dow Jones 17 Oct 2026, 12:00:00](https://www.morningstar.com/news/marketwatch/20261017105/im-64-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business)
-- **Morningstar** · Company update: [Influencers and biohackers swear by fasting. Here's what the science says. Provided by Dow Jones 17 Oct 2026, 12:31:00](https://www.morningstar.com/news/marketwatch/20261017109/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says)
-- **Morningstar** · Company update: [It was another great week for the average stock as market leadership shifts away from tech Provided by Dow Jones 17 Oct 2026, 11:30:00](https://www.morningstar.com/news/marketwatch/20261017104/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech)
-- **Morningstar** · Product release: [JinkoSolar Unveils Tiger Neo 5.0 All-Black Residential Solar Module with 25.52% Efficiency Provided by PR Newswire 17 Oct 2026, 11:33:00](https://www.morningstar.com/news/pr-newswire/20261017cn74782/jinkosolar-unveils-tiger-neo-50-all-black-residential-solar-module-with-2552-efficiency)
-- **Morningstar** · Company update: [MG Stock Alert: Halper Sadeh LLC is Investigating Whether MISTRAS Group, Inc. is Obtaining a Fair Price for its Shareholders Provided by Business Wire 17 Oct 2026, 11:41:00](https://www.morningstar.com/news/business-wire/20261017215913/mg-stock-alert-halper-sadeh-llc-is-investigating-whether-mistras-group-inc-is-obtaining-a-fair-price-for-its-shareholders)
-- **Morningstar** · Regulatory: [Masimo's smartSET™ FDA Clearance Offers Breakthrough Innovation in Pulse Oximetry to Help Improve Critical Patient Outcomes Provided by PR Newswire 17 Oct 2026, 13:00:00](https://www.morningstar.com/news/pr-newswire/20261017cl74654/masimos-smartset-fda-clearance-offers-breakthrough-innovation-in-pulse-oximetry-to-help-improve-critical-patient-outcomes)
-- **Morningstar** · Company update: [Meet the home buyers totally unfazed by 7% mortgage rates Provided by Dow Jones 17 Oct 2026, 13:00:00](https://www.morningstar.com/news/marketwatch/20261017111/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates)
-- **Morningstar** · Company update: [Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays Provided by Dow Jones 17 Oct 2026, 12:01:00](https://www.morningstar.com/news/marketwatch/20261017107/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays)
-- **Morningstar** · Company update: [Prostate Cancer Foundation Expands Radiopharmaceutical Think Tank as Field Enters Pivotal Growth Phase Provided by Business Wire 17 Oct 2026, 12:30:00](https://www.morningstar.com/news/business-wire/20261017222141/prostate-cancer-foundation-expands-radiopharmaceutical-think-tank-as-field-enters-pivotal-growth-phase)
-- **Morningstar** · Regulatory: [SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Innventure (NASDAQ: INV) Investors of Securities Class Action Lawsuit Deadline on October 27, 2026 Provided by PR Newswire 17 Oct 2026, 12:44:00](https://www.morningstar.com/news/pr-newswire/20261017ny74339/shareholder-action-reminder-faruqi-faruqi-llp-reminds-innventure-nasdaq-inv-investors-of-securities-class-action-lawsuit-deadline-on-october-27-2026)
-- **Morningstar** · Company update: [Silver's recent 50% drop from a record high hints that an economic slowdown looms Provided by Dow Jones 17 Oct 2026, 12:30:00](https://www.morningstar.com/news/marketwatch/20261017108/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms)
-- **Morningstar** · Regulatory: [TBLA SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Taboola.com (NASDAQ: TBLA) Investors of Securities Class Action Lawsuit Deadline on October 20, 2026 Provided by PR Newswire 17 Oct 2026, 12:10:00](https://www.morningstar.com/news/pr-newswire/20261017ny74342/tbla-shareholder-action-reminder-faruqi-faruqi-llp-reminds-taboolacom-nasdaq-tbla-investors-of-securities-class-action-lawsuit-deadline-on-october-20-2026)
-- **Morningstar** · Company update: [Three Days to Go: Four Core Highlights of the 2026 iCAUR International User Summit Provided by GlobeNewswire 17 Oct 2026, 11:40:51](https://www.morningstar.com/news/globe-newswire/9847827/three-days-to-go-four-core-highlights-of-the-2026-icaur-international-user-summit)
-- **Morningstar** · Company update: [Tryllium Announces Joint Mental Performance Training Course from ISNation and Dr. Ellen Reed Provided by ACCESS Newswire 17 Oct 2026, 12:00:00](https://www.morningstar.com/news/accesswire/1236615msn/tryllium-announces-joint-mental-performance-training-course-from-isnation-and-dr-ellen-reed)
-- **Morningstar** · Company update: [Vivacta Bio and Grit Bio Announce FDA Orphan Drug Designation for In Vivo CAR-T Therapy GT801 in Autoimmune Hemolytic Anemia Provided by PR Newswire 17 Oct 2026, 12:00:00](https://www.morningstar.com/news/pr-newswire/20261017cn74334/vivacta-bio-and-grit-bio-announce-fda-orphan-drug-designation-for-in-vivo-car-t-therapy-gt801-in-autoimmune-hemolytic-anemia)
-- **Morningstar** · Regulatory: [XTIA SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds XTI Aerospace Investors of Securities Class Action Lawsuit Deadline on October 27, 2026 Provided by PR Newswire 17 Oct 2026, 11:59:00](https://www.morningstar.com/news/pr-newswire/20261017ny74344/xtia-shareholder-action-reminder-faruqi-faruqi-llp-reminds-xti-aerospace-investors-of-securities-class-action-lawsuit-deadline-on-october-27-2026)
-- **Morningstar** · Regulatory: [YSS SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds York Space Systems (NYSE: YSS) Investors of Securities Class Action Lawsuit Deadline on October 30, 2026 Provided by PR Newswire 17 Oct 2026, 12:07:00](https://www.morningstar.com/news/pr-newswire/20261017ny74347/yss-shareholder-action-reminder-faruqi-faruqi-llp-reminds-york-space-systems-nyse-yss-investors-of-securities-class-action-lawsuit-deadline-on-october-30-2026)
-
-## Indian Fintech
-
-### India payments / banking / fintech
-
-- **Fi** · Product release: [United Now Offers Starlink Wi-Fi on Nearly Half its Daily Flights, Launches New “Starlink Tracker”](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXdaRlp1cDM4bktkazU1RU9XNU5jeFhMOU1KUl95U0FSZ3dQR2t3YlF2UHlwb2c4SHdtbGs5R3FVeVlDd0lTYUFscE5mb29RNW9IaFJMOWlTZWJ2XzFJNjEzYjNEYjdDM0RWd3ZRcXpiSkJwV1czUEx6dl9CV0xJR1czejMzSkN4UkNDRWI2aGVQWUdaeGdpQ0JKSkl3VnJ4NmdVWk5iOEMxcExzeGxONVRZcWpJeGp5TmZESWx1NmU?oc=5)
+- **Morningstar** · Company update: [Karviva and Founder Dr. Angela Zeng Featured in 2026 USA TODAY Food as Medicine Edition Provided by ACCESS Newswire 17 Oct 2026, 15:00:00](https://www.morningstar.com/news/accesswire/1238040msn/karviva-and-founder-dr-angela-zeng-featured-in-2026-usa-today-food-as-medicine-edition)
 
 ## InsurTech
 
 ### Digital insurance / underwriting / distribution
 
-- **Ethos** · Regulatory: [Form 4 Ethos Technologies Inc: Peter George Colis (Director, CEO and Secretary) For: 14 October](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUTR5OTdEcnRRZjF2cndWWmhheDV3TVV2b0FYaFF1MXhXQlROalJ1ek5fMnFpZWdqcWEyTDBJcWFzMzk1Q09HVXNFOUtPWHBhRW04dWJWc0VRMVBDSkJ6MFl2Y084WXNoVGNwN3NYcE9NQ3JNVHVoQWNocDB5eWRfZ0hlVHJsZFB3YmhrWldXYzlmSWZfN3gwTk1zVThvVFdqSHNSQlpYWVpRQWpHY05COEczR2UzUjFGMWZVNGdCTjhfQ2xEMEtkWnRqTUlRdWRTVkVXM0dGTDE1VC01aFozZlJzN29qdw?oc=5)
+- **Ethos** · Regulatory: [Form 4 Ethos Technologies Inc: Peter George Colis (Director, CEO and Secretary) For: 14 October](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbV9IQUF3ZVJMR0hEbmFwZFZMYjB3RkswUG5HUlZMS3ZLUVhjemM2UlZWbWh4bnQ5VGY1TTNzLU56T3c5S2xNTERSQ1h1TXI0OUNJTXdzclp2YUlWYkJqVWlyekZ2UWx2dHNRbi1TMDZ6SVlUejdqSlFPQUFyVkFyQXNydk5qeEZQTnJia0FIT3VEMzNiNDlpWTFTTDNzUlVDdEUtQ0k3dDBuU2F0TVRDYXAtWl95WEIxeGROcHpJWHVZMmliUFl4WG1QLXJrQ2NWcTlGZ3VnOXBzTzJINXloS21ERnEtZw?oc=5)
 
 ## Investment / Brokerage
 
 ### Retail & institutional brokerage
 
-- **SoFi Invest** · Company update: [Quarterly Results](https://news.google.com/rss/articles/CBMid0FVX3lxTE5GLVRUTmtlOFd0LVBVSzJfUWxwOVlaSTYwcXlrVFY4YjRiUkpkZXdEWDdjc2Y0UzJMbWtnUXZJamRua05aME1haW5QVi00b3gtTmVqQWs0Wkc0azRHTEtLR1ZvMFlleVA2YmV3b3hPeklxand2Z0tV?oc=5)
+- **Coinbase** · Company update: [Musk drinks three pints, Coinbase CEO barely finishes one, new ranking shows](https://news.google.com/rss/articles/CBMipgFBVV95cUxOWW04bVNzQ1IyRUhvMnF3c1VEMGFlOG5CaENyVU1VQ3o0M1NoTVZDaFRiVVVBV3BjaFU0Tzh2aERnVjRaQUtEWGVES1hPZVlyaGJEVm5TUDQyTWNVa2R6anJCbmdJLTlwUUJ4OVlMdGppN1JDTnBnRWl3NUtQYnBYNm5kWkhfYS05WGwyM0Z2aUd5Q3ZYOWR2bzYwNnZvcmV0SWVQRmtn?oc=5)
+- **Gemini** · M&A: [Warner Music India Strengthens Presence with Catalogue Acquisition and Strategic Partnerships in South India](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaV9PMDQwMndNelktSUJRUTIzNFhKbi1jZEtZN25BQmFPenh0Yl9WY09JelE1N1pJUThCTGw2VjRjdGlReWRfTjEzbFRISDFnWExEcFlCY3p5VllqaWJtejVGWkQySV9iS3BucU1PcTlCb05adk9naXNrNC1Zd0tvcGxLaExkUFBISy1qNEFzenN3RnRxME1rWWJhQWlnTlhmQkJfWnY3dGN2V1dLVnprNUJ0OU02MUpCWUo1Ml81V2xDT2drSWxGUlVqWQ?oc=5)
+- **Webull** · Company update: [Class action lawsuit filed against Webull over undisclosed China ties affecting business claims.](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORE5MenlZUngzN3hZaGx3Y0hZVnFaRmJGUDJmdlJtS05VVmJvc1dMR1VPVlJsWERQZFRTb212WkoySmxUYUxHakZIbEx2Sjl3UmQ0SDA5TFY1WUpReG5SamNvd3JUSm44SUd3ZHpsSkd0VDBGTGtNZ3pBQ2tXUzk1V29JeGVLN0xT?oc=5)
+
+## Latin American Fintech
+
+### LatAm banking / payments / credit
+
+- **Jeeves** · Product release: [Miami's OpenFX launches venture arm, backs Jeeves and Cyclops](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkxUSm5qTW90Y1dlVzJubDN4SC1TUzlzVGg3XzIxbEYwVENOOUU3VERNS3Vxc2E5RUNGVjhyRlA1TWxMNDU4cUUyTWN1Y3ZfTm9VUWU2eVpKanFLZXFLRE1laXczZnpEbXVjNEpMeEZOY1JjbUdfQ3Zmb2NHek9XSVBmYWVaWW9XTnJzbno0QngtRzN6MHdwZnBn?oc=5)
+- **Jeeves** · Product release: [Miami’s OpenFX Launches Venture Arm, Backs Fintechs Jeeves and Cyclops](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmZmSi1nMmVZRW9qa3NESVpXUUlJaU92aE9ZSmtMNUU4TE1PMGxQbnNLT3lGYnhZSkl0SkxuMTFyLWNLeVlBQ3JWNEY0VTRDSEFnRHJzQTlQYkNWOElXbmRmbG52VnRVUzVWWlEtUFpmbV9ldGU2cDY4elBqYzMxLXRQRFplU2N0azBrbkRMeFM3Wm12aUpwWk1YZjZ3Q01m?oc=5)
 
 ## Lending & Credit
 
 ### Digital lending / SME & consumer credit
 
-- **Upgrade** · Product release: [Government launches Ksh1.7b road upgrade project in Trans Nzoia](https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2VzemdiM0I3RGxKUG1jb0duc2lQVXpKTzJQRUc1VEhSSjZJTllKQk50OEtPRktBbUlJQW9iQl8xbHJMU1RQTmVncjFVRjB1MjJQRDZHcDF2NWlnOFJQMFFVeEpOcUZvcHV1ZFVaSnpETnF0V05RZnJ6Y2VzcEI4SXRBOHRBSmpKdzFPYTZMOEhXMVRKY3NFckZ0MTJXMEhkOFptbExsblJHRWRsLVJB?oc=5)
+- **Upgrade** · Funding: [$2.8 million in federal funding to upgrade and modernize Belleville’s rural transit fleet](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiYzJKQ1BIRHM0bG9EQ1YwUWF0d2Z6cUVoS21tZXhVVWNkTEdmczRwTi1OX1FrTkhKWjhkUnVOZWt2MDdreXBkdnloTzRNV21DMFh0RXA4Z1o?oc=5)
 
 ## Payments
 
 ### Payment gateways / PSPs
 
-- **Block** · Company update: [Jared Kushner Faces Lawsuit to Block His Role as Trump's Diplomatic Envoy](https://news.google.com/rss/articles/CBMifEFVX3lxTE1PeFBfcFFjN2NqcUNkSVAxeldiYnlyUnJrdUFaVmh6X2s1QzhneFpycjctM0F5S1hYeXVpUnhFUkYxbVoyUDV2NkhPNjlKa3cxbFgyd1VwSDI4UWl5T0RFR1A4dFdtS1k5ZEppV3c0NFFxdjRLM19DdnE1VEw?oc=5)
-- **PPRO** · Partnership: [PPRO Partners with Damisa for Stablecoin-Powered Treasury and Cross-Border Settlement](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbjBPa0VWaUhURUJkbXFwMURTdlVBZV94WndsYzFXVmtwV2dNYlRZelp2S3NuNXh1VUhrLTJhdEliS0FVZXJWR0pjSDBJd3JRaFlod2VlbnFlWEY0Sm10MDh1M1NkZ2NkRWRRN195ZkVpRko0b2dLbnVYTkVwTGtBakpiXzdGaWVGcXJWZjdWY1diM3BNaFdHS2dPNnp6Um1yTjh6QkZ6VWNBOG1uV244Tmk4b2g?oc=5)
+- **Block** · M&A: [NVDA completes acquisition of Newport Development Block, 'The Pit'](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdktlUFJBNlR4LVdUM1cyUFkyei1JODg2eXJFRXg3cURGdTR3a1ZPVjgyODNnUENtNkZtTW5fcXVZTm5NTnR0QzVOZTk3M3dvcUF4Vkg2aFZUbm4yV1ZEZGVaLXF0NHM3a1ZSTGNDMEppZGFzRHVoQnk1akx3S1RQaHR5LWRzY0VlQ1RTMlNuS1ZfRVVQT3A5Q0hDQ29TMkV6d2c?oc=5)
+- **Global Payments** · M&A: [Polygon Labs completes Coinme acquisition to challenge Visa and Stripe in global payments](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUnl1TjM1eXJhMlV5UGMzZ3lHaFNoVE5hQXNHcGQ2bmdUSlVvRFoxTnUzZUJBV3JoamtqYXJUbHRrR1JHTUZManN3NmJiUGVJOFJmWml5OWVCUFlRUGt3LURQZ0lQUlBCejlIeGJIQkhFUlF4dGhCMV9lcEowcklsTk9YU1FESHZ4S2t4bkdBUlhnZkpjZmhsVFEtaHExMzNObXVZTy1Ib0hfTDVRVm5QVEZyYzlmVEk2RzZIRXBuRnpWQnZPekNzMw?oc=5)
 
 ## Payments Infrastructure / Merchant Commerce
 
 ### Networks / acquiring / POS / orchestration
 
-- **American Express** · Partnership: [AMERICAN EXPRESS COMES ON BOARD AS EXPERIENCE PARTNER FOR LAKMĒ FASHION WEEK IN PARTNERSHIP WITH FASHION DESIGN COUNCIL OF INDIA (FDCI)](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTEt2a2tYU3hnY01TLWJpb1d6bWJEcWZ0ZlhieVRSTXJCXzR1WXg2VTBhVHFOZjZnRVByRnphUlQtYUtCa2pjUXh1R3E3aXF6MWVycU95Q21GZkZ4aEFjSGRfY1RtaFcyS2s5VnNFVVh6V3d4RzZuZ191VWpIVXVzTjNwd19iN1B0WG43Nnh3d3VaWktxOWNDMW1jYUFtdnNaQ2QwbGluX05jOTd0T0RUSDJUcEFnbi10NWJCdnBIZkxJMzY5STByTXZWbG5mRXZsUG84U3hGbFctNnFxU2tmQnMyS1haWnAtMlZlT3Y1MXUyOTBuZWMtRmUwaXRLOWpxQUpQdF9vSzHSAYwCQVVfeXFMTjRBZGJyR0NJc0pvY1pZZjZiWW11ZDZkazFXako2dlF2LTczNjJVNjZ5dFZCRUptcmNEWDRtbUZfVlUwQXl3VnpRcEZXSmt4OWU1aXFKcGVERFVEa1NPVUd0MWRDaUZmZjBqX1BLdUwtYmljN2xtcFQ3N2dDRzVBeE1XUVNLRUU4YVdjWU9hNG02UnIzVy1USHFqbm1JYlBqTjBLQ1g0aHZYUXBrT2hka0hCYmJSWnRwaUw3UGdoZHRrZTNTV2F0WmVHSjJBRTc2eGJYT3RxWll1WkJmNGhWc05xbU84QWZ3eHhJMVkxdGlFZWJ4dmp0UFR4SHQwNmlTVFR0UTJYbFRvRTJVUA?oc=5)
-- **Mastercard** · Regulatory: [Mastercard Expands Its European Tech Hub in Dublin, Reinforcing Its Commitment to Europe's Digital Future](https://news.google.com/rss/articles/CBMiugFBVV95cUxQN19xMVFRd0taYklnQ29aRGFrY1BuVlZRVVhYQUZCa3VwT1hhcEdSWFRZRXNKZmZaUmduNm9QYlZXd2FmS3NUeUFsdmhuRVpHZjNtZW1SMU9tUm1RdTJRVFFacDgySXM2cVEwT05jUElmeGZCMUotb3ZIRTlMUEktWk1BQ1p2Y3kzdEZvcHRQdU05dVpnS3pyem9va0J3ZUJjNFZCWTM5cTN6YWhqMjFoRW5GdnVUaUNuM2c?oc=5)
-- **Visa** · Expansion: [Visa's China Approval Advances Its Domestic Payments Expansion](https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkdwZDliZzlxRHFSclRkREcxR0JXMXhmZUlmZjNmT3dWVlRfbGZWU2VmMGxENlNUeWZoQ3RsV3NVRmxTS0kzb3RTSmJQOEdCMnA0RmZEYkpkOXBMNzR5SERiaGVZaXU5bENDSWhra0h5WjVoQ2lwdEl0Yi1VdUFvakZlemdJWVBtWEhienFGakZzTkVaSVVadkNlRXpjZjVSYmMzWWJB?oc=5)
+- **American Express** · Company update: [American Express Hit With $350M Fine Over $13B in Suspected Money Laundering](https://news.google.com/rss/articles/CBMipwFBVV95cUxQS2wtV2VUUlpQZnBrUEVOZEpibHNDTlVvUlUyTnBFZURPRDFhTFhFY19KczhVdXlnMFZ5LWZxams1UldWNVFFcEQ4MGVoRWFxRTdlRHI0Q0VHQ3V5eGtUNHpzdXlqVGVJTUxIREZQUmhVcWg5c2poVjhMYXA3VGxCOEwyck1GRDU5bXBmUzdCbXMxRktBY1YzZmh2NUpOU1pNTVBZNllLNA?oc=5)
+
+## SME Banking / Business Finance
+
+### SME banking / business finance / vertical banking
+
+- **Rho** · Regulatory: [Rona Therapeutics enters into global license agreement with Roche for ALK7-targeting RNAi therapy for obesity and metabolic diseases](https://news.google.com/rss/articles/CBMingJBVV95cUxPdWtuRWY1T2x3LW9YbmtPMjRYVzV1V0dvU3AwS1BzNnI0X21nLUIyQlJGd1dQMXpsZkRyT0hlLU5JZ2ZoSTA4dlNZek9hZGRYeDhfRXNUaVZPUnM3eHEyRE10Y1F0Yzd5dm1aYTdUZVB6YzlRWFUxZDJQQVdIY1JOMUZQMEdBVFhiQk9iZHhsZW5TVTFlckhGbUJmQVA2NElVSEVta1hZeGM0My1HRkJiU2ZjOFNubldKTGtsbkM2S2c2UEpzU2V6bVdYS2FqWkJCZDdqUkdlQTVzYm9QZUxRRzB3aWNxUjdUQlBoVV9wdW5OS0xqY19xbzZ5aWhHOTdLcmZXanpsakk0T21YNHNmMllGV05XOGNZOUN5cmxB?oc=5)
+
+## Treasury / Cash Management
+
+### Treasury management / liquidity / programmable ledgers
+
+- **Oracle** · Company update: [Oracle Health Data Breach: Ademi LLP Investigates Claims for Possible Damages Suffered by Customers](https://news.google.com/rss/articles/CBMiggJBVV95cUxPOThpVVZfbUxveHZ1VUJUWmowZUgyTi1XQUduZERNM1QtOEhtRU9kZk1PajBqMmQ5SGJuSVJSejFkakpfdG5tMWJuWnlXNUdBeXFRUXMyWUdKamtaZHFfa0ZkQ1RudlJVMmcydlM0UWJNeEdDRlZsaTJUa09OV09ya0JsZ3Q4RGlpUTZ0eFUzRklHVzMydVU4LWVPQmZJM0QxVGlfa1VFcVBGRF9uMENWampPdW1NMlNrOU53eUhTaDB1dnEwakdzcDR4NnplQVNjcmhxUjdSaWlKRXo4Y0JuTlhOZENiak5KSmh5QlJpbDRBNU05TWw0UVBKS0FzYkZNMWc?oc=5)
+
+## Vertical / Industry-Specific Fintech
+
+### Vertical embedded finance
+
+- **Cedar** · Product release: [Firefly co-founder launches another space venture – and does it right where he started](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTF9YUWRXeG9ra0ZrNUpxa294STNOMlc4Uklmak5Ga09JVjRCcjJ0OFlpMHN1akIwYTN3bC1ZM2pGc0xtM3VMUTRuWnoxZnFSeENMOGh5al9DZ3dFOFEwLXJzWGg5N2w2aXB2RzdpbDR2WG9rSDZwLUhHOU9lMFB0eklGZGprOXdjMFFyQ0dCcjFCVzBXdFh6VVY3T2RWUnlLU3lFdGtWRE4?oc=5)
+
+## Wealth / Wealth Infrastructure
+
+### RIA / advisor / portfolio / alternatives infrastructure
+
+- **DriveWealth** · Company update: [Ripple and DriveWealth Partner to Connect US Stock Trading With RLUSD Settlement on XRP Ledger](https://news.google.com/rss/articles/CBMizAFBVV95cUxNWEV5Y1RRVXhLWDRxdmFzb1dGU0Q3Nkg2b1hUb3puNldXdFdMQTEzRjlybEpIb3JqZUtJMURhOU84c0s1cFFGWGhBeVpMalpnNUdkTEVUd2hiMWtjOTd6MDBNVUJZb1FQNzNSb3JaNXQ0ZUtKZWs5NENwUXlOSFF1dEFJTjJtU0VrOXBoX2VndjJXNVcxVjZzbEt4SndpS0IwUGg5RVNyc3RGOUV0RzdPNjlQdEdMZ3B6Z2JmNlNReXdJRFJDRnlfdmpuaWw?oc=5)
 
 ## WealthTech
 
 ### Digital wealth / advisor platforms
 
-- **Acorns** · M&A: [Acorns Acquires Frich to Scale Financial Education](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDRfSl9FbVVZSkp0S01DeHJPUDEydXhEMUprVkZrWGt0aERaM2hpT3I4VTIwRWFCUGhjRUREQVZnVmxleEQ5Ry1QQUZGdHFwTGdCbVFPd1ZkRDNGM3E4TXFnVGJROXczMTRrb25TRGUwYjRmaWJFVnQ1WUVoXzE0ZGw1dnp6dkJSd21FdEhqTFBsSXBUekREbHNB?oc=5)
-- **Public** · Company update: [Hundreds of IDF investigations into killings without public outcome, BBC Verify finds](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rNnJ6TzJKV05NWXhVSzdKVVplMGNSal9FVTcxWnhBVGdHTUJkMk5zOU1oSHdnNzVVRzduOWJhcGhjYUlpSkdTaHdTOXg0d1BiQWFrUjE1VGhaek0xaGc?oc=5)
+- **Public** · Funding: [California Proposition 4 would allow public funding for political campaigns](https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ2JYdzlRS1ppLWdlc1RXZUVtTWJ6OFVCTUtacmhJV3dCZ0lIVVZQS21QYUphYVZ1NmhjWktCSllSVUtOZ0lCRGtZbGUzODVoS1FubDJjVHFuMEJ5S2V6dTlCVXZNWm9ZTXlibmh3SDMyNGZncHRnN0VyOXpEQjdUVDZtbGtZT3FMNmZROEx3RUlCUTlCbFdUWGJZN1phLXVmTURyelJKUGFHRmZ5NDFUdDlUMVNrblgwYUZ5cG1B?oc=5)
+- **Public** · Product release: [GNOME OS Preview Launches for the General Public with GNOME 51](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQXVXbjhOR0c1aVNvcnZIRGRfUzFNcVVBdWZDcjdkcWQxTVdxMVdpdmVMSVpOMTV1WW8taTRqODU5d0pUVmxKUFRPcmJTakNtSkhLNkxDQlU0eTMtU25aMnBoVDhrTDVxWmpETW1PcGxlTW5tNS1JSDFRb1lMYlRHX2dIa3hKZkdCY2xLRw?oc=5)
+- **Public** · Funding: [Religious preschools want public funding but exemptions from nondiscrimination rules](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUGFiSzZJRWhrX1JOMWMwc201QlhCeUxBZm50N3pIWmFKMVl2ZDBoa0hQeTBOTVphMTY4RENaY1B2OHFKVzZNV0ZCQkczeWpKRmc4TTlNQzVaVFRQaElPNy1fb2J2NklCdXhuY2lCa05RbVBoVjFGX1RpYnNmOElmd01UajdMSElHeEh0NkRrYlBySWxoNlNnN2xBMXZ3YjRLU2czNlVfZV93Zi1QRHNGQ2dmT1YtMUMwYkZ3?oc=5)
+- **Titan** · Funding: [ICON raises $200 million in Series D funding to build Titan systems](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ1c5MmpNcDQyRFEtT1ozcEVHREJUcThhakhmbFhPSUY5UVZXQ2hORVFUUVRKUDRkeVZtaFZlWkd4Q1RDb2gtUXJGU0hQbG5uT1RidDRzSTQ5bmt0cjFoaHozRi1Wbi1SY0pDZXg5U3VMcFk1WjVQYllwMlJhY1lQTUwzQUdUcnFvWFFkVUV5Qnh4a1FLeEJKT2N0QWbSAaIBQVVfeXFMUHd2Sk90cEV2SmJhdzJVOVFlY2F5dUxqTEtXOEdKc2VKRXo5aU5jRVRaVTlBdkk0T0J5eVhjZ1psMTJvVHpXX0tvdjcweWotNS1LM0lHUE94eEx5M2ZEN0tLcFI3QjE4aFNMdHJIQWVENjlrOHc1SmNidmR6OFdpN2lwbmd4bmgxcnp5NWY5aGEwN3ZhUkN5WFd4U3RRZ2drdGdR?oc=5)
