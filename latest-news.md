@@ -1,105 +1,94 @@
 # New official company updates
 
+## Accounting / Tax / ERP
+
+### Accounting / ERP / tax compliance
+
+- **Intuit** · M&A: [Jones Day advises Intuit on acquisition of Sequence](https://news.google.com/rss/articles/CBMirAFBVV95cUxNak9kQjM4dm50Tl95S0xCSGJ5TnVyc2JIQmN4Ym1NZ2JSR0JXd0tqdmgwVFIxMm5jMXVsZGJxRmJLTFV4dTlyVnQ5Vm51UkJZNG8zVUV5bFFYOUJlal9zZnpPeWUwc2U3UlJxSHoxMURvQUtBUnEzQ1JPZ3VjMUhDQnBNb2IyWW02TXRfZlVJZzlzZGhkTUVqalhrSHgtbzdvZlVhbHZJWXdSc2p5?oc=5)
+
+## Banking / Core Banking / BaaS Gap
+
+### Core banking / digital banking / sponsor banking
+
+- **Increase** · Funding: [MN constitutional amendment, if passed, would increase school funding without increasing taxes](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLVpjQjFzSHlZX3dxVkVITkZHc21EdHl6amViVG5CZFNfekdNVVdrd0RQSExlcnk1aTNRazV4YTh1dFRMeF81eGlKZjBWU2JmSnJNdmpiTEFEZ2NZUE41VUUxVmRudTc1ZXJ6bWxOamRvX0RQVjJNb2o0bWVuQThoNDBDdll6QzlBTVFEXzR5Z0dhSlVaY1NEcGZTalhWNHg3dWpUMWVoUER3Ti1HVGtucmxmb0I4SmxvMDh5LXQ5UHhlX1dRWGFiYjg5aWxkTmRoUWfSAeYBQVVfeXFMTzZCY3NXTWhDdzV2T2hORjNZeFFMVjd1T29Jakc0NG5qYjFBeThHOW0zelZaYUFwWFV4dkJjRl9ZWWR6ak14anRORTJSQThReGhuQnctNUxFWlc5dGZqM2tNX3pYWWlIbTk3dWhWWEplVlVQUjA3ZXU5V2I5S0NPR1JnUXBCR2JZZ08ySlVEUG9wOVVobFd3VFlmMWV4ZnNpaUptcV9rVTltaXVyUWdQMncyTWxKekVxQWNTNV9jTVB5MGZVQjVUeUNDYy1wN0pwX2ZXNmhjWnE0RDRraGFidzlLTDNUb1E?oc=5)
+
 ## Capital Markets Technology
 
 ### Market data / trading / execution infrastructure
 
-- **ICE** · Company update: [California files 100th lawsuit against Trump administration, challenges ICE arrests at courthouses](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYjI1TjVGcTZidTZFblotV1VlT1FwVU9peVNVb0pUX0dyNnFGd2pvcnA2NDB4WDZUODlwSG41Umw5UzJTc2hLZWEwUWZRc01TSURQMGNuaW1FQnZfVGhMTVkxQklaLXFOaXh6N0lkd3JNNGFkVm9ueUt2ZERIb05HdFhEY0c1M2trb0NBSUNJNkNZZHBlR0RhazJQQXl6eThPZDNUZnlFdDdmczlZYmJLTFNiQWFHUmZOLThuM1pXQjhZRW53OVo0WEc0SkhiNDdUeDJUYzRfaTRzLTZWRjNEVGdJdDQ4eHl2WmtqY0s4ME5vb1d2SlYyX1NB?oc=5)
-- **MSCI** · Company update: [Wall Street Stays Bullish on Strategy Despite MSCI Threat, CryptoQuant CEO Says](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUVNUjVxbUZiWEFIMW5aX0Z1SEFvVGZjNTJrenBoTnBrQzZMYlVTZ1R5Qkg3ak0wZTd0T2UwYnc5TlVyOWVYdzZPWnZoYkt5RlRuM0NTZUhWZ0tVTEozeXVDdnU4NGhEQWtMUEJUOGhmUER1TllFSEtRMFRWOUM1SThYV1dZb2dfeXM0RFdrNXUzRkFDcG5rOGVZUVRpcGt6bTdOb3JVbw?oc=5)
+- **FactSet** · Partnership: [FactSet Announces Expanded Partnership with Scotia Wealth Management](https://news.google.com/rss/articles/CBMimgFBVV95cUxOMm5ZNlF4bFBBR3F5cDFPbkVhcVd1a1Jyek1MZ2d3MWxuZy1jZER2cG9SWW0wZ0pnQWNrdzd0MTBIcS1Uem9HbDFzVmQ4WHpWM0dya1RoQ2NLTHFzb1YzSDZ3akMxQkhONkx5NHRuVGZULWVKLXBTMWc1Z2dUakRXbk03T2tTRTVGbjZVTjJNY1VYdGJhWjEtT1Zn?oc=5)
 
 ## Consumer Finance / Financial Wellness
 
 ### Financial wellness / EWA / budgeting
 
-- **Origin** · Funding: [Construction robotics startup Origin raises $20 Mn led by Accel, Zacua Ventures](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQU1WYXVNTWxoVGU4SEgyTEV4TFBqTDEtVzdyRDFJQjRQVnNNNUlhNFpuSzVrU21KUGllaDR6T0ZiaXYtWTdMRHplRHlMNUZwaDl3d0hWVVp5ZUxDYzd4MUd3dnZkcE5xUHVRX0stR29zbFFKSkpOcFAxcGNyYXo2VW1zQkJLQURtbHBIUzNPdnpaS3dqaUNsVDdBTDdmSWY1djVwdEItNXpjUXctY01ITHlB0gGyAUFVX3lxTE5BTVZhdU1NbGhUZThISDJMRXhMUGpMMS1XN3JEMUlCNFBWc001SWE0Wm5LNWtTbUpQaWVoNHpPRmJpdi1ZN0xEemVEeUw1RnBoOXd3SFZVWnllTENjN3gxR3d2dmRwTnFQdVFfSy1Hb3NsUUpKSk5wUDFwY3JhejZVbXNCQktBRG1scEhTM092elpLd2ppQ2xUN0FMN2ZJZjV2NXB0Qi01emNRdy1jTUhMeUE?oc=5)
+- **Clair** · Partnership: [Pathward Financial Renews Partnership With Fintech Company Clair](https://news.google.com/rss/articles/CBMirwFBVV95cUxQOFd2Q2p0b2wwNV94cS1tTGpJZ2xFTDAxVF9xT3R1SE5mUkJiZU9RbExGbzlJckZRLTlJSHdOQVZMYWVybGYtMmFHM0llUC1MS0t4Zk80Z3ZheUQ1dzJFV0d6VlBzbnlJd2s3Zk1nSEpFREFwc3FFVjk1N0pHMXhqZV9fSnhHMjRUeFk0NDNvZkc0SEpjaHpRcjNkRkpQeDU5ZlFTV3pmMGZuSXM2ZzJv?oc=5)
+- **Origin** · Product release: [Blue Origin Invests More Than $3 Billion In Florida Infrastructure To Support Multiple Launches Per Week](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUk1RUtVdzlsa0g3TEZ3Y2R1Y3lPVE9UTm50R3JGQTVJMUFvX2g2N1RHRjVhRFBiUWFjZTAwR21jbUtHcXdSZlJ3WDBpZGZaUks2M2tPX1pKcDRsUzRvMU16Tk91WWpFdzE0NWtYc0ZyeWhKU25RVS12YzJYZ2F5QWZ2d1h6MWlzelV2YzVQQ01NbVN1bVZFVnRNeW1ySlJiZFk4aG03YTNhSGpGelFrNmdnVmExbHRzRC11RU1mU2s?oc=5)
 
-## Credit Infrastructure / Credit Scoring
+## Crypto / Blockchain / Digital Assets
 
-### Credit bureaus / scoring / decisioning
+### Exchanges / stablecoins / custody / blockchain infrastructure
 
-- **Equifax** · Company update: [Bank of America Fine Lifts Equifax Stock Interest In Compliance Software](https://news.google.com/rss/articles/CBMinAFBVV95cUxORjN2RXRXelRJcmpqMXZpVGlOMk93eDZXVXd2ekR5UDRQbDIyNE5EbC1iYjgwODQwWlR6WUFoWktqb2lJWW9HTnFoVUcwQWFBT19NbDc5a2tLNnZrODJNVmh2aEpFNEs4NUw3ZjFiamtoYWRrc0pJWDZxcTBhNDNNbk4wZjFsamVXOEhWZ1Z6SEdNdFdEQTNmZTlQLWg?oc=5)
+- **Circle** · Expansion: [Circle CEO Targets 40 Developing Markets for Stablecoin Expansion](https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUVwOHRkQnViUVJqazNTWl9zV3ZsQzRrNk5RNnhtRW9BRUFrcndIZS1qSFZJaTl3S3J6dHhWR2FOb0ladzBBWWJkREtQeUJGeFVjVkpYQ0pGSlpJMkJFSG44SVZ6TUFVT1B5Vkd3TUdNdXB5U2trRGlJLTlxSlNUd1M2T3J6OUdrNEJ2UW9vUml6dk1UeGRoTjEzQjY0MVNO?oc=5)
+- **Circle** · Expansion: [Circle Targets 40 Emerging Markets for Expansion](https://news.google.com/rss/articles/CBMiigFBVV95cUxPRzgyaHNVU08yN0NkRnR2ZW9PZXdNZ2JSc0xjNTdTdzh5NktMWDhhUEg1N2s0TkJQSlBLcVE0WGU5R0RYMjVZcGZVTXVlcFU0dTBRSTFvZDdFWE1saW8tanNTbW9LYU1pSmcyOWFkLV9xODZIbTlJN01SbE5VWFVYMWlNbG9VX0JDRkE?oc=5)
+- **Copper** · Partnership: [Prysmian extends 30-year copper partnership with new supply agreement](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1JYTEhSWlBCR0RHV1FFaGRSLU0tb0pZb0FqSUFnMm8tcVBaZDdaV3N6N25YM3RhU3pKdTBBaUpadkVhNDgxR0lSOFBXM1VIeXllb0hTd2YyaDBfdlFYcmJGNnBwdUxVNUQyVzZWNVJvbjhkMkRBZTNsc3k5aEsyRGFwd0tVdTdVNnZMcEhrM3pJYXBGRUE5TXZ0QWxSZWRQWnM1eGJkQlVXWklC?oc=5)
+- **Ripple** · Partnership: [Tired of Ripple Partnerships as People Need to See Progress in XRP: John Squire Tells Ripple CEO](https://news.google.com/rss/articles/CBMizgFBVV95cUxPMGVsUFdqdzJPUEl1eWN6V1drRDR1Vl9ZRmtlYWJBdm5KVW83aGxIbnNoZ0txZnU4eUVqSV9uWVI0UFJwbVJMcXMxRVdGY1NnVl9lTWpLbXRNWFBUTzJ6QVc0dkRnNDZXQUlXbER1N3VBcHo0WEFNYUFMeG9LRkJ4UnVtYWsxbmRKSGR6UEVSeXN6bVpVSFFvLWcxN21SZm5Ta3RoMHJYanpSMkpLdE9uSmF6bERQbWRrbFI3dEpPcTZreXRzdW9md1BaSndJdw?oc=5)
 
-## Financial AI / Research Infrastructure
+## Embedded Finance
 
-### Financial research / AI / alternative data
+### Embedded banking / cards / payments / lending
 
-- **Visible Alpha** · Product release: [S&P Global launches AI data update: what it means for S&P Global stock](https://news.google.com/rss/articles/CBMizwFBVV95cUxPcGp0ZEpoLUJTVmhGaVNIcUlJTTFybjYzTW1hSWUwQ2hELXd6eWl1R3RVaWJrY0tvQmRtc2lHdGZxR0tIYTdMdnlZbUZ4T21WQnlCaG5rVk9ub1VtZVBDX1M1UlljRG5wXzN3ODFxZElxS3Q0akZ4aTJacExON1I4Y0J3REJHRXUzWV9QZ3ZJdkhOdDdLNnBVM1d4RG82bU05cTUxNmxONm1FVlZuNTlGYnpxM2gwVTZqRG13SkV5dTBjVzNrUmVNZUpZMi1SNjA?oc=5)
+- **Cross River** · Partnership: [Ripple and Cross River Bank Announce Partnership to Integ](https://news.google.com/rss/articles/CBMickFVX3lxTE5uaC0zZXhVempicVpoaW1ZOGJtQ1JPQjM5aEN0YktiTFRCLXFnM2lZbDdVcFVib1Bvb05waFcwX2NyWVhWcnAxbEVmUm9YU0JLR045REVLXzlJWkl5eHFaZ2c4ZHV4eE9CNW9OV2RaOFA2QQ?oc=5)
 
 ## Financial Data / Infrastructure
 
 ### Financial data / private markets / intelligence
 
-- **Morningstar** · Company update: [Karviva and Founder Dr. Angela Zeng Featured in 2026 USA TODAY Food as Medicine Edition Provided by ACCESS Newswire 17 Oct 2026, 15:00:00](https://www.morningstar.com/news/accesswire/1238040msn/karviva-and-founder-dr-angela-zeng-featured-in-2026-usa-today-food-as-medicine-edition)
+- **Morningstar** · Company update: ['Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure? Provided by Dow Jones 17 Oct 2026, 16:51:00](https://www.morningstar.com/news/marketwatch/20261017116/some-people-did-everything-right-i-lost-my-home-in-the-great-recession-i-rent-in-my-50s-why-is-that-judged-as-failure)
+- **Morningstar** · Regulatory: [AVEX SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds AEVEX Investors of Securities Class Action Lawsuit Deadline on October 20, 2026 Provided by PR Newswire 17 Oct 2026, 18:35:00](https://www.morningstar.com/news/pr-newswire/20261017ny74328/avex-shareholder-action-reminder-faruqi-faruqi-llp-reminds-aevex-investors-of-securities-class-action-lawsuit-deadline-on-october-20-2026)
+- **Morningstar** · Regulatory: [DOCS Investors Have Opportunity to Lead Doximity, Inc. Securities Fraud Lawsuit Provided by PR Newswire 17 Oct 2026, 16:37:00](https://www.morningstar.com/news/pr-newswire/20261017dc74508/docs-investors-have-opportunity-to-lead-doximity-inc-securities-fraud-lawsuit)
+- **Morningstar** · Company update: [Is Apple's foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones. Provided by Dow Jones 17 Oct 2026, 18:40:00](https://www.morningstar.com/news/marketwatch/20261017119/is-apples-foldable-iphone-duo-worth-2000-see-how-it-stacks-up-against-other-foldable-phones)
+- **Morningstar** · Company update: [New Scientific Evidence Presented at ANESTHESIOLOGY 2026 Strengthens the Case for Senzime's TetraGraph and Quantitative Neuromuscular Monitoring Provided by ACCESS Newswire 17 Oct 2026, 17:20:00](https://www.morningstar.com/news/accesswire/1238046msn/new-scientific-evidence-presented-at-anesthesiology-2026-strengthens-the-case-for-senzimes-tetragraph-and-quantitative-neuromuscular-monitoring)
+- **Morningstar** · Company update: [Powering the AI Economy: New to The Street Show #776 Premieres Tonight on Bloomberg Television Provided by ACCESS Newswire 17 Oct 2026, 16:35:00](https://www.morningstar.com/news/accesswire/1238045msn/powering-the-ai-economy-new-to-the-street-show-776-premieres-tonight-on-bloomberg-television)
+- **Morningstar** · Regulatory: [State Licensed Marijuana Operators Will Face Long Delays for DEA Federal Registrations Provided by ACCESS Newswire 17 Oct 2026, 17:50:00](https://www.morningstar.com/news/accesswire/1238044msn/state-licensed-marijuana-operators-will-face-long-delays-for-dea-federal-registrations)
+- **Morningstar** · Company update: [Valley Community Healthcare to Host Two Voter Events in October Provided by PR Newswire 17 Oct 2026, 17:45:00](https://www.morningstar.com/news/pr-newswire/20261017dc74809/valley-community-healthcare-to-host-two-voter-events-in-october)
 
 ## InsurTech
 
 ### Digital insurance / underwriting / distribution
 
-- **Ethos** · Regulatory: [Form 4 Ethos Technologies Inc: Peter George Colis (Director, CEO and Secretary) For: 14 October](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbV9IQUF3ZVJMR0hEbmFwZFZMYjB3RkswUG5HUlZMS3ZLUVhjemM2UlZWbWh4bnQ5VGY1TTNzLU56T3c5S2xNTERSQ1h1TXI0OUNJTXdzclp2YUlWYkJqVWlyekZ2UWx2dHNRbi1TMDZ6SVlUejdqSlFPQUFyVkFyQXNydk5qeEZQTnJia0FIT3VEMzNiNDlpWTFTTDNzUlVDdEUtQ0k3dDBuU2F0TVRDYXAtWl95WEIxeGROcHpJWHVZMmliUFl4WG1QLXJrQ2NWcTlGZ3VnOXBzTzJINXloS21ERnEtZw?oc=5)
-
-## Investment / Brokerage
-
-### Retail & institutional brokerage
-
-- **Coinbase** · Company update: [Musk drinks three pints, Coinbase CEO barely finishes one, new ranking shows](https://news.google.com/rss/articles/CBMipgFBVV95cUxOWW04bVNzQ1IyRUhvMnF3c1VEMGFlOG5CaENyVU1VQ3o0M1NoTVZDaFRiVVVBV3BjaFU0Tzh2aERnVjRaQUtEWGVES1hPZVlyaGJEVm5TUDQyTWNVa2R6anJCbmdJLTlwUUJ4OVlMdGppN1JDTnBnRWl3NUtQYnBYNm5kWkhfYS05WGwyM0Z2aUd5Q3ZYOWR2bzYwNnZvcmV0SWVQRmtn?oc=5)
-- **Gemini** · M&A: [Warner Music India Strengthens Presence with Catalogue Acquisition and Strategic Partnerships in South India](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaV9PMDQwMndNelktSUJRUTIzNFhKbi1jZEtZN25BQmFPenh0Yl9WY09JelE1N1pJUThCTGw2VjRjdGlReWRfTjEzbFRISDFnWExEcFlCY3p5VllqaWJtejVGWkQySV9iS3BucU1PcTlCb05adk9naXNrNC1Zd0tvcGxLaExkUFBISy1qNEFzenN3RnRxME1rWWJhQWlnTlhmQkJfWnY3dGN2V1dLVnprNUJ0OU02MUpCWUo1Ml81V2xDT2drSWxGUlVqWQ?oc=5)
-- **Webull** · Company update: [Class action lawsuit filed against Webull over undisclosed China ties affecting business claims.](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORE5MenlZUngzN3hZaGx3Y0hZVnFaRmJGUDJmdlJtS05VVmJvc1dMR1VPVlJsWERQZFRTb212WkoySmxUYUxHakZIbEx2Sjl3UmQ0SDA5TFY1WUpReG5SamNvd3JUSm44SUd3ZHpsSkd0VDBGTGtNZ3pBQ2tXUzk1V29JeGVLN0xT?oc=5)
-
-## Latin American Fintech
-
-### LatAm banking / payments / credit
-
-- **Jeeves** · Product release: [Miami's OpenFX launches venture arm, backs Jeeves and Cyclops](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkxUSm5qTW90Y1dlVzJubDN4SC1TUzlzVGg3XzIxbEYwVENOOUU3VERNS3Vxc2E5RUNGVjhyRlA1TWxMNDU4cUUyTWN1Y3ZfTm9VUWU2eVpKanFLZXFLRE1laXczZnpEbXVjNEpMeEZOY1JjbUdfQ3Zmb2NHek9XSVBmYWVaWW9XTnJzbno0QngtRzN6MHdwZnBn?oc=5)
-- **Jeeves** · Product release: [Miami’s OpenFX Launches Venture Arm, Backs Fintechs Jeeves and Cyclops](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmZmSi1nMmVZRW9qa3NESVpXUUlJaU92aE9ZSmtMNUU4TE1PMGxQbnNLT3lGYnhZSkl0SkxuMTFyLWNLeVlBQ3JWNEY0VTRDSEFnRHJzQTlQYkNWOElXbmRmbG52VnRVUzVWWlEtUFpmbV9ldGU2cDY4elBqYzMxLXRQRFplU2N0azBrbkRMeFM3Wm12aUpwWk1YZjZ3Q01m?oc=5)
+- **Coalition** · Product release: [Montelores Coalition launches art contest on shared ranching and recreation lands](https://news.google.com/rss/articles/CBMixAFBVV95cUxON0ZlcVBJSTBSNmhtUzV3WGlUMUswMVA1ZUdZdFdUSldzWjhQZ2NMYXVxd1NnMnhGZ3BXNTZ3NDEzM3RPMmd6a29WN1J3Z2tRMUhJZU5UWF9GT2o2UjE1X1hsNGRQTnFCMW1pbDR2MzJ1bTgyNFNHR0ViS05JM2dFeVJhX0laQVlQa0NEbE5FUmRzOVVaV2FHZHRXbGF2MEw3WmFTa1hJYlA3S0xEMFRGTFdtVEhpY2NtLUllSHJzY3VTNnB0?oc=5)
 
 ## Lending & Credit
 
 ### Digital lending / SME & consumer credit
 
-- **Upgrade** · Funding: [$2.8 million in federal funding to upgrade and modernize Belleville’s rural transit fleet](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiYzJKQ1BIRHM0bG9EQ1YwUWF0d2Z6cUVoS21tZXhVVWNkTEdmczRwTi1OX1FrTkhKWjhkUnVOZWt2MDdreXBkdnloTzRNV21DMFh0RXA4Z1o?oc=5)
+- **Upgrade** · Expansion: [Swap Mobile launches in Singapore with six-month phone upgrade option and adjustable SIM plans](https://news.google.com/rss/articles/CBMiugFBVV95cUxNTUVpZDdYdFFyNkNXeEpubngxeFNacGZsUjNNaTVYN0dNUVdJWkVCYnJLNXBpX1NvQVduN09wU0NRREM0eDFrUnZqUUJXdF8zMUlRSGtQdGlzVmJHQlpvaWY1eDRvQjN4VE5KT1R1WU1Kc0Rmd2Z0dFlYZDVsUlVZMTFJWHA5bDE4Q0xYUmlQdl9UWVZ5S2hndVRYNVVGWXB2N1UwMGNEVDhxemRjcjJORGVjaDZld25qM2c?oc=5)
+- **Upstart** · M&A: [Cisco-backed chiplet interconnect upstart in line for acquisition: report](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzJHS3BXOFgya1FWWHowczNDZTdZSWVKT214a3YwOG1ESVdjcFVvYXlRdUpfaUhQT0d2cWtMcld5aWxvVGZWRUtVb3hqb0FOMUlfRWx4M2ZCRlhyRmMyN1N4ZVktT05nTjJuYkFWcHVCMnVkNWtIR2pDYWhMdU5xak53bnl6UmVNd2hGTnYtbktyeDdSblFNN1dETnQ5aXJRVUFwa0J5QkE?oc=5)
 
-## Payments
+## Open Banking / Open Finance
 
-### Payment gateways / PSPs
+### Open banking APIs / account data
 
-- **Block** · M&A: [NVDA completes acquisition of Newport Development Block, 'The Pit'](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdktlUFJBNlR4LVdUM1cyUFkyei1JODg2eXJFRXg3cURGdTR3a1ZPVjgyODNnUENtNkZtTW5fcXVZTm5NTnR0QzVOZTk3M3dvcUF4Vkg2aFZUbm4yV1ZEZGVaLXF0NHM3a1ZSTGNDMEppZGFzRHVoQnk1akx3S1RQaHR5LWRzY0VlQ1RTMlNuS1ZfRVVQT3A5Q0hDQ29TMkV6d2c?oc=5)
-- **Global Payments** · M&A: [Polygon Labs completes Coinme acquisition to challenge Visa and Stripe in global payments](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUnl1TjM1eXJhMlV5UGMzZ3lHaFNoVE5hQXNHcGQ2bmdUSlVvRFoxTnUzZUJBV3JoamtqYXJUbHRrR1JHTUZManN3NmJiUGVJOFJmWml5OWVCUFlRUGt3LURQZ0lQUlBCejlIeGJIQkhFUlF4dGhCMV9lcEowcklsTk9YU1FESHZ4S2t4bkdBUlhnZkpjZmhsVFEtaHExMzNObXVZTy1Ib0hfTDVRVm5QVEZyYzlmVEk2RzZIRXBuRnpWQnZPekNzMw?oc=5)
+- **TrueLayer** · Funding: [$27 million funding round for TrueLayer led by CDPVC](https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjJmWWhFbzItTERuT2NEOV9Rc1BMX2hkUjUzZkw1T0dxbjBuTVNEcFlzaUZfYUFnSXJpRlpaOUNJM29aNWl1WERMRTBiUnVOcVlnUFRjb2tvQ0pUU3lYUElPSzlFQXhKdVh5MmZPWEhuakg3X0xFcVNCdHl2M29yT250U2Z2bkV4bFBJSUduR3k4M0JuZjVMeg?oc=5)
 
 ## Payments Infrastructure / Merchant Commerce
 
 ### Networks / acquiring / POS / orchestration
 
-- **American Express** · Company update: [American Express Hit With $350M Fine Over $13B in Suspected Money Laundering](https://news.google.com/rss/articles/CBMipwFBVV95cUxQS2wtV2VUUlpQZnBrUEVOZEpibHNDTlVvUlUyTnBFZURPRDFhTFhFY19KczhVdXlnMFZ5LWZxams1UldWNVFFcEQ4MGVoRWFxRTdlRHI0Q0VHQ3V5eGtUNHpzdXlqVGVJTUxIREZQUmhVcWg5c2poVjhMYXA3VGxCOEwyck1GRDU5bXBmUzdCbXMxRktBY1YzZmh2NUpOU1pNTVBZNllLNA?oc=5)
-
-## SME Banking / Business Finance
-
-### SME banking / business finance / vertical banking
-
-- **Rho** · Regulatory: [Rona Therapeutics enters into global license agreement with Roche for ALK7-targeting RNAi therapy for obesity and metabolic diseases](https://news.google.com/rss/articles/CBMingJBVV95cUxPdWtuRWY1T2x3LW9YbmtPMjRYVzV1V0dvU3AwS1BzNnI0X21nLUIyQlJGd1dQMXpsZkRyT0hlLU5JZ2ZoSTA4dlNZek9hZGRYeDhfRXNUaVZPUnM3eHEyRE10Y1F0Yzd5dm1aYTdUZVB6YzlRWFUxZDJQQVdIY1JOMUZQMEdBVFhiQk9iZHhsZW5TVTFlckhGbUJmQVA2NElVSEVta1hZeGM0My1HRkJiU2ZjOFNubldKTGtsbkM2S2c2UEpzU2V6bVdYS2FqWkJCZDdqUkdlQTVzYm9QZUxRRzB3aWNxUjdUQlBoVV9wdW5OS0xqY19xbzZ5aWhHOTdLcmZXanpsakk0T21YNHNmMllGV05XOGNZOUN5cmxB?oc=5)
+- **American Express** · Partnership: [AMERICAN EXPRESS COMES ON BOARD AS EXPERIENCE PARTNER FOR LAKMĒ FASHION WEEK IN PARTNERSHIP WITH FASHION DESIGN COUNCIL OF INDIA (FDCI)](https://news.google.com/rss/articles/CBMiogJBVV95cUxPa0djbnIyLVdwMkJ4QnZDSDlXeGZqckZWdkUyYXNiUW5XYTFjNDh0RE16MHB5UEFxVjBQZ3VMRFJPSF9BVG03WVdMSXdXUWFyQTZXVGVZc0pHVC15NmRXTUVlejRMd01KOVJoalhITF9HUjhxZWMwREFZR2xFZ2hqTUUwUEQxTTJtLUo2a2x0UEgzc0ZtbG5sYlY0WDlIYlptZ3BWUUJqRWdpNlRkNGc3d3hhVXVmTmxESlhocFJlSVpmRkxSZXNreFRESFFzMFFWU2VmR1poS3pGNWNPOFBla18zYXFhaXd6Njk0bHF5WGpzSk1kbXJWdG1TNHpTQ1IwRkFwTjBOZzk1OWhsaE5IT2EyNzFnbF9oaTJUVVh4b2JUUdIBogJBVV95cUxPa0djbnIyLVdwMkJ4QnZDSDlXeGZqckZWdkUyYXNiUW5XYTFjNDh0RE16MHB5UEFxVjBQZ3VMRFJPSF9BVG03WVdMSXdXUWFyQTZXVGVZc0pHVC15NmRXTUVlejRMd01KOVJoalhITF9HUjhxZWMwREFZR2xFZ2hqTUUwUEQxTTJtLUo2a2x0UEgzc0ZtbG5sYlY0WDlIYlptZ3BWUUJqRWdpNlRkNGc3d3hhVXVmTmxESlhocFJlSVpmRkxSZXNreFRESFFzMFFWU2VmR1poS3pGNWNPOFBla18zYXFhaXd6Njk0bHF5WGpzSk1kbXJWdG1TNHpTQ1IwRkFwTjBOZzk1OWhsaE5IT2EyNzFnbF9oaTJUVVh4b2JUUQ?oc=5)
+- **Mastercard** · Product release: [Mastercard Launches Stablecoin Platform: How Crypto Turns into Card Swipes and Bank Payouts](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzR5WXozcE9wbzZPWmdfbFVIQlotaTVaNTQ5a3Q0ZzZWTjk0NHNvQ2RtS21hVFNmaC00dFZNbjc0U2F1SVl2LU1aLVlmREx6R0lLeDVGRXFmZUVsNE5WdnVKOUYtZ256WDFPZGJDVE1UcVh6UWcxdXRMNGJ3allhbjhvenBhUjVOX0JoTVNBTVREWmtuMVpZWlJZaEdFanozSnd5aUJIR3pIbXN5TmVjd094WQ?oc=5)
+- **Mastercard** · Regulatory: [Visa and Mastercard adopt USDC payouts across 200 countries](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZmtzamJQeGVSNV9EVi1SVGJxd01HUl9sT1lxQkFCWWhNVEVhUXI2clZBTHR1eTlWdm5iNGVhZjFMZkg4Q0JWOTBZNmVmTUVoTWhaUklSbjdLQVhqcTJLM2ozS09iMHRhaWxpMmQ2TE9BVEI5Nkg0am8zTkRuNkh1OXFxYnozQ1AtSE5jUg?oc=5)
 
 ## Treasury / Cash Management
 
 ### Treasury management / liquidity / programmable ledgers
 
-- **Oracle** · Company update: [Oracle Health Data Breach: Ademi LLP Investigates Claims for Possible Damages Suffered by Customers](https://news.google.com/rss/articles/CBMiggJBVV95cUxPOThpVVZfbUxveHZ1VUJUWmowZUgyTi1XQUduZERNM1QtOEhtRU9kZk1PajBqMmQ5SGJuSVJSejFkakpfdG5tMWJuWnlXNUdBeXFRUXMyWUdKamtaZHFfa0ZkQ1RudlJVMmcydlM0UWJNeEdDRlZsaTJUa09OV09ya0JsZ3Q4RGlpUTZ0eFUzRklHVzMydVU4LWVPQmZJM0QxVGlfa1VFcVBGRF9uMENWampPdW1NMlNrOU53eUhTaDB1dnEwakdzcDR4NnplQVNjcmhxUjdSaWlKRXo4Y0JuTlhOZENiak5KSmh5QlJpbDRBNU05TWw0UVBKS0FzYkZNMWc?oc=5)
-
-## Vertical / Industry-Specific Fintech
-
-### Vertical embedded finance
-
-- **Cedar** · Product release: [Firefly co-founder launches another space venture – and does it right where he started](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTF9YUWRXeG9ra0ZrNUpxa294STNOMlc4Uklmak5Ga09JVjRCcjJ0OFlpMHN1akIwYTN3bC1ZM2pGc0xtM3VMUTRuWnoxZnFSeENMOGh5al9DZ3dFOFEwLXJzWGg5N2w2aXB2RzdpbDR2WG9rSDZwLUhHOU9lMFB0eklGZGprOXdjMFFyQ0dCcjFCVzBXdFh6VVY3T2RWUnlLU3lFdGtWRE4?oc=5)
+- **SAP** · Partnership: [Sinch expands SAP partnership with RCS integration for SAP Engagement Cloud](https://news.google.com/rss/articles/CBMingFBVV95cUxNQmdVS0VybHFJTklfYWtxaTZ0aTF5TVBkVllMYnVRa01CcWxNTUhnZkVNZ3RKUWFzNlA2YlJIeG1PMzlaYUNFOEg4X2hIT05YN0NkaGc0QUV1MFItYldSLVFXQjl3TVVULXdlSTlZSnRCS2pPZnpmVlpCYUZta3RRXzNQcENlY2F0NmFrdldSLTNOLUVya3pXMDJPLWtEZw?oc=5)
 
 ## Wealth / Wealth Infrastructure
 
 ### RIA / advisor / portfolio / alternatives infrastructure
 
-- **DriveWealth** · Company update: [Ripple and DriveWealth Partner to Connect US Stock Trading With RLUSD Settlement on XRP Ledger](https://news.google.com/rss/articles/CBMizAFBVV95cUxNWEV5Y1RRVXhLWDRxdmFzb1dGU0Q3Nkg2b1hUb3puNldXdFdMQTEzRjlybEpIb3JqZUtJMURhOU84c0s1cFFGWGhBeVpMalpnNUdkTEVUd2hiMWtjOTd6MDBNVUJZb1FQNzNSb3JaNXQ0ZUtKZWs5NENwUXlOSFF1dEFJTjJtU0VrOXBoX2VndjJXNVcxVjZzbEt4SndpS0IwUGg5RVNyc3RGOUV0RzdPNjlQdEdMZ3B6Z2JmNlNReXdJRFJDRnlfdmpuaWw?oc=5)
-
-## WealthTech
-
-### Digital wealth / advisor platforms
-
-- **Public** · Funding: [California Proposition 4 would allow public funding for political campaigns](https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ2JYdzlRS1ppLWdlc1RXZUVtTWJ6OFVCTUtacmhJV3dCZ0lIVVZQS21QYUphYVZ1NmhjWktCSllSVUtOZ0lCRGtZbGUzODVoS1FubDJjVHFuMEJ5S2V6dTlCVXZNWm9ZTXlibmh3SDMyNGZncHRnN0VyOXpEQjdUVDZtbGtZT3FMNmZROEx3RUlCUTlCbFdUWGJZN1phLXVmTURyelJKUGFHRmZ5NDFUdDlUMVNrblgwYUZ5cG1B?oc=5)
-- **Public** · Product release: [GNOME OS Preview Launches for the General Public with GNOME 51](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQXVXbjhOR0c1aVNvcnZIRGRfUzFNcVVBdWZDcjdkcWQxTVdxMVdpdmVMSVpOMTV1WW8taTRqODU5d0pUVmxKUFRPcmJTakNtSkhLNkxDQlU0eTMtU25aMnBoVDhrTDVxWmpETW1PcGxlTW5tNS1JSDFRb1lMYlRHX2dIa3hKZkdCY2xLRw?oc=5)
-- **Public** · Funding: [Religious preschools want public funding but exemptions from nondiscrimination rules](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUGFiSzZJRWhrX1JOMWMwc201QlhCeUxBZm50N3pIWmFKMVl2ZDBoa0hQeTBOTVphMTY4RENaY1B2OHFKVzZNV0ZCQkczeWpKRmc4TTlNQzVaVFRQaElPNy1fb2J2NklCdXhuY2lCa05RbVBoVjFGX1RpYnNmOElmd01UajdMSElHeEh0NkRrYlBySWxoNlNnN2xBMXZ3YjRLU2czNlVfZV93Zi1QRHNGQ2dmT1YtMUMwYkZ3?oc=5)
-- **Titan** · Funding: [ICON raises $200 million in Series D funding to build Titan systems](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ1c5MmpNcDQyRFEtT1ozcEVHREJUcThhakhmbFhPSUY5UVZXQ2hORVFUUVRKUDRkeVZtaFZlWkd4Q1RDb2gtUXJGU0hQbG5uT1RidDRzSTQ5bmt0cjFoaHozRi1Wbi1SY0pDZXg5U3VMcFk1WjVQYllwMlJhY1lQTUwzQUdUcnFvWFFkVUV5Qnh4a1FLeEJKT2N0QWbSAaIBQVVfeXFMUHd2Sk90cEV2SmJhdzJVOVFlY2F5dUxqTEtXOEdKc2VKRXo5aU5jRVRaVTlBdkk0T0J5eVhjZ1psMTJvVHpXX0tvdjcweWotNS1LM0lHUE94eEx5M2ZEN0tLcFI3QjE4aFNMdHJIQWVENjlrOHc1SmNidmR6OFdpN2lwbmd4bmgxcnp5NWY5aGEwN3ZhUkN5WFd4U3RRZ2drdGdR?oc=5)
+- **DriveWealth** · Partnership: [DriveWealth expands settlement partnership with Ripple using RLUSD in Europe](https://news.google.com/rss/articles/CBMipgFBVV95cUxObExSQkt5Qk52VGFFam9tRkdSOEYyQzJFV1F6TVhHUllwbkphTFZlWmdlcmR3ZTdQZmxxVzZGaWNEOWVIQ2J2X0ZncVNUQlhqLVpLVGppU0dNemNnNWFkakhvNGJkMmQtRFhUMXd0bkdxTEFURmd6QXV1RjlJY0NTTWdPZERWaUR5cEh1NTE3eUtTLXhfUWY5QVpGaWJLTWVuZUxvQkJR?oc=5)
+- **DriveWealth** · Funding: [Ripple and DriveWealth Target Faster Funding for 100+ Global Partners](https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGV1bGdFNTVScFMwSGduSC1ONnJQZ3A0WXpxUE0ySkdDTEMzZXFCSkdGRHFzQzdQZEF5bjlZUW5fclk2S1N2NVBGa2RQZjVqSi1Iem9GOElrM3YtTHo0VW5jZ0RhNnYyajlfVzMxZ3cyUWdUMTZGUVFuX0ktUEU3bk5lZUR0dmlxLThLWmdqZjl3TWx0RnJIcmlackRRWDJuQnZjTnVB?oc=5)
