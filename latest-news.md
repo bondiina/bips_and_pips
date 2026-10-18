@@ -1,86 +1,88 @@
 # New official company updates
 
-## Consumer Finance / Financial Wellness
+## Accounting / Tax / ERP
 
-### Financial wellness / EWA / budgeting
+### Accounting / ERP / tax compliance
 
-- **Origin** · Expansion: [Blue Origin Plans $330 Million Expansion in Florida to Boost Launches](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdmh2RFRzUUFzOHdmSG1VUWZQUjV6YVBKU1BYUjZtc1ZSY3huOUhBcHdtUk54bU5RZTBLZlhodlNOdTZQejRsYklhZmx6cVAwTGpjQmJjSFFtYktEOUNMY2gxR0htN2lEdXpRSU9ySUNfWmR0MXdFdG5YUDZPVXpBTXQxYXJEcDc4VHBnSXhKTUZlMGF6?oc=5)
+- **Intuit** · M&A: [Intuit Stock Pops on Sequence Acquisition News](https://news.google.com/rss/articles/CBMilAFBVV95cUxNOWFiTUl2X2NYYVVZSFRyamYzd3h4R1V5NW9UX1M2QmR6cUpNV2xWSERvX2N6dDgtYkF0bm1taEFmZm5BSXJhMVlXZWQ3a05sTzRaTTZuTWtOWnQ4MEgwZWpXdWlKSGNmX01FRXVJRlV1WUF5dURidFdjamE4RGNDNUlNeXlKdFg3LWlXN2QxZGVhRnRN?oc=5)
+- **Intuit** · Company update: [Intuit to Acquire AI-Native Revenue Management Platform Sequence](https://news.google.com/rss/articles/CBMirAFBVV95cUxPd1dFMGxPbWdvSmlfWUFvcFJvUjhqSUJTXzJ4QzQyaGZGeWpkQU90RXZBaEdubndjVjA0Mkd2S3ZGU1RySy1WT1hDSHJ6RWExeHR6UUR1UDFTZ0R3ZWdOSEZudlA2ODUxUHg3blRCeFZrcFpaSnVUdFhkYlBNTEtHa3pMd2lkbXMwb045WHItUC1jNHl1LUoyY0ItVWUtMnJwaHFwc3NTVFNpQmtx?oc=5)
 
-## Digital Banking / Neobanks
+## Asset Management Technology
 
-### Consumer neobanks & digital banks
+### Portfolio / fund / alternatives infrastructure
 
-- **Nubank** · Funding: [Brazil’s Nubank Launches AI-Powered Tool to Analyze Investment Portfolios](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PX0J1eGFtOHNuOXpBVlItOHZld1l3Vk4xQ2lWUDEtMUlxQnJ4SXBwaU5nd1pJclhsZ1IzTnJvSHdGaGo5UGZkeTRn?oc=5)
+- **Allvue** · Product release: [Moody's launches a private credit model. Moody's stock trades at EUR 431.50](https://news.google.com/rss/articles/CBMiygFBVV95cUxNVU04WjhjejlId0IxbHpLY2w3cU45TjJNQ3p2VEdJLTFiLW14bDNPSU5ick9BejdZWXRlZ2xILThXcXg3TzFKSmNxOUlJNUNIT0JZNG5yci0xbThEQ0pnQ19XbUJDZFpSTW9lWm5zZERQdHppbUU2dExySGZkd2N4UW5ocHlxNU51YU1KQU9TMTJYM3lCSmNGRUxPVmNmRXN4S3NrOUt6TU40QTV4R25jOWhMOVR0VFVaVWx0dXVBQ1BCemVpd0lMM0VR?oc=5)
 
-## Financial AI / Research Infrastructure
+## Banking Infrastructure / BaaS
 
-### Financial research / AI / alternative data
+### Core banking / BaaS / sponsor banking
 
-- **Fiscal.ai** · Company update: [COST Stock Heads For Best Week Since May: Costco's Digital Sales And Membership Growth Get Bullish Call From Analyst](https://news.google.com/rss/articles/CBMihwJBVV95cUxPLVZmVWNrMTlkZ2c4ckFOTmZ1M1RwdWhCV2VjNU51NlhpdEU5STRON2RiSDNBQU80R2NHWThhTFRPODJsakpleDN3NG0xVkxaMmhWRnRKNlg1ZGkwMENhMm80ZUo1NTg3bmNoNW1HSEExQ2w4N2FPUWlybXNxekktMW0ySVEzRGptYlpScVE2LWg4bVc3eDZ6MU9VZ0otT0dDUkVWR0tBZHNXRlZ1b3FmVGpWU0pKalVVQ1ZYNHFmaDJHTWdpdmliV0hMWk82ZHNlb25SZEJBWC1ibkN4eDhQclJkZkJjUXgyREo5RUxZd2owZ3F3YVZaSWFaV0tzUnpfS2d3ajNGdw?oc=5)
+- **ClearBank** · Funding: [How Much Did ClearBank Raise? Funding & Key Investors](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JYXpBT2lJR1lrQlRkSjdtNC11bGhOZGMwelJubU01bVdjTXJvWTU0eGdiRENwRU5xUThpcFBaR0FrU25EaXNGak1oYXFIRGF5d1pveG1Yck5KZw?oc=5)
+
+## Capital Markets Technology
+
+### Market data / trading / execution infrastructure
+
+- **CME Group** · Funding: [Mexican Funding TIIE (Monthly Contracts) Overview](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOURDeEY4aTNSbmlwVjBUeTFzd2E3Y0Rtcm9mZ2xlTDdrNnVzN1R0eDE5WnVCV0pQLVdNUS1FV0Y4a1Izb3lDVGdWRm9jVVJsLTdmNG5SdnVWeXJKclRtLUFpRjFYR1ZkSDRxS0R3c1AybGJkUlBaZUItRnJjQ1EzWVdRRkJ4ZEJv?oc=5)
+
+## Crypto / Blockchain / Digital Assets
+
+### Exchanges / stablecoins / custody / blockchain infrastructure
+
+- **Tether** · Funding: [Tether’s AI investment lifts AIsa’s funding above $9 million](https://news.google.com/rss/articles/CBMickFVX3lxTE9YSTIxNFFrak9qNWdkT0dEZGJqYUNmNWNaRWJ0WVJHbktmMmJwSlRtWnRMajV5bXg4SGM0OU1jMDdjTk1DbWtwOEZsdDRfRE9EUm5YS3pxWkxSUmVtLVJjdFczVTA4N2F6dUZsV0ZXLXpZUQ?oc=5)
+
+## Embedded Finance
+
+### Embedded banking / cards / payments / lending
+
+- **Cross River** · Company update: [26-Year-Old Arrested Over Alleged Rape, Armed Robbery In Cross River](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkJjSXpQdF92U2FnUUlxeVQ1Njc3a1JNSmhDd0VnUmEtTWZ1anhaSUZWSWZkbFZIcnhReTRPcXJ1eExsb1NUMjNqTmEwakRPRl9HLVFvWHI1d2VTTHZiT2xvYUp0YXduTTFNN0lLYUItWkRhQ3Z4NkhrTlJMWDVDYmtoNVlzWUdNT3ZTdTB6T1F5aEJjQXlkdlc3TlV5blo0Zko4bjZMQQ?oc=5)
 
 ## Financial Data / Infrastructure
 
 ### Financial data / private markets / intelligence
 
-- **Morningstar** · Company update: [As AI Speeds Up Marketing, Louisville's RedTag Bets on Strategy Provided by PR Newswire 17 Oct 2026, 20:35:00](https://www.morningstar.com/news/pr-newswire/20261017cl74521/as-ai-speeds-up-marketing-louisvilles-redtag-bets-on-strategy)
-- **Morningstar** · Company update: [Faith: The Spark Born by the Yudu Riverside Provided by PR Newswire 18 Oct 2026, 12:26:00](https://www.morningstar.com/news/pr-newswire/20261018cn74777/faith-the-spark-born-by-the-yudu-riverside)
-- **Morningstar** · Company update: [Fake shopping sprees and 'happiness -2- Provided by Dow Jones 17 Oct 2026, 18:54:00](https://www.morningstar.com/news/marketwatch/20261017124/fake-shopping-sprees-and-happiness-2)
-- **Morningstar** · Company update: [Fake shopping sprees and 'happiness insurance': The latest fintech apps reveal our financial anxieties Provided by Dow Jones 17 Oct 2026, 18:54:00](https://www.morningstar.com/news/marketwatch/20261017123/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties)
-- **Morningstar** · Company update: [Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful Provided by Dow Jones 17 Oct 2026, 18:42:00](https://www.morningstar.com/news/marketwatch/20261017120/investing-not-homeownership-is-the-no-1-milestone-that-makes-gen-z-renters-feel-successful)
-- **Morningstar** · Regulatory: [LINC Investors Have Opportunity to Lead Lincoln Educational Services Corporation Securities Fraud Lawsuit Provided by PR Newswire 17 Oct 2026, 21:29:00](https://www.morningstar.com/news/pr-newswire/20261017dc74677/linc-investors-have-opportunity-to-lead-lincoln-educational-services-corporation-securities-fraud-lawsuit)
-- **Morningstar** · Company update: [Linktel Technologies Highlights Breakthrough 1.6T LPO Performance & Strong Market Pull at OCP 2026 Provided by PR Newswire 18 Oct 2026, 11:53:00](https://www.morningstar.com/news/pr-newswire/20261018cn74844/linktel-technologies-highlights-breakthrough-16t-lpo-performance-strong-market-pull-at-ocp-2026)
-- **Morningstar** · Regulatory: [MRP Investors Have Opportunity to Lead Millrose Properties, Inc. Securities Fraud Lawsuit Provided by PR Newswire 17 Oct 2026, 20:51:00](https://www.morningstar.com/news/pr-newswire/20261017dc74638/mrp-investors-have-opportunity-to-lead-millrose-properties-inc-securities-fraud-lawsuit)
-- **Morningstar** · Regulatory: [Rosen Law Firm Encourages Barclays PLC Investors to Inquire About Securities Class Action Investigation - BCS Provided by PR Newswire 17 Oct 2026, 19:41:00](https://www.morningstar.com/news/pr-newswire/20261017dc74573/rosen-law-firm-encourages-barclays-plc-investors-to-inquire-about-securities-class-action-investigation-bcs)
-- **Morningstar** · Regulatory: [Rosen Law Firm Encourages Build-A-Bear Workshop, Inc. Investors to Inquire About Securities Class Action Investigation Provided by PR Newswire 18 Oct 2026, 14:45:00](https://www.morningstar.com/news/pr-newswire/20261018dc74579/rosen-law-firm-encourages-build-a-bear-workshop-inc-investors-to-inquire-about-securities-class-action-investigation)
-- **Morningstar** · Regulatory: [Rosen Law Firm Encourages The Cooper Companies, Inc. Investors to Inquire About Securities Class Action Investigation - COO Provided by PR Newswire 18 Oct 2026, 14:26:00](https://www.morningstar.com/news/pr-newswire/20261018dc74553/rosen-law-firm-encourages-the-cooper-companies-inc-investors-to-inquire-about-securities-class-action-investigation-coo)
-- **Morningstar** · Company update: [Spyre Therapeutics Announces Clinical and Preclinical Data Presentations at United European Gastroenterology Week (UEGW) 2026 Provided by GlobeNewswire 18 Oct 2026, 13:30:00](https://www.morningstar.com/news/globe-newswire/9844863/spyre-therapeutics-announces-clinical-and-preclinical-data-presentations-at-united-european-gastroenterology-week-uegw-2026)
-- **Morningstar** · Company update: [Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs Provided by Dow Jones 18 Oct 2026, 13:00:00](https://www.morningstar.com/news/marketwatch/202610183/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs)
-- **Morningstar** · Company update: [TSMC Earnings: Tesla Talks and Texas Expansion Could Boost Stock](https://news.google.com/rss/articles/CBMilgFBVV95cUxNYTlyUFFHSTFvbEVkQXFIRXZHMmlNQnhqdGkxYV9BLUx6U0laVzg5bmVGd0tNU0NaSE9BdXdsaHZ1cHc1a3c4U1NYZTc1VldVZXI5OExLcF9HbjhzNHJhVkJLbUowZFYyM2F5OWZjSlhhc3JMQWtVVm1SckNoZDV5OFgxLUg0aDQ5N1FRd3VLSTEzbzk5dmc?oc=5)
-- **Morningstar** · Company update: [There is a silent market rotation inside the S&P 500 that's warning of more weakness ahead Provided by Dow Jones 18 Oct 2026, 12:00:00](https://www.morningstar.com/news/marketwatch/202610182/there-is-a-silent-market-rotation-inside-the-sp-500-thats-warning-of-more-weakness-ahead)
-- **Morningstar** · Company update: [These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth Provided by Dow Jones 18 Oct 2026, 14:00:00](https://www.morningstar.com/news/marketwatch/20261018472/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-sp-500-earnings-growth)
+- **Morningstar** · Company update: ['Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure? Provided by Dow Jones 18 Oct 2026, 16:15:00](https://www.morningstar.com/news/marketwatch/20261018483/some-people-did-everything-right-i-lost-my-home-in-the-great-recession-i-rent-in-my-50s-why-is-that-judged-as-failure)
+- **Morningstar** · Company update: [ASTS Deadline in 26 Days: AST SpaceMobile, Inc Class Action Lawsuit Seeks Recovery for Investors; November 13, 2026, Deadline - Contact Kessler Topaz Meltzer & Check, LLP](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPYVJ0Y00xRDZHMm9ZWm9sWDlOY19WdXA1b0lTQ1dYLVQ1RERENHBtVzlxXzBYRjFuOVJiZnVubFlGUi00NUFGMURGdmdabnIxNlJqb0pUNldRMjdvcUZFUFczdTNsdGZseldrQmRhX3AwZE5EUEJtZnB3X09LRzR0MHF2RGlMM3A1MHFHckxmWnA3Sk01dmdMV215LTRlWlYwYUh4Nk5mQmx4RDNFZlhiNmx5aXdVZDVjUzJGVXdLaWFNVDk4dUdpN09zdTFrMUpwMEN2T0E2RFdoaFZobS02VEpSSEJwdXI2cDBIYm43NHYwWHZ1dlNIVVVIdkF1Y0RXZ3F3UjFCS3pJcjk5SU56S2VyeHkzZFpHYzQwd3Nua0Q5cWdKQlpWYTRhYjJBMGI3RGdydncwNENfckVJaGhXdkdUNA?oc=5)
+- **Morningstar** · Company update: [ASTS Deadline in 26 Days: AST SpaceMobile, Inc Class Action Lawsuit Seeks Recovery for Investors; November 13, 2026, Deadline - Contact Kessler Topaz Meltzer & Check, LLP Provided by PR Newswire 18 Oct 2026, 15:30:00](https://www.morningstar.com/news/pr-newswire/20261018dc73941/asts-deadline-in-26-days-ast-spacemobile-inc-class-action-lawsuit-seeks-recovery-for-investors-november-13-2026-deadline-contact-kessler-topaz-meltzer-check-llp)
+- **Morningstar** · Regulatory: [ASTS Investors Have Opportunity to Lead AST SpaceMobile, Inc. Securities Fraud Lawsuit](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNUJWRWlsTGFiUzFuTW1ZYkJEQm9JVVg4Wlc5OHhsRXlSU0xIUTYweDNYZS1NRDRNMU9XcHhkUGx2NFVCU1RicWh6N0hpMWlVR202cU9FZXpFcDVGMlBLTXVsODVoYmJoOHhWaVF4UzZ4a2lSMTFjbUcxNktONXJYSnh4Y3haZDAxWmFhbTllMUx0QnJMNmNaX2dsV2l5d3BBWHdVY29pNFRHQm84TFQ4cklLMmZINm84dG10SUtxNUdZWjJUWW1kUWM4S2N2aXRvQjB0d0RWUFo5M3VZV3c?oc=5)
+- **Morningstar** · Funding: [Antheia Secures $80 Million Conditional Funding Commitment from Department of War's Office of Strategic Capital Provided by PR Newswire 18 Oct 2026, 16:34:00](https://www.morningstar.com/news/pr-newswire/20261018sf74864/antheia-secures-80-million-conditional-funding-commitment-from-department-of-wars-office-of-strategic-capital)
+- **Morningstar** · Regulatory: [I'm 63 and diagnosed with lymphoma. Should I take my Social Security next year? Provided by Dow Jones 18 Oct 2026, 15:00:00](https://www.morningstar.com/news/marketwatch/20261018473/im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year)
+- **Morningstar** · Company update: [I'm 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company? Provided by Dow Jones 18 Oct 2026, 15:15:00](https://www.morningstar.com/news/marketwatch/20261018476/im-64-with-two-sons-but-only-one-works-in-the-family-business-is-it-ethical-to-leave-him-70-of-the-company)
+- **Morningstar** · Company update: [My sister moved in with our mother, 78, and -2- Provided by Dow Jones 18 Oct 2026, 16:00:00](https://www.morningstar.com/news/marketwatch/20261018479/my-sister-moved-in-with-our-mother-78-and-2)
+- **Morningstar** · Company update: [My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right? Provided by Dow Jones 18 Oct 2026, 16:00:00](https://www.morningstar.com/news/marketwatch/20261018478/my-sister-moved-in-with-our-mother-78-and-says-she-deserves-the-925000-family-home-is-she-right)
+- **Morningstar** · Company update: [My wife says we can't afford to retire. I -2- Provided by Dow Jones 18 Oct 2026, 17:00:00](https://www.morningstar.com/news/marketwatch/20261018486/my-wife-says-we-cant-afford-to-retire-i-2)
+- **Morningstar** · Company update: [My wife says we can't afford to retire. I vetoed her $8,000 trip to Italy. We're in our 60s and have $4 million. Do I keep working? Provided by Dow Jones 18 Oct 2026, 17:00:00](https://www.morningstar.com/news/marketwatch/20261018485/my-wife-says-we-cant-afford-to-retire-i-vetoed-her-8000-trip-to-italy-were-in-our-60s-and-have-4-million-do-i-keep-working)
+- **Morningstar** · Regulatory: [Rosen Law Firm Encourages J.B. Hunt Transport Services, Inc. Investors to Inquire About Securities Class Action Investigation - JBHT Provided by PR Newswire 18 Oct 2026, 17:13:00](https://www.morningstar.com/news/pr-newswire/20261018dc74542/rosen-law-firm-encourages-jb-hunt-transport-services-inc-investors-to-inquire-about-securities-class-action-investigation-jbht)
+- **Morningstar** · Product release: [Sultan bin Ahmed Launches 60-Home Village Project, Inaugurates Orphanage and Clinic in Southern Philippines](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWHNiQ3JSeFphYTVxY0pKdGJVRW9xVEppOGZXeFJ4d1NSVXl2Mkk4M2J3MkFQSDdSM0EtMHN5OHdfcWdQTUVERklrTDNtV1RYMDNzOElVR1dTalFPRXhfNFhBdDhwcU5iSHM2bzhLNGVZZEhxQkl0ajJ1TkljNWtkSmZ3aEQwZ1RMb0pNUHZMQkZFdnp6X3dLZUNoY2FkOWZMVzlnWFJ3V1V6clpWd2NLNzNCLTJTcW9Fd251bXBvY0F5N2tScjVLdGpzUE8wcENSeTRuaFR6cEZkb1BBRzVPNlJlNzB2ckZ2UmJKelg0RVdNSVBvSDM2N2JBZEo?oc=5)
+- **Morningstar** · Product release: [Sultan bin Ahmed Launches 60-Home Village Project, Inaugurates Orphanage and Clinic in Southern Philippines Provided by Business Wire 18 Oct 2026, 15:25:00](https://www.morningstar.com/news/business-wire/20261018853608/sultan-bin-ahmed-launches-60-home-village-project-inaugurates-orphanage-and-clinic-in-southern-philippines)
+- **Morningstar** · Company update: [The Magic of Tomorrowland Lands In Shanghai For A Two-Day Sold Out Spectacle Provided by PR Newswire 18 Oct 2026, 14:58:00](https://www.morningstar.com/news/pr-newswire/20261018cn74856/the-magic-of-tomorrowland-lands-in-shanghai-for-a-two-day-sold-out-spectacle)
 
 ## Indian Fintech
 
 ### India payments / banking / fintech
 
-- **Fi** · Company update: [Ethena Price Forecast: ENA corrects as Ether.Fi launches stablecoin on the protocol](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb1ZGVlFQNnRSNlpYN2x2ZkFJblRsd2Y2S3pWTFlCNjFTMGx3RkVvWUU4TWs2SUYzZHZ5ZnlsdTQ4TWZQRXgwREZmblUxOVVBR1I2REtfOFplVmw4TkZ2Q3RoWnRIWjUwNVlFZnBXaTZ4bW5LSjdDczhXM2duUlZFaTNSZ21ZdzBuTllSWno0ejNLcmNMSjRzRXo4VnpRcnFsWnBjYm1LeUw5clJqd19KQkhISmk2WTJaTEpZMXBUbEI2YVlWS2xyMjVqVjVCcFJESGtJM2V5bDdNRU5YRXQyQlZFRmQ?oc=5)
-- **Fi** · Expansion: [Sci-fi pinball shooter Appulse launches in November](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTXZkYkF2YU9WMU95RUhpRV9rRzB6TVRZeVZkVFc2X1IyS041SW1nS2Z2eG5MRHNNa2FsYXF0ZHAtN2dnYUxKcXkyRDhQZGVqbUZVblVuOXFRNFZxcWZtb0JhSU56dEFTQVJySk8tNUFZZTVFWWhUWndsal9KRXNaRg?oc=5)
+- **Pine Labs** · Company update: [Pine Labs posts first full-year profit of ₹113 crore in FY26](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNW51aUlKUUh5dWpEQ2g5UGJIMmRRN1o4bXJpVjQ0TGloNU5abC1BRDRWVWg4YUhGOUZTLU9nY09Uc3hMQThOdjhlVVg1Q3Awdk1KODVDMlpfRDAzN1h4RkRjalBiWmhBMUxYRW1iQ1FuQXBhTlA5QWVpQTU3U2ZhTlFnbDRNQ3BTTXRjUWcwNlRBcHM2Q3YzazhnSDgwRnJESzUyQnI2NjI2Zlc1ZjA1Ry1GeFVLdw?oc=5)
 
-## Investment / Brokerage
+## InsurTech
 
-### Retail & institutional brokerage
+### Digital insurance / underwriting / distribution
 
-- **Interactive Brokers** · Funding: [Interactive Brokers Raises Dividend 71% as Net Interest Income Offsets Trading Slowdown](https://news.google.com/rss/articles/CBMizgFBVV95cUxQc2tKLUxfSlkwMGVyN1BqRUFGSHE0clVPUVRkZzdzVk5QdDM5UGo4ZUYwMXpiT3BOTGxlQ1h1Q1Bjajk4VTAwc05pWE9nM3p3OUlndGVEdXBtNllrSmFST2d4angzcDQwbmR2TFlDVFVuQ3Y0eE1INXJReXdEd09XLXlVQW1qUU5MemV0cjBzYmFTaEJBaUJkOGJVN3h0SWVxa09QcGxlSm11ckh4WnpwR3FPQzFEWTdaTV9nbjYzeDFESXhlNklPLXp3NFNYZw?oc=5)
-- **Interactive Brokers** · Product release: [Interactive Brokers launches Ethereum staking, expanding crypto services for clients.](https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHRlQzN4aGpSWkpPNWpOTmt0NlJ1ZkVTaEVKY1VfTjZaTDVkbEZLQ08wdnZkWnllTGVzdGc1UldhQU05aVFCbmVveEZzQW5majl1YURzbVdiTGNXdjJrRzRwSmZlU09oQ0pOQnpFTVZYUDExc2VURHJRNm4zODhBMEM4bnN1UHRnenNKaXpHcC1IN2ptYm5BYXRqUXI2QTFPN2ZxbHRR?oc=5)
-
-## Latin American Fintech
-
-### LatAm banking / payments / credit
-
-- **StoneCo** · Company update: [StoneCo: Wait For Signs Of Credit Stabilization (NASDAQ:STNE)](https://news.google.com/rss/articles/CBMikAFBVV95cUxQaDhIMTZlRDdGWHBuQ3VoT1pOTXpwa2xqUHRTSE1oOGdmdzBhZnV0ek03Y1BOWW5GLWtaQWY0bXJzU05pWmM0VWRzclNKdnlLSGk2NzF4b0d6SXN6bk1TdVlLZkFRTUxENTAyVm9QYl9zRWw1SjM5R0RGOXNKT3BTd3oyZXlLS3ZqYUhpM0djSFI?oc=5)
-
-## Payments
-
-### Payment gateways / PSPs
-
-- **Stripe** · Expansion: [Best Crypto Presale to Watch: Stripe's Stablecoin Expansion Puts Remittix Beside ETH and XLM in the Payments Debate](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONE5vZDVNdW5ndTgxTEVBSjZwRmE0SVBGbDNveEFvQ0hVbk1oS3luZmFnNXRWNDBzTG00MkpsU0MxNHBfS3BZWFNjQVhfYVgxdjFlcHFhemNGcmNjbmpXTi1HTnY5am5od3ZYMnNKcXRXM2JPNUtUblJvb1Nzenk3T2NValFENE5mRVE3WUJidmJsUE9TVlA1Wm92MDE4MWlTb2VnYUJPQ3FxZlRlUDVsTmVMYzVRUHJqRjcwMzJXYmh3bzdjOFlhQVM4d0NFdHQwR05ZRw?oc=5)
-- **dLocal** · Partnership: [dLocal and Western Union expand African partnership with new payout corridors](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFo2c3RYR2VSTGJFbUx0cVBRb255VndOVm1hS2NqbnF1b3p6QjBhNjE1X2dvQy0xcVRmdEhnV2w2NWxhbS14TEJ0Tkw1d1p2Z3ZseWVuS1ZfUDhtaHBSbnVBbjZxOE5wV0p3bUVvcW9qMjVEY2hjc0JLNTkxY3BycEkxRVVjZkJONkhRMlVBZHJnYzczdWw3V2taUzc5Q0duWFhYRjRGcXkwaEM0Z0E?oc=5)
+- **Clark** · M&A: [EU approves Kimberly-Clark's Kenvue acquisition; Dilek to acquire Kotex, Camelia and Record](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbHIxcmRkV2xzUGpkMGRIb0hkQTJ2T0JNOUNEVHNaeTVDOXVPbmd3Ny1hcVRCbUJ0VGJRM3RCTzdsdUU0QXhtZms3V0tqZ19pekhVdXk5djU1X1FzTU5OS1NJYjdDYmlLWktodVBTcXotb3VMcWljV1lJdGkzTXQ0a19Mc2VwaXZzS2NlQTM2YnFZQ3pTVnlpdzhPTUlLbUFleU12ZWdQMVFKZw?oc=5)
 
 ## Payments Infrastructure / Merchant Commerce
 
 ### Networks / acquiring / POS / orchestration
 
-- **Mastercard** · Regulatory: [Mastercard Just Wired Stablecoin Cards Into 130 Countries — 73 Days After the BVNK Close](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSS1tSEZUVG5zMmx1NEFlWFdnMWZJRERwN21ZOVA0cXBXaEhfQm9XXzJmdUZGT25fSE9uSW1UYkl2YVc3bG13N2tZSk9LN3c2VDhjVS1JWUd1OFVvS2cyRHUyNW1hNDV2ZUxOTVV1YmNNa24zdzdwd0E3UlRDTXdhM2VIV1lsTnczcnU2OEVjMjhBZjVuYkVvODBMeFRrMXkxLWhCRUE4YnR5Y0FQ?oc=5)
-- **Mastercard** · Regulatory: [US Officials Press China On Market Access Issues For Mastercard And Citigroup](https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGs5dnhWZ291aU5JVmlGc1RrcUtpcUJFS0FrRHVLOF9NNER5SGpCdUwxcDRNNUJ2MDFXeXU2XzBkRllFWHlTM2U0cVo4ZHJkbzFiVW81OVV0UWtpYmcySG5uenhVbXJKVmdvLUF3dFEwZ0tPaGJsQmNJWUdVa2JnYQ?oc=5)
+- **Visa** · Product release: [Australia launches 10-year multiple-entry visa for Filipino frequent travelers](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ24zTG0xSC1KLUFVVlgxSmV0d1A4ZENfNkVla0RpRFVDS05RajFmcG9NQTdidkpPM1ZxVWczZDMybV84UThPTUlNSGJBb2Jsd1JVZVJyTkQ2bDJZbVRhRnhuczd5Z09Ha2JZbGNYcnM5ZC1PYkpqUEFSNmZjcHZEVGRIa3JweVdJU3daV2NNNTJvMkMwNWtJTFdQVFRxb1ZHT1V3RDhBVdIBrgFBVV95cUxPZzlpUUlnRzdsOXZfSEthVkhNblA2WnBISzlCRjNnRm1GODFScnU3UjBBZUxuOHpuSFdpTzhZS0pVbExWTHVYaUF2VU1OdjVFTTJfdVVDWWxPZW5Ncy1FV3Y4UVRGRlpHQ1JRRTB1X1ZXdWhseEZZR2UzLW1JSlZIRHcwU21qdG9sb1pDVDI4TmpoM1N0dkM1THo0cHgwRWI0X1lQdFR2T1pOQVV1UGc?oc=5)
 
-## SME Banking / Business Finance
+## Treasury / Cash Management
 
-### SME banking / business finance / vertical banking
+### Treasury management / liquidity / programmable ledgers
 
-- **Arc** · Funding: [ARC FMD vaccine facility stalled by funding gap](https://news.google.com/rss/articles/CBMipAFBVV95cUxONzdEV3ExSFNYTkluMkxnQ291cWZGZVY0eEh6eHRHb1ZrbmNTTVR4Z09WZ2Nod1FNU2RMR3ZpMjF5aGtaWFRRd2NwaTlPY0txeVJhTmJyWFdTVlRMVlRUSzF2YlBEM1JpbzJkR3ZGOGhvdzVRM2xEcVZSYmg5dTVVNUE0WHJVODNZN2lhSW9VVy1UYnlfSmVHdkYxRlhNN2EwYmxFTg?oc=5)
+- **Oracle** · Company update: [Oracle Health data breach exposes nearly 20 million patients](https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVI3MnE0X3psY0JNUjRzOEhxX3pZdi1CRmF3aDNncUtRVV9oYzU1UFRvQmRxejg1TjZGbDR2OERnb2JkWUVSZzd4OWJtNkNqOXdheG9sem5mRjVVV2E2dGxobXhfUWQ2dVdvOUd0SjBHdXkyU0NLZUVEeFlrcGQxVjBrNmhKdVlNckpxbmlVNHBqb1nSAZgBQVVfeXFMTi1RUC1UZUpRQzFDakw4NVFlbDlodVBEX3UxRGlxMmI4YWMtMFlmdHNwVTMzRlVrX3ppdnlIdHQtdVpzaEdJaXNZUUZ4V19wZHNoWnRZdjZHQnE4NDQzRW5rNmN1WkpOeEtlZjFmbmk5ZjFlRERGbHpLWFBzWVFtN0VfZzJ4SUtteS1FY0luU09MYjFnRWFPeGQ?oc=5)
 
 ## WealthTech
 
 ### Digital wealth / advisor platforms
 
-- **Public** · Company update: [Trump loses lawsuit over partisan ads paid for with public funds](https://news.google.com/rss/articles/CBMingFBVV95cUxQRlp0cGdBRS1uZE8yZklOdGlQQ0tZdk5RdFVaVG1DQTJCdXJRMHhZaFMwb0hGaGwwQVVpNVdoS1JmYXJpQVlmbEFLU0oybV9BR3pvTlgwT1hMOWp5ZHJjRmg4dm54ck5hcEZ5N0lZcTU0Vm1DX0FBRnQ5NVBIS3dFa2U4cWlLS1EwMFJucmFTUmdhWjlNLVRrQ2NoR0VNdw?oc=5)
+- **Public** · Funding: [Religious preschools want public funding, but exemptions from nondiscrimination rules – the Supreme Court will decide if that’s constitutional](https://news.google.com/rss/articles/CBMiogFBVV95cUxONFBXTVpQSk05aU1MYnZjOVlTOWpiLWlKcmhyQUZHYkwwMzJxeWxzMjZzZG5ack8waHNhdEpvZk5Xd2hlcWZkenNlOTFETWJLVzNvOGZiQlFsdlgxbEtEeXZkQWQydUJvOE54WHk3cExsOEc2SE9RVGlodkZvamw5bUtVQ25ZWnIxZVJJR2IzS3JHckRkUl93eXFmQVM2VkVJU1E?oc=5)
