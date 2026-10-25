@@ -1,77 +1,73 @@
 # New official company updates
 
-## BNPL / Consumer Finance
+## Accounting / Tax / ERP
 
-### BNPL / point-of-sale credit
+### Accounting / ERP / tax compliance
 
-- **Tabby** · Product release: [Tabby Launches Tabby 2.0 With Tabby Talk, an AI Agent Answering Financial Questions and Completing Bookkeeping Tasks](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQelVmMVRHQ2RYMFVPUVZTV25HMXlzc2RFcXQ1bGhZMDhHcHEyTUNoa3pPVXMyYWJsek9pcVpCSmE0LUMtMVR5b0xkclZFaWhxSXY4eFhLamh6VlU1dFJCZWRUNFR2TWM3SU8wOE1TSkh0c3NBLTNTQ21xZnR4Sk42ajJJYzdrdGcwVm0yUVRwOVh1T3BoRVdsZEx6QjZPdjB2MmxtMDJ3a0phT2RpaHBFRVZ3RzVpYkNkMnJRLVZPV1plWmYtWFFjdGZ1RDNQZDdGSTc1NF9PUV8tSlJmMjZ2ZnhrNEJhTExBejk5RTFIcmpOSmMwci1XSWNuWQ?oc=5)
-
-## Banking / Core Banking / BaaS Gap
-
-### Core banking / digital banking / sponsor banking
-
-- **nCino** · Product release: [nCino launches AI suite for mortgage loan officers](https://news.google.com/rss/articles/CBMigwFBVV95cUxOR2RtektBODVfb0tFRHFlUUk0RjZTbjQzV1ZUV3BXaXU0dVFlSXlfemE0RzhZSll0R0p1YjZ1Mmw1bjdvOWpzT0wxa3VSTDRNdXJzSDNlZlpLVDdmRFRfVnFkaFN3S1FIQ1Btb3pVODN0d0VmU2ZqUHlCcERFRnB0QzBuZw?oc=5)
+- **Intuit** · Company update: [Aprio Broadens its AI-Powered Advisory Partnership with Intuit to Further Accelerate Mid-Market Business Growth](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdkdWSmNrQW14WVducUFMX1F5NUJQaFNfaU53NS13bnhiNjVubF9KZ1VpMzYyMmN2UkpWV3FaeWN3c2FCNkNjenNDbzh3RHo2NnpZb1hLZlFJS1VORWR5SG4zTG9LSjdsVUFUNjVNZEhLdVRsQ2tTREpnSjNheW0yak5XRU9fRlFsd1FYejFHdWhZWlpQVmd0SDlOZUZDb1pXUHplaDRDd3RJQk1ITU1hTFI4QjQ4ckNYOE9OTjlGT1kwa2l2WUZPaTktZ1FodUlpQ2hZTWcwOC1EU2JKNmZqblJYQ3dJX3pPU2tHVFk5RVc1ODVOVUhPUmM3TQ?oc=5)
 
 ## Banking Infrastructure / BaaS
 
 ### Core banking / BaaS / sponsor banking
 
-- **Griffin** · Company update: [Blake Griffin reveals how he really feels about the LA Clippers heavy punishment after Kawhi Leonard investigation](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUWxXYkU3OXF0OFU2MWZkVVlra3FseVhpZEZxTWprNnUwcVR3cXRTZ2RsaEdma1VoYzNMd2NuSDBwbFhTcnV0Ty05eFpObVNzQ0JmX2VmZktWZl8tRllETUMzT3FfYlVkQU16QVd4dmstQWNFNXJ2OGZzN2U2eDhKcXZDUWdFa2tqYVpMWWZDS2JjYklhRXdLcWFCRHU2VE04LXpLNGx2WV9LU09UQXc2dEd2enBGeUNXXzVYMU1raF9HdnYtYjdtNmZteWM4OFZkMnc5TG9B?oc=5)
+- **Temenos** · Expansion: [Raya Financing Selects Temenos to Support Expansion in Saudi Arabia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNndmMVhQLUFvZG5VUW9Yd1ZuUThqUjhnckFRcUZoTXFmSE8xeVpTNU9fcmVRTkNlZ3lsT2JkM3VWaUFYeFhLcmlMcmp1M090cFdZZkppTUxLdW1HeE1LUW4weXlSTFJqTEZFVzlaZmoyMm5LV1hCMHppeGhuSllFTWUycHFfR251YUxWRVZJMm12RHVDWkt2Mi1idHdqZmpyU3lqRWpIUG4?oc=5)
 
 ## Capital Markets Technology
 
 ### Market data / trading / execution infrastructure
 
-- **Nasdaq** · Company update: [NASDAQ CEO Calls for US National Fraud Strategy Amid Rising AI-Driven Scams](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMlpGODRLbGpGQVdjR09ZQXlXNWxGUFdNRVVWX0dYQUlxTUFVbVpOOWx6SkV0TnpXcjFrZnZwelN0bU5RZXlsbEQ5a2ZMTnhLVU1QUUdOX19BWlM0SmI5ZHV2cmlwdUZtMnpfWjZRa3B2eW5FMDdYdWRCYVJaNEdoZzJ6Y1JzUDZaMW5LelkzR2RCMElNYmt1eHVwS3ZmYW44ejN2MQ?oc=5)
+- **Nasdaq** · M&A: [Futurewave Acquisition Corporation Rings the Nasdaq Stock Market Closing Bell](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWjhNZ25fZkVnQTh3cFY3YUpQdkh4bTJCcnIzaW80U0ZsLUtUQ1Q5aUx5WFozaXNZMVpQWDI1YnB5S2Itb0V5ODhPdHFaOENRVUM4anhFcFZGaTJOQ2pxcnMwTDNjckVLSURlU1hubHQzeFNUcDU1YThPQWZvYXFrUlpaMnJxLWlkZHJfRXhnWUhVaFpSbkZGb1NGdmk4bjJ1UEdXdlFR?oc=5)
 
 ## Crypto / Blockchain / Digital Assets
 
 ### Exchanges / stablecoins / custody / blockchain infrastructure
 
-- **Binance** · Regulatory: [Binance seeks regulatory approval to enter the predictions market in the United States](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS3RLVnFuNmxMdS1Zb3NqVHJ2WlNfaFluWnlCQkxIaUJhb2NHMTdua21EUFRWYnlRVHoyUGo3akNOR29SZkEySFJkRW13ZkFIdHRiZXR4cC1SM1oxTTFTSnVDRFpyLVhfN25pS01LTU1SQUpPOUVxS1pXVkxsYm1vVXdIZDlJN2FhSmx4TnU5d1NZSUg1VFBFQVF2dVc3SWpkZzNrbjJzTHU5MUJ6SzdtNmZSYWN2OHZ2ejlJVXJUZ19IaTBuZTl2eDAxZ2IzVndXVzRWYXpPM1BkNGNuNmx5eA?oc=5)
-- **Fireblocks** · M&A: [Fireblocks Says Visa Acquisition Report Was Not True at the Time](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NU0w5LTFMVGJ3ZEVXTmRWb0xmZ0RfblktTnNQMHhVc21EMFExeEd0MEtoNjJaeVZHYXJDMUxyMXFiUU9ibVpUR1IwVlpLSVZUNmNsZnF4LXg?oc=5)
-- **MoonPay** · Leadership: [MoonPay appoints Anne Giviskos as chief financial officer](https://news.google.com/rss/articles/CBMib0FVX3lxTE9qQ01peWdDVDV1QXdqUEtWMWFYdmJfRG9yaTg1TmdudkI1UjZkQXl3U3VjZ043Y2sxRjZ0U1ZKXzNYdVlwRjQ2YWdQUDdQTHUtMU1sREZaNlhxVmJSX1FnbzI4QmFfWVRLSlRDbVlqYw?oc=5)
-- **Ripple** · Partnership: [‘XRP Community Is Tired’: Crypto Influencer Calls Out Ripple CEO Brad Garlinghouse Over Endless Partnerships and Lackluster XRP Price](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaG1FWWlwNGh3Y2pBbW16c0dCcjZQdTRCR0gwN3J5Q0lHdXVLYTZYR1F5WlpPS1QxNEFXQmg4N1FPTFhKcVQ3Wk4xb1NJX3dNWUhNQjFicGJSeVotMGx4d2luazFSMVV5dHQ5bmZxcnFBXy1kM0xDN1VqTXVncTB1RHJ6bTZmRzl1VWlyZ0ZXeFo5bFYzOUJjdG5aWF9SRW9YbFd0UkZkUWZMU2Fyd19qZGI4SXJvZjBiUXQzaUhuYXhHS3FOZEZUbHBqUkRKN25JRFp6U2F5bkRuWnNTVnd2U09ZLUcyUE9JUDZrbFpiOFlHbDZPdWYxTVVZWG4?oc=5)
-
-## Financial AI / Research Infrastructure
-
-### Financial research / AI / alternative data
-
-- **RavenPack** · Product release: [RavenPack launches AI-powered dataset pipeline](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZGhrTVpwbnpZN1FsOHFJbGRoSWF2VTA5emJHTS04dmxwUmZzRUhKdjFQTXk0NnFneFh4N0k4WXpfNXotSkRLTjJnQTBMYWFGTThNWG5PVW9vd2xTUE4tMll4aEJnWXhpVzNHejg3eHRLTDlfb3VLdFFuTEJEOVFTd0o5SWZod19qQkNzNWNBcXF5NnMyWXZjTU9wZUx3WWNXV2ZkXzBVVzhQRHJkZUlkLUgxRkc0Nkp5YzZQSFJvWGNLVW1LQk1sNnlGSHg1SVIyaTBTT2ltdkg3bGpUNUtRck5kYm1xT2FH?oc=5)
+- **Fireblocks** · M&A: [Fireblocks denies report of $2.5 billion acquisition talks with Visa, and more](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVpwSGh0ZEtVNnFSa25GdVFWUzc2NUFOVWRzYmtreVNXVmFObTNQUi1mR3V0bmlsQUhieTZTazZTOGl5UzZLY19CYkp2SUppcGQ4Wk5wV0tlaHFuZ1gybXNBYTRhaGNiZ3dVR1U2b2hlTFNtS2hNS0I5c3BsZkRhVlFrdVN5WlY1d3VUWjU3OUl5aS1HcEJKdTJPRUdLRGdPcHlzY3NhVVN0QUR5VFEteF9DanNaZko0RFlvdjBUWQ?oc=5)
+- **Fireblocks** · M&A: [Fireblocks to Cut About 7% of Staff as Visa Takeover Talk Swirls](https://news.google.com/rss/articles/CBMidkFVX3lxTFA2RzZ5YVhVYUF6UGs1ZUI4SEF6Z2lVaDE2dkpLbTl3Y19STGJaUXROam15Zkh1M3NBZ284Zl9adl9vSUJZNUM4NlR1TUplMUdXUEVOcnZ1dm1JV1VtcnVQQXhLSHZab3lVN3BpWGI0a1hSZFVWblE?oc=5)
 
 ## Financial Data / Infrastructure
 
 ### Financial data / private markets / intelligence
 
-- **Morningstar** · Company update: ['She's living the dream': My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me? Provided by Dow Jones 24 Oct 2026, 20:00:00](https://www.morningstar.com/news/marketwatch/20261024165/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850000-is-she-taking-advantage-of-me)
-- **Morningstar** · Regulatory: [INV Deadline: INV Investors Have Opportunity to Lead Innventure, Inc. Securities Fraud Lawsuit Provided by PR Newswire 24 Oct 2026, 21:23:00](https://www.morningstar.com/news/pr-newswire/20261024dc80310/inv-deadline-inv-investors-have-opportunity-to-lead-innventure-inc-securities-fraud-lawsuit)
-- **Morningstar** · Company update: [My father-in-law, 81, sold his $75,000 home to pay his daughter's $50,000 debt. How can I keep him from becoming destitute? Provided by Dow Jones 24 Oct 2026, 20:15:00](https://www.morningstar.com/news/marketwatch/20261024167/my-father-in-law-81-sold-his-75000-home-to-pay-his-daughters-50000-debt-how-can-i-keep-him-from-becoming-destitute)
-- **Morningstar** · Funding: [My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids - and I can't bear to leave. Provided by Dow Jones 24 Oct 2026, 19:45:00](https://www.morningstar.com/news/marketwatch/20261024163/my-husband-wants-to-sell-our-15-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave)
-- **Morningstar** · Company update: [Siren's Tale Vodka to Exhibit at SoCal Cocktail and Spirits Fest Provided by ACCESS Newswire 24 Oct 2026, 20:05:00](https://www.morningstar.com/news/accesswire/1241306msn/sirens-tale-vodka-to-exhibit-at-socal-cocktail-and-spirits-fest)
+- **Morningstar** · Regulatory: [CARNE Brings a Nightmare Before Christmas to Oxnard with Limited-Time Halloween Pop-Up Provided by PR Newswire 24 Oct 2026, 22:51:00](https://www.morningstar.com/news/pr-newswire/20261024la80380/carne-brings-a-nightmare-before-christmas-to-oxnard-with-limited-time-halloween-pop-up)
+- **Morningstar** · Company update: [Climb Bio Presents Initial PrisMN Phase 2 Data from Budoprutug in pMN at an Oral Session at ASN Kidney Week 2026 Provided by GlobeNewswire 24 Oct 2026, 23:30:00](https://www.morningstar.com/news/globe-newswire/9852595/climb-bio-presents-initial-prismn-phase-2-data-from-budoprutug-in-pmn-at-an-oral-session-at-asn-kidney-week-2026)
+- **Morningstar** · Regulatory: [Flotek Deadline: FTK Investors Have Opportunity to Lead Flotek Industries, Inc. Securities Fraud Lawsuit Provided by PR Newswire 25 Oct 2026, 00:01:00](https://www.morningstar.com/news/pr-newswire/20261024dc80312/flotek-deadline-ftk-investors-have-opportunity-to-lead-flotek-industries-inc-securities-fraud-lawsuit)
+- **Morningstar** · Company update: [From Record-High Market Excitement to American Lithium Ambition: Elektros Looks North Provided by ACCESS Newswire 25 Oct 2026, 00:00:00](https://www.morningstar.com/news/accesswire/1241304msn/from-record-high-market-excitement-to-american-lithium-ambition-elektros-looks-north)
+- **Morningstar** · Regulatory: [HYLN Deadline: HYLN Investors Have Opportunity to Lead Hyliion Holdings Corp. Securities Fraud Lawsuit Provided by PR Newswire 24 Oct 2026, 23:21:00](https://www.morningstar.com/news/pr-newswire/20261024dc80286/hyln-deadline-hyln-investors-have-opportunity-to-lead-hyliion-holdings-corp-securities-fraud-lawsuit)
+- **Morningstar** · Company update: [Herman Law Client Survivors Reach Landmark Settlement With Archdiocese of New York Provided by PR Newswire 24 Oct 2026, 23:56:00](https://www.morningstar.com/news/pr-newswire/20261024la80382/herman-law-client-survivors-reach-landmark-settlement-with-archdiocese-of-new-york)
+- **Morningstar** · Company update: [HotelKey Announces Strategic Leadership Updates to Expand Global Footprint and Drive Operational Excellence Provided by ACCESS Newswire 24 Oct 2026, 23:15:00](https://www.morningstar.com/news/accesswire/1241310msn/hotelkey-announces-strategic-leadership-updates-to-expand-global-footprint-and-drive-operational-excellence)
+- **Morningstar** · Regulatory: [NCPL Investors Have Opportunity to Lead Netcapital Inc. Securities Fraud Lawsuit Filed by The Rosen Law Firm Provided by PR Newswire 24 Oct 2026, 23:16:00](https://www.morningstar.com/news/pr-newswire/20261024dc79502/ncpl-investors-have-opportunity-to-lead-netcapital-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm)
+- **Morningstar** · Regulatory: [Wall Street Fever, an Early Christmas in October: Penny Stock Lovers, This Is Your Time To Shine Provided by ACCESS Newswire 24 Oct 2026, 23:30:00](https://www.morningstar.com/news/accesswire/1241305msn/wall-street-fever-an-early-christmas-in-october-penny-stock-lovers-this-is-your-time-to-shine)
+
+## InsurTech
+
+### Digital insurance / underwriting / distribution
+
+- **Coalition** · Product release: [Global coalition launches first coordinated roadmap to drive healthy indoor air worldwide](https://news.google.com/rss/articles/CBMi5wJBVV95cUxPRS1zNGVCeVV5YVdycTJYajVBLXlZb2MtLUlJbTI3NmdCQWh3OVZNM2RFdk9GR29HZXlvOTEtUHhzdUpYOEtKMFltNWM4blZnMHNlRnN0NXhleUctOTR6cTl0akV6SzViX3dIc0lGNmVGak1YdUQ1cllTMjU4RG9kX1pOUm9EbG0yM0R5cEZvcVowemVFckUtZDl3azR5dmF2RzloZk5DSHJKX01CWXc2a0FYZVdyT2gxeDRmaWx1MjdyeEh1R0NnNHRGQVRNLVBYQllxQ3lreHpyNUdCREJrVm94YmEzVGtNUkZ2ZXNpc3M0Q1hJZ0tfMEFGbG9hRThwLWJ1cEtHZU9ORmtIdkxrQmZxU0pHUkxpZDhYQkc4YWU0YnhRaW9iRTBmYVEzMUtEbjNySVFrUnh4OVI5YlNzWG05VHJUZVZIMDhPWDNDcHFRdXVOTXpIaVc3cTJiX1NEdklhRDdocw?oc=5)
+- **Coalition** · Company update: [Lawsuit to block Morrison YMCA sale coming, says coalition to Mecklenburg leaders](https://news.google.com/rss/articles/CBMidEFVX3lxTE5iNlY2UXozY0FBT3pPYmRiM2xibDVJdXVTbF9vSXJHMEpwcDhkVWdnWFlNTkFiMEd4LW5feTlpZkRTd1M4RUNfTGVENkpnWlh6WTJzQVhoaEhwMS1OcEx2R2xPZEZXTEZPWnFaekhsZXJNOUF10gF0QVVfeXFMTkhnREt3LWdZbkV3S2EwRmVkQ1hTZGFiRXNUcGNwYUs1Qm9rNGYycTBWOWVOMzlURFNqV0NQblhUdFVncHR5bHdMVWlUVDdqVVBDd2VQVVFrbW1GZlRzTUVmWjFNY21oOHJYVW92WjhPYl9tSkY?oc=5)
+
+## Investment / Brokerage
+
+### Retail & institutional brokerage
+
+- **Interactive Brokers** · Product release: [Interactive Brokers Launches Autonomous AI Trading With $25,000 Capital Limit](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbjhmNGY4czFwWVpuNW9BZXJoOEFIN1V5MTFrNEdqUlhHd3NyeEFDWWlXMGNIdmN6bWtGQmplSjBqdUtjT3FYbWNlbjRFX002b1hVMFZFRDhfVU90T19xaExjQnpBMGJyZ21oczhNTTAtWmlvQXNWMm0xMURoZ3djSnJBbkdXVWFiSW1NLXhPdkVpTGlFY3MtV05DWTVqMEtUMmJ3?oc=5)
+- **Kraken** · Expansion: [Kraken Parent Payward Wins In-Principle Approval For Kazakhstan Expansion](https://news.google.com/rss/articles/CBMiywFBVV95cUxQeEJaQTVTVHY2Sk11dE1QZjhseXVJMlRqVDBtX01mUTVDRVVMUFhSUzhGeHpEdzYyN0xLVXZKV21tMXpsalM2MWxpZUo4ejRxbHpmbUgyblhkQmhaR21Rb050MWhnNUNlSzUyNEFrbDQ0eTE3VVI2SkZEdnlvNV9abFpfM056YzN0WHJyd1dZSmxnSk9yYkVVTGhhZ0FhLUk2MUYxaUl5R0VwUXJNNnNTazQ2RGV6M1NJY3hDVXhheWZ5ZXZZRmFUSjlHUQ?oc=5)
 
 ## Lending & Credit
 
 ### Digital lending / SME & consumer credit
 
-- **Upstart** · Partnership: [MIT Federal Credit Union Expands Partnership with Upstart into Indirect Auto Lending](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNG8yMTdsUjVIZmVvTjdhbVZ5OXJhQTIxSTQ3NDNKaTJJWmVHM3RzdTRzS3U4WEJFeE0wRmhfNHBMZXBvaDg2emhHdGN2UFBucDNaSy1lR2ZMZFJmMEpOMTdmSjFsbk1pOXRhQ29JbEU1Vmswb1Q5VnFfaVlIRHpUVkFsRjZ6THJ4Q2NmNGQydFZicFJPaHY5TzNJa1U4VlhiakotZ0xwQzk0Y2stNXdtd1RhM2pvckQxNkxZeVdad0dYdV9ibnlGYWZla25EZlVFaWw3VVJHYUw?oc=5)
+- **Upgrade** · Partnership: [Vietnam, Denmark upgrade ties to Comprehensive Strategic Partnership](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcU5TZ2QzaUJaOW1jeGZqcEdPUTd6X3IzdGxGWWpDbHJuMG0zU3BudnJNREl4RzNXTGZDdnR3RWRfWlhIX0J2aE5lX002VEtqS3VHUXY2LWxQdllBN2duT1B6VDdfMFdVZEZudE1ESG5RUUFtdGhPSEdfQnNzZ28zTGNtX1N0QldxWXpNNC1FSDJJb3A0c1RyYXdSZm5oTjI3V3I4ZlM5Zkk?oc=5)
+- **Upgrade** · Expansion: [Wollaton Park parking expansion could help fund £200,000 play area upgrade](https://news.google.com/rss/articles/CBMipgFBVV95cUxOOXQ5dFFXbzdveHJQdzAwYmlnUlBEUUFkQ1R6bGViZWlmb1lqTHU4WW5qU0hqUENZclVZTmx3anlhS2x0YTJmUWkxRzdwQ21TTXRRUUlLWTlFOGRRc1B6SkdBNTFmcnJjQWFfbWsxUl9Vems5SWVFZ0VRbXd4aTd0Nm5hME1lUG9KWkZveHN4c3dvSFR1VUlsYy0wb1NKX0pSRUlIUGJn?oc=5)
 
-## Middle East / GCC Fintech
+## Payments
 
-### GCC banking / payments / open finance
+### Payment gateways / PSPs
 
-- **YAP** · Company update: [Israeli companies misled Canadians about West Bank real estate, complaint alleges](https://news.google.com/rss/articles/CBMiswFBVV95cUxOYThwLUprclNJNUlCSnJiSS1qVW5nSk9yUExENG5iME5vR3R6T19NQjEwdWhQTVVlM2FSTzVYQ3lfZGltVTBKcVo2UTdjZGZHNXVqa3QtV01SOFRibW9vZXdVNkdUMWFVSm5QVVFldTZHcWRpQVlTcVNObkpfX1p6QkZucmNRTGtFTEZZQVljV2dZbnQ3QUwzWHJyRmQwME4wa1M3aDQwZUpKcFp6LWN6SklpUQ?oc=5)
+- **Block** · Product release: [Block launches local voice AI model for business and consumer use](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDdnRkNBaG1PR1hYZVluTHA3andHMjdVY2tJaEhNY3I0X1ZMdG5Lb3dWTGxSMXRmRVc0SlJobTlvMlNSWGNPUm16emI5YXhNUzZGZmNRYUJmT1pELW1DYmczZVNtc0wxWmpqdG9peG0yRVBrei1JaGtzek1HYXEyY1EwcGhzbTctSjY2Q1NQZw?oc=5)
 
-## Payments Infrastructure / Merchant Commerce
+## RegTech / Compliance
 
-### Networks / acquiring / POS / orchestration
+### AML / compliance / regulatory technology
 
-- **Mastercard** · Regulatory: [FCMB, Mastercard launch digital platform to expand financing for farmers](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNFVRSE93TVBxMzFXUWczTUlTRW4zRnhHSC1kODVmSHZfdkJNdzk0Rm43NFZ1N2JQcVZHZGxXel9wUmFiNjNlelRac1M4QVZQazlrS3FGcTFGanVSYnkwSGdzcXlkb1Q0end1N1NyLVdiN2ZBeldKcXE3YU9oVGlHWHhEcWhXaHlmLXlEMmFnRnVna0w1VVZXOFpfMUJ4b0VrTng1aNIBqgFBVV95cUxQbkVjOEJQUTBOamJKYmRIOW1OeEMtSkVqeFhmWE9obTZpNzlUdzJhYXpMd0wzaEVzMzFsUDg0bjBKLVNPYUE5eF9vaFo0RU5oajFEOWozREs3akRwNEJvazN3OVBod1RtQXFRZXdtMWc1MlAyTkpDMVZ4SjQ1ellyMWpGTks1bkFGQWY0UEZZdlBrTU9wZ19ib0Y4Ni1yTnl0cDZnUVMtVm1uUQ?oc=5)
-
-## Vertical / Industry-Specific Fintech
-
-### Vertical embedded finance
-
-- **Built** · Company update: [In April 1949 the Navy Laid the Keel of USS United States, a 65,000-Ton Supercarrier Built to Launch Nuclear Bombers, and 5 Days Later the Secretary of Defense Canceled It. The Admirals Revolted](https://news.google.com/rss/articles/CBMiywJBVV95cUxNSFlnQV9fVWRNdnhKVDRlOVdoMEF3eEpHZFJGTENiRE5tM3FlcTFuUndxY0lHNVUxQVpSN3MzeTRJSjRwMDJXYXZuLVBKd0o0ekNrUzdWbmgzcGhmbXN6MzlONDU2emNmUmlGRl9PTG56aTBRZkRLU3F1QnlQQXZFMllUOVVMelhZZ1hhMTV4NDZWVUJrYXBjXzBHMVczb1hSME9WOGl5VTdPVFJsSUtZOXFKVDFIakplNzFRd0c4T3hfS1VVQlFkZk03algzcEVDSEVyYXhDYTVCd3NZM1ZTV29KVVI4Z1kxV1A0UWZwZ0kyRzB6bUQ2OVpOYmwyUVNqdXRxcG5jUGtZWC04RzFxLTAyQ0tOZnMtSmFXcE9vWU1zV1V6S3oxLV9yU3ZsOWV4T0xXUVNpSUpkQW1yWnlub3BhVGthY0szTE9J?oc=5)
-- **Built** · Product release: [JL Mobile Tyres launches a new website built for drivers with a flat tyre](https://news.google.com/rss/articles/CBMingFBVV95cUxPdVlDNTZNeEVJY00td1pSMGNrVXRud291TldjNDNNaGg4a2ZzbGd6U3FBN0ljazhIVThRd1V1bDdXNm82QTNwTlZseENzVWtSQ3hiWFRKNjVWUENsdEZpOUVTTU81bmhSWE1XaHMxOW9YekpNZHVEcWJSTk8zSWxkYktVbFlxQWk3Y2ZVcUNRSDllT1Fqb0RhUDVua1JuZw?oc=5)
-- **Built** · Partnership: [US relationship built on partnership, not dominance –President Ali affirms](https://news.google.com/rss/articles/CBMisgFBVV95cUxNY0JDU1R4N1ZjVjVkYThtWEZ2Sk16RThEU205aE5Jemc2bmJMT1Rsc0gzUUZjWEg3Ump6Y0tFdUVTcmRGRWxORXlDYzB3Rk5qXy1YT3dQOUhpdnFaRjRwVUJKR2tib1ZJdXB1VURvSU5kYW1aVWNuek9WeU5COTY0Qms1bE5lYmozNkp6R1lBVzZ6MXNHMzVPRzNoTldralV5NnBIMFJmczR5TnlzYzRyNzFn?oc=5)
-- **Clio** · M&A: [Inside the Clio Acquisition: Kids, C-Stores and 165M Yogurt Bars](https://news.google.com/rss/articles/CBMimgFBVV95cUxQY2Fra3JTT3RJYzNaUTVhV1NHbjFEaWVaVjQ0NWx3UU0xVnBNOUd3c1hLc1pnRWVaY0ZPd2VIb0k3R3J6ZGRSTXlFX3NKTHljNEF1QTJOLUloMzdpXzdqb2dVX0tDbkJyYXBtRDJMSlZuT3VGWmp3bU9mczF5OTNnMm41NldieU5CNDgwMjVkV0lzbmVTUGcyU3Vn?oc=5)
+- **Hummingbird** · Product release: [Caleres launches Hummingbird. MarketScreener lists USD 17.00 for Caleres stock](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3ZjaE9WSV9pT1VxU3YwZ1BGSTZULW9JVXFPMExQUkF0UGthOGsydUEyZXB5dTlqWExRSGVvdWg2UXVlX0E2RkpTWGlWT09MZlV1b2dUZElaeVpDR2tfTTdScldPdzlEemZQRFJFUF9KQWpXQWk2SlFzeFhFd0FsOFRXeGJ0c2wxcThrMU1HaUxaNzBOREg1SU5KSjBfQkNMZXMzaEtOWW5HSmxSQjBaRmN3cTVCX05zV3U4Yjhza3g4Tjk3T3ppX1JpOEVnbkx3VUE?oc=5)
