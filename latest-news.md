@@ -1,91 +1,134 @@
 # New official company updates
 
-## Accounting / Tax / ERP
-
-### Accounting / ERP / tax compliance
-
-- **Sage** · Partnership: [Blue Sage Capital backs janitorial services firm Clean Team in founder partnership](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVk12VVhOdmxwTUcwZFRkVjUzRUdXVnVoTnBFUVRmbjZ3Y3NRaGhpRDhWUW1aYWNGdWM0QTZaaDdnWXc4d2ZhWWxEOWV4c3JlbWFfWEVQdXZneWJnZkFUczVjMDNTWkFNUmtFRjREeWJqZ3NnMzgxSVRJYXg5RVlPdGsydW9UelBYeGduOV96d1hZRFFVSHN0Y1VWRnRlS1hsNEtYU21zXzlLeWtZakJmcFJFa0lmWHk3OXVuaG95N3U0SW9S?oc=5)
-
-## Banking Infrastructure / BaaS
-
-### Core banking / BaaS / sponsor banking
-
-- **Jack Henry** · Company update: [Jack Henry plans to support tokenized deposits using Google Cloud Universal Ledger](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdC01VTFZRklHT3Etc2NJTklrdHJNVUVlUi1UZnBpYmRTZmNmYkRuOVFUd0puNUl4Z0dpVnFpdkpZT2t6djRYNWpOeG40dVFUT3RRNTFScmdWVE52YmFUTjNNLVNlNG8wb2ROeWJOWHVDSGg0YWVVei02OVFDUnJrN1BnQkpLWW9iXzdnRUxCWFpkWGptVDc4MlZFa0ZiMk5zRm1mTExzWnloRjZ5MDlaYUZCN0M?oc=5)
-- **Unit** · Regulatory: [Penang short-stay operators seek multi-unit licence to cut compliance costs](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEROM1dlWUNYcm1oWklfNjdCN3Y4ZjZoU0ZuTzN2MkdfVUs3Y1J5Y1ZrNm5vc0VTbF91aDluU2dSSHZQeFl3dllkbDBoWG4tYnhYaXZ6eGc1dk4xTzFEOHlCRGU2QXF5cXRUSzlnN2ZOTDhiTl9fN0ktb0c4Um95cG1nS0tSZXEtSWctREdqQzZRaHBNdGJLSFJUblF2UnVo?oc=5)
-
 ## Capital Markets Technology
 
 ### Market data / trading / execution infrastructure
 
-- **ICE** · Product release: [ICE launches nationwide SNAP fraud crackdown](https://news.google.com/rss/articles/CBMikgFBVV95cUxNZHpGeHdQT01PRGkzTWZVVUE5ajBrRXdyQldhTEZBUmdWXy1pSzVCSFpTSll5b3pnTVlJeVZMWEVvVm0tQkx2WUp1YmtaMDhHTXp5S1ZVS2cwUEhVWHU4U19yM2VYQTBHWDVmVXd0bGpDQjRtOFRkZHJ1VkFaYS16MnFuNG1KUmxYZENrSExtRURwUQ?oc=5)
+- **Trading Technologies** · M&A: [Binance Acquires BTEXCHAIN, Accelerating the Integration of AI and Global Digital Asset Trading Technology](https://news.google.com/rss/articles/CBMi_gFBVV95cUxORTN1NXpxR2d5SFEyMmNBRExNOXRITDdlbHV5T080N0ZxSHJuMDQxQUZRMDl1TzJqVWFjRVkzbjhjZ2JzMlhmQnFicUYxeWU0TU5QdDUycVc2Z3VFLWN5Q19vc2tDcVhrNGpzbHhQZWREWmxZTjY0a29zM1RMQjA0LTcxUV9hd0loVUVWbWd1djVteTd4RHZjem5wam9mSEctb2RPNUxlZldGbi1CaHNrbl83YU03LTJ4SXZRMThhYnY4cTM2U3p5ZWN1XzB3WVlOZjdjTTVGbE93c1A5RE9YcU54aW96akFvZ1kwcjBmcUtSVnJLYW0zX3RveXk2QQ?oc=5)
 
 ## Consumer Finance / Financial Wellness
 
 ### Financial wellness / EWA / budgeting
 
-- **Clair** · Product release: [Clair Launches Physician-Invented Electric Nasal Cleaner With Oscillating Saline Technology for Daily Nasal Hygiene Invented by Dr. Kemi Azeez.](https://news.google.com/rss/articles/CBMi0AJBVV95cUxPcWg1ZndWT2tycjdpSHI2OW5PSXZPRG02ZXlxRUgwY2VsWUpoOEJXdTNjQlFmR0JqM2FKakttbllWd2FidVVvMHNuVWZrWURiYmR3UnJZR3Y5elhIUTlRWW85NUl5LTF5RzZjT2RMVWhZU284bm5iLXBvZk85b1NFb1drcmdwc1RWanJvUXNCckJoVFZVbXNuSm9kOVVkd181VFowTmVTdXRaT0Z0R3Flai0ybUlIalhnTXNIMW1NU2NKZGJma1B1N2kxMi1fZENYRHNyWW9VbjBYUnZVWWJUNTJCWVVyZFNQMDFicjlkX2hBcmtLZ2hsQUFtZjJ1YlhNQ09HQ05OaENqQzdtTHFDNEU0RW0zMDFzejIxNGszMnRJZERKcU5Ra1k5bXExVVQybzBpU0s4TVZaQ3NOQkZxZWotUDNYWWxIX1N1V0JpZGI?oc=5)
+- **Clair** · Product release: [Clair Launches Physician-Invented Electric Nasal Cleaner With Oscillating Saline Technology for Daily Nasal Hygiene Invented by Dr. Kemi Azeez.](https://news.google.com/rss/articles/CBMiywJBVV95cUxPOGNBX3dMZWdMWDZhcUp1U19OR2lRamkyUjJRVS1fM1JRYTl1STJad21vcGN2SVVsMy1GVUlKOGZTYW0tSGdWejI0OGdRRTE2czJNMlBqZ181Nk4tMVB6RFZaZ3hVWXBnVUFka2pwQnJpRTljN25sM1RvTktpMjg5ZWZDbUlBYllqM3lTYzZ6bnY3UUF1N25CaC1oektsSzd1SmJ0TkNEWk5OX1RDRlVuMk1SSU1lTWE0X2RQYjkydUg3TWRMZGl1ZEhnUkliRWpkNHloeE1TQlItblpFOURqNXFoTTJXMkVWcTlMUEN6RVlSeFRjMm1mTlBmVnRELWZyOFpPWkpIdWlJRGlMdUdwWjVhVmRrSXRCQjFKTnQwX3RKR0R6bzNTS2JhTE9vZzhFSVJwZDJYZzhDQkp2eVRCdHdoeFVyZWhRMEJJ?oc=5)
+
+## Credit Infrastructure / Credit Scoring
+
+### Credit bureaus / scoring / decisioning
+
+- **Experian** · Company update: [Hampton Regional Data Breach Settlement: Est. $20 or Up to $5,000](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnc5OGc3TFBsVHBVNnBqaDN6WlZrWndsekJRRUFDZWcyNFlvSlZ5cWExVWNJdlJfVS1MTnhjVHhZV2Y3UnJpemg2dGhycl92cm9VNUxNRGhZTGRDQ2RHalhNWTZtWURUU2NzclFwQmhZelAwU1hEZklVMF9PbUhpbzRmVkEtaFItaEJhcEpEVzY2Zkp5QlRsX3hKRkQzR29pdkhMcjNPNGN1Nl8zQ3FFZ1BjUQ?oc=5)
+- **TransUnion** · Product release: [TransUnion Launches Tool To Help Mortgage Lenders Cut Credit Scoring Costs](https://news.google.com/rss/articles/CBMisAFBVV95cUxONE9Zc3dtempORTl3VDlUV0xXei1jSThBbnMzSHBYSXZQTlJOaUJ3RjV6bnhMNmVoMmRiNHduX0hqQTRkWjVFQkFZdFpuMXdlQ0l0OGJjOWtjczdnUG9aanhfR0pfcl9hVzNRT3BJTXNaRnFMam80T2UtWUVQUGtzS2xvUzVQdmJ0QnR5Z2hDM0tTVXBEXzlrSHZ6eWZnOURxNk9pX2M4OWdqT2ZZQUx0aw?oc=5)
 
 ## Crypto / Blockchain / Digital Assets
 
 ### Exchanges / stablecoins / custody / blockchain infrastructure
 
-- **Binance** · Company update: [Binance Futures Will Launch USDⓈ-Margined PREDICTUSDT Perpetual Contract Pre-Market Trading (2026-10-25)](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGdMMEhscnZzWGVoZW9RMmwxV1dfMXgtenZGUFRPVTFsNUhSRGwxN1h4bktVT2hsQ2JrNFJvNEcxSnZrc1FpMktkdm5mb25PWHVPWWh4TnpNWUZuN1ZfQjJIZU01Y2V5djhBRlhCcmdaS1hSV1dTeWEwQm9DS1RoMXNzSzk4ZlU?oc=5)
-
-## Digital Banking / Neobanks
-
-### Consumer neobanks & digital banks
-
-- **Chime** · Company update: [Bay Area’s highest-paid executives, ranked: The top names aren’t tech celebs](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRnpOYUNxbE1nZ1NyQ3V1MFZfZ3JBQl9fY3VYN0dCUmxmUjdOLTNDaEpVY0lFRVhjZEFtbThKdE54a0RVVnVCZ2VjX0xfTjBSVmhBRmIwVHJNMzZTTGxpTzBkeGxfa3ZHUERSOG1PclRNR2NydWdYQUxWazJjbVFRYkVXZVM?oc=5)
+- **Binance** · Company update: [Binance Futures Will Launch USDⓈ-Margined PREDICTUSDT Perpetual Contract Pre-Market Trading (2026-10-25)](https://news.google.com/rss/articles/CBMikAFBVV95cUxOd0lua3BCRkc5eEZVc0QyODk4TjBZVURJZ091UUg5WWJCMXl0ZjNDNHhTUWdseFdHS252eko5TGs3MUdzOGlSR211ZGgtV3hQZF9tdExDSDRpQXFjVzBtWTVDR19sVTZmd2x2cm9TSVhxUXhKNU56dWFhMm1QT3NRcUZhdDNjLWJnUGRGMzE0a1Q?oc=5)
+- **Circle** · Company update: [Weekly: $68,000 Stolen from Ukrainian in Trust Wallet, Circle Lawsuit Against Trump over $2B in the UAE, and Historic Solana Upgrade](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVlB3M2VWMTZYMnF0TUZXWEV4TXpCT0JYT0JUeEd0eTBWcnhLeXZoRXZZVXdrVTZmaFhwcVcxU0NrYWVKeUQxSlRPVUE5WGVDcTIwZkFzMVN3LTZEaHBGdDEwZjhXR3k5NUlMZEJMQm43b0ZsRHFpRURNV0p0M2NLSlZueEo4dkNVYmY1aDY3MEVrakJOWGdSaVZOSlNOenZLZ3hvX1B2RV9xUTJoN2FZa2hTdUJfUUZ4dFhUdlNVSlFoelNJaXZjX3RHTGJBbl9GakVEa295Nmg4RTlzbERKVmZHbFFHZ0U?oc=5)
+- **Copper** · Company update: [Automated License Plate Reader leads to 2 arrests in I.E. copper theft investigation](https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1U2dEYtWVhBYXM2amh5ZEJ5ZWhfU2FvcGN5X19kNUJxY3ZyUGNYdWQ1TVc1QzBxeFRvWUkycEFiOUlYc0NSbnZPdGlLVkFRUUtPUWlweXpVdXRkanpoRWk0cEF1ekJxVkkzYUVQQ2UyOG9yQTFzeE9yNWJpMmlZcTZkTXIzWlFUY0hQY3lwY2VKd055UEZlZEo5M2FDZ2tIUTZSQzR1QnQ3cWNLekstMUJjemFWQUZ0RkFEMdIBwgFBVV95cUxPMHdDdElHTlMzbVZkMjhpUkpFd2RfZWpVLVFmSXo0SkRTWTBGTXpSeXE5aFBqa0dvSzY5N1JvR21EQ1ZrTy01ZmlHSkwza29UZDA1bnpRVzV6ckx1Ukk2ejhnNWcwWm5FcU5hVTFuZ09vanA4aXZXS21VRFc2a29RVjJNM1BVaEt1TE9WNmxqLW4zT0RXLTlxUzZPbUk5S0lOYzVKUUozRUsyOUM5RlhtSEdXQktlc1puZER6dE91M2ZNQQ?oc=5)
+- **Fireblocks** · Partnership: [Euronet and Fireblocks Team Up on Stablecoin-Funded Payment](https://news.google.com/rss/articles/CBMijAFBVV95cUxOMGdzN1hNWjFqM0JpVEY4MDFINmZocVF5cXZqM1FnU3Z3WHlhV2xUeG1TMUYxeXpwLXJQMm1weFZGakJzOWtVeEgtelY2b0FYZ3IzV3daclpsUk1TUUN3ZGI5TE1Jek04WVhJR2lacjllVG5nQkRNblhZTDRmRjg0Vmw3c2hXSUVNYmktUw?oc=5)
+- **Fireblocks** · M&A: [Fireblocks Denies $2.5 Billion Visa Acquisition Talks](https://news.google.com/rss/articles/CBMibEFVX3lxTE9EaXVnT3BBbWxlejRPREdTbXUyQXZiNURVU3VEcXA3M1kzODRXWDVXMmsyQkNCRTU2WWNOSUh5Q0lkYVFBeWw1SFBLb1RidE5iZWlTNl8zQlZ4c2hDNk9faXJHTGlyV3pKcl9ncg?oc=5)
+- **Fireblocks** · M&A: [Fireblocks Denies $2.5B Visa Buyout: 'Not True at Present'](https://news.google.com/rss/articles/CBMidEFVX3lxTE8teWFqUWJUc3dTSXU1b3RuMWhqV3Rra3lKTkJnbUZHTkdsR05aY2hJRzJ0T1pqb1dvdDNZamZWWnBhVGxoUG5sQ092dWEtRHJtVTZxVWVoMmtWRWx3MTFaVFF2OXhsbEtLQTFQRkllUnJ1M3BH?oc=5)
+- **Fireblocks** · M&A: [Fireblocks Denies Axios Report Claiming Visa Is Exploring $2.5 Billion Acquisition Talks](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSndEaUFjNVF2SkhnR0lFLU1VQTNkMjF4VS1qUkZYd3poaGFnUDRIWWFIRDR5ellGQmpSTmJYc2dnU0dDaHVHcnBGSEliNUhqQmNLX20tc0x1WFNyMzFDWDJiemJINkV6ZlBsamI5WEYzN1FwUDF2OUQwSUYwdFRRdzBtVk5CWjBtQmFFQWY5TUZhOXJhdlk3WDdlR3pSUGFEMlBBUVZXRFIxRzhfZUMzTThmVWVDZw?oc=5)
+- **Fireblocks** · M&A: [Fireblocks Denies Reports of $2.5 Billion Visa Acquisition Talks](https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEJGM29KdmtOUHVOQ1dWczlVLUdzQmYtWTFJYnVTYldkTmVGdEN0dVNmdDBqS0FQcGlUcEZkN2NmSUNORUl3Vk0xenlsWW9YUFJqVGZ1V3BSbUU0RG9JREdFQ3BoSWc2Ulpmck5ybGZsV2xoWDRDc3NBZUdZMUtiTjBRYw?oc=5)
+- **Fireblocks** · M&A: [Fireblocks Denies Visa Acquisition Talks for $2.5 Billion](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ010dHB2OWxHWGc4Si1URHNiYk9HUHd2MlpKUU5veFJEOEZxNGVQWVlCZE1FemxscGVLVTZGVWtxNFZFMlE1MXh5cVFrQ3c3QmpOb1dZekVSTWZ4dEhud2l1N09famZIYmdIOXBtVXRiWWdKRlpTdWlYWUFEcS1DYXd0bEtDelk4?oc=5)
+- **Fireblocks** · M&A: [Fireblocks Denies Visa Deal Rumors After $2.5B Buyout Report](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdHJaNVYxd2hYS0s1R1pxVW9oZEhiUGxJdnV4S19DLUZ3RDZsbVViOGVVV0oxWW5nXzdJQksycWU5Mk41UXpNajBQbTd6c1h0dkFLVml4YjM1WENqdnFORlBOYlk0bTkwbVJnTF9rS3pUMEp4eFNWaTdSTnhma2JXdUNfOW9FekxLeXV0Rm5KUG1HbXlONkdOZw?oc=5)
+- **Fireblocks** · Company update: [Visa In Talks To Buy Fireblocks For $2.5 Billion](https://news.google.com/rss/articles/CBMigAFBVV95cUxNZnZPb2xzQWFPbm9uejdmQnNPV1hLR2NFaEdPamdJYXA1YkxjaURaQW9HMjE1ZnNxdVBkRnZCWTRkRUpkdVdpNDZoYm9TbU14RDk5SXdUUXVMV3RjeE8zbVZFRHNzczk0VWVKOHliSGNJLXpqSlVzbHdXUHU2QW03NA?oc=5)
+- **Fireblocks** · Company update: [Visa in Discussions to Acquire Fireblocks for $2.5 Billion](https://news.google.com/rss/articles/CBMiigFBVV95cUxPU25xcWZtaExFM2phdTItNXl1UFlJNndSS2I5TGZKRzBxNjFvMlRCVDh1TXhRa040MUVLUVRpRjJ2WGJrRGpBSUJxc19ORWNXZWd0MEYzNVBLbEJub01zeXlyVzRGNjZHSWlJQllnekhPLXFSVWtnamxMNE1fSGFPcEpKNlhFcC1WQkE?oc=5)
+- **Fireblocks** · Company update: [Visa in Talks to Acquire Fireblocks for $2.5 Billion](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFFHX1VuZUVWdXRQOTBSVXZTV21qV0YyM3o3QmdiYk5HWTFtZDItQ1M3UUVCdU5YOUpHT1BRclRQbGZWc2tzWVQ5MThTZUxJUU5MakZweWFhcTBxSjVvYzlGOWFZdUM0WWNNby12TFFnTm1TbmV4M2MwUzEyTDg2YlFR?oc=5)
+- **Fireblocks** · Company update: [Visa in late-stage talks to buy Fireblocks for about $2.5 billion: Report](https://news.google.com/rss/articles/CBMifEFVX3lxTE1YTXNEY1AyaFFLTG1sRkNmYldlQ2xyWmRIMTk1cUdsbG9FclBTenFoSnYzeVZyWEU2VTU3Rk12bUNHSUFZRWhfT2pVWkRnSTh1dlFIcWc2M1RodThiZzc2Vk1nWU5WZ0RmNTV1VEVKRVRGTDdyU2oxRW81c2g?oc=5)
+- **Ledger** · Regulatory: [Boerse Stuttgart’s Seturion gets DLT trading, settlement license as EU cap debate heats up](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMWg4QnM2QUhsTmFueXBzcWo0bDQxZ0ZtOFBtbVdPNkJQVnRMTFV0VHBBbzhLVXJjblg3NjA2UWFPZlJZeU1FSC16Rk9ucU5sSWdHSW5SakJ1R1JNcXRLVTlRZUxXQ1NlbHIyWEJqRW9sOHdDQ0FEaFN5WnR5Q21FQ3NCdy1Za0VlUjJkb01sRjFfd25VWmV4ZHdPX05IZnRENGlMX3lMTmZXWnJmQWVVMl9OTEpSNGFuRnQyVjBPLUtPUQ?oc=5)
+- **Tether** · Funding: [Mural raises $28M in total funding as Tether leads $15M Series A](https://news.google.com/rss/articles/CBMibEFVX3lxTFB3MVNtVjl6MHhwUHcxUnJobGVHLXFwX0xWNG1yMzBTLTVrekRncHlScllmLXh0ZWZTM3BNQnpLRFozQ1BOeUVOSzdNMU1BTTJRU3BxSE5Sa2ZidU1KTFgtX05oX2RoSnpuWDZJQQ?oc=5)
 
 ## Financial Data / Infrastructure
 
 ### Financial data / private markets / intelligence
 
-- **Morningstar** · Company update: [2026 ESMO | Innovent Announcement Phase 2 Data Presentation for IBI354 (HER2 ADC) In First-line Treatment of Breast Cancer Provided by PR Newswire 25 Oct 2026, 06:00:00](https://www.morningstar.com/news/pr-newswire/20261025cn80332/2026-esmo-innovent-announcement-phase-2-data-presentation-for-ibi354-her2-adc-in-first-line-treatment-of-breast-cancer)
-- **Morningstar** · Company update: [2026 ESMO | Innovent Presented Phase 1 Study Data for IBI3001, a First-in-Class EGFR/B7H3 Bispecific ADC Provided by PR Newswire 25 Oct 2026, 06:00:00](https://www.morningstar.com/news/pr-newswire/20261025cn80333/2026-esmo-innovent-presented-phase-1-study-data-for-ibi3001-a-first-in-class-egfrb7h3-bispecific-adc)
-- **Morningstar** · Company update: [Best Broadband Provider for Small Businesses UK (2026): Love Business Group Recognised for Helping SMEs Compare Business Broadband Options by Expert Consumers Provided by PR Newswire 25 Oct 2026, 10:00:00](https://www.morningstar.com/news/pr-newswire/20261025ph79764/best-broadband-provider-for-small-businesses-uk-2026-love-business-group-recognised-for-helping-smes-compare-business-broadband-options-by-expert-consumers)
-- **Morningstar** · Company update: [Best Protective iPhone Cases for 2026: Top Slim and Drop-Protection Options for iPhone 18 Pro & iPhone 18 Pro Max Recommended by Consumer365 Provided by PR Newswire 25 Oct 2026, 09:30:00](https://www.morningstar.com/news/pr-newswire/20261025ph79755/best-protective-iphone-cases-for-2026-top-slim-and-drop-protection-options-for-iphone-18-pro-iphone-18-pro-max-recommended-by-consumer365)
-- **Morningstar** · Company update: [BioNTech and Bristol Myers Squibb Report Encouraging Global Phase 2 Data for Pumitamig in Advanced NSCLC After Progression on Immunotherapy Plus Chemotherapy Provided by GlobeNewswire 25 Oct 2026, 07:30:00](https://www.morningstar.com/news/globe-newswire/1001279726/biontech-and-bristol-myers-squibb-report-encouraging-global-phase-2-data-for-pumitamig-in-advanced-nsclc-after-progression-on-immunotherapy-plus-chemotherapy)
-- **Morningstar** · Company update: [Frontier Medicines Presents Promising Anti-Tumor Activity from Phase 1/2 PROSPER Trial of FMC-376 in a Highly Resistant Patient Population of KRAS G12C-Mutant NSCLC at ESMO 2026 Provided by Business Wire 25 Oct 2026, 07:30:00](https://www.morningstar.com/news/business-wire/20261024166774/frontier-medicines-presents-promising-anti-tumor-activity-from-phase-12-prosper-trial-of-fmc-376-in-a-highly-resistant-patient-population-of-kras-g12c-mutant-nsclc-at-esmo-2026)
-- **Morningstar** · Company update: [Johnson & Johnson reports 75% tumor response rate in advanced prostate cancer with JNJ-6143, a first-in-class RIPTAC™ molecule Provided by PR Newswire 25 Oct 2026, 07:30:00](https://www.morningstar.com/news/pr-newswire/20261025ny80315/johnson-johnson-reports-75-tumor-response-rate-in-advanced-prostate-cancer-with-jnj-6143-a-first-in-class-riptac-molecule)
-- **Morningstar** · Company update: [Libtayo® (cemiplimab) Longer-Term Data Show Increasing and Clinically Meaningful Overall Survival Benefit with Adjuvant Treatment in High-Risk Cutaneous Squamous Cell Carcinoma (CSCC) Provided by GlobeNewswire 25 Oct 2026, 09:15:00](https://www.morningstar.com/news/globe-newswire/9852596/libtayo-cemiplimab-longer-term-data-show-increasing-and-clinically-meaningful-overall-survival-benefit-with-adjuvant-treatment-in-high-risk-cutaneous-squamous-cell-carcinoma-cscc)
-- **Morningstar** · Company update: [New data on Lilly's investigational treatment olomorasib at ESMO 2026 show durable first-line activity in KRAS G12C-mutant non-small cell lung cancer Provided by PR Newswire 25 Oct 2026, 07:30:00](https://www.morningstar.com/news/pr-newswire/20261025de79926/new-data-on-lillys-investigational-treatment-olomorasib-at-esmo-2026-show-durable-first-line-activity-in-kras-g12c-mutant-non-small-cell-lung-cancer)
-- **Morningstar** · Company update: [Ping An Highlights Green Development Initiatives at International Communication Seminar in Shenzhen Ahead of APEC 2026 Provided by PR Newswire 25 Oct 2026, 06:01:00](https://www.morningstar.com/news/pr-newswire/20261025cn80400/ping-an-highlights-green-development-initiatives-at-international-communication-seminar-in-shenzhen-ahead-of-apec-2026)
-- **Morningstar** · Company update: [Xencor Presents Phase 1 Dose Selection Data for XmAb819, a Potential First-in-Class ENPP3 x CD3 Bispecific T-Cell Engager, in Development for Patients With Advanced Clear Cell Renal Cell Carcinoma and ENPP3+ Tumors Provided by Business Wire 25 Oct 2026, 08:35:00](https://www.morningstar.com/news/business-wire/20261025921014/xencor-presents-phase-1-dose-selection-data-for-xmab819-a-potential-first-in-class-enpp3-x-cd3-bispecific-t-cell-engager-in-development-for-patients-with-advanced-clear-cell-renal-cell-carcinoma-and-enpp3-tumors)
+- **Morningstar** · Company update: ['Nonanswers' aren't working. This is what investors really need from the Fed. Provided by Dow Jones 25 Oct 2026, 12:44:00](https://www.morningstar.com/news/marketwatch/202610254/nonanswers-arent-working-this-is-what-investors-really-need-from-the-fed)
+- **Morningstar** · Company update: ['She's living the dream': My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me? Provided by Dow Jones 25 Oct 2026, 14:00:00](https://www.morningstar.com/news/marketwatch/2026102511/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850000-is-she-taking-advantage-of-me)
+- **Morningstar** · Company update: [Agenus Reports 72% of Patients with Locally Advanced dMMR Colon Cancer Had No Cancer Remaining at Surgery Following Six Weeks of BOT+BAL in Phase 2 NEOASIS Study at ESMO 2026 Provided by Business Wire 25 Oct 2026, 11:00:00](https://www.morningstar.com/news/business-wire/20261025332881/agenus-reports-72-of-patients-with-locally-advanced-dmmr-colon-cancer-had-no-cancer-remaining-at-surgery-following-six-weeks-of-botbal-in-phase-2-neoasis-study-at-esmo-2026)
+- **Morningstar** · Regulatory: [Amarin Provides Update on University of Leeds Sponsored Phase 3 EPA for Metastasis Trial 2 (EMT2) Evaluating VAZKEPA®/VASCEPA® (icosapent ethyl) Capsules on Top of Standard of Care Treatment in Patients Undergoing Liver Resection for Colorectal Cancer Liver Metastases (CRCLM) Provided by GlobeNewswire 25 Oct 2026, 12:11:03](https://www.morningstar.com/news/globe-newswire/9852658/amarin-provides-update-on-university-of-leeds-sponsored-phase-3-epa-for-metastasis-trial-2-emt2-evaluating-vazkepavascepa-icosapent-ethyl-capsules-on-top-of-standard-of-care-treatment-in-patients-undergoing-liver-resection-for-colorectal-cancer-liver-metastases-crclm)
+- **Morningstar** · Company update: [ArriVent Announces Initial Phase 1 Data for CDH17-targeted ADC ARR-217 in Patients with Gastrointestinal Cancers at ESMO Congress 2026 Provided by GlobeNewswire 25 Oct 2026, 13:00:00](https://www.morningstar.com/news/globe-newswire/9852411/arrivent-announces-initial-phase-1-data-for-cdh17-targeted-adc-arr-217-in-patients-with-gastrointestinal-cancers-at-esmo-congress-2026)
+- **Morningstar** · Regulatory: [BAC Investors Have Opportunity to Lead Bank of America Corporation Securities Fraud Lawsuit Provided by PR Newswire 25 Oct 2026, 12:38:00](https://www.morningstar.com/news/pr-newswire/20261025dc79520/bac-investors-have-opportunity-to-lead-bank-of-america-corporation-securities-fraud-lawsuit)
+- **Morningstar** · Regulatory: [BETR Investors Have Opportunity to Lead Better Home & Finance Holding Company Securities Fraud Lawsuit Provided by PR Newswire 25 Oct 2026, 12:42:00](https://www.morningstar.com/news/pr-newswire/20261025dc79523/betr-investors-have-opportunity-to-lead-better-home-finance-holding-company-securities-fraud-lawsuit)
+- **Morningstar** · Company update: [Best AI Tools for Small Business Marketing (2026): CapCut Featured for Creating Professional Video and Visual Content by Expert Consumers Provided by PR Newswire 25 Oct 2026, 10:30:00](https://www.morningstar.com/news/pr-newswire/20261025ph79752/best-ai-tools-for-small-business-marketing-2026-capcut-featured-for-creating-professional-video-and-visual-content-by-expert-consumers)
+- **Morningstar** · Company update: [Beyond GRC: DigitalXForce Pioneers AI-Powered Risk Operations with Global X-ROC™ Rollout Provided by PR Newswire 25 Oct 2026, 11:00:00](https://www.morningstar.com/news/pr-newswire/20261025da80399/beyond-grc-digitalxforce-pioneers-ai-powered-risk-operations-with-global-x-roc-rollout)
+- **Morningstar** · Company update: [Borr Drilling Limited - Prospector 5 Rig Incident Provided by PR Newswire 25 Oct 2026, 10:22:00](https://www.morningstar.com/news/pr-newswire/20261025hs80401/borr-drilling-limited-prospector-5-rig-incident)
+- **Morningstar** · Product release: [Come Back to Firefox: Mozilla launches its most ambitious campaign yet to bring people back to the independent alternative to big tech browsers Provided by PR Newswire 25 Oct 2026, 12:00:00](https://www.morningstar.com/news/pr-newswire/20261025la80283/come-back-to-firefox-mozilla-launches-its-most-ambitious-campaign-yet-to-bring-people-back-to-the-independent-alternative-to-big-tech-browsers)
+- **Morningstar** · Company update: [Final OS Analysis Results from Phase III OptiTROP-Lung04 Study of Sacituzumab Tirumotecan (sac-TMT) Presented at 2026 ESMO Provided by PR Newswire 25 Oct 2026, 11:01:00](https://www.morningstar.com/news/pr-newswire/20261025cn79692/final-os-analysis-results-from-phase-iii-optitrop-lung04-study-of-sacituzumab-tirumotecan-sac-tmt-presented-at-2026-esmo)
+- **Morningstar** · Company update: [Genmab Announces Updated Follow-Up Analyses from Phase 2 Study of Petosemtamab Demonstrate Meaningful Objective Response Rates in Patients with Metastatic Colorectal Cancer Provided by Business Wire 25 Oct 2026, 11:00:00](https://www.morningstar.com/news/business-wire/20261023396881/genmab-announces-updated-follow-up-analyses-from-phase-2-study-of-petosemtamab-demonstrate-meaningful-objective-response-rates-in-patients-with-metastatic-colorectal-cancer)
+- **Morningstar** · Company update: [Here's the real signal to watch for the Fed's next move Provided by Dow Jones 25 Oct 2026, 11:30:00](https://www.morningstar.com/news/marketwatch/202610252/heres-the-real-signal-to-watch-for-the-feds-next-move)
+- **Morningstar** · Regulatory: [ILLR Investors Have Opportunity to Lead Triller Group Inc. Securities Fraud Lawsuit Provided by PR Newswire 25 Oct 2026, 13:28:00](https://www.morningstar.com/news/pr-newswire/20261025dc79541/illr-investors-have-opportunity-to-lead-triller-group-inc-securities-fraud-lawsuit)
+- **Morningstar** · Product release: [LexisNexis Coplogic Solutions Introduces Field Clarity for LexisNexis® Desk Officer Reporting System (DORS) at IACP 2026 Provided by PR Newswire 25 Oct 2026, 13:32:00](https://www.morningstar.com/news/pr-newswire/20261025cl80370/lexisnexis-coplogic-solutions-introduces-field-clarity-for-lexisnexis-desk-officer-reporting-system-dors-at-iacp-2026)
+- **Morningstar** · Company update: [Monster Energy and Call of Duty® Take Over Cosm Los Angeles for Immersive Modern Warfare® 4 Launch Celebration Provided by PR Newswire 25 Oct 2026, 12:36:00](https://www.morningstar.com/news/pr-newswire/20261025la80416/monster-energy-and-call-of-duty-take-over-cosm-los-angeles-for-immersive-modern-warfare-4-launch-celebration)
+- **Morningstar** · Company update: [More than a third of S&P 500 companies are about to report earnings as market confidence cracks Provided by Dow Jones 25 Oct 2026, 14:00:00](https://www.morningstar.com/news/marketwatch/2026102510/more-than-a-third-of-sp-500-companies-are-about-to-report-earnings-as-market-confidence-cracks)
+- **Morningstar** · Funding: [My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids - and I can't bear to leave. Provided by Dow Jones 25 Oct 2026, 13:45:00](https://www.morningstar.com/news/marketwatch/202610258/my-husband-wants-to-sell-our-15-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave)
+- **Morningstar** · Company update: [NovaBridge Biosciences Reports Mature Phase 1b Data at ESMO 2026 Positioning Givastomig for Registrational Development Provided by GlobeNewswire 25 Oct 2026, 11:00:00](https://www.morningstar.com/news/globe-newswire/9852348/novabridge-biosciences-reports-mature-phase-1b-data-at-esmo-2026-positioning-givastomig-for-registrational-development)
+- **Morningstar** · Regulatory: [QFIN Investors Have Opportunity to Lead Qfin Holdings, Inc. Securities Fraud Lawsuit Provided by PR Newswire 25 Oct 2026, 13:23:00](https://www.morningstar.com/news/pr-newswire/20261025dc79538/qfin-investors-have-opportunity-to-lead-qfin-holdings-inc-securities-fraud-lawsuit)
+- **Morningstar** · Company update: [RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) combination demonstrates 77% overall response rate in first-line treatment of patients with advanced head and neck cancer Provided by PR Newswire 25 Oct 2026, 13:45:00](https://www.morningstar.com/news/pr-newswire/20261025ny80367/rybrevant-faspro-amivantamab-and-hyaluronidase-lpuj-combination-demonstrates-77-overall-response-rate-in-first-line-treatment-of-patients-with-advanced-head-and-neck-cancer)
+- **Morningstar** · Company update: [The Results of Phase III OptiTROP-Lung06 Study of Sacituzumab Tirumotecan (sac-TMT) Presented as an ESMO Oral Presentation and Simultaneously Published in The New England Journal of Medicine Provided by PR Newswire 25 Oct 2026, 10:37:00](https://www.morningstar.com/news/pr-newswire/20261025cn79690/the-results-of-phase-iii-optitrop-lung06-study-of-sacituzumab-tirumotecan-sac-tmt-presented-as-an-esmo-oral-presentation-and-simultaneously-published-in-the-new-england-journal-of-medicine)
+- **Morningstar** · Company update: [Why economic health no longer dictates stock-market returns Provided by Dow Jones 25 Oct 2026, 12:00:00](https://www.morningstar.com/news/marketwatch/202610253/why-economic-health-no-longer-dictates-stock-market-returns)
+- **Morningstar** · Company update: [Worried about this stock-market selloff? Relief may be coming after the midterms - no matter who wins. Provided by Dow Jones 25 Oct 2026, 13:00:00](https://www.morningstar.com/news/marketwatch/202610256/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins)
 
-## Insurance Distribution / Comparison
+## Indian Fintech
 
-### Insurance marketplaces / comparison / embedded insurance
+### India payments / banking / fintech
 
-- **CHECK24** · Company update: [Accel’s London fund reaches US$525m](https://news.google.com/rss/articles/CBMigwFBVV95cUxNRE5PNEo3dUZIdFhIbzVQc3ZzcENhdnFuYU9WbGtFZjVkOUo4c1pwb3JRSVRLWENRbUZTNm1BX3k5N3VqSkIwSV94MU9jczNqbmtlaFYxQ2F5YVpuRktlc0FCbG5kcVlpbGFpWGNCNGhHUDBxN0MtUEZmQ2lnZGlyOThqRQ?oc=5)
+- **Fi** · Product release: [Scottish Horror Author Launches New Sci-Fi Horror Audiobook: The Horror on Sanctuary](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbHo3NFNvNmNuUFVZY1Z2al9lUTcxVDBHa180NkFSTTNMVmlLdGkzVk5BS3hxRFVFalRRN19XZmxDLVBvRFpjLXU3UTd6b20tM2l4V2wydVJnSkQ1SUdCWXJoWmpxNjJLaWdTbHJ4VHB6U2dMYXBzNEJvU29iZGJUU0duellPZWpvbUpjZzJjOFI1QVI2TmhOTEdrTG11QTRvT3I0MWR3ZWRMVVNFMXRQZVNfcXZsSmJtcFhyOWZSWmc?oc=5)
+
+## InsurTech
+
+### Digital insurance / underwriting / distribution
+
+- **Clark** · Regulatory: [Clark County aims to speed up short-term rental license applications](https://news.google.com/rss/articles/CBMirgFBVV95cUxPQUFsM1plZ3BaZDJub3A0RUJDZ1piS2Z5R3J2NkczM0pFRTVEYXdvYmtXbFd5SUxPNThVS19FTm1ZanRBa2VycXhoQk5nbkEwWE9YdndXSmJNZ2pzVEFsYlY1UmxiLXU4T3hNUFUzZnpWdnBOZGJOd05MYlpSRUo3N0xkOXhZU0VyM2xFX1RZNTVFV0xKWlFBWGIxX2dzM21mMDVWbkZKdWdmc0twcUE?oc=5)
 
 ## Investment / Brokerage
 
 ### Retail & institutional brokerage
 
-- **Stake** · M&A: [Nordika increases Logistea stake with €46m acquisition](https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVRyWEplcmZmUkJUTmxaRmNUQWlKS29ZcVpSVHdNbGhxM0liY1UyRTk5MFZrei0tZUZScEg5MFN6YTVreDhPQlFGUjUzVG5GSVRLc216clZXSEJvR3pES3VMT011VEZybjFKdnVNM3FBOExiRzJEMWF5UjVXWTM2aEZUWXB2QmZwNndWSm0weHNlbWlzb3c?oc=5)
+- **Coinbase** · Product release: [Coinbase Launches Prediction Trading Feature for BTC, ETH, SOL](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fY25hczU0ejBOQWEyTWpzbFFYaTFxV2FTdmxFazIzQlg2VGxtbnowRFNNRDZkckI3MVdjS2czVW1YM0poSkI2RTRiNDFWdEJ2R2pYekszcw?oc=5)
 
-## Lending & Credit
+## Middle East / GCC Fintech
 
-### Digital lending / SME & consumer credit
+### GCC banking / payments / open finance
 
-- **Branch** · Product release: [Sudbury photos: Branch 76 launches Poppy Campaign](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMGtpcmkzQ25GeGI2ZDdMTTlnYlYzaERDUXRnNGpoZEIzZWtBQk1TZlJscVJVYUZlSXVlV1JzSVRiRDF6UkpsRUVrRjFmajZJdURPakpCUG1PVVhiQXJjS3VFNDRJdnB2T095N1hZOFZySjc5V0dqckZQOFR5aEt6THp0UEhJMXc4eHhnaURZTGM3dw?oc=5)
+- **Fawry** · Regulatory: [Fawry secures FRA preliminary approval to expand into factoring, broadening its financial services offering to Enterprise clients](https://news.google.com/rss/articles/CBMiREFVX3lxTFB2bXpuRk51NlNlMEd2UGZJVndiMmdOTVRRNEkwUVFPNkVTc0F5Rk0tZDJ5aUZycWtMM0FjZ2k4cG5OMy1y?oc=5)
+- **Ziina** · Regulatory: [Ziina becomes the first homegrown UAE fintech to hold CBUAE licenses spanning retail payments, stored value and exchange](https://news.google.com/rss/articles/CBMijgJBVV95cUxPOGU0UE1oOFVGQkdhUUJNSW1IWEVqVzdCTWkxeXc1VlZ1cDNvdHM4MTdwQlBCY3hSZ1FGU1hrSFl6S2gteWZsR2tCQ0NBYU9oVVdWVTJwSnRGdmtldjJXdkFpblcwWUI1bk14MmpsRFNUVkVvNnB1NEtXbG4wcUlwSDNxTkhSRXNnamNNcFRSb3BuRm55aHV1U1hQc0F2blVuSy1qYXJvSzZvcWVoY2VGNjNiUW50UUFHbWRqQ09qS3V6S2IyNVVBdkVmM21VdFZWQi1abUNjWlo1cFdYM0VBY1c1OGpKUnFSVHo0S29UTi1SX3J2MVpMN1h5Y082V0k4ZXV5dGVHUm1FX0hjTVE?oc=5)
+
+## Payments
+
+### Payment gateways / PSPs
+
+- **Block** · Product release: [Block Launches Full-Duplex AI Voice Model Dessa for Local MacBook Operation](https://news.google.com/rss/articles/CBMirgFBVV95cUxOV0p1Q2Vic0tUZk80bXRjWFNuRDlYRW92NlBSS294YlFJbTR4WmJ4OWptclhfdG05ZTViclRndTRMYllJRzJZRFJlWE56cjlDaV9kZzFsWVV1cmRkcFpPamI0SGtYRTdXLWJQcUQwRW5ydEVwN3JHT2M2LWowcnlJeThiOU85b0FqQ0ZIWXN4bTlsQm1ERnNUOEFIaVRwVDh1bTNfa1BuMGp6Zi1QcEE?oc=5)
 
 ## Payments Infrastructure / Merchant Commerce
 
 ### Networks / acquiring / POS / orchestration
 
-- **Mastercard** · Regulatory: [FCMB, Mastercard Launch AgroPass to Connect Nigerian Farmers to Finance and Markets](https://news.google.com/rss/articles/CBMisgFBVV95cUxNOU9TWkJNQXRBZGF3d0p3eVJ2djJXTlF2Wk9HSnFLUldsVXpRNEh4OFlNX0lxcWxjNHFEc0dDckdnOWluNVNJS3FOSjN1ZmdTYVZ0c2F4MGhIclp4akRrb0RaOTVzSlpEUW15eC1PUUxOUjhWZDhXcTMzWDlKckpYdzkyV2hEUjRGeG02clFPMHdkU0NJSTFGdHc0cDdTWU9id2hoNnZPdmZOZFlYOVR0VkRR?oc=5)
+- **American Express** · Company update: [American Express Platinum Lodging Credit Requires Minimum Two Night Stay Also At Fine Hotels & Resort Properties From 2027](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQb2ZQNERzbldvREJhSXBTbjF2M1pSelYwQ1kwdU9CNlJ2ZjUycTNiOUx3ZXczMU9IR056cGFxZ2pPU20wNDZsVlN1bGY2YXl4VTJ1Yk9vY3hEa3YzMkVTMGNyNTd1RFNaYlc4bVhTU2I0QjFCb2o4eER4RUZuQTNpSFQ3T0g5NThmakY3SWc0WjFCZjhBcU9aVWdFN3lVTVQ2N1BpX3hLVnJKXzlMTUlaQVB2OWU2a24zbUkwTnZMU2pTb2tQSTRoV2hPV1pKUHZKODhDMHpzbGt6elhmdl8wa0U3LVJnRUh6cjRpSWpn?oc=5)
+
+## SME Banking / Business Finance
+
+### SME banking / business finance / vertical banking
+
+- **Allica Bank** · Expansion: [Allica Bank CEO Richard Davies Talks AI Strategy + Sweden Expansion Efforts](https://news.google.com/rss/articles/CBMigwFBVV95cUxPM2JmZjJYTkpadDZEOS1SNTRjRTJCZ0g1Q2c5UkU0TzVSdFZKQ1NYRkZSU1VBTVhSbkhIbm5aTmtfOERSQmUxRHVtU29fVTFqVDRNLVplYmM1ejFYOFRVU1pWbGxwbURoNjdaeXVfbXh0d19JcHM5akk0WUttMnc2Z3ZCMA?oc=5)
+
+## Treasury / Cash Management
+
+### Treasury management / liquidity / programmable ledgers
+
+- **Oracle** · Product release: [Oracle (NYSE: ORCL) Launches $1 Billion Multi-Year Program To Accelerate Partner AI Development](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOTlqU0RKY0k3a1ZJZnd6bEhTNDQ5dlZnZS1HMEV1d0ZRcUpkZnliUkFGZzNXcDd0RThrRWtZeXpOZFRoY1VGdjVWUVJ3YnItREVKWGxCNHFwLVU3MlQ3Qy1IVnZxUXdaTXFpOE9YOUpDTTMwZEl4bXlIV01uWmViT29rVTUtZmxtRjBzc0FkYTZjWkNMZjFjZmgzS0lFU2p5TFlvNm1IX1JzSHZBbEZXaENTUDBURmlFS0VlYTVzWFozZHN4a3p4RHRWWXBZVG55TTlKUWlXbw?oc=5)
+- **Oracle** · Company update: [Oracle Launches $1 Billion Program for AI and Partner Growth](https://news.google.com/rss/articles/CBMizwFBVV95cUxPcDQ5TENpMXRCQUVWYkR0ckJOTU90aWlBVGFSZE1vLXNGUkZ3MkNYRzhfN1dEck9fVjcyb2kzamhINjRPMmJtMXpaZVlmaVNFNjdZQUg4RXp0UDZRUlZmTTd2MHV6aUtKQ0RtRmpmdlgxUkdEOWh6OGdZUUNHSlJ0S191WkViT1ZNZ1owaGsxVktROEZqc25ISHFnVm9xSTR0TXJzTW4ycUY2eVVVMVBzekZ1NFJDdDZGNDd0VmRHNE83V3A1dHRYbjMtcW1hXzA?oc=5)
 
 ## Vertical / Industry-Specific Fintech
 
 ### Vertical embedded finance
 
-- **Cedar** · Company update: [Fatal motorcycle crash blocks Cedar Street at McKinley as investigation continues](https://news.google.com/rss/articles/CBMirgFBVV95cUxPakQ2YVVfcGhEcEs4RjRIcXBCeUYzM3g0ODVSRkhPaF8yWEo4OVA4N3otSlRZX3dvS092dWw1ZUc3TzF0Zk9CcG05REZ5QkpkWWppVnpQS1NVY3BaU0xkUlhwTTFyZEVmZVFucE5IUWFubUsyckZxcWROdnJaVmtMcUFHLW04dDRqXzJoT2I5MUZndXI3Z3VsbjRfd2ZVSkFHbDB3TlJKLWVDbG8tZ3c?oc=5)
-- **Point** · Company update: [Commerzbank: A Strike Call, a Nomura Fine and a Barclays Downgrade All Point to November 5](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOWhNZlM3LUpZVnM1Ukk5QnJMckIxQ21LRlhuOGFRcE1kYm56UENRWG93X3J0eVI4WEstNE5vbmUyT0R5NVpVRnFsc3ZtdHBhaGNEMkZaNnBDUGtZcFZyc0FqSGRHSmJROWdqLV9MNlc2N1dyOS1oVVREYjd6eWlfd0p1dUs5WjEyVmdLUHdEZTFiVzhoVG11aklDZXNUb2ZidVF5ODgtMHpTak0zU0RpYkFpTkZhdVUyX0tidFQ4azJNelBTNmZPaEpWRjdFZUViQjltZERFTXhOc1pHVjR0Tk13Y3JjS3JiUGNQd2hVRjhjZw?oc=5)
+- **MangoPay** · Product release: [Former Mangopay CEO Launches His New AI Startup](https://news.google.com/rss/articles/CBMikgFBVV95cUxPaXlhcFFva1R3Slh3VGVmSncyb25sZ0xudTNEcGIwSEdSNk82R2U1VU9nVkdJYy1iSUNhUER3NXMxb2FmVGV3MUNjWmI3VE9jajFEUldDNWh2ckNQbU5qRWNHaHBCOW1OWU9ycWxKeE1laG1NTzJhNktQMVhsZkY3aUh3My1wOGZyXzhidTVIaWxqQQ?oc=5)
+- **Point** · Funding: [RFL make BIZARRE funding request in NRL deal as ‘key sticking point’ revealed](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTGxlQ3B0dEE2NDh6ZEJUbi1acE5QMS12R3NwMlV4elRZSHQyVDdncF9Yc19aOU4xdXp3TXJTNUhjdE93UFVYbWZZb2hzRlFCMlZiblpxYWZmQ2h3V29uNGV5V1RtX19jYUxoQ3FZTXJXdTlRdGNVSjl1S2VYM1JJQUdFZ01ObnhtM3h2RG1XamFSeXJIaElyVzdlUW93WkxkbndTMXdWQm1xN181dTJTenNB?oc=5)
 
 ## Wealth / Wealth Infrastructure
 
 ### RIA / advisor / portfolio / alternatives infrastructure
 
-- **SEI** · Company update: [SEIC Q3 deep dive: strategic expansion and recurring revenue drive margin gains](https://news.google.com/rss/articles/CBMilwFBVV95cUxObjFQN01GZ0dnU3RQdm9ZTXhEYTV4eHdsb2REV0MxYVJfZnQ2d29UbmxpOGhFUC1SdDZBMnBtZ3hMdnBSR0JObDJiRm5yR2tGa1BkQkRtV2hWVmNycWxrZElncXhOalNYY2htVWVLZTVnN2VsUzcxWjN2MnNMSHFpRXBpLXZqX19GX3B5dENoc215RXl2dzRJ?oc=5)
+- **Oranj** · Product release: [East London wine bar Oranj unveils upcoming DJ programme with Lil C, Bok Bok · News ⟋ RA](https://news.google.com/rss/articles/CBMiPEFVX3lxTE5JY0VmQjNNT215QkFYbVk1WTRlV0E5b0VaUW1rQVVOTXBoSFBncXhxMUF0dUd4cEFveGxONw?oc=5)
