@@ -1,136 +1,107 @@
 # New official company updates
 
-## Accounting / Tax / ERP
+## BNPL / Consumer Finance
 
-### Accounting / ERP / tax compliance
+### BNPL / point-of-sale credit
 
-- **Intuit** · Product release: [Avalara Launches Nexus Report for Intuit QuickBooks® Online Users](https://news.google.com/rss/articles/CBMiowFBVV95cUxPTzk1R1hTcElrdVhoOG93REJsMGpmNmU1STBaSVhCT0JtTjNjdlkzVHFDSnFyQ1lPWjVYT1ZzV2lkbnFzZzFiRG9UY1lNamtnUk5WQTJvSllOUVh1Y1c0c2E3X3pSdG03ZHpGYTFOR21lTXNlMzlEazhvUy1icVBKQm9ZejhEVjBBeDduVVNCUnd4ZW5hRVhtcG1DZTRqZVdrajFB?oc=5)
+- **Tamara** · Product release: [Ashurst Perkins Coie launches Houston presence with partners Tom Tomlinson and Tamara McKinzie](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZWc4b3JYZDJMRVBlbGE1VEtLdW5aNl9LNms3cENKaC0xM3oxeVpHeXNucExQcy05ZjRySER2X1NaQ1JNenlWNUxSVWI1TmpYTXY5dFJpVVY3OGhjSnBGZUwyR0VfOGo2Wko0UGNxbXpBNWgtaUNXbGxMNk0zaDZhSzY5U2lxUjg1cWtJTGs0Ulg4bUxtRUFucm0xbjV1RXpNNkFVVE9GMlpQN0RmWTk2ZXJBU3FURGE2eC1pU2RBYktnQmk2Nl92eFV0VFVaWGJXdUVKOURuQVY4QTVjNk40RUVPOHVaMlNJVnhyMW9DZlJJWHRNeUlyRlhmODZkMWpBaDVSWGxtZWs?oc=5)
 
-## Consumer Finance / Financial Wellness
+## Banking / Core Banking / BaaS Gap
 
-### Financial wellness / EWA / budgeting
+### Core banking / digital banking / sponsor banking
 
-- **Even** · Company update: [Anthropic files for potentially the biggest IPO ever even as CEO warns of risk to humanity from AI](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSmVJbkZXVzA2cnl3cFB1SENyVUh0MllwM1Naa29WSHF1cW9LNFhlYjJfd2xkRTMtbmlkWkhGeEx2cjZmRlg4Mjg0eVZ5bVpDQ1hBWXVrR2cyaWxhY2RuSG9BaXo5MDVac25BNU4zczJqclJPdWdVTkhYSC1HNkNBRExXZW9LdUhGcHNEcmI1ZHVibkdxaWRhVm9nZlpGLW5DMXQ1UE9GVmRDVXBRLUVzQkxfZWo4Zw?oc=5)
+- **Increase** · Funding: [Minnesota ballot measure would increase funding for public schools](https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1Q2dnk3TkFTX1kxVlVqRy1fb09yaVNKN2V1ejAwZnZVYk5JMWtSYUltQUY5TFQyNmpUajJuM3NQWUt2ODFqYld5bGctODJVWDNkNTI3bWFXU21ZU2ZhYnoyU3VPMXk3a0V6Wm9UTi11N2p4TVE2Um9RbEQ2LU52Rm9uUFl3b0ZLSmpFbVA1cHQ2Y3FPalZ2dmVGckpHam1t?oc=5)
+
+## Capital Markets Technology
+
+### Market data / trading / execution infrastructure
+
+- **Bloomberg** · Regulatory: [Serbian Alta Banka Loses License Days After Pivotal Election](https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXVVSzJ6Q0VlWW1TTmN6VW9mdU10SlV0al92SUx1NVM2c2FNYUd5bkNXamp5M3p3UFo5T1R5T0hnbklJMTN2akxXU0NpNlc3T09LMkJWekt6UllINEpLTHNObDJWUlEzRk9YSnd0a0RKdmc3cGJKbWtvWDNmNW5oMUlsdzh5Si1ZdExDeVRVQnk0S1NORDJBQXBkeWRGUHVhMmxzUnR6UjExTk43QWpiTGFB?oc=5)
+- **Cboe Global Markets** · Company update: [Cboe Global Markets Earnings Ahead: What Past Reactions Say About The Stock](https://news.google.com/rss/articles/CBMioAFBVV95cUxOaWN0UlBGVGNmWUtCX3NxeU9OV3QzOU1zc0tIOWxrWmNXdW5jQzE4cVJYLS1zUmNoVkE4Ykxxb1oxTldXUksxb3pycFlrNHlBQkVQTDFFNF9YdjZEUkM3aTJ0QUtsdXoxT250S0NJVFdEcUswcFpSSWwxaTBJakVfX28zME5sY292SXhlLUpSWElCZ1huXzNaUzBOSDlvWHAx?oc=5)
+- **S&P Global** · Expansion: [S&P Global assigns ‘A-‘ ratings to Peak Re amid global expansion plans](https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWl0Q3RENXl3TE40YzR1ZVotcHJJdWN5RVhHM2pUTWthSXRtY3pSemJQVWZFSC1MTWZzdU0xVXpseC1tZjR1S3ZRYk9uOUdBY0d0S3kteV9KMG9VZFpYUVVBZzRlMUZaSnRmcl9acXZaVXlvX3ZMSlhPbnk5TUdvZzJwbEtYZzc2S0thc3I2QmhPZw?oc=5)
+- **S&P Global** · M&A: [S&P Global completes acquisition of OpenZeppelin By Investing.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxQYjh2SHZXYzZyWmdZUUFibnZOdG5sajltSVRCVk9BenhhOEluSVNjbWV2QzdjTk9pYnd2RG12alVRSzgxSkY0elJvVmZsOWF2VXFfYVktV1ZlOHVvMGZLWURXYjlTem5NSVVuYW01Q1BCcUcxZ0pXRUtiajB4X09VMzBUUm56YzdtS19EbTZmVm93TldMMy1SazNHU1JvZUtkM0hfZEVuVGpvZC1f?oc=5)
 
 ## Crypto / Blockchain / Digital Assets
 
 ### Exchanges / stablecoins / custody / blockchain infrastructure
 
-- **Binance** · Company update: [Binance replenishes 90% of $6.3bn stolen in crypto breach](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPblJ6N3hMa0FnbWkzTHFuYnU2djJpaHRHMm1XWmY2anZrVlIyQk4zYjVOYmVOLXVjUmt4SFNIRVlMV2pNdEhjT3hpOTlrSHdxSnphSGEtWXFIM3hKQ0dUSkJ3enA1dkFHU3J5U2QtQ3dhNHZLMFk5RHNRS09jZWJPZ2R2ejQ4U3ZHVVNxdXJYM0JZYjg1UlhqbkJSU0luX05qNldZdGVoWmM?oc=5)
-- **Binance** · Company update: [Crypto firm Binance covers 90% of losses after $6.3bn hack](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXSm5lSWk5UmtVVHo1dFR5NFRPQ1lNX3BXc2JBdmd3QmJRYm1CX3ZvUjNsalBCLXBWWkpXTmdIYWNXNkdWU2dOQnh6S2Jiam5fYVBzbEFDeFBtT1BRS1E?oc=5)
-- **Circle** · Company update: [DC and Virginia file federal lawsuit to block proposed Triumphal Arch at Memorial Circle](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOanRTekNhcjlHYmZlakU4N1lmVERRU015aC12TF9PcEtEak5XYU15QmlyNFVPcmQ0aURlb3ZFcTFFdHpla2tpaktMVmdMcldwOUFtSGJkTXdzNDhYblB5Z2lSalF6UXNkMDFUbHljZDluaF93QzR1QjhDT2Q5ZkF2LTR0NEJaeDdOVGZya1ptdk1tMGUzUEs1aF81dG9BWkxnRlRpa0pfME0?oc=5)
+- **Binance** · Regulatory: [Binance recovers 90% of assets stolen in security breach](https://news.google.com/rss/articles/CBMingFBVV95cUxOeFQ1elhRVG9FcHVBdlBma05NOXJzUm4tSzVRVFpvT1hQWkd1bFZiTmF0TU8wWElLVlQtRTlUa25OUzZ5WWZCZV9lZVZVamlpUEV0eTIwdE5xOXZLVGpEMW9UMkw1ZzJlNDhxVnlNOEpVSUIyMmhxM3VQQmd0S1RkeXFWOGZyeVdKaUk5MHVuMjVTTUpvWGRxSkpXa2VoQdIBmgFBVV95cUxNMHBSTEw5SWxXeXdWZDFIWVZyQlZGY2VfSG81ZHlTbHdNYklzdU9YTF9tSjRpZFJuTkt2YUJnRFc5NkQtQzhUY3dqOEpkNFQtaGJjMnZnWGhoRmRaQ1Z1VHdoaHpVQk5Qa1RROThYb3FnMkM2cUQzb2llZHhvLS12Vm5aMkEtN1NlWTVqdDQ2YnVkZzFYb212RUZR?oc=5)
+- **Binance** · Regulatory: [Binance replenishes 90% of assets stolen in security breach](https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2tRRGtUZ1pGOGtoYWlHandEUFNKeFVZNmpoc0hTRTZzR3hsTlJNWlNXMFRvaGtqeVlhcVZpMnB4OV9vYlhCSzQ0bzM2eDNvTnY1WGNJTy01TXRvcnIxbkFMOEM0cnJ3d0ZCaWlMeUNWY0kxVHlNWkFEZ1lwODVfZWtoTTJtaXY5NHFGSVN3Vm01OUpGUUxlZEZqdS1IaXoxVkHSAZ4BQVVfeXFMUDNwTWdYV290LTVVZEtINmRuSGFvclhldi1Nd2VHbEN1V1hqckVyTzdtZ0FfYk4tcE1OWWZXRjExRDVBWk9Yam5fYXRVaWpuOG5EWTFyRXdjU2FYanpRVER0TmZCNkJldDJLYXljZ2hUX3FoZjZwVUM2RTc0eDNSSTF1QVNKSnNPT1dWSUJQY05tQ0p6aHM3NDFFcXltX1E?oc=5)
+- **Circle** · Company update: [Arizona Joins Nevada’s Lawsuit Challenging Federal Colorado River Plan](https://news.google.com/rss/articles/CBMirwFBVV95cUxQejN1NmZUR29sbHYzM1BGU0pGYmdSRVdyMkE3d1JBYkNGZXUtWTl0c2k0WXQ1eTBjYWxIU1hGOHJpVTZUeVZxMDE1NVY3MHVFY1d3QlBYNXl3RU5JU1M4R1pWSFdIS2tValRYNkJLclQ1RUZKa05BT2g4ZWRRTjlpem5mUlhlR2lfenV3cVFqbWxaZ3dTRTVFSjdUVVVSbUxkbzdiOXdWaEVtV2VTS2kw?oc=5)
+- **Copper** · Product release: [Metals.io Launches Copper, Unlocking Access to the Critical Metal at the Heart of Electrification](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWdURlpYcGpKWmRORDlqSGJ2X0F4aE1CTk1Yc2RLSlFxaHQwNUlZUTdaUGNaZnp6bkhCYkRPYzBBeVdEWW9rNmhraVFDcWVFaFhVSzI5Z2M4Z29QbDc5dFlrLVZ5ZE00VVZleUFWY2RYY1hqUTJiMGpKemNkZkIwV3BWZmpid1hhV0NROEgxNzVIbk5TdlpnRjJKbkNSM2FUeGJ6dkZubl9CNXQ1cVMzU1VHdEN5Z3RxWTNZUU5jZUM?oc=5)
 
 ## Digital Banking / Neobanks
 
 ### Consumer neobanks & digital banks
 
-- **Mercury** · Product release: [GravaStar launches Mercury Edge series gaming headsets](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQkxUWDJsOUVrNFJXSEJWeW9KVmhacm1VaUpDb2ZYdklPM0xfUDFsMmw0cVkyOXlsR3Y0dGowWjh6a2VQZHpaOTJsdF9tcjBNUmxGRHdwS21wR3h2dDZuTGFSazB5LU1zalFDU0lETVlDOXk5REVJV1BoVTQ2b2pOVTVMcHlFdGYtOXRjRWNydHgtRWU4SV9sRGJtZVlXWThDY21jc3hkdlBXMnFWdzlQS0UtZw?oc=5)
-
-## Financial AI / Research Infrastructure
-
-### Financial research / AI / alternative data
-
-- **Koyfin** · Company update: [Bitcoin Hits 6-Week Low After Binance Hack, Triggering $1.6B In Liquidations](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdVeVk3QUJIUGZaWGFiNkgtTUQ2M1pWcXlZdmJQZzM4Vi02ekE0VWtrTXZSZDViMkVnZFBUSDRtd1Jlc3RvQWpKRElTSzl3amt6d1pldExlTmRKY0JGMjN5aktkcElRWlY2cjh3b2g0RUotUHV6aTBiZ3BaQnRlSElYYVlBa2hJRVh1WE5WVkhXNTBDTWpTMnE2ZVI5dE43Q1FUcWd0ZHNZdHNZU2FlcVZwVGNpYkpmdFFUUlE1OXdxVnJxVE5GWlpB?oc=5)
+- **Revolut** · Expansion: [Revolut Eyes Philippines Expansion: Digital Banking License Talks Underway with BSP](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzZkOVZNeHlwdzZ1TFE1YV9ZTnZiX3FNSVNoRUVRUWJ6eGtkU1NKbjJVV3NGZ3gxOFpSa2poM2tZcENJSmxiSllBVGhPUGhUVVhWUUNGX2IwX25jSzh0NjI4MEJtZzJmQXBlbHVWVXlpaUlJWWpnaFdkQTVSZ0hDYmpKeHo1c1Z3X2pLektmUUYtWHFGVGpTZXhfY0pzNDRKZjFZRUZFWVZNa09pdmF2RjNBRQ?oc=5)
+- **Revolut** · Company update: [Revolut announces incorporation of Revolut Ventures for 2027 launch](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlFBMllqR2pBNF83NVJJMEdMdW5MWU1NVkpEQ0c5TDhEZHJINXRoa2hJdTNVWThzX0YxZFlYbTkzekdCQUR1YVBPSC1KUHVVc1RpQ3I2bGhGalRhdllZaU5ybDVYdWFQeWMtOVl1MDJQMlRYazB5aktQTFNVLWZtME5uejlLNWljZ1M5blMtS1RKOXNJanE2eXg3ck53bGVzcU5SUjhnMllDUQ?oc=5)
 
 ## Financial Data / Infrastructure
 
 ### Financial data / private markets / intelligence
 
-- **Morningstar** · Company update: ['He was heartbroken': My husband's kids abandoned him when he was dying. Was he right to leave everything to me? Provided by Dow Jones 31 Oct 2026, 18:50:00](https://www.morningstar.com/news/marketwatch/20261031143/he-was-heartbroken-my-husbands-kids-abandoned-him-when-he-was-dying-was-he-right-to-leave-everything-to-me)
-- **Morningstar** · Company update: ['Showy jewelry and fancy cars hold no appeal': We have a 99% chance of outliving our life savings. Why not spend it all? Provided by Dow Jones 31 Oct 2026, 19:30:00](https://www.morningstar.com/news/marketwatch/20261031146/showy-jewelry-and-fancy-cars-hold-no-appeal-we-have-a-99-chance-of-outliving-our-life-savings-why-not-spend-it-all)
-- **Morningstar** · Company update: [Caregivers are now spending more than $11,000 a year out of pocket-up 60% in five years Provided by Dow Jones 31 Oct 2026, 18:11:00](https://www.morningstar.com/news/marketwatch/20261031141/caregivers-are-now-spending-more-than-11000-a-year-out-of-pocket-up-60-in-five-years)
-- **Morningstar** · Company update: [Fluence Energy Deadline: FLNC Investors with Losses in Excess of $100K Have Opportunity to Lead Fluence Energy, Inc. Securities Fraud Lawsuit](https://news.google.com/rss/articles/CBMipAJBVV95cUxNZlp3UUtic1g0eFRONHlXejFUN1JHY0FDbW9xakk5RjNwa2xJWHc1SFhNYUdMOW13Q2s3dlRpTWxRM2RMUURRdUR0TUhral9FVXh3TDczOUVwT2paZXhPcHNhV3FTM3EwVXNlRElnMEd3Ul9zNEF3aXJUWGNROFhmNlZfN3VMdklpWWFDcmlWWkoyQndRcFg3SWtDNS1lcC1aWW1QM1h3N2hMM1lJUnVleWdUN0N5NXktc3F1NWY1SWt6WFZING5JZU9wZkRXRkxRQldBXy15cUVPa1JZLTJzdW5yWDRxX083M3IyR29qX0otRXhzUzJSSTcwYmdQcHZLRXo2M2lqRmRyS2ZYbDE2S0xqOFhmaE5xMU9nUDhHQVZueVRP?oc=5)
-- **Morningstar** · Company update: [Fluence Energy Deadline: FLNC Investors with Losses in Excess of $100K Have Opportunity to Lead Fluence Energy, Inc. Securities Fraud Lawsuit Provided by PR Newswire 31 Oct 2026, 18:06:00](https://www.morningstar.com/news/pr-newswire/20261031dc85670/fluence-energy-deadline-flnc-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-fluence-energy-inc-securities-fraud-lawsuit)
-- **Morningstar** · Regulatory: [Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment. Provided by Dow Jones 31 Oct 2026, 18:33:00](https://www.morningstar.com/news/marketwatch/20261031142/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment)
-- **Morningstar** · Company update: [My abusive ex-husband promised $20,000 for our -2- Provided by Dow Jones 31 Oct 2026, 20:15:00](https://www.morningstar.com/news/marketwatch/20261031148/my-abusive-ex-husband-promised-20000-for-our-2)
-- **Morningstar** · Company update: [My abusive ex-husband promised $20,000 for our kids' education. Now he refuses to pay. Is he legally obligated? Provided by Dow Jones 31 Oct 2026, 20:15:00](https://www.morningstar.com/news/marketwatch/20261031147/my-abusive-ex-husband-promised-20000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated)
-- **Morningstar** · Company update: [Navy Mutual Awards MILMO's Lacey Langford with the 2026 Lieutenant Timothy Dix Bolles Excellency in Education Award Provided by PR Newswire 31 Oct 2026, 19:00:00](https://www.morningstar.com/news/pr-newswire/20261031ph82620/navy-mutual-awards-milmos-lacey-langford-with-the-2026-lieutenant-timothy-dix-bolles-excellency-in-education-award)
-- **Morningstar** · Company update: [This is where most people go wrong in their 30s and 40s Provided by Dow Jones 31 Oct 2026, 19:02:00](https://www.morningstar.com/news/marketwatch/20261031145/this-is-where-most-people-go-wrong-in-their-30s-and-40s)
-- **Morningstar** · Company update: [We're in our 70s. Should we pay off our 2.5% mortgage - or put the money in a high-yield savings account? Provided by Dow Jones 31 Oct 2026, 19:00:00](https://www.morningstar.com/news/marketwatch/20261031144/were-in-our-70s-should-we-pay-off-our-25-mortgage-or-put-the-money-in-a-high-yield-savings-account)
-- **Quartr** · Company update: [BQE: Recurring operations and rising demand are driving capacity expansion and a longer-term growth strategy](https://news.google.com/rss/articles/CBMinwJBVV95cUxPN3ROb1habnRCeEdCR2JGYVlYd2MtSzRaMUpQZ0xJMFY1Mnd6RlViS3h2c1ZmMFhYZ2dPSEFHNk1aXzFwa2piMXFTUkpFdVdBS25ZczlrSjFra1JMdkVDWVloUVI4TUFHSWxMdk8tV0VVeVd3WnIzelJzaFdIcnNxTm9WNUV2WVRFcGw5Wm15NFlydDFvX1Jzd0xNVGJzTzRvRUJlVDE5Y01oSjZYRHFyWGRyaC05LWFsM3dpbzFFNTd4RjEtTWZVOHFWSy1ZN0VrQVp0N0VKd3NCWGdVVFAyNW5JMXJPaVZEMU1jNmJ0cmpxTXdxanpzak1VeVQwNDVqQzZHNXdiV215M2F3RXRHT0kxRnQxc0FDUFU0SXM3VQ?oc=5)
+- **Morningstar** · Company update: [A New Chapter in America's Lithium Story: Elektros (OTC:ELEK) Advances Its Review of a Northern New York Opportunity Provided by ACCESS Newswire 1 Nov 2026, 00:12:00](https://www.morningstar.com/news/accesswire/1244864msn/a-new-chapter-in-americas-lithium-story-elektros-otcelek-advances-its-review-of-a-northern-new-york-opportunity)
+- **Morningstar** · Company update: [MATT ROBERTSON WINS RECORD $1.25M IN INAUGURAL WORLD BASS ENTERPRISES' "THE CHAMPIONS" TOURNAMENT Provided by PR Newswire 1 Nov 2026, 00:18:00](https://www.morningstar.com/news/pr-newswire/20261031ny86275/matt-robertson-wins-record-125m-in-inaugural-world-bass-enterprises-the-champions-tournament)
+- **Morningstar** · Company update: [Once Upon a Farm to Host Business Update Conference Call on Monday, November 2, 2026 at 8:30 a.m. ET Provided by Business Wire 31 Oct 2026, 23:35:00](https://www.morningstar.com/news/business-wire/20261031430404/once-upon-a-farm-to-host-business-update-conference-call-on-monday-november-2-2026-at-830-am-et)
+- **Morningstar** · Company update: [Positioning for America's Next Lithium Opportunity: Elektros (OTC:ELEK) Evaluates Northern New York Potential Provided by ACCESS Newswire 1 Nov 2026, 00:00:00](https://www.morningstar.com/news/accesswire/1244863msn/positioning-for-americas-next-lithium-opportunity-elektros-otcelek-evaluates-northern-new-york-potential)
+- **Morningstar** · Company update: [The Domestic Lithium Landscape Is Evolving: Elektros (OTC:ELEK) Studies a Northern New York Possibility Provided by ACCESS Newswire 31 Oct 2026, 23:47:00](https://www.morningstar.com/news/accesswire/1244861msn/the-domestic-lithium-landscape-is-evolving-elektros-otcelek-studies-a-northern-new-york-possibility)
 
-## Indian Fintech
+## Institutional Crypto / Digital Asset Infrastructure
 
-### India payments / banking / fintech
+### Institutional trading / prime brokerage / market making / data
 
-- **Pine Labs** · Company update: [Pine Labs Grows Revenue 24% YoY to a 5-Quarter High](https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHdvd3FUQWZnYzBYaWFob2dZSzUyZ2REdGp5dzlZa0g0MlpVOG5ZZ3JLZk5Odi1JbUUzT1N2QXdETmtSeW1qdUJKdm4tb3NUTEEtN3ZsSUtuNlF4TzFNYnRUUG1UWXAxTTZ4VGhUMWM1a1BSSWlGVEZvMDRoa3NvZ2doQTlITDQtcWlVTVJTUExwdnVu?oc=5)
+- **Kaiko** · Funding: [Kaiko Series B Funding Hits $110M, 150+ Exchanges Strong](https://news.google.com/rss/articles/CBMif0FVX3lxTE5pUHY1Mkp6RTVjRnBTWGFpY2ZucmcyT0s3dk5wOUtDbkhRX0JLb0RkWDc0eEU1MlRTaHc5dFRtdUFiZl8xX3E2UU5uYW0zaG95YnFmOE10eFdXSmFOS2NIMlhsZDQyT1drZDUwdUZ4OFNPbVVwZ2htaHlNbFVnVGc?oc=5)
+
+## InsurTech
+
+### Digital insurance / underwriting / distribution
+
+- **Root** · Product release: [Ukrainian Commander-in-Chief Drapatyi launches reform of draft medical boards to stop sending sick to war and root out corruption](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSXZSLXM1VFBmUEZjeHhBOVE0bVZTZlhfUC1ldWFKTHFTYzIwWEYxWnpHTnJoM1hKOTUxckRjRnBJMEVqSU53N3JOZ19NMU52MU5maTdZWDZVb2gwUE5jSldkSHEwTlJDS0pFcWxDR2ZhcGNGTmxSNGdHT0hVWVdyVmtXbE55LVg1WnYtMUdsU2UteFlHOHlGZUZIdmpFcVhhWkJjREppQ1VLTldBRWJLcUJhaGFYT0d5NXN0Q3hXYVE4NzBsNlNPeURsbHExRHhaSVVkenV3dWsyQnBGeEFYbzdXdmNjZnMxVEZPLTdwX1NoZVlWOXRGTVhsNTdOUQ?oc=5)
 
 ## Investment / Brokerage
 
 ### Retail & institutional brokerage
 
-- **Interactive Brokers** · Company update: [Interactive Brokers Group (IBKR) Q2 2026 Earnings Call Transcript](https://news.google.com/rss/articles/CBMie0FVX3lxTFBBQU5QcnczYUFoMWsxRVlUXzNmWVpiNGtiSUlTdWlvNlB4OHVJYUtpS2Zrb3dFMFc0dlpoS2s5WGpDbUtTRHoxbjJKaThuY0M2NVdDMmxnZHMxLVJhY3FaQ09uQ3Jxa0ZMZk5tQldOT3RCZXNmQWNZN3NOcw?oc=5)
-- **XTB** · Company update: [Anthropic files prospectus ahead of IPO with "ANT" ticker on Nasdaq. The launch date and price remain a mystery](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR0VyWUc3eS1mWXZnekg4dHQ3XzczeGZKU041MGc3STRWc0FEdFFKRFB0Ujc3Ny04N0JLZndjNEZXNGZSV1Y2WFJLSURmaEtvODJ4dUhtUlBmN3ZySmpwdGhWdnpGTk5ISU8xMmVWUmRJTlFWbVROLWpianhJb1pJazF2aGdLVVF6UEVTeW41RW5BemotSGZrbGI4OUZ6dWtQdkZzb09xYXFzMTBuZGJ6b3hhMVI2TGRuUjB5TVJyNUU4TEczRzJKV0E1NG9LU21BU2t1Y3JxWFhYLTdQYWg3Zg?oc=5)
-
-## Latin American Fintech
-
-### LatAm banking / payments / credit
-
-- **Clara** · Company update: [49ers’ spending on Santa Clara election exceeds $2.6M, features barrage of negative ads](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZE5lVHQtc1NueFBBdzlneHNIT2ZOTTExUTJOMDZrMUkxME4tNklSbHB3LWhlOXN4a3dSVkVURVhrSE5JdWtTN3ZqSFhwQkRaY0IxRG1zbVpnVE1PeXZqNW4wZ0lENXcwQmdOaTMyOExLYUVXM3ZHeE40QkpWb1cwcldqckdMUktoTUYtbDZiQ1NkMjFGVkgwX1FVaFlLSHVwZlFtb3c3MFB6S2M?oc=5)
-- **Clara** · Company update: [Silicon Valley water agency to pay 3 CEOs at once — including ex-chief accused of sexually harassing staff](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQVVYSWJXY19LMWwyNGsxWGhLNmY4YlRoaHY3VUh3Zk10c0cxUm5uZ0t6NERKSlFxa3ZvWGREZTZNbmhRTlFMUHpDXzNyVHhuclJCNWVmdnhwd000cXl1cW5wZTJiWDBaLUNITHlTVzFaZ21QYThHRWNkRXlEZTBwRHNJdWNBMUFyeXI0UUd2dy13c25aSkdYYUF2SU9STGs0T2RGUnk4TWV3djg?oc=5)
+- **Gemini** · Product release: [As Google releases Gemini 4 Carbon, CEO Sundar Pichai may have just told two of the biggest frontier AI c](https://news.google.com/rss/articles/CBMi_wJBVV95cUxOb2NwVW5wU0pyZFlUWThCcEVCUzREbXpKVGdzd1ByWWxqYlVPNzlvM1EycC1HTGdDMmVFc1lIMDE4V0dDZHFSbXlPa0pCNlludDVvYmtOTmtnUFlzRUVwYWpnQV9nUEtXbzZGZllNQS11dzBvNG5BZUNLd09GTGxKLVNCTnV6N0ZBX19tSUxKMlJnUVRQSzJ4YVd1cmFwTXVBM1E4MVJ3c3J0TjIwWHBvVG9VdFBNLVBQbVF1ekVwWDQ5ZWpwTm10LUdmN1ZXR19BWDNsQ0JBSEhCSnlISFRjVW52VWRQbjE1emI3R2lOTGVDcDNDbWFRaV9xc18tU0NqTE9Ta1daT0dNZXEtaXVIeXB3TEFRb0NSOHRFTWlFb2JiUGQySjI0OEd0YjV0ZmZuZ0xIV28zNFRRM2U0bHdVc0ZpRkZMZzkyczdxaFBhOTdCQlMzMTFURnQtSk02NE0xU1I0MC1nOS16bWUxMEFIaGR1ZkxzZ01IQ0lpYzN4ONIBhANBVV95cUxQX3pQSGtySHhJRmxOSVk1dUxZdlFLU1VkX3pydHZBMlFINHhReGkzTWJjR3ZLV3hIZHNpalAwOHBMTHItdUxZNTZjREV4VEtxY2NITklralBkdE9nTDJucVZDOVdKS0dfM1VSY2w1OUVYU3ZpTGZ3WjRoMC1yOVF0eUd4SlFSWHd4SndQMUdXWDZybjNqVlZJbnVtT3FKMXBBcmdrY011cTlJbEk4OFhDV3RKLXpVSkp5MFpvQzRwNk1zdEptOTNzZUlac3F2SVFROGd4UVJjWi1UUFVfd18wTUhYR3hjOE5aZGR2Y245MVpWZ0N4SVRBajFHbDFmOUF1NDM2N3J5MEh4SWhTZXZ4RG9xbm9uNWwyeXZzODVwVHBmNWtxc2xLSkdPbThpdzU5QXU5d05vWmt0YVJOdkZQbVJZM2Y5UEhheGZLMjkwejhiSVRQMmRmTTh0NHh3ZnVsUS1jMXZ6dTRnUVFGSkwya0FqLTNOOWFJTjdsT21rQmVFZ1pB?oc=5)
+- **Gemini** · Product release: [How Investors Should View the Launch of Alphabet's Gemini 4 Carbon](https://news.google.com/rss/articles/CBMirwFBVV95cUxQUXB0OU9KWGRzWVBBT0xTb0lhR0c3Sk0xZmQ4RnBRazlfTTFfamxHb1ZWblVQcDdic0FDa0VrUWdhdTNhTEk4Y3BRcjlqRDRnWWdMT2FSX24wcFZfYS14bWwwRFQtVFJyMWh0cmhva0hLVV9OZWNmZ0Mtb0FXR0pSZEl0MUtMdmxTb2FfTXBVaVgxeHdRQndUT0xEaDFhM2ZMOWs5dEluM05VWjlQQmJj?oc=5)
 
 ## Lending & Credit
 
 ### Digital lending / SME & consumer credit
 
-- **Branch** · Company update: [Lions’ Brian Branch hit with hefty fine after return against Packers](https://news.google.com/rss/articles/CBMirAFBVV95cUxNeUlXTHhUbG0yMDBiUGVDQmtrenBQYzllUWNRNEJMUE5IeWprOWhhU2pHVjJMUW9mUXlabnNoam0tamZSRk5xeTNFQzBPT2VZM1FDTWVQcjUyNUprclhVT3VBdzF6NDlQQm1qRnVNZ3RuZ2RIdHpkaVh4NUJ1MlpUbU92eWJXZ2FwblpGZGY5MFBaejRlSGJkTF96ODBSa1hqSG9mNUlFWTlTMjIw?oc=5)
-- **Upgrade** · Product release: [Dynamic Planner launches agentic upgrade to its digital advice platform](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVmZrbWpCcUxibUVFem1MTnMwZ1NvWTRwUndWeFhkN3lCbTdiUUxvWGctZmkyeU9JY0xUUmFaWTlCb2pqSWNmNi1adldBZjZzTVhfNDMtbjlHMzNnWmttQkpRcG40d3pRQ0Z6T0h1OHdaSEF3VlNBUmZLTEE4ZGJsYjI2M1luR1lROUdoRnJXdzdaR1VGbGFPRWtZcTJYLTZDODY1VWtsb1JHR1B4QjJJ?oc=5)
-
-## Open Banking / Open Finance
-
-### Open banking APIs / account data
-
-- **MX** · Product release: [Global Credit Union Launches Card Switch with MX to Capture Recurring Spend](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTzVFX1lMTW1oc21QSTNWU3BOM0MtMlNHZk1CUGZwdXBGbFY3LWJzM2tlWjRNRk50NmgxQmMwXzRneVhsVlFBZGprMTZoZHpXRl9SRi13ZkdFNlZIZlVyZWU2TTYxWXNOQURBUG51dm1QaUpQbVhJeTFvZFZRdk1HVG4xVTR1RW5ZYkp5cDNUZWdtdmpZV2E0VktsYTFTV3pDMURzeU5MS3RqbXpzUlBVR1lDM0hBcnlFaE84UnhOUU1hVlU5WFh2WXB3WTZMcW5tdW9KeFVtek1QRUY2VmVVeQ?oc=5)
-- **MX** · Expansion: [Liga MX Bets Big on the Expansion League with a Historic Fund—What’s the Game Plan?](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkgtbnVERjhUdjcwUDVWbUpoQWU4Yl91Q2FaMnNqaXlmVlJoODFyQURjS3NONWpYOU1HaW05ZzBKaE9QM3dwcmtGdXppNlZEWGgwUjZ6SDA1UVoxU25GS01SN1ozaGw1MFlVRHl2QzFxa3V3RzFpQjhjSXZ5Q3B4a01vRF9PUkhMNHNjdDdNZjdneEowY0g1dGtvSWZmSUR1cHFXM0VKeVVrUDFMblZuRUlZQ29GQ0Vua3A3b2loQ0lnNVUxWWthcF9EemR4QQ?oc=5)
+- **Branch** · Company update: [Brian Branch, 1 other Detroit Lions player fined for Packers game](https://news.google.com/rss/articles/CBMitwFBVV95cUxNa1cwNmZUU3QtT3pIRHZtd1gwWVV4U3dZVnUzSW11eGs2UG5CVTUwWV9VZWpfM2d2bjhGQmxjQVdJS3Z1czQwa2R1Q0ZOcmgxcHBWWDU2cUZ4MEttSzFxbkxIalc2SnhLdXotUGNnNVh5V1l3clR3OVVKTkF0Q3RBZ2loQ1BIZk9UMjVGZDREdkNHYXhIZHZxMkY4VkpDdHo0YVNCcjMxYmFTTXZRRTNsY0ItTk5vcnc?oc=5)
+- **Branch** · Company update: [Can BAC's Branch Expansion & AI Push Drive Long-Term Growth?](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMDlXWElYMGVSeV9ELW05THM1cEpEbzBCQ1FnS01vMG5wWXFXZFRqSWpUaGtGNFczSi1hMjNXdWFyQ2xaSGhObkJGQXhrbWNUWkJrWXpvbkRhNEJ1cWR0T1BJQkpLSXVWNHVjVFJ1ZFdoQUVFeGFiM0E3TnBNSGtYWExHRFBJd2tvZTU5NmtHaEF0UUVfNHJmMktSaFJoajdCZTlOd3N1NkltZWR4V1FGcVNkd0REOG13RUFMLVU5YXU2d3hERkk2d3NwZGhWRFUzNi1vcUp0Yw?oc=5)
 
 ## Payments
 
 ### Payment gateways / PSPs
 
-- **PayPal** · Regulatory: [OneStopSwap Names Former eBay and PayPal Executive as CEO](https://news.google.com/rss/articles/CBMihwFBVV95cUxPYmVVWlkzU0pPOHhaUWgxcmw3YmlVNmJKNW9IOElFX3ZNQnRGRDBxOEdwN0RQcTJBX20zRG9QX2JmMWMxOU1IclZIcklRQTlPR3NuZEN6Y1puMkJBVXQxaDVfMTNsWGdlbk9Ub3JsbFVsUjZuSThldGRkMlBJNGhIdHE0dWR2UE0?oc=5)
+- **Stripe** · Partnership: [FedEx and Stripe Team Up to Transform Financing for Small Businesses](https://news.google.com/rss/articles/CBMinAFBVV95cUxPcURzVWpvN2c4d1dicE53MXpKVnFjYy1xamtsQ242ZlNMWFFqRFZWS0FfdGRVU1pvNXJkRExRcjhBcmNIYkJ2czktZE9kSDJyTm1GWUhSRWREdTZxZFlkbXJTcU9uM1A3aGhuYmhRWWtHOURsV1JONTVOeTJrWXUxYzhTck1VX1RubWxLVkpnb1VNb1JwNzF2T0dYVUw?oc=5)
 
-## Payments Infrastructure / Merchant Commerce
+## SME Banking / Business Finance
 
-### Networks / acquiring / POS / orchestration
+### SME banking / business finance / vertical banking
 
-- **Pax** · Expansion: [Air Canada–United expansion could mean higher fares, watchdog warns](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVVGc0s5Uk1uM250ektPQWQxU3VaLXNWZ2JDSnJIX1F6X2lPR2ZGblo1ZmJ5b2RreWxIcUtjNVRlZ3VORm53bWpES1l2YVkyV0ctZy0yTElFaHNFajdHbHZzNDAzTXFPZDFOSTZ0dEYwSnM0QV9vVWZORmNSUFhjTXpJLUcyelR4U1c0RVFPMDBncE4yeXRlR21yZ0Fmc2hicmMxVg?oc=5)
-
-## Payroll / Employee Financial Infrastructure
-
-### EWA / salary-linked credit / employee financial wellness
-
-- **Payactiv** · Partnership: [Hornets partners with Payactiv for easier employee wage access](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWlpXckZpRm5RRFRqUXozLXNhQWVtaFpmRU8wOTlaN3gzT1hQMVdyRXZTbkNucFI0d0J0b0YyNWRQZGxYc1dHcTl4cExNSlZjNHVpam13ZUFZOEJOTGp5LW04VWdDcjVYcG1ycl9MdUFnU0ZHSGFhWV9TZUV1TXBkaDBoYnpiTnpVOHo4MHQ4YWdzcHRURE1wRzlubFdCYjdlREtDa3ZRRFdfZw?oc=5)
-
-## RegTech / Compliance
-
-### AML / compliance / regulatory technology
-
-- **Chainalysis** · Regulatory: [Chainalysis Security Breach Exposes User Data in October 2026](https://news.google.com/rss/articles/CBMidEFVX3lxTE51SmZrY2lhX2pOWDRheDFacFJucnlsN0ZVajFJeDhEbXdESGRoenB6ZVVxNFFwYTNVTjZtdnFia0dUTnhVblg1TFFEUzZ1SHROZ0twZ3lGUXktWUtib3NiUUJfWDc3VFFmY1JCMmgtR09PdDJZ?oc=5)
-- **Chainalysis** · Company update: [Crypto: An AI-assisted Cyberattack hits Chainalysis](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ25NY1cyMmljR1lHaVl4LVNsVVZnaXVCM1FZSUo0X1pnUFhUNlhLT0h5a01aMUdRX3hDeVVhSkRRQzJSWV9fSzdLMWRKTFVQZ3NJcTVPU29Kem50c1paOEJlNXprTHdOMzExVGdmNDlXdlN6TG5BUEpzNm00TUxCWjh0TTl3eVJEMmc?oc=5)
-- **Chainalysis** · Company update: [When the Watchdog Gets Watched: Chainalysis Hacked As Binance Reels From $6.3B Heist](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ucVMtZ3Q3b3FqRFY5MkFlSUxVNU5MZ1h6RUNnVkJORW52MDByQ2Y5WWNTWG01dUtpVUhfdGd0SUVIVjB3Q2VGZS1GemJjdmhMa1ZFWmtVeVQxWl9wZGxuTWROZkJ1N1N6WXA1ck1ra0JFaWZXOWNkUElDQQ?oc=5)
-- **Hawk** · Regulatory: [90 pc of stolen assets now covered after security breach: Binance](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdnZMMzY2TW9zSXEtT2U3eHNmMkYtTTFaS0JlbXpyektQSXB6ZlN0d2JKVzJmckxWQldqeGhjTjcwWmNLOVhEZzBPN3QwQXk3YmF3M2pBRFA4RFN2ZGlvbG01Z204bjNScHVhZUktMl9XWWlQanlrMWN5dHNQUTRjV1cyYXpsWDdvYWNjQmlqd1ZVbEJoTXlCWFBkSER2dXJ1WEE?oc=5)
-- **Socure** · Product release: [Socure Launches Agent Intelligence to Bind Every Agent to the Verified Human Behind It](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUXo1UWZ0NUFGN21OSE5OSHg5NS1MbEtONlZOUGpRY0JNZmlCaXpGbjNBNk1mZE51bWVPaXA1aVNuWkkyRjFyU3QyTzIyZl9kOGxwREFXZTd0XzJsOTBiMjVMWjZFNGlzVTh3UnVheXJOQk9EU2dNbkdabENWQ3AwOGpOWnBQS1ozcmIzSUpXZHVXQkZCTUdhd3Ixak82TXRCNXRlcmlETVpnUUpIV1NDWWhVd2MyeWhheUhpT2o2RnFUc2xvVXpnZnpkWjVRcnIyZ09NdnZEYXB0bFU?oc=5)
+- **Arc** · Expansion: [Howard Hanna Expands Into Alabama With ARC, Capstone Deal](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTlViVVRic01JcHcybWZKc002Zi1NRy1XME0xN2wxcUN6N1RsTFE4WHduamFjX1lnQ0JYMFlhXzk5RFpkQVlHXzNId0lZemNWc19rb3E0bVd6Ri12WjBzVGtvclR4Tmt0bHhwVTJpVDRTaUgwTUl3bzNjVENqcFpxNW5MYUdpTUFkTDhIYjBNeVlacmZ5cmthTExmSDhnbkhxcmR3?oc=5)
+- **Arc** · Leadership: [Northern Arc Capital appoints Anuradha Rao as additional director](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1J0WjZCcUZneExjR0E3RGhjektfbmdkSlZ6X2lld2FMMW5JX0VJb292b0tCcTlieWE1V21VUnhFRVhQb28tY25NQ19pSGk3M081V244NE5obDU3bE9kWElXcGhER3ppMVg0V2dGalNJRE1kbHp6bFhLTzI3T1ZMZWxMRUVZcUxMQU5CMHZQenVYenRDUTE3Q2pXU3F5WUlqbFJING9oQkhBUE4yNEYwMDBKRlJ5ZzJXQmow?oc=5)
 
 ## Vertical / Industry-Specific Fintech
 
 ### Vertical embedded finance
 
-- **Built** · Partnership: [A partnership built in Joburg, rocks in Cape Town Test against Australia](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmxiZW9LX0VOaUg5VFYwbm4xajl3TGdyNDY0c2FyelhlanVIRXgxS191TXM5b1RzUmZyY3cxcFpKMzFDRG1xNzBkd183aWo0V2FjakZBM0NtMjhZSVhYSnk0WXVuN1BOUXlZamV0TXJNa2hwTWliQkV0azB0RlVJNmU5eU02WGhTS1QzQ3dYR1h6OHNNYWdWSHZLc1hoUEd2djBqX3N4SUZOWlE4dl90MnVlY2luNTI3LVAwcEtpZzlmVTg?oc=5)
-- **Built** · Funding: [Dream Raises $17 Million Seed Funding For AI Built World Models](https://news.google.com/rss/articles/CBMiigFBVV95cUxPR20yT18yMDhHOWZJRmRtQWswZGZ3alFtalYwTld5aWc0WjZKYnVDOUdMSVBuWVEzdG1FWkoxM2JfczVuYkE2amJRemRvRW0xNEZRZW5PcEtnXzFZVjl5UE9SUDkzZW1OVFh5TkU4Snp0Q0JXWHFNS1lUSmlPT0o5akNuUUR3MTJXSXc?oc=5)
-- **Cedar** · Company update: [Family files lawsuit over hospital restraint death](https://news.google.com/rss/articles/CBMijwFBVV95cUxQUFp3alZGY3JtLWtYSTV5bEpiekt4cjAtMnpEYWQxMm9zY214d0pPck1lVHQ0dVQ3MXBJdHZfYmNVMkJ4WFp0TEhPeFBLaG8yU0JYbF9PMHZtekZ4RXZ0UmZqUmh3NUZaemhEbjc1SVQ5UDY1VmZDVTVvbk00WkczbGxFSW1vSmhUc0lVMVMxZw?oc=5)
-- **Cedar** · Company update: [Nicolas McCray Arrested in Sexual Battery Investigation in Sumter County, Florida](https://news.google.com/rss/articles/CBMivgFBVV95cUxPUzRoWmlpZ3JmRW11MDQ0NnVhWWNHVW9SamRSTlVXNFpFekJfX0h6MFdfT3BNbDVzSGU3UmRvOC03Ym1BY21YbktFSDBpbEtHVGR0SHR1Q05SdEZqVUV0cjJLSHhJOThXcTQySDRybzI1eThQdWQxTGZibEZzTldKT1lJajFNWFhtT2hwX2ZpRUo2NkFYaV9zUUp3NmozaEJ1RDdpWTJNcHdrQjBSY1lkSWZhMXlLZjRJV3JlbUV3?oc=5)
-- **Point** · Regulatory: [Formula 1 News: IndyCar blunder leaves Herta one point short of Super License](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUVLQ291angwMUVnMGhIZXZxRElrRlBvLTA5UFdoYlhGNEFYM2VUdVQ2MVNYLXBkNkgwU1dWaVFISEtnU0tMdDRXZ2o1WEExUGpDVkMzWFNtVFk5aEUtVGJ0ckw0VDdxRjBaazN3V1RnUzBWeGQxcFpaVmlLbE95X3RWdTlhV3ZCZDZWQl82NTh1anlVdkdlXzc0NFV3RFBHRk15V1E4MTk2T2IybjRMSUR2SWY0UQ?oc=5)
-- **Point** · Company update: [New traffic fine laws coming to 151 municipalities in South Africa – including a demerit point system](https://news.google.com/rss/articles/CBMizwFBVV95cUxPVHBCQUt5czNTODZZWlhUWXFDM3VUZnZlRVhoaEszaFJ5bTgxbmZQellTdFY1Q0J2VUJFam0ySGFxdTljOXBWMl9nR004Zm9XazJEbjdiWFVGNUFHYlFrV2JFcmFPMW1ZMkFWUTMzMzltQ3kwSmF2S3NQOTJFWEdDWHUyeGFBbllrVWNXVnlidHdZZW55c0FaRXBKcDc0R1lEbWJPLVhrOTBLMEltZTBpc2lpdFZVcC1xRHRCT3lGY01YYUZzb3lEeUR4TnNvS3c?oc=5)
-- **Point** · Regulatory: [Why Herta's actually still one point off F1 superlicence](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUcyaWQwa3J0X29vOVk5amFnZ1kweGxFcUNCTVJqQlc0RW1iSGQyOEJNc2FKMVI0aVR2aXFsVklMMUNkQnFpdUZHbjV2bExjMHdhRFpvcWl0WElnMWxuUVZJazA0RTlrNEVpRmNKbmRGWHFjUEFWTGplXy15X3dQUUhPX3FTb19CQ2c5NDV2cXg2Zw?oc=5)
+- **Clio** · Company update: [Clio Announces Revamped Platform, Agentic AI Drafting, Additional AI Capabilities](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTkpIOGZSa0pRNWYwUU1KcFkwazNzQVRJeDRvbWN6aDVadHN2QncySVFGYW9yN29MSC1OOUFFX25XeC1jN2lfZ0dvRUE3dXpyUmZfaXkwTmdydWN1VkFvNU1ScnoyYTRkQzRKMlNiTGtxa1BrRUJrQzFHa2pDZDZaTUJrakV1S2kzbzlZUUpLd1ppN2tsWWtXOHprZ0cyVERtdEZ2SExwQmVYcllVNVBORHZGODJGemRZSThOX2Fudy0taG8?oc=5)
 
 ## Wealth / Wealth Infrastructure
 
 ### RIA / advisor / portfolio / alternatives infrastructure
 
-- **Vanilla** · Product release: [Bella Hadid Introduces Vanilla's Touch by Orebella](https://news.google.com/rss/articles/CBMidEFVX3lxTE1wYmR1cTVUNmd6SHFSRTEtQS1HVDcxMkJPLXdpb2hRZXNCeHo5dTE0WnptYi1hNlQ2X0h6UkNSbnNHWUpuTGJKbG5ncF9VMV91blNtalAxdThzMG55S0pkWEI4dW9PVWRQWEpkdFNnZU5UWkl5?oc=5)
+- **Arch** · Company update: [DC sues over proposed Monumental Arch as Mendelson questions approval process](https://news.google.com/rss/articles/CBMiwAJBVV95cUxQZmV2TjRfVUtwOWpBU0ZkOE5jaVpvTHZBSDhHamlUNkdpQWFtWkd3SElRbDNyeTliY3IyVVdDSTZBdnZSSkQtejEyNVhEaGkxMjllWkVPbDd3TjhqM1ROWFpuZWVrdEJpek5QWDBNRXRjemZOMGU3c0VwUGo0SDBXUUZycGZwNUE0ejd0UDdSN1JVZ25WTmhfQVlhYVFPUGpzNGl1MlZLNm1CTFBzQ2dGaGdiTWxDRjBRVUxKaWhlclJHdE9RS1hMTGYzSmozOHl1SWY0NElZYnZENkF5S19hVXpiYnJMUjAxQUcxSW9pcHRDQ3JZWEg4aFdWaWJYX3l6a2UxMjNlZ0lTcFRWUHZCS0VwNVVkNzhDLUpuNi1VNTlZclRvaFZQTUo3S3FZSXRmRmE4WDBrU3BsTF9yX3U5ZA?oc=5)
+- **Arch** · Company update: [DC, Virginia file lawsuit to stop Trump's 250-foot Triumphal Arch](https://news.google.com/rss/articles/CBMic0FVX3lxTE5lamNSQ09XTE9Ldzh6RDRzZXdESWhubHozOWxnbmJiRERJUlE0WWdxaFNlRmNvcVpfV2dxdnhSYUdkVUdySmw0d1NKd0dlOTdiaVlDUEk2NnN0djFrQ2R4b0FDSXB6RnhMZmFURG92Tk5KeUE?oc=5)
 
 ## WealthTech
 
 ### Digital wealth / advisor platforms
 
-- **Public** · Funding: [Hockenheim in talks with F1 despite “virtually zero” public funding](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmhFR2VOUDhoZWVxSE15dzh6X1BsZll5d2VuNm9jcHJRN3hySF94YWlCM0hzTUlXYjdVenZtUi04UDlDdmc0MWZLUXN0MmVQNWNmR3lPLTBDdklwWlpMU0daQk03T1VoTk5MbDhjTFFwZklRNWg4d1V2X3NkRmJGbGk1QmpqM3pybVBtbGJUZw?oc=5)
+- **Public** · Regulatory: [Homeland Security personnel info made public as breach investigated](https://news.google.com/rss/articles/CBMijgFBVV95cUxNYV96b3BlR2JlQy1pWjdueWNfeE5IN2ZBQVZMUmNtVDcxTTh0SXZFeEo5azY0TXE5TmZ6X1Fxc2lPdkhONFdrSEN0VXBUVDJVeWZ0TEtEOFdjT1pyOTAxTHJzNWh0Q2FXOVh2YUxWTDdqcDhhZ1ZnQUpfSHpiSGxmNXpnQ3hrMVlmYkYwaXNB?oc=5)
+- **Public** · Company update: [Student-loan borrowers in public service are trapped with debt that 'should be forgiven,' a new lawsuit says](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUpOVmVFVVBuTkhOT0RvUHlDV2hNWEFyRjNQZ1FVZlMwRk0tcVV5Y3Z0cHdWdDRkbXhDcHlLUGVzeEhlM3luSVJ1NldvQS1nU3ZTTGRmMHBRMXkya05OLVdXWkxNQmhTUnAxYU9XbzhQLXY3OHJFbG9GdDVmN21zbUJ2N3kxTWs0cDlzSzloYjlBOVhRZXBZYWpSWE1ET2E2aXhQQ1RKWXM0TUFGNk5oSA?oc=5)
